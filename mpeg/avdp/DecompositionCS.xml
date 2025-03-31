@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ##################################################################### 
+        Decomposition Classification Scheme
+	     
+	    The following Creative Commons Rights apply to the use of this EBU resource:
+	    http://creativecommons.org/licenses/by-sa/3.0/
+	     
+	    Owner: EBU Technical Department
+	    Author: ECM SCAIE
+	    Contact: evain@ebu.ch
+	     
+	 ##################################################################### -->
+<Mpeg7 xmlns="urn:mpeg:mpeg7:schema:2004" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >
+	<Description xsi:type="ClassificationSchemeDescriptionType">
+		<ClassificationScheme uri="http://www.ebu.ch/metadata/cs/mpeg/avdp/DecompositionCS" domain="//TemporalDecomposition/@criteria //SpatialDecomposition/@criteria //SpatiotemporalDecomposition/@criteria">
+		<Term termID="10">
+			<Name xml:lang="en">modalities</Name>
+			<Definition xml:lang="en">Decomposition of into segments representing the visual and audio modalities of the segment, or single streams of these modalities</Definition>
+		</Term>		
+		<Term termID="11">
+			<Name xml:lang="en">key elements</Name>
+			<Definition xml:lang="en">Temporal decomposition of a audiovisual segment into key elements representing it</Definition>
+		</Term>	
+		<Term termID="12">
+			<Name xml:lang="en">genericmsd</Name>
+			<Definition xml:lang="en">Generic decomposition of a audiovisual segment into segments representing modalities and/or key elements.</Definition>
+		</Term>	
+		
+		<Term termID="20">
+			<Name xml:lang="en">shots</Name>
+			<Definition xml:lang="en">Temporal decomposition of an audiovisual segment into shots (and gradual transitions)</Definition>
+		</Term>
+			
+		<Term termID="30">
+			<Name xml:lang="en">objects</Name>
+			<Definition xml:lang="en">Spatioemporal decomposition of a visual segment into objects in the scene</Definition>
+		</Term>		
+		<Term termID="31">
+			<Name xml:lang="en">faces</Name>
+			<Definition xml:lang="en">Spatioemporal decomposition of a visual segment into regions representing faces</Definition>
+		</Term>	
+		<Term termID="32">
+			<Name xml:lang="en">persons</Name>
+			<Definition xml:lang="en">Spatioemporal decomposition of a visual segment into regions representing persons</Definition>
+		</Term>			
+		
+		<Term termID="40">
+			<Name xml:lang="en">audio segments</Name>
+			<Definition xml:lang="en">Temporal decomposition of an audio segment into audio segments</Definition>
+			<Term termID="40.1">
+				<Name xml:lang="en">speech</Name>
+				<Definition xml:lang="en">Temporal decomposition of an audio segment into speech segments</Definition>
+				<Term termID="40.1.1">
+					<Name xml:lang="en">sentences</Name>
+					<Definition xml:lang="en">Temporal decomposition of an audio segment into spoken sentences</Definition>
+				</Term>	
+				<Term termID="40.1.2">
+					<Name xml:lang="en">words</Name>
+					<Definition xml:lang="en">Temporal decomposition of an audio segment into spoken words</Definition>
+				</Term>			
+			</Term>	
+		</Term>
+
+		<Term termID="50">
+			<Name xml:lang="en">scenes</Name>
+			<Definition xml:lang="en">Temporal decomposition of an audiovisual segment into scenes and/or stories</Definition>
+		</Term>			
+
+		<Term termID="60">
+			<Name xml:lang="en">copies</Name>
+			<Definition xml:lang="en">Temporal decomposition of an audiovisual segment into segments representing copies or repeated clips</Definition>
+		</Term>	
+		
+		</ClassificationScheme>
+	</Description>
+</Mpeg7>
