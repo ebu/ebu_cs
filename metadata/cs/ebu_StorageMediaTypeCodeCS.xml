@@ -1,0 +1,2281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:StorageMediaCodeCS" versionDate="2013-07-16">
+
+   <!-- ##################################################################### 
+       STORAGE  MEDIA CODE                                                           
+       Definition: EBU's extension to EBU's IBTN codes
+       
+       The following Creative Commons Rights apply to the use of this EBU resource:
+       http://creativecommons.org/licenses/by-sa/3.0/
+       
+       Owner: EBU Technical Department
+       Author: Jean-Pierre Evain
+       Contact: metadata@ebu.ch
+       
+       ##################################################################### -->
+
+   <Alias>EBUStorageMediaCode</Alias>
+
+   <Link>
+      <URL>http://mediapedia.nla.gov.au/recordlist.php</URL>
+      <LinkName>Mediapedia</LinkName>
+   </Link>
+
+
+   <Term termID="16T">
+      <Name xml:lang="en">16 mm SEPMAG analogue audio film</Name>
+      <Definition xml:lang="en">16mm cine film with separately recorded sound, widely used in the
+         early days of television</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+   <Term termID="17T">
+      <Name xml:lang="en">17.5 mm SEPMAG analogue audio film</Name>
+      <Definition>17.5mm cine film with separately recorded sound, widely used in the early days of
+         television</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+   <Term termID="1BL">
+      <Name xml:lang="en">25.4 mm (1 inch) B-format analogue television tape, Large reel</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="1BM">
+      <Name xml:lang="en">25.4 mm (1 inch) B-format analogue television tape, Medium reel</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="1BS">
+      <Name xml:lang="en">25.4 mm (1 inch) B-format analogue television tape, Small reel</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="1CG">
+      <Name xml:lang="en">25.4mm (1") C-format analogue Television Tape, G-Spool</Name>
+      <Definition xml:lang="en">One inch videotape in the C format Contained on a G
+         spool</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="1CL">
+      <Name xml:lang="en">25.4 mm (1 inch) C-format analogue television tape, Large reel</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="1CM">
+      <Name xml:lang="en">25.4 mm (1 inch) C-format analogue television tape, Medium reel</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="1CS">
+      <Name xml:lang="en">25.4 mm (1 inch) C-format analogue television tape, Small reel</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="2QL">
+      <Name xml:lang="en">50.8 mm Transverse Track (Quad) format analogue television tape, Large
+         reel</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="2QM">
+      <Name xml:lang="en">50.8 mm Transverse Track (Quad) format analogue television tape, Medium
+         reel</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="2QS">
+      <Name xml:lang="en">50.8 mm Transverse Track (Quad) format analogue television tape, Small
+         reel</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="33L">
+      <Name xml:lang="en">33 rpm LP phonogram analogue audio disk</Name>
+      <Definition xml:lang="en">33 RPM Vynil record</Definition>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="35T">
+      <Name xml:lang="en">35 mm SEPMAG analogue audio film</Name>
+      <Definition>35mm cine film with separately recorded sound, widely used in the early days of
+         television</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="45D">
+      <Name xml:lang="en">45 rpm phonogram analogue audio disk</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="78D">
+      <Name xml:lang="en">78 rpm phonogram analogue audio disk</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="A01">
+      <Name xml:lang="en">6.3 mm (1/4 inch) analogue audio tape, Full track</Name>
+      <Definition>Quarter inch open reel magnetic tape bearing a single full height
+         track</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="A02">
+      <Name xml:lang="en">6.3 mm (1/4 inch) analogue audio tape, 2 channel</Name>
+      <Definition>Quarter inch open reel magnetic tape bearing one or two half height
+         tracks</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="A04">
+      <Name xml:lang="en">6.3 mm (1/4 inch) track half width analogue audio tape, Stereo</Name>
+      <Definition>Quarter inch open reel magnetic tape bearing two half height tracks (eg intended
+         for use as a pair)</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="A08">
+      <Name xml:lang="en">12.5 mm (1/2") analogue audio tape, 8 channel</Name>
+      <Definition>Analogue audio tape with 8 tracks</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="A16">
+      <Name xml:lang="en">25.4 mm (1 inch) analogue audio tape, 16 channel</Name>
+      <Definition>Analogue audio tape with 16 tracks</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="A24">
+      <Name xml:lang="en">24 Track Analogue Audio Tape</Name>
+      <Definition xml:lang="en">Analogue audio tape with 24 tracks</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="A32">
+      <Name xml:lang="en">25.4 mm (1 inch) analogue audio tape, 32 channel</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="A48">
+      <Name xml:lang="en">48 Track Analogue Audio Tape</Name>
+      <Definition>Analogue audio tape with 48 tracks</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="AI1">
+      <Name xml:lang="en">AIT-1</Name>
+      <Definition>AIT (Advanced Intelligent Tape) digital data tape, 25GB capacity</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="AI2">
+      <Name xml:lang="en">AIT-2</Name>
+      <Definition>AIT (Advanced Intelligent Tape) digital data tape, 50GB capacity</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="AI3">
+      <Name xml:lang="en">AIT-3</Name>
+      <Definition>AIT (Advanced Intelligent Tape) digital data tape, 36GB capacity</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="AIX">
+      <Name xml:lang="en">AIT-1 Extended Length</Name>
+      <Definition>AIT (Advanced Intelligent Tape) digital data tape, Extended length, 35GB
+         capacity</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="AS2">
+      <Name xml:lang="en">6.3 mm (1/4 inch) analogue audio tape, 2 channel stereo</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="AT2">
+      <Name xml:lang="en">6.3 mm (1/4 inch) analogue audio tape, 2 channel stereo and TC</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="BDL">
+      <Name xml:lang="en">Digital Betacam format digital television tape, Large cassette</Name>
+      <Definition>This is the half inch tape cartridge used for recording/playback with digtal
+         Betacam DVTRs. This is the large size cassette with metal tape. Compressed component
+         SDTV.</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="BDS">
+      <Name xml:lang="en">Digital Betacam format digital television tape, Small cassette</Name>
+      <Definition>This is the half inch tape cartridge used for recording/playback with digtal
+         Betacam DVTRs. This is the small size cassette with metal tape. Compressed component
+         SDTV.</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="BML">
+      <Name xml:lang="en">Betacam SP (Metal) format analogue television tape, Large cassette</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="BMS">
+      <Name xml:lang="en">Betacam SP (Metal) format analogue television tape, Small cassette</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="BMX">
+      <Name xml:lang="en">Betamax format analogue television tape, cassette</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="BOL">
+      <Name xml:lang="en">Betacam (Oxide) format analogue television tape, Large cassette</Name>
+      <Definition>This is the half inch tape cartridge used for recording/playback with Betacam
+         VTRs. This is the large size cassette with oxide tape</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="BOS">
+      <Name xml:lang="en">Betacam (Oxide) format analogue television tape, Small cassette</Name>
+      <Definition>This is the half inch tape cartridge used for recording/playback with Betacam
+         VTRs. This is the small size cassette with oxide tape</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="CAS">
+      <Name xml:lang="en">24 Track Audio Cassette</Name>
+      <Definition>Audio cassette tape with 24 tracks</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="CCA">
+      <Name xml:lang="en">Compact Cassette format analogue audio tape, cassette</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="CDA">
+      <Name xml:lang="en">Compact Disk Audio digital audio disk</Name>
+      <Definition>This is a compact disk where audio is stored, and may be playedback using an
+         optical drive cd player</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="CDD">
+      <Name xml:lang="en">CD-ROM digital data disk</Name>
+      <Definition>This is a compact disk where data are stored with CD-ROM technology, that is a
+         format and system for recording, storing, and retrieving electronic information on a
+         compact disk that is read using an optical drive. This is used for audio and video (inc.
+         VCD and SVCD)</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="CDI">
+      <Name xml:lang="en">CD-i interactive multimedia digital data disk</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="CDP">
+      <Name xml:lang="en">CD-Photo</Name>
+      <Definition>CD digital data disk formatted to receive photos</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="CDR">
+      <Name xml:lang="en">Recordable CD digital data disk</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="D1L">
+      <Name xml:lang="en">D1 format digital television tape, Large cassette</Name>
+      <Definition>This is the 19mm tape cartridge used for recording/playback with D1 DVTRs. This is
+         the large size cassette</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="D1S">
+      <Name xml:lang="en">D1 format digital television tape, Small cassette</Name>
+      <Definition>This is the 19mm tape cartridge used for recording/playback with D1 DVTRs. This is
+         the small size cassette</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="D24">
+      <Name xml:lang="en">25.4 mm (1 inch) DASH format digital audio tape, 24 track</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="D2L">
+      <Name xml:lang="en">D2 format digital television tape, Large cassette</Name>
+      <Definition>This is the 19mm tape cartridge used for recording/playback with D2 DVTRs. This is
+         the large size cassette, Uncompressed composite SDTV</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="D2M">
+      <Name xml:lang="en">D2 format digital television tape, Medium cassette</Name>
+      <Definition>This is the 19mm tape cartridge used for recording/playback with D2 DVTRs. This is
+         the medium size cassette, Uncompressed composite SDTV</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="D2S">
+      <Name xml:lang="en">D2 format digital television tape, Small cassette</Name>
+      <Definition>This is the 19mm tape cartridge used for recording/playback with D2 DVTRs. This is
+         the small size cassette, Uncompressed composite SDTV</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="D32">
+      <Name xml:lang="en">25.4 mm (1 inch) PD format digital audio tape, 32 channel</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="D3L">
+      <Name xml:lang="en">D3 format digital television tape, Large cassette</Name>
+      <Definition>This is the half inch tape cartridge used for recording/playback with D3 DVTRs.
+         This is the large size cassette. Uncompressed composite SDTV</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="D3M">
+      <Name xml:lang="en">D3 format digital television tape, Medium cassette</Name>
+      <Definition>This is the half inch tape cartridge used for recording/playback with D3 DVTRs.
+         This is the medium size cassette. Uncompressed composite SDTV</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="D3S">
+      <Name xml:lang="en">D3 format digital television tape, Small cassette</Name>
+      <Definition>This is the half inch tape cartridge used for recording/playback with D3 DVTRs.
+         This is the small size cassette. Uncompressed composite SDTV</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="D48">
+      <Name xml:lang="en">25.4 mm (1 inch) DASH format digital audio tape, 48 track</Name>
+      <Definition xml:lang="en">Digital audio tape with 48 tracks</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="D5L">
+      <Name xml:lang="en">D5 format digital television tape, Large cassette</Name>
+      <Definition>This is the half inch tape cartridge used for recording/playback with D5 DVTRs.
+         This is the large size cassette. Compressed component HDTV or compressed composite
+         SDTV</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="D5M">
+      <Name xml:lang="en">D5 format digital television tape, Medium cassette</Name>
+      <Definition>This is the half inch tape cartridge used for recording/playback with D5 DVTRs.
+         This is the medium size cassette. Compressed component HDTV or compressed composite
+         SDTV</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="D5S">
+      <Name xml:lang="en">D5 format digital television tape, Small cassette</Name>
+      <Definition>This is the half inch tape cartridge used for recording/playback with D5 DVTRs.
+         This is the small size cassette. Compressed component HDTV or compressed composite
+         SDTV</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="D5H">
+      <Name xml:lang="en">D5 format HDTV digital television tape</Name>
+      <Definition>Publication stored on HD-D5 (uncompressed composite HDTV) tape</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="D6L">
+      <Name xml:lang="en">D6 format HDTV digital television tape, Large cassette</Name>
+      <Definition>This is the 19mm tape cartridge used for recording/playback with D6 DVTRs. This is
+         the large size cassette. Uncompressed composite HDTV</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="D7L">
+      <Name xml:lang="en">D7 (DVCPRO 25) format digital television tape, Large cassette</Name>
+      <Definition>This is the 1/4 inch tape cartridge used for recording/playback with D7 DVTRs
+         (DVCPRO 25, DVCPRO 50). This is the large size cassette. Compressed component SDTV, DV
+         based</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="D7M">
+      <Name xml:lang="en">D7 (DVCPRO 25) format digital television tape, Medium cassette</Name>
+      <Definition>This is the 1/4 inch tape cartridge used for recording/playback with D7 DVTRs
+         (DVCPRO 25, DVCPRO 50). This is the medium size cassette. Compressed component SDTV, DV
+         based</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="D7S">
+      <Name xml:lang="en">D7 (DVCPRO 25) format digital television tape, Small cassette</Name>
+      <Definition>This is the 1/4 inch tape cartridge used for recording/playback with D7 DVTRs
+         (DVCPRO 25, DVCPRO 50). This is the small size cassette. Compressed component SDTV, DV
+         based</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="D9">
+      <Name xml:lang="en">D9</Name>
+      <Definition xml:lang="en">This is the half inch tape cartridge used for recording/playback
+         with D9 DVTRs (Digital-S). This is the normal size cassette. Compressed component SDTV,
+         DV-based, Digital S</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="DA2">
+      <Name xml:lang="en">DAT format digital audio tape, 2 channel</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="DAT">
+      <Name xml:lang="en">DAT format digital audio tape, Stereo</Name>
+      <Definition>DAT (Digital Audio Tape) is a standard medium and technology for the digital
+         recording of audio on tape at a professional level of quality. This is the 4mm tape
+         recorded with DAT Format</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="DCC">
+      <Name xml:lang="en">DCC format digital audio tape</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="DCL">
+      <Name xml:lang="en">DCT format digital television tape, Large cassette</Name>
+      <Definition>Digital audio cartridges used for audio playout on radio. Large size</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="DCM">
+      <Name xml:lang="en">DCT format digital television tape, Medium cassette</Name>
+      <Definition>Digital audio cartridges used for audio playout on radio. Medium size</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="DCS">
+      <Name xml:lang="en">DCT format digital television tape, Small cassette</Name>
+      <Definition>Digital audio cartridges used for audio playout on radio. Small size</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="DD2">
+      <Name xml:lang="en">6.3 mm (1/4 inch) DASH format digital audio tape, 2 channel</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="DL3">
+      <Name xml:lang="en">DTL-III format digital data tape, cassette</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="DL4">
+      <Name xml:lang="en">DTL-IV format digital data tape, cassette</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="DLX">
+      <Name xml:lang="en">DTL-III extended format digital data tape, cassette</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="DP2">
+      <Name xml:lang="en">6.3 mm (1/4 inch) PD format digital audio tape, 2 channel</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="DS1">
+      <Name xml:lang="en">DDS-1 (Digital Data Storage) format digital data tape, 2 GB on 120 m
+         cassette</Name>
+      <Definition>This is a DAT 4mm tape recorded with DDS (Digital Data Storage) format, where data
+         are stored at a density up to 2GB in a 120 minutes tape</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="DS2">
+      <Name xml:lang="en">DDS-2 (Digital Data Storage) format digital data tape, 8 GB on 120 m
+         cassette</Name>
+      <Definition>This is a DAT 4mm tape recorded with DDS (Digital Data Storage) format, where data
+         are stored at a density up to 8GB in a 120 minutes tape</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="DS3">
+      <Name xml:lang="en">DDS-3 (Digital Data Storage) format digital data tape, 24 GB on 125 m
+         cassette</Name>
+      <Definition>This is a DAT 4mm tape recorded with DDS (Digital Data Storage) format, where data
+         are stored at a density up to 24GB in a 125 minutes tape</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="DS4">
+      <Name xml:lang="en">DDS-4 (Digital Data Storage) format digital data tape, 40 GB on 155 m
+         cassette</Name>
+      <Definition>This is a DAT 4mm tape recorded with DDS (Digital Data Storage) format, where data
+         are stored at a density of 40GB in a 125 minutes tape</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="DSC">
+      <Name xml:lang="en">Digital-S format digital television tape, Compact cassette</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="DSS">
+      <Name xml:lang="en">Digital-S format digital television tape, Standard cassette</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="D8">
+      <Name xml:lang="en">Digital-8 format digital television tape, Standard cassette</Name>
+      <Definition/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="DVC">
+      <Name xml:lang="en">DVCAM format digital television tape</Name>
+      <Definition>Compressed component SDTV, ISO/IEC DIF compliant</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="DVM">
+      <Name xml:lang="en">DV format digital television tape, Mini cassette</Name>
+      <Definition>This is the 1/4 inch tape cartridge used for recording/playback with DV DVTRs.
+         This is the mini size cassette</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="DVN">
+      <Name xml:lang="en">DV format digital television tape, Normal cassette</Name>
+      <Definition>This is the 1/4 inch tape cartridge used for recording/playback with DV DVTRs.
+         This is the normal size cassette</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="DVH">
+      <Name xml:lang="en">HDV format HDTV digital television tape</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="F8">
+      <Name xml:lang="en">8 mm Film</Name>
+      <Definition xml:lang="en">Standard 8 mm film</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="F16">
+      <Name xml:lang="en">16 mm picture analogue television film reel</Name>
+      <Definition>An enhanced version of 16mm cine film</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="F35">
+      <Name xml:lang="en">35 mm picture analogue television film reel</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="F70">
+      <Name xml:lang="en">70 mm Film</Name>
+      <Definition xml:lang="en">Standard 70mm film</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="FD3">
+      <Name xml:lang="en">3.5 inch diskette digital data disk reel</Name>
+      <Definition>A random access, removable data storage medium that can be used with personal
+         computers. This is a magnetic medium housed in a rigid plastic cartridge measuring 35
+         inches square and about 3 millimetres thick Also called a 35-inch diskette, it can store up
+         to 144 megabytes (MB) of data</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="FD5">
+      <Name xml:lang="en">5.25 inch diskette digital data disk reel</Name>
+      <Definition>A random access, removable data storage medium that can be used with some older
+         personal computers. This is a magnetic medium housed in a semi-rigid plastic sleeve
+         measuring 5.25 inches square and about 2 millimetres thick Also called a five and a quarter
+         inch diskette</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="FD8">
+      <Name xml:lang="en">8 inch diskette digital data disk</Name>
+      <Definition>A random access, removable data storage medium that can be used with some older
+         personal computers and file servers. This is a magnetic medium housed in a semi-rigid
+         plastic sleeve measuring 8 inches square and about 2 millimetres thick Also called an eight
+         inch diskette</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="FSV">
+      <Name xml:lang="en">File server digital data disk</Name>
+      <Definition>Storage is a complex, not removable, system, giving access to files</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="HCL">
+      <Name xml:lang="en">HDCAM format digital television tape, Large cassette</Name>
+      <Definition>Compressed component SDTV, ISO/IEC DIF compliant</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="HCS">
+      <Name xml:lang="en">HDCAM format digital television tape, Small cassette</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="HDF">
+      <Name xml:lang="en">Removable Firewire (IEEE1394) hard disk drives (capacity in Gbyte may be
+         appended)</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="HDS">
+      <Name xml:lang="en">Removable SCSI hard disk drives (capacity in Gbyte may be appended)</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="HDU">
+      <Name xml:lang="en">Removable USB2 hard disk drives (capacity in Gbyte may be appended)</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="HSL">
+      <Name xml:lang="en">HDCAM SR format digital television tape, Large cassette</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="HSS">
+      <Name xml:lang="en">HDCAM SR format digital television tape, Small cassette</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="H8A">
+      <Name xml:lang="en">Hi-8 format 8 channel digital audio tape, cassette</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="HI8">
+      <Name xml:lang="en">Hi-8 format analogue television tape, cassette</Name>
+      <Definition> high quality variant on 8mm video tape</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="IML">
+      <Name xml:lang="en">D10 (IMX MPEG) format digital television tape, Large cassette</Name>
+      <Definition>This is the half inch tape cartridge used for recording/playback with Betacam IMX
+         DVTRs This is the large size cassette. Compressed component SDTV, MPEG-2 4:2:2
+         profile</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="IMS">
+      <Name xml:lang="en">D10 (IMX MPEG) format digital television tape, Small cassette</Name>
+      <Definition>This is the half inch tape cartridge used for recording/playback with Betacam IMX
+         DVTRs This is the small size cassette. Compressed component SDTV, MPEG-2 4:2:2
+         profile</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="JZD">
+      <Name xml:lang="en">JAZ format digital data disk</Name>
+      <Definition>A disk for the Iomega Jaz drive</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="LAQ">
+      <Name xml:lang="en">Lacquer phonograph analogue audio disk</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="LTA">
+      <Name xml:lang="en">LTO (Linear Open) Accelis (8mm) digital data tape, cassette</Name>
+      <Definition>LTO (Linear Tape Open) standard backup tape system using 8mm-wide tape on a
+         two-reel cartridge that loads at the mid-point of the tape to provide fast data
+         access</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="LTU">
+      <Name xml:lang="en">LTO (Linear Open) Ultrium (1/2") digital data tape, cassette</Name>
+      <Definition>LTO (Linear Tape Open) standard backup tape system using a single reel of
+         half-inch wide tape to maximize storage capacity</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="M06">
+      <Name xml:lang="en">MO disk digital data disk 600 MBytes capacity</Name>
+      <Definition>The magneto-optical (MO) diskette/disk is read/written by an MO device that
+         employs both magnetic and optical technologies to obtain ultra-high data density. A typical
+         MO cartridge is slightly larger than a conventional 35-inch magnetic diskette, and looks
+         similar</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="M12">
+      <Name xml:lang="en">MO disk digital data disk 1 200 MBytes capacity</Name>
+      <Definition>The magneto-optical (MO) diskette/disk is read/written by an MO device that
+         employs both magnetic and optical technologies to obtain ultra-high data density. A typical
+         MO cartridge is slightly larger than a conventional 35-inch magnetic diskette, and looks
+         similar</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="M13">
+      <Name xml:lang="en">MO disk digital data disk 1 300 MBytes capacity</Name>
+      <Definition>The magneto-optical (MO) diskette/disk is read/written by an MO device that
+         employs both magnetic and optical technologies to obtain ultra-high data density. A typical
+         MO cartridge is slightly larger than a conventional 35-inch magnetic diskette, and looks
+         similar</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="M2L">
+      <Name xml:lang="en">MII format analogue television tape, Large cassette</Name>
+      <Definition>Video tape using proprietary MII format. Large size</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="M2S">
+      <Name xml:lang="en">MII format analogue television tape, Small cassette</Name>
+      <Definition>Video tape using proprietary MII format. Small size</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="MAK">
+      <Name xml:lang="en">Akai</Name>
+      <Definition xml:lang="en">Quarter inch video tape using proprietary format</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="MDA">
+      <Name xml:lang="en">MD (Mini-Disk) digital audio disk</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="NAB">
+      <Name xml:lang="en">NAB cartridge analogue audio tape</Name>
+      <Definition>NAB format audio cartridges used for audio playout on radio</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="P2F">
+      <Name xml:lang="en">P2 format solid state flash memory card, CardBus interface (capacity in
+         Gbyte may be appended)</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="S16">
+      <Name xml:lang="en">Super 16 mm picture analogue television film -</Name>
+      <Definition>This is the tape cartridge used for recording/playback with SVHS VTRs This is the
+         compact size cassette</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="SRL ">
+      <Name xml:lang="en">HDCam SR format digital television tape, Large cassette</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="SRS ">
+      <Name xml:lang="en">HDCam SR format digital television tape, Small cassette</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="SSM">
+      <Name xml:lang="en">Solid state memory storage cards, USB keys etc. (capacity in Mbyte may be
+         appended)</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="SSM1">
+         <Name xml:lang="en">PCMCIA Memory Card Type I</Name>
+         <Definition xml:lang="en">A removable memory card which can be inserted into a PCMCIA slot
+            of a computer for saving and transfering files Type I is 33 mm thick</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="SSM2">
+         <Name xml:lang="en">PCMCIA Memory Card Type II</Name>
+         <Definition xml:lang="en">A removable memory card which can be inserted into a PCMCIA slot
+            of a computer for saving and transfering files Type II is 50 mm thick</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="SSM3">
+         <Name xml:lang="en">PCMCIA Memory Card Type III</Name>
+         <Definition xml:lang="en">A removable memory card which can be inserted into a PCMCIA slot
+            of a computer for saving and transfering files Type I is 105 mm thick</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="SSM4">
+         <Name xml:lang="en">USB Memory</Name>
+         <Definition xml:lang="en">A removable memory stick which can be inserted into a USB port of
+            a computer for saving and transfering files</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="SSM5">
+         <Name xml:lang="en">Compact Flash</Name>
+         <Definition xml:lang="en"/>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="SSM6">
+         <Name xml:lang="en">Memory Stick</Name>
+         <Definition xml:lang="en"/>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="SSM7">
+         <Name xml:lang="en">SD Memory Card</Name>
+         <Definition xml:lang="en"/>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="SSM8">
+         <Name xml:lang="en">Smart Media</Name>
+         <Definition xml:lang="en"/>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+   </Term>
+
+
+   <Term termID="SVA">
+      <Name xml:lang="en">A-DAT 8 channel digital audio tape</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="SVC">
+      <Name xml:lang="en">S-VHS format analogue television tape, Compact cassette</Name>
+      <Definition>This is the tape cartridge used for recording/playback with SVHS VTRs This is the
+         normal size cassette</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="SVS">
+      <Name xml:lang="en">S-VHS format analogue television tape, Standard cassette</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="SXL">
+      <Name xml:lang="en">Betacam SX format digital television tape, Large cassette</Name>
+      <Definition>This is the half inch tape cartridge used for recording/playback with Betacam SX
+         DVTRs This is the large size cassette. Compressed component SDTV MPEG-2 422
+         profile</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="SXM">
+      <Name xml:lang="en">Betacam SX format digital television tape, Medium cassette</Name>
+      <Definition>This is the half inch tape cartridge used for recording/playback with Betacam SX
+         DVTRs This is the medium size cassette. Compressed component SDTV MPEG-2 422
+         profile</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="SXS">
+      <Name xml:lang="en">Betacam SX format digital television tape, Small cassette</Name>
+      <Definition>This is the half inch tape cartridge used for recording/playback with Betacam SX
+         DVTRs This is the small size cassette. Compressed component SDTV MPEG-2 422
+         profile</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="UMS">
+      <Name xml:lang="en">U-matic format analogue television tape, Small cassette</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="USP">
+      <Name xml:lang="en">U-matic SP format analogue television tape, Small cassette</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="V00">
+      <Name xml:lang="en">Video 2000 format analogue television tape</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="V5L">
+      <Name xml:lang="en">DVCPRO 50 format digital television tape, Large cassette</Name>
+      <Definition>Compressed component SDTV, DV-based. Large cassette</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="V5M">
+      <Name xml:lang="en">DVCPRO 50 format digital television tape, Medium cassette</Name>
+      <Definition>Compressed component SDTV, DV-based. Medium cassette</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="V5S">
+      <Name xml:lang="en">DVCPRO 50 format digital television tape, Small cassette</Name>
+      <Definition>Compressed component SDTV, DV-based. Small cassette</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="VHL">
+      <Name xml:lang="en">DVCPRO-HD format digital television tape, Large cassette</Name>
+      <Definition>Compressed component HDTV, DV-based.</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="VHX">
+      <Name xml:lang="en">DVCPRO-HD format digital television tape, Extra Large cassette</Name>
+      <Definition>Compressed component HDTV, DV-based.</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="VCR">
+      <Name xml:lang="en">VCR format analogue television tape</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="VD0">
+      <Name xml:lang="en">DVD (Digital Versatile Disk) digital television disk Single sided, single
+         layer, 12 cm dia.</Name>
+      <Definition>Digital versatile disk: A high density development of the compact disk It is the
+         same size as a CD but stores from 4.38 GB (seven times CD capacity) on a single sided,
+         single layer disk DVDs can also be double sided or dual layer-storing even more data This
+         is 4.7 GB , 1 side, 1 layer</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="VD1">
+      <Name xml:lang="en">DVD (Digital Versatile Disk) digital television disk Single sided, double
+         layer, 12 cm dia.</Name>
+      <Definition>Digital versatile disk: A high density development of the compact disk It is the
+         same size as a CD but stores from 4.38 GB (seven times CD capacity) on a single sided,
+         single layer disk DVDs can also be double sided or dual layer-storing even more data This
+         is 8.5 GB , 1 side, 2 layers</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="VD2">
+      <Name xml:lang="en">DVD (Digital Versatile Disk) digital television disk Double sided, single
+         layer, 12 cm dia.</Name>
+      <Definition>Digital versatile disk: A high density development of the compact disk It is the
+         same size as a CD but stores from 4.38 GB (seven times CD capacity) on a single sided,
+         single layer disk DVDs can also be double sided or dual layer-storing even more data This
+         is 9.4 GB , 2 sides, 1 layer</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="VD4">
+      <Name xml:lang="en">DVD (Digital Versatile Disk) digital television disk Double sided, double
+         layer, 12 cm dia.</Name>
+      <Definition>Digital versatile disk: A high density development of the compact disk It is the
+         same size as a CD but stores from 4.38 GB (seven times CD capacity) on a single sided,
+         single layer disk DVDs can also be double sided or dual layer-storing even more data This
+         is 17 GB , 2 sides, 2 layers</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="VD5">
+      <Name xml:lang="en">DVD-R recordable optical disk single sided, single layer, 12 cm
+         dia.</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="VD6">
+      <Name xml:lang="en">DVD-R recordable optical disk single sided, double layer, 12 cm
+         dia.</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="VD7">
+      <Name xml:lang="en">DVD+R recordable optical disk single sided, single layer, 12 cm
+         dia.</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="VD8">
+      <Name xml:lang="en">DVD+R recordable optical disk single sided, double layer, 12 cm
+         dia.</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="VD9">
+      <Name xml:lang="en">DVD+RW rewritable optical disk single sided, single layer, 12 cm
+         dia.</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="VD10">
+      <Name xml:lang="en">DVD-RW rewritable optical disk single sided, single layer, 12 cm
+         dia.</Name>
+      <Definition/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="VD11">
+      <Name xml:lang="en">DVD-Audio</Name>
+      <Definition>A special DVD format to store and replay audio tracks</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="VHC">
+      <Name xml:lang="en">VHS format analogue television tape, Compact cassette</Name>
+      <Definition>This is the tape cartridge used for recording/playback with VHS VTRs. This is the
+         compact size cassette</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="VHS">
+      <Name xml:lang="en">VHS format analogue television tape, Standard cassette</Name>
+      <Definition>This is the tape cartridge used for recording/playback with VHS VTRs. This is the
+         normal size cassette</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="VI8">
+      <Name xml:lang="en">Video 8 format analogue television tape</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="VLD">
+      <Name xml:lang="en">Video Laser Disk format analogue television disk cassette</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="WAX">
+      <Name xml:lang="en">Wax cylinder phonogram analogue audio disk</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="XBM">
+      <Name xml:lang="en">Exabyte mammoth format digital data tape</Name>
+      <Definition>This is the tape for Exabyte Mammoth technology, with a native capacity of
+         20GB</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="XDC">
+      <Name xml:lang="en">XDCAM rewritable optical disk 23 Gbyte capacity</Name>
+      <Definition/>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="ZIP">
+      <Name xml:lang="en">Zip digital data disk</Name>
+      <Definition>A disk for an Iomega Zip drive</Definition>
+      <Reference>EBU TechDoc 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="ZZZ">
+      <Name xml:lang="en">Other physical storage media types</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="ZZZ1">
+         <Name xml:lang="en">Binder</Name>
+         <Definition xml:lang="en">Storage format for text</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="ZZZ2">
+         <Name xml:lang="en">Book</Name>
+         <Definition xml:lang="en">Storage format for text</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="ZZZ3">
+         <Name xml:lang="en">Manuscript</Name>
+         <Definition xml:lang="en">Storage format for text</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="ZZZ4">
+         <Name xml:lang="en">Newspaper</Name>
+         <Definition xml:lang="en">Storage format for text</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="ZZZ5">
+         <Name xml:lang="en">Paper</Name>
+         <Definition xml:lang="en">Storage format for text</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="ZZZ6">
+         <Name xml:lang="en">Periodical</Name>
+         <Definition xml:lang="en">Storage format for text</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="ZZZ7">
+         <Name xml:lang="en">Print-out</Name>
+         <Definition xml:lang="en">Storage format for text</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="ZZZ8">
+         <Name xml:lang="en">Photograph</Name>
+         <Definition xml:lang="en">Image</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="ZZZ9">
+         <Name xml:lang="en">Picture</Name>
+         <Definition xml:lang="en">Image</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="ZZZ10">
+         <Name xml:lang="en">Postcard</Name>
+         <Definition xml:lang="en">Image</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="ZZZ11">
+         <Name xml:lang="en">Poster</Name>
+         <Definition xml:lang="en">Image</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="ZZZ12">
+         <Name xml:lang="en">Slide</Name>
+         <Definition xml:lang="en">Image</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="ZZZ13">
+         <Name xml:lang="en">Stereograph</Name>
+         <Definition xml:lang="en">Image</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="ZZZ14">
+         <Name xml:lang="en">Technical Drawing</Name>
+         <Definition xml:lang="en">Image</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="ZZZ15">
+         <Name xml:lang="en">Study print</Name>
+         <Definition xml:lang="en">Image</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="ZZZ16">
+         <Name xml:lang="en">Transparency</Name>
+         <Definition xml:lang="en">Image</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="ZZZ17">
+         <Name xml:lang="en">Wall chart</Name>
+         <Definition xml:lang="en">Image</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+   </Term>
+
+
+
+</ClassificationScheme>

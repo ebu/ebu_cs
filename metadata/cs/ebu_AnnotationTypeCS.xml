@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:AnnotationTypeCS" versionDate="2019-03-18">
+   <!-- ##################################################################### 
+    ANNOTATION TYPE CS
+    Specifies several types of annoations, which typically are assigned to a scene.
+    
+    The following Creative Commons Rights apply to the use of 
+    this EBU resource:   http://creativecommons.org/licenses/by-nc-sa/3.0/   
+      
+    Owner: EBU Technical Department   
+    Contact: metadata@ebu.ch      
+    ##################################################################### -->
+   <Alias>DwerftAnnotationType</Alias>
+
+   <Term termID="1">
+      <Name xml:lang="en">VisualContent</Name>
+      <Definition xml:lang="en">This annotation specifies visual content.</Definition>
+      <Reference>Dwerft</Reference>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="2">
+      <Name xml:lang="en">AudioContent</Name>
+      <Definition xml:lang="en">This annotation specifies audio content.</Definition>
+      <Reference>Dwerft</Reference>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="2.1">
+         <Name xml:lang="en">Original Tone</Name>
+         <Definition xml:lang="en">This annotation specifies the original tone.</Definition>
+         <Reference>Dwerft</Reference>
+         <ChangeComment>First version within the Dwerft project</ChangeComment>
+         <ChangeVersionDate>2019</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+   </Term>
+   <Term termID="3">
+      <Name xml:lang="en">DataContent</Name>
+      <Definition xml:lang="en">This annotation specifies data assigned to it.</Definition>
+      <Reference>Dwerft</Reference>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+</ClassificationScheme>

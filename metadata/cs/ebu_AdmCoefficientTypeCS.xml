@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:AdmCoefficientType" versionDate="2019-09-02">
+  <!-- ##################################################################### 
+    ADM COEFFICIENT TYPE CS
+    Definies the Coefficient type of a value.
+    
+    The following Creative Commons Rights apply to the use of 
+    this EBU resource:   http://creativecommons.org/licenses/by-nc-sa/3.0/   
+      
+    Owner: EBU Technical Department   
+    Contact: metadata@ebu.ch      
+    ##################################################################### -->
+  <Alias/>
+  <Term termID="1">
+    <Name xml:lang="en">gain</Name>
+    <Definition xml:lang="en">Multiplication factor of another channel. Constant value. As a Ratio.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="2">
+    <Name xml:lang="en">gainVar</Name>
+    <Definition xml:lang="en">Multiplication factor of another channel. Variable. As a Ratio.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="3">
+    <Name xml:lang="en">phase</Name>
+    <Definition xml:lang="en">Phase shift of another channel. Constant value. In Degrees. </Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="4">
+    <Name xml:lang="en">phaseVar</Name>
+    <Definition xml:lang="en">Phase shift of another channel. Variable. In Degrees.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="5">
+    <Name xml:lang="en">delay</Name>
+    <Definition xml:lang="en">Time delay of another channel. Constant value. In milliseconds.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="6">
+    <Name xml:lang="en">delayVar</Name>
+    <Definition xml:lang="en">Time delay of another channel. Variable. In milliseconds.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="7">
+    <Name xml:lang="en">reference</Name>
+    <Definition xml:lang="en">Reference to other channel definition</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+</ClassificationScheme>

@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:mpeg7GraphicsAndSceneGraphProfilesCS" versionDate="2013-07-16">
+   
+   <!--
+##################################################################### 
+MPEG7 SCENE GRAPH PROFILES CS	                                                                             
+Definition: The MPEG-4 Graphics and Scene Graph profiles as specified in 14496-1:2004 and 14496-16:2006. 
+
+The following Creative Commons Rights apply to the use of this EBU resource:
+http://creativecommons.org/licenses/by-sa/3.0/
+
+Owner: EBU Technical Department
+Author: Jean-Pierre Evain
+Contact: metadata@ebu.ch
+
+##################################################################### 
+   		-->
+   
+   <Alias>mpeg7GraphicsAndSceneGraphProfiles</Alias>
+   
+   <Term  termID="1">
+      <Name xml:lang="en">Core 3D Compression Profile</Name>
+      <Definition xml:lang="en"></Definition>
+      <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+      <ChangeComment></ChangeComment>
+      <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term  termID="2">
+      <Name xml:lang="en">Basic 2D Scene Graph Profile</Name>
+      <Definition xml:lang="en"></Definition>
+      <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+      <ChangeComment></ChangeComment>
+      <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term  termID="2.1">
+         <Name xml:lang="en">Basic 2D Scene Graph Profile @ Level 1</Name>
+         <Definition xml:lang="en"></Definition>
+         <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+         <ChangeComment></ChangeComment>
+         <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+   <Term  termID="3">
+      <Name xml:lang="en">Simple 2D Scene Graph Profile</Name>
+      <Definition xml:lang="en"></Definition>
+      <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+      <ChangeComment></ChangeComment>
+      <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term  termID="3.1">
+         <Name xml:lang="en">Simple 2D Scene Graph Profile @ Level 1</Name>
+         <Definition xml:lang="en"></Definition>
+         <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+         <ChangeComment></ChangeComment>
+         <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term  termID="3.2">
+         <Name xml:lang="en">Simple 2D Scene Graph Profile @ Level 2</Name>
+         <Definition xml:lang="en"></Definition>
+         <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+         <ChangeComment></ChangeComment>
+         <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+   <Term  termID="4">
+      <Name xml:lang="en">Core 2D Scene Graph Profile</Name>
+      <Definition xml:lang="en"></Definition>
+      <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+      <ChangeComment></ChangeComment>
+      <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term  termID="4.1">
+         <Name xml:lang="en">Core 2D Scene Graph Profile @ Level 1</Name>
+         <Definition xml:lang="en"></Definition>
+         <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+         <ChangeComment></ChangeComment>
+         <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term  termID="4.2">
+         <Name xml:lang="en">Core 2D Scene Graph Profile @ Level 2</Name>
+         <Definition xml:lang="en"></Definition>
+         <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+         <ChangeComment></ChangeComment>
+         <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+   <Term  termID="5">
+      <Name xml:lang="en">Main 2D Scene Graph Profile</Name>
+      <Definition xml:lang="en"></Definition>
+      <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+      <ChangeComment></ChangeComment>
+      <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term  termID="5.1">
+         <Name xml:lang="en">Main 2D Scene Graph Profile @ Level 1</Name>
+         <Definition xml:lang="en"></Definition>
+         <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+         <ChangeComment></ChangeComment>
+         <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term  termID="5.2">
+         <Name xml:lang="en">Main 2D Scene Graph Profile @ Level 2</Name>
+         <Definition xml:lang="en"></Definition>
+         <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+         <ChangeComment></ChangeComment>
+         <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term  termID="5.3">
+         <Name xml:lang="en">Main 2D Scene Graph Profile @ Level 3</Name>
+         <Definition xml:lang="en"></Definition>
+         <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+         <ChangeComment></ChangeComment>
+         <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+   
+   <Term  termID="6">
+      <Name xml:lang="en">Advanced 2D Scene Graph Profile</Name>
+      <Definition xml:lang="en"></Definition>
+      <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+      <ChangeComment></ChangeComment>
+      <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term  termID="6.1">
+         <Name xml:lang="en">Advanced 2D Scene Graph Profile @ Level 1</Name>
+         <Definition xml:lang="en"></Definition>
+         <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+         <ChangeComment></ChangeComment>
+         <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term  termID="6.2">
+         <Name xml:lang="en">Advanced 2D Scene Graph Profile @ Level 2</Name>
+         <Definition xml:lang="en"></Definition>
+         <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+         <ChangeComment></ChangeComment>
+         <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term  termID="6.3">
+         <Name xml:lang="en">Advanced 2D Scene Graph Profile @ Level 3</Name>
+         <Definition xml:lang="en"></Definition>
+         <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+         <ChangeComment></ChangeComment>
+         <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+   <Term  termID="7">
+      <Name xml:lang="en">Complete 2D Scene Graph Profile</Name>
+      <Definition xml:lang="en"></Definition>
+      <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+      <ChangeComment></ChangeComment>
+      <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term  termID="8">
+      <Name xml:lang="en">Audio Scene Graph Profile</Name>
+      <Definition xml:lang="en"></Definition>
+      <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+      <ChangeComment></ChangeComment>
+      <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term  termID="8.1">
+         <Name xml:lang="en">Audio Scene Graph Profile @ Level 1</Name>
+         <Definition xml:lang="en"></Definition>
+         <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+         <ChangeComment></ChangeComment>
+         <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term  termID="8.2">
+         <Name xml:lang="en">Audio Scene Graph Profile @ Level 2</Name>
+         <Definition xml:lang="en"></Definition>
+         <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+         <ChangeComment></ChangeComment>
+         <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term  termID="8.3">
+         <Name xml:lang="en">Audio Scene Graph Profile @ Level 3</Name>
+         <Definition xml:lang="en"></Definition>
+         <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+         <ChangeComment></ChangeComment>
+         <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term  termID="8.4">
+         <Name xml:lang="en">Audio Scene Graph Profile @ Level 4</Name>
+         <Definition xml:lang="en"></Definition>
+         <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+         <ChangeComment></ChangeComment>
+         <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+   <Term  termID="9">
+      <Name xml:lang="en">3D Audio Scene Graph Profile</Name>
+      <Definition xml:lang="en"></Definition>
+      <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+      <ChangeComment></ChangeComment>
+      <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term  termID="9.1">
+         <Name xml:lang="en">3D Audio Scene Graph Profile @ Level 1</Name>
+         <Definition xml:lang="en"></Definition>
+         <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+         <ChangeComment></ChangeComment>
+         <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term  termID="9.2">
+         <Name xml:lang="en">3D Audio Scene Graph Profile @ Level 2</Name>
+         <Definition xml:lang="en"></Definition>
+         <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+         <ChangeComment></ChangeComment>
+         <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term  termID="9.3">
+         <Name xml:lang="en">3D Audio Scene Graph Profile @ Level 3</Name>
+         <Definition xml:lang="en"></Definition>
+         <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+         <ChangeComment></ChangeComment>
+         <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term  termID="9.4">
+         <Name xml:lang="en">3D Audio Scene Graph Profile @ Level 4</Name>
+         <Definition xml:lang="en"></Definition>
+         <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+         <ChangeComment></ChangeComment>
+         <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+   <Term  termID="10">
+      <Name xml:lang="en">Complete Scene Graph Profile</Name>
+      <Definition xml:lang="en"></Definition>
+      <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+      <ChangeComment></ChangeComment>
+      <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   
+   <Term  termID="11">
+      <Name xml:lang="en">X3D Interactive Scene Graph Profile</Name>
+      <Definition xml:lang="en"></Definition>
+      <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+      <ChangeComment></ChangeComment>
+      <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term  termID="12">
+      <Name xml:lang="en">Simple 2D Graphics Profile @ Level 1</Name>
+      <Definition xml:lang="en"></Definition>
+      <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+      <ChangeComment></ChangeComment>
+      <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   
+   <Term  termID="13">
+      <Name xml:lang="en">Simple 2D + Text Graphics Profile</Name>
+      <Definition xml:lang="en"></Definition>
+      <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+      <ChangeComment></ChangeComment>
+      <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term  termID="13.1">
+         <Name xml:lang="en">Simple 2D + Text Graphics Profile @ Level 1</Name>
+         <Definition xml:lang="en"></Definition>
+         <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+         <ChangeComment></ChangeComment>
+         <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term  termID="13.2">
+         <Name xml:lang="en">Simple 2D + Text Graphics Profile @ Level 2</Name>
+         <Definition xml:lang="en"></Definition>
+         <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+         <ChangeComment></ChangeComment>
+         <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+   
+   <Term  termID="14">
+      <Name xml:lang="en">Core 2D Graphics Profile</Name>
+      <Definition xml:lang="en"></Definition>
+      <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+      <ChangeComment></ChangeComment>
+      <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term  termID="14.1">
+         <Name xml:lang="en">Core 2D Graphics Profile @ Level 1</Name>
+         <Definition xml:lang="en"></Definition>
+         <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+         <ChangeComment></ChangeComment>
+         <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term  termID="14.2">
+         <Name xml:lang="en">Core 2D Graphics Profile @ Level 2</Name>
+         <Definition xml:lang="en"></Definition>
+         <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+         <ChangeComment></ChangeComment>
+         <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+   <Term  termID="15">
+      <Name xml:lang="en">Advanced 2D Graphics Profile</Name>
+      <Definition xml:lang="en"></Definition>
+      <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+      <ChangeComment></ChangeComment>
+      <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term  termID="15.1">
+         <Name xml:lang="en">Advanced 2D Graphics Profile @ Level 1</Name>
+         <Definition xml:lang="en"></Definition>
+         <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+         <ChangeComment></ChangeComment>
+         <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term  termID="15.2">
+         <Name xml:lang="en">Advanced 2D Graphics Profile @ Level 2</Name>
+         <Definition xml:lang="en"></Definition>
+         <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+         <ChangeComment></ChangeComment>
+         <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+   <Term  termID="16">
+      <Name xml:lang="en">3D Audio Graphics Profile</Name>
+      <Definition xml:lang="en"></Definition>
+      <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+      <ChangeComment></ChangeComment>
+      <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term  termID="17">
+      <Name xml:lang="en">Complete Graphics Profile</Name>
+      <Definition xml:lang="en"></Definition>
+      <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+      <ChangeComment></ChangeComment>
+      <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   
+   <Term  termID="18">
+      <Name xml:lang="en">X3D Interactive Graphics Profile</Name>
+      <Definition xml:lang="en"></Definition>
+      <Reference>ISO/IEC mpeg-7 &amp; mpeg-4</Reference>
+      <ChangeComment></ChangeComment>
+      <ChangeVersionDate>04-05-2009</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   
+</ClassificationScheme>

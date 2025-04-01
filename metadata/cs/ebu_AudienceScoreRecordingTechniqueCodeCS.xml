@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:AudienceScoreRecordingTechniqueCS"
+   versionDate="2013-01-07">
+   <!--
+   ##################################################################### 
+   AUDIENCE SCORE RECORDING TECHNIQUE CS	                                                                             
+   Definition: This is a list of identified techniques for audience score recording
+   
+   The following Creative Commons Rights apply to the use of this EBU resource:
+   http://creativecommons.org/licenses/by-sa/3.0/
+   
+   Owner: EBU Technical Department
+   Author: Jean-Pierre Evain
+   Contact: metadata@ebu.ch
+   
+   ##################################################################### 
+-->
+
+
+   <Alias>EBUAudienceScoreRecordingTechnique</Alias>
+
+   <Link xml:lang="en">
+      <URL>http://en.wikipedia.org/wiki/Audience_measurement</URL>
+      <LinkName>wikipedia</LinkName>
+   </Link>
+
+   <Term termID="1">
+      <Name xml:lang="en">Poll</Name>
+      <Definition xml:lang="en">People, selected to be a valid statistical sample, are inquired,
+         typically by telephone. Accuracy also depends on the poll rate and on the reliability of
+         the given answers. This technique would also allow an approval rating.</Definition>
+      <Reference/>
+      <ChangeComment xml:lang="en">Linked open Data update</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="2">
+      <Name xml:lang="en">People Meter</Name>
+      <Definition xml:lang="en">Households, selected to be a valid statistical sample, are provided
+         with electronic devices (it could be one for each member) which have the special purpose of
+         recording the data almost automatically. This technique allows the data to be quite
+         accurate in time.</Definition>
+      <Reference/>
+      <ChangeComment xml:lang="en">Linked open Data update</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="3">
+      <Name xml:lang="en">People Counter</Name>
+      <Definition xml:lang="en">The people (or the households) who enjoy the material are counted
+         one by one. This technique, similar to counting the number of sold tickets, can be easily
+         used when the publication is achieved on "pay per view" or "video on demand"
+         services.</Definition>
+      <Reference/>
+      <ChangeComment xml:lang="en">Linked open Data update</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+</ClassificationScheme>

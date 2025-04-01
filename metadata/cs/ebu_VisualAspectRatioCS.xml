@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:VisualAspectRatioCS" versionDate="2013-01-07">
+   
+  <!-- #####################################################################
+           VISUAL ASPECT RATIO
+           Definition:
+           
+           The following Creative Commons Rights apply to the use of this EBU resource:
+           http://creativecommons.org/licenses/by-sa/3.0/
+           
+           Owner: EBU Technical Department
+           Author: Jean-Pierre Evain
+           Contact: metadata@ebu.ch
+           
+          ##################################################################### -->
+   
+   <Alias>EBUVisualAspectRatio</Alias>
+   
+   <Term termID="1">
+      <Name xml:lang="en">4:3</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate></DeprecatedVersionDate>
+   </Term>
+   
+   <Term termID="2">
+      <Name xml:lang="en">14:9 Letterbox</Name>
+      <Definition xml:lang="en">For display on 4:3 displays</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate></DeprecatedVersionDate>
+   </Term>
+   
+   <Term termID="3">
+      <Name xml:lang="en">16:9</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate></DeprecatedVersionDate>
+   </Term>
+   
+   <Term termID="4">
+      <Name xml:lang="en">16:9 with pan vectors</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate></DeprecatedVersionDate>
+   </Term>
+   
+   <Term termID="5">
+      <Name xml:lang="en">16:9 without pan vectors</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate></DeprecatedVersionDate>
+   </Term>
+   
+   <Term termID="6">
+      <Name xml:lang="en">16:9 Letterbox</Name>
+      <Definition xml:lang="en">For display on 4:3 displays</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate></DeprecatedVersionDate>
+   </Term>
+   
+   <Term termID="7">
+      <Name xml:lang="en">16:9 Anamorphic</Name>
+      <Definition xml:lang="en">For display on 4:3 displays</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate></DeprecatedVersionDate>
+   </Term>
+   
+   <Term termID="8">
+      <Name xml:lang="en">5.5:3</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate></DeprecatedVersionDate>
+   </Term>
+   
+   <Term termID="9">
+      <Name xml:lang="en">7:3</Name>
+      <Definition xml:lang="en">Panavision or Cinemascope</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate></DeprecatedVersionDate>
+   </Term>
+   
+   <Term termID="10">
+      <Name xml:lang="en">2.35:1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate></DeprecatedVersionDate>
+   </Term>
+   
+   <Term termID="11">
+      <Name xml:lang="en">2.21:1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate></DeprecatedVersionDate>
+   </Term>
+   
+   <Term termID="12">
+      <Name xml:lang="en">1.85:1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate></DeprecatedVersionDate>
+   </Term>
+   
+   <Term termID="99">
+      <Name xml:lang="en">Others</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate></DeprecatedVersionDate>
+   </Term>
+
+</ClassificationScheme>

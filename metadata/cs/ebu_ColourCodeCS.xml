@@ -1,0 +1,1015 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:ColourCodeCS" versionDate="2020-03-31">
+  <!--
+##################################################################### 
+COLOUR CODE CS	                                                                             
+Definition: This is a list of possible colour configurations. 
+
+   Owner: EBU Technical Department
+   Author: Jean-Pierre Evain
+   Contact: metadata@ebu.ch      
+
+##################################################################### 
+-->
+
+  <Alias>EBUColourCode</Alias>
+  <Term termID="1">
+    <Name xmlns:lang="en">Colour</Name>
+    <Definition xmlns:lang="en">The visual material described by this code is deemed, editorially,
+      to be in colour</Definition>
+    <Reference/>
+    <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+    <ChangeVersionDate>2008</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="1.1">
+      <Name xmlns:lang="en">Colour with B and W sequences</Name>
+      <Definition xmlns:lang="en">The visual material described by this code is in colour with some
+        B and W sequences</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2008</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="1.2">
+      <Name xmlns:lang="en">Colour with grayscale sequences</Name>
+      <Definition xmlns:lang="en">The visual material described by this code is in colour with some
+        grayscale sequences</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2008</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="1.3">
+      <Name xmlns:lang="en">CMYK</Name>
+      <Definition xmlns:lang="en">CMYK refers to the four inks used in some color printing: cyan,
+        magenta, yellow, and key (black).</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2008</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Link xml:lang="en">
+        <URL>http://en.wikipedia.org/wiki/CMYK_color_model</URL>
+        <LinkName>wikipedia</LinkName>
+      </Link>
+    </Term>
+    <Term termID="1.4">
+      <Name xmlns:lang="en">Palette</Name>
+      <Definition xmlns:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2008</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="1.5">
+      <Name xmlns:lang="en">YCrCb</Name>
+      <Definition xmlns:lang="en">Or Y'CbCr or Y Pb/Cb Pr/Cr. Y/Y′ is the luma component and CB and
+        CR are the blue-difference and red-difference chroma components. Y′ (with prime) is
+        distinguished from Y which is luminance, meaning that light intensity is nonlinearly encoded
+        based on gamma corrected RGB primaries.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2008</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Link xml:lang="en">
+        <URL>http://en.wikipedia.org/wiki/YCbCr</URL>
+        <LinkName>wikipedia</LinkName>
+      </Link>
+    </Term>
+    <Term termID="1.6">
+      <Name xmlns:lang="en">YUV</Name>
+      <Definition xmlns:lang="en">Encodes a color image or video taking human perception into
+        account, allowing reduced bandwidth for chrominance components, thereby typically enabling
+        transmission errors or compression artifacts to be more efficiently masked by the human
+        perception than using a "direct" RGB-representation.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2008</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Link xml:lang="en">
+        <URL>http://en.wikipedia.org/wiki/YUV</URL>
+        <LinkName>wikipedia</LinkName>
+      </Link>
+    </Term>
+    <Term termID="1.7">
+      <Name xmlns:lang="en">RGB</Name>
+      <Definition xmlns:lang="en">The RGB color model is an additive color model in which red,
+        green, and blue light are added together in various ways to reproduce a broad array of
+        colors.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2008</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Link xml:lang="en">
+        <URL>http://en.wikipedia.org/wiki/RGB_color_model</URL>
+        <LinkName>wikipedia</LinkName>
+      </Link>
+      <Term termID="1.7.1">
+        <Name xmlns:lang="en">sRGB: ~2.2 Gamma / Rec.709</Name>
+        <Definition xmlns:lang="en">sRGB uses the ITU-R BT.709 primaries, the same as are used in
+          studio monitors and HDTV,[1] and a transfer function (gamma curve) typical of
+          CRTs.</Definition>
+        <Reference/>
+        <ChangeComment>Legacy Name: sRGB</ChangeComment>
+        <ChangeVersionDate>2020</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Link xml:lang="en">
+          <URL>http://en.wikipedia.org/wiki/SRGB_color_space</URL>
+          <LinkName>wikipedia</LinkName>
+        </Link>
+        <Link xml:lang="en">
+          <URL>http://en.wikipedia.org/wiki/Rec._709</URL>
+          <LinkName>wikipedia</LinkName>
+        </Link>
+      </Term>
+      <Term termID="1.7.2">
+        <Name xmlns:lang="en">Adobe: ~2.2 Gamma / Adobe RGB (1998)</Name>
+        <Definition xmlns:lang="en">In Adobe RGB, colors are specified as (R,G,B) triplets, where
+          each of the R, G, and B components can have values between 0 and 1.</Definition>
+        <Reference/>
+        <ChangeComment>Legacy Name: AbodeRGB</ChangeComment>
+        <ChangeVersionDate>2020</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Link xml:lang="en">
+          <URL>http://en.wikipedia.org/wiki/Adobe_RGB_color_space</URL>
+          <LinkName>wikipedia</LinkName>
+        </Link>
+      </Term>
+      <Term termID="1.7.3">
+        <Name xmlns:lang="en">Dolby / SMPTE RGB</Name>
+        <Definition xmlns:lang="en">A set of RGB colour parameters defined by SMPTE and
+          Dolby</Definition>
+        <Reference/>
+        <ChangeComment>Legacy Name: SMPTE RGB</ChangeComment>
+        <ChangeVersionDate>2020</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Link xml:lang="en">
+          <URL>http://en.wikipedia.org/wiki/RGB_color_model</URL>
+          <LinkName>wikipedia</LinkName>
+        </Link>
+        <Term termID="1.7.3.1">
+          <Name xmlns:lang="en">Dolby: ST 2084 PQ / P3 D65 / 108 nits</Name>
+          <Definition xmlns:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="1.7.3.2">
+          <Name xmlns:lang="en">Dolby: ST 2084 PQ / P3 D65 / 600 nits</Name>
+          <Definition xmlns:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="1.7.3.3">
+          <Name xmlns:lang="en">Dolby: ST 2084 PQ / P3 D65 / 1000 nits</Name>
+          <Definition xmlns:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="1.7.3.4">
+          <Name xmlns:lang="en">Dolby: ST 2084 PQ / P3 D65 / 2000 nits</Name>
+          <Definition xmlns:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="1.7.3.5">
+          <Name xmlns:lang="en">Dolby: ST 2084 PQ / P3 D65 / 4000 nits</Name>
+          <Definition xmlns:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="1.7.3.6">
+          <Name xmlns:lang="en">Dolby: ST 2084 PQ / X'Y'Z' / 108 nits</Name>
+          <Definition xmlns:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+      </Term>
+      <Term termID="1.7.4">
+        <Name xmlns:lang="en">UHDTV RGB</Name>
+        <Definition xmlns:lang="en">A set of RGB colour parameters defined ITU-R BT 2020 and BT
+          2100</Definition>
+        <Reference/>
+        <ChangeComment>Mapping to IPTC</ChangeComment>
+        <ChangeVersionDate>2011</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Link xml:lang="en">
+          <URL>http://en.wikipedia.org/wiki/RGB_color_model</URL>
+          <LinkName>wikipedia</LinkName>
+        </Link>
+        <Link xml:lang="en">
+          <URL>http://en.wikipedia.org/wiki/Rec._2020</URL>
+          <LinkName>wikipedia</LinkName>
+        </Link>
+        <Term termID="1.7.4.1">
+          <Name xmlns:lang="en">Rec.2020: 2.4 Gamma / Rec.2020</Name>
+          <Definition xmlns:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="1.7.4.2">
+          <Name xmlns:lang="en">Rec.2020: ST 2084 PQ / Rec.2020 / 108 nits</Name>
+          <Definition xmlns:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="1.7.4.3">
+          <Name xmlns:lang="en">Rec.2020: ST 2084 PQ / Rec.2020 / 600 nits</Name>
+          <Definition xmlns:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="1.7.4.4">
+          <Name xmlns:lang="en">Rec.2020: ST 2084 PQ / Rec.2020 / 1000 nits</Name>
+          <Definition xmlns:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="1.7.4.5">
+          <Name xmlns:lang="en">Rec.2020: ST 2084 PQ / Rec.2020 / 2000 nits</Name>
+          <Definition xmlns:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="1.7.4.6">
+          <Name xmlns:lang="en">Rec.2020: ST 2084 PQ / Rec.2020 / 4000 nits</Name>
+          <Definition xmlns:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="1.7.4.7">
+          <Name xmlns:lang="en">Rec.2100: HLG 1.2 Gamma / Rec.2020 / 1000 nits</Name>
+          <Definition xmlns:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="1.7.4.8">
+          <Name xmlns:lang="en">Rec.2100: HLG 1.2 Gamma / Rec.2020 / Preview SDR</Name>
+          <Definition xmlns:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+      </Term>
+      <Term termID="1.7.5">
+        <Name xmlns:lang="en">Legacy</Name>
+        <Definition xmlns:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2020</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="1.7.5.1">
+          <Name xmlns:lang="en">Legacy: Cineon Log / Rec.709</Name>
+          <Definition xmlns:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="1.7.5.2">
+          <Name xmlns:lang="en">Legacy: Linear / Rec.709</Name>
+          <Definition xmlns:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+      </Term>
+      <Term termID="1.7.6">
+        <Name xmlns:lang="en">Rec.709 Camera: ~1.95 Gamma / Rec.709</Name>
+        <Definition xmlns:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2020</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="1.7.7">
+        <Name xmlns:lang="en">Rec.709 Video Legal</Name>
+        <Definition xmlns:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2020</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="1.7.8">
+        <Name xmlns:lang="en">Rec.1886: 2.4 Gamma / Rec.709</Name>
+        <Definition xmlns:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2020</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="1.7.9">
+        <Name xmlns:lang="en">ACES: 2.6 Gamma / P3 DCI / Creative D60</Name>
+        <Definition xmlns:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2020</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="1.7.10">
+        <Name xmlns:lang="en">DCI</Name>
+        <Definition xmlns:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2020</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="1.7.10.1">
+          <Name xmlns:lang="en">DCI: 2.6 Gamma / P3 D60</Name>
+          <Definition xmlns:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="1.7.10.2">
+          <Name xmlns:lang="en">DCI: 2.6 Gamma / P3 D65</Name>
+          <Definition xmlns:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="1.7.10.3">
+          <Name xmlns:lang="en">DCI: 2.6 Gamma / P3 DCI</Name>
+          <Definition xmlns:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="1.7.10.4">
+          <Name xmlns:lang="en">DCI: 2.6 Gamma / X'Y'Z'</Name>
+          <Definition xmlns:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="1.7.10.5">
+          <Name xmlns:lang="en">DCI: 2.6 Gamma / X'Y'Z' / Creative D60</Name>
+          <Definition xmlns:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="1.7.10.6">
+          <Name xmlns:lang="en">DCI: 2.6 Gamma / X'Y'Z' / Creative D65</Name>
+          <Definition xmlns:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+      </Term>
+      <Term termID="1.7.11">
+        <Name xmlns:lang="en">Scene / clip-referred colour space</Name>
+        <Definition xmlns:lang="en">The colour space relates to a recorded video clip or an
+          image.</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2020</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="1.7.11.1">
+          <Name xmlns:lang="en">ACES</Name>
+          <Definition xmlns:lang="en">A color image encoding system created under the auspices of
+            the Academy of Motion Picture Arts and Sciences. ACES allows for a fully encompassing
+            color accurate workflow, with seamless interchange of high quality motion picture images
+            regardless of source.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+          <Link xml:lang="en">
+            <URL>https://en.wikipedia.org/wiki/Academy_Color_Encoding_System</URL>
+            <LinkName>wikipedia</LinkName>
+          </Link>
+          <Term termID="1.7.11.1.1">
+            <Name xmlns:lang="en">ACES: ADX Log / ADX</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.1.2">
+            <Name xmlns:lang="en">ACES: Cineon Log / AP0</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.1.3">
+            <Name xmlns:lang="en">ACES: Linear /AP0</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.1.4">
+            <Name xmlns:lang="en">ACESScc: ACEScc /AP1</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.1.5">
+            <Name xmlns:lang="en">ACESScct: ACEScct /AP1</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.1.6">
+            <Name xmlns:lang="en">ACEScg: Linear / AP1</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+        </Term>
+        <Term termID="1.7.11.2">
+          <Name xmlns:lang="en">ARRI</Name>
+          <Definition xmlns:lang="en">Color image encoding systems created and used by
+            ARRI</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+          <Link xml:lang="en">
+            <URL>https://www.arri.com/en/learn-help/learn-help-camera-system/frequently-asked-questions/frequently-asked-questions-on-color</URL>
+            <LinkName>ARRI Homepage</LinkName>
+          </Link>
+          <Term termID="1.7.11.2.1">
+            <Name xmlns:lang="en">ARRI: Linear / Wide Gamut</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.2.2">
+            <Name xmlns:lang="en">ARRI: Linear / Wide Gamut.2</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.2.3">
+            <Name xmlns:lang="en">ARRI: LogC / Film Gamut</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <Link xml:lang="en">
+              <URL>https://www.arri.com/en/learn-help/learn-help-camera-system/camera-workflow/image-science/log-c</URL>
+              <LinkName>ARRI Homepage</LinkName>
+            </Link>
+          </Term>
+          <Term termID="1.7.11.2.4">
+            <Name xmlns:lang="en">ARRI: LogC / Wilm Gamut</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <Link xml:lang="en">
+              <URL>https://www.arri.com/en/learn-help/learn-help-camera-system/camera-workflow/image-science/log-c</URL>
+              <LinkName>ARRI Homepage</LinkName>
+            </Link>
+          </Term>
+        </Term>
+        <Term termID="1.7.11.3">
+          <Name xmlns:lang="en">BMD</Name>
+          <Definition xmlns:lang="en">Color image encoding systems created by and used by BlackMagic
+            Design</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+          <Term termID="1.7.11.3.1">
+            <Name xmlns:lang="en">BMD: Film / CinemaPocket / Filmlight Measurements</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.3.2">
+            <Name xmlns:lang="en">BMD: Film / Production Camera 4K / Filmlight Measurements</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+        </Term>
+        <Term termID="1.7.11.4">
+          <Name xmlns:lang="en">Canon</Name>
+          <Definition xmlns:lang="en">Color image encoding systems created and used by
+            Canon</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+          <Term termID="1.7.11.4.1">
+            <Name xmlns:lang="en">Canon: Canon-Log / BT2020 / Daylight</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.4.2">
+            <Name xmlns:lang="en">Canon: Canon-Log / BT2020 / Tungsten</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.4.3">
+            <Name xmlns:lang="en">Canon: Canon-Log / C500 Type A Daylight</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.4.4">
+            <Name xmlns:lang="en">Canon: Canon-Log / C500 Type A Tungsten</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.4.5">
+            <Name xmlns:lang="en">Canon: Canon-Log / CineGamut / Daylight</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.4.6">
+            <Name xmlns:lang="en">Canon: Canon-Log / CineGamut / Tungsten</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.4.7">
+            <Name xmlns:lang="en">Canon: Canon-Log / P3+ / Daylight</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.4.8">
+            <Name xmlns:lang="en">Canon: Canon-Log / P3+ / Tungsten / 4.4 compatible</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.4.9">
+            <Name xmlns:lang="en">Canon: Canon-Log1 / BT2020 / Daylight</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.4.10">
+            <Name xmlns:lang="en">Canon: Canon-Log2 / BT2020 / Daylight</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.4.11">
+            <Name xmlns:lang="en">Canon: Canon-Log2 / BT2020 / Tungsten</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.4.12">
+            <Name xmlns:lang="en">Canon: Canon-Log2 / CineGamut / Daylight</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.4.13">
+            <Name xmlns:lang="en">Canon: Canon-Log2 / CineGamut / Tungsten</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.4.14">
+            <Name xmlns:lang="en">Canon: Canon-Log2 / P3+ / Daylight</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.4.15">
+            <Name xmlns:lang="en">Canon: Canon-Log2 / P3+ / Tungsten</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.4.16">
+            <Name xmlns:lang="en">Canon: Canon-Log3 / CineGamut / Daylight</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.4.17">
+            <Name xmlns:lang="en">Canon: Canon-Log3 / CineGamut / Tungsten</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.4.18">
+            <Name xmlns:lang="en">Canon: Canon-Log3 / P3 DCI</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.4.19">
+            <Name xmlns:lang="en">Canon: Canon-Log3 / Rec.709</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.4.20">
+            <Name xmlns:lang="en">Canon: Canon-Log3 / Rec.2020</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+        </Term>
+        <Term termID="1.7.11.5">
+          <Name xmlns:lang="en">DJI</Name>
+          <Definition xmlns:lang="en">Color image encoding systems created and used by
+            DJI</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+          <Term termID="1.7.11.5.1">
+            <Name xmlns:lang="en">DJI: D-Log / D-Gamut</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.5.2">
+            <Name xmlns:lang="en">DJI: DCineLike / Phantom3 Pro / Filmlight Measurements</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+        </Term>
+        <Term termID="1.7.11.6">
+          <Name xmlns:lang="en">Filmlight</Name>
+          <Definition xmlns:lang="en">Color image encoding systems created and used by
+            Filmlight</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+          <Term termID="1.7.11.6.1">
+            <Name xmlns:lang="en">Filmlight: Linear / E-Gamut</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.6.2">
+            <Name xmlns:lang="en">Filmlight: Printing Density Log / ~ADX</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.6.3">
+            <Name xmlns:lang="en">Filmlight: T-Log / E-Gamut</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+        </Term>
+        <Term termID="1.7.11.7">
+          <Name xmlns:lang="en">Panasonic: V-Log / V-Gamut</Name>
+          <Definition xmlns:lang="en">A logarithmic color image encoding system created and used by
+            Panasonic</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="1.7.11.8">
+          <Name xmlns:lang="en">RED</Name>
+          <Definition xmlns:lang="en">Color image encoding systems created and used by
+            RED</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+          <Link xml:lang="en">
+            <URL>https://www.red.com/red-101/redlogfilm-redgamma</URL>
+            <LinkName>RED Homepage</LinkName>
+          </Link>
+          <Term termID="1.7.11.8.1">
+            <Name xmlns:lang="en">RED: Linear / DragonColor 2</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.8.2">
+            <Name xmlns:lang="en">RED: Linear / REDWideGamutRGB</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.8.3">
+            <Name xmlns:lang="en">RED: Log3G10 / REDWideGamutRGB</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.8.4">
+            <Name xmlns:lang="en">RED: REDlog Film / DragonColor 2</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.8.5">
+            <Name xmlns:lang="en">RED: REDlog Film / REDcolor 2</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.8.6">
+            <Name xmlns:lang="en">RED: REDlog Film / REDcolor 4</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+        </Term>
+        <Term termID="1.7.11.9">
+          <Name xmlns:lang="en">Sony</Name>
+          <Definition xmlns:lang="en">Color image encoding systems created by Sony</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+          <Link xml:lang="en">
+            <URL>https://helpguide.sony.net/di/pp/v1/en/contents/TP0000909106.html</URL>
+            <LinkName>SONY Homepage</LinkName>
+          </Link>
+          <Term termID="1.7.11.9.1">
+            <Name xmlns:lang="en">Sony: Linear / S-Gamut3</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.9.2">
+            <Name xmlns:lang="en">Sony: Linear / S-Gamut3.Cine</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.9.3">
+            <Name xmlns:lang="en">Sony: S-Log / S-Gamut</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.9.4">
+            <Name xmlns:lang="en">Sony: S-Log2 / S-Gamut</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.9.5">
+            <Name xmlns:lang="en">Sony: S-Log2 / S-Gamut Daylight</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.9.6">
+            <Name xmlns:lang="en">Sony: S-Log2 / S-Gamut Tungsten</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.9.7">
+            <Name xmlns:lang="en">Sony: S-Log3 / S-Gamut3</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="1.7.11.9.8">
+            <Name xmlns:lang="en">Sony: S-Log3 / S-Gamut3.Cine</Name>
+            <Definition xmlns:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+        </Term>
+      </Term>
+      <Term termID="1.7.99">
+        <Name xmlns:lang="en">Other set of RGB colour paramters</Name>
+        <Definition xmlns:lang="en">Another set of RGB colour parameters</Definition>
+        <Reference/>
+        <ChangeComment>Update</ChangeComment>
+        <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+    </Term>
+  </Term>
+  <Term termID="2">
+    <Name xmlns:lang="en">Mixed</Name>
+    <Definition xmlns:lang="en">The visual material described by this code is deemed, editorially,
+      to be either a mix of two or more from monochrome, colour, and tinted or not fit any of those
+      categories</Definition>
+    <Reference/>
+    <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+    <ChangeVersionDate>2008</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="3">
+    <Name xmlns:lang="en">Monochrome</Name>
+    <Definition xmlns:lang="en">The visual material described by this code is deemed, editorially,
+      to be monochrome</Definition>
+    <Reference/>
+    <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+    <ChangeVersionDate>2008</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="4">
+    <Name xmlns:lang="en">BW Black and White</Name>
+    <Definition xmlns:lang="en">The visual material described by this code is deemed to be black and
+      white</Definition>
+    <Reference/>
+    <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+    <ChangeVersionDate>2008</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="4.1">
+      <Name xmlns:lang="en">BW with grayscale sequences</Name>
+      <Definition xmlns:lang="en">The visual material described by this code is black and white with
+        some grayscale sequences</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2008</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="4.2">
+      <Name xmlns:lang="en">BW with colour sequences</Name>
+      <Definition xmlns:lang="en">The visual material described by this code is black and white with
+        some colour sequences</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2008</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="5">
+    <Name xmlns:lang="en">Grayscale</Name>
+    <Definition xmlns:lang="en">Also Greyscale. The visual material described by this code is
+      deemed, editorially, to be composed of crayscale tones</Definition>
+    <Reference/>
+    <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+    <ChangeVersionDate>2008</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="5.1">
+      <Name xmlns:lang="en">Grayscale with BW sequences</Name>
+      <Definition xmlns:lang="en">The visual material described by this code is composed of
+        grayscale tones with some black and white sequences</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2008</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="5.2">
+      <Name xmlns:lang="en">Grayscale with colour sequences</Name>
+      <Definition xmlns:lang="en">The visual material described by this code is composed of
+        grayscale tones with some colour sequences</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2008</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="6">
+    <Name xmlns:lang="en">Tinted</Name>
+    <Definition xmlns:lang="en">The visual material described by this code is deemed, editorially,
+      to be tinted (e.g. sepia tone)</Definition>
+    <Reference/>
+    <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+    <ChangeVersionDate>2008</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="7">
+    <Name xmlns:lang="en">Colorised</Name>
+    <Definition xmlns:lang="en">The material has been processed and added colours not originally
+      captured</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+</ClassificationScheme>

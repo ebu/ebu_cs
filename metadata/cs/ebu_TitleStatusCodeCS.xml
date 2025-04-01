@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassificationScheme uri="urn:ebu:metadata-cs:TitleStatusCodeCS" versionDate="2020-04-10">
+
+   <!-- #####################################################################
+	     TITLE STATUS CODE                                 
+	     Definition: A list of codes to qualify the status of titles 
+	     
+	     The following Creative Commons Rights apply to the use of this EBU resource:
+	     http://creativecommons.org/licenses/by-sa/3.0/
+	     
+	     Owner: EBU Technical Department
+	     Author: Jean-Pierre Evain
+	     Contact: evain@ebu.ch
+	     
+	     ##################################################################### -->
+
+   <Alias>EBUTitleStatusCode</Alias>
+
+   <Term termID="1">
+      <Name xml:lang="en">Original Title</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment>'Title' added</ChangeComment>
+      <ChangeVersionDate>2009-04-02</ChangeVersionDate>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term termID="1.1">
+         <Name xml:lang="en">Art Work Original Title</Name>
+         <Definition xml:lang="en"/>
+         <ChangeComment/>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2009-04-02</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="1.2">
+         <Name xml:lang="en">Alternative Title</Name>
+         <Definition xml:lang="en">The original title given to this BusinessObject or other
+            works.</Definition>
+         <Reference/>
+         <ChangeComment>First version within the Dwerft project</ChangeComment>
+         <ChangeVersionDate>2020-03-31</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+   </Term>
+   <Term termID="2">
+      <Name xml:lang="en">Pledged Title</Name>
+      <Definition xml:lang="en">The pledged title given to this BusinessObject or other
+         works.</Definition>
+      <ChangeComment>'Definition' added</ChangeComment>
+      <ChangeVersionDate>2020-03-31</ChangeVersionDate>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="3">
+      <Name xml:lang="en">Main Title</Name>
+      <Definition xml:lang="en">The main title given to this BusinessObject or other
+         works.</Definition>
+      <ChangeComment>'Definition' added</ChangeComment>
+      <ChangeVersionDate>2020-03-31</ChangeVersionDate>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term termID="3.1">
+         <Name xml:lang="en">Alternative Main Title</Name>
+         <Definition xml:lang="en"/>
+         <ChangeComment/>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2009-04-02</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+   <Term termID="4">
+      <Name xml:lang="en">Secondary Title</Name>
+      <Definition xml:lang="en">The secondary title given to this BusinessObject or other
+         works.</Definition>
+      <ChangeComment>'Definition' added</ChangeComment>
+      <ChangeVersionDate>2020-03-31</ChangeVersionDate>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term termID="4.1">
+         <Name xml:lang="en">Alternative Secondary Title</Name>
+         <Definition xml:lang="en">The alternative secondary title given to this
+            BusinessObject.</Definition>
+         <ChangeComment/>
+         <ChangeVersionDate>2009-04-02</ChangeVersionDate>
+         <FirstVersiondate>2007-09-25</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="4.2">
+         <Name xml:lang="en">Subtitle</Name>
+         <Definition xml:lang="en">The subtitle secondary title given to this
+            BusinessObject.</Definition>
+         <ChangeComment/>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-09-25</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+   <Term termID="5">
+      <Name xml:lang="en">Version Title</Name>
+      <Definition xml:lang="en">The version title given to this BusinessObject.</Definition>
+      <ChangeComment/>
+      <ChangeVersionDate>2009-04-02</ChangeVersionDate>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="6">
+      <Name xml:lang="en">Working Title</Name>
+      <Definition xml:lang="en">The working title given to this BusinessObject.</Definition>
+      <ChangeComment/>
+      <ChangeVersionDate>2009-04-02</ChangeVersionDate>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term termID="6.1">
+         <Name xml:lang="en">Alternative Working Title</Name>
+         <Definition xml:lang="en">The alternative working title given to this
+            BusinessObject.</Definition>
+         <ChangeComment/>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2009-04-02</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+   <Term termID="7">
+      <Name xml:lang="en">Short Title</Name>
+      <Definition xml:lang="en">The short title given to this BusinessObject.</Definition>
+      <ChangeComment/>
+      <ChangeVersionDate>2009-04-02</ChangeVersionDate>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="8">
+      <Name xml:lang="en">Long Title</Name>
+      <Definition xml:lang="en">The slong title given to this BusinessObject.</Definition>
+      <ChangeComment/>
+      <ChangeVersionDate>2009-04-02</ChangeVersionDate>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="9">
+      <Name xml:lang="en">Full Title</Name>
+      <Definition xml:lang="en">The full title given to this BusinessObject.</Definition>
+      <ChangeComment/>
+      <ChangeVersionDate>2009-04-02</ChangeVersionDate>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="10">
+      <Name xml:lang="en">Abridged Title</Name>
+      <Definition xml:lang="en">The abridged title given to this BusinessObject.</Definition>
+      <ChangeComment/>
+      <ChangeVersionDate>2009-04-02</ChangeVersionDate>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="11">
+      <Name xml:lang="en">Transmission Title</Name>
+      <Definition xml:lang="en">The transmission title given to this BusinessObject.</Definition>
+      <ChangeComment/>
+      <ChangeVersionDate>2009-04-02</ChangeVersionDate>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="12">
+      <Name xml:lang="en">Published Title</Name>
+      <Definition xml:lang="en">The published title given to this BusinessObject.</Definition>
+      <ChangeComment/>
+      <ChangeVersionDate>2009-04-02</ChangeVersionDate>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="13">
+      <Name xml:lang="en">International Title</Name>
+      <Definition xml:lang="en">The international title given to this BusinessObject.</Definition>
+      <ChangeComment/>
+      <ChangeVersionDate>2009-04-02</ChangeVersionDate>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="14">
+      <Name xml:lang="en">Documentary Title</Name>
+      <Definition xml:lang="en">Title provided for documentation purposes</Definition>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2009-04-02</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="15">
+      <Name xml:lang="en">Translation Title</Name>
+      <Definition xml:lang="en">The translation title given to this BusinessObject.</Definition>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2009-04-02</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="16">
+      <Name xml:lang="en">Pseudo Title</Name>
+      <Definition xml:lang="en">The pseudo title given to this BusinessObject.</Definition>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2009-04-02</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="17">
+      <Name xml:lang="en">Ingest Title</Name>
+      <Definition xml:lang="en">The ingest title given to this BusinessObject.</Definition>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2009-04-02</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+</ClassificationScheme>

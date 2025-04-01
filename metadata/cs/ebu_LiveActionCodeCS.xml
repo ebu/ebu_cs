@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassificationScheme uri="urn:ebu:metadata-cs:LiveActionCodeCS" versionDate="2013-01-07">
+
+   <!-- #####################################################################
+	     LIVE ACTION CODE                                                     
+	     Definition:
+	     
+	     The following Creative Commons Rights apply to the use of this EBU resource:
+	     http://creativecommons.org/licenses/by-sa/3.0/
+	     
+	     Owner: EBU Technical Department
+	     Author: Jean-Pierre Evain
+	     Contact: metadata@ebu.ch
+	     
+	     ##################################################################### -->
+
+   <Alias>EBULiveActionCode</Alias>
+
+   <Term termID="1">
+      <Name xml:lang="en">Animated Action</Name>
+      <Definition xml:lang="en">Indicates that the content is composed of animated action. Normally
+         this implies cartoons or computer generated scenes or characters.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="2">
+      <Name xml:lang="en">Live Action</Name>
+      <Definition xml:lang="en">Indicates that the content is composed of live action. Normally this
+         is camera footage of real people, animals and/or objects.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="3">
+      <Name xml:lang="en">Mixed</Name>
+      <Definition xml:lang="en">Indicates that the content is a mixture of live and animated action.
+         Examples of this type of content include the films Who Framed Roger Rabbit and Bed Knobs
+         and Broomsticks</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+</ClassificationScheme>

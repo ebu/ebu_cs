@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:TextUsageTypeCodeCS" versionDate="2013-01-07">
+
+   <!-- ##################################################################### 
+	     TEXT USAGE TYPE CODE                                                  
+        Definition:
+        
+        The following Creative Commons Rights apply to the use of this EBU resource:
+        http://creativecommons.org/licenses/by-sa/3.0/
+        
+        Owner: EBU Technical Department
+        Author: Jean-Pierre Evain
+        Contact: metadata@ebu.ch
+        
+	     ##################################################################### -->
+
+   <Alias>EBUTextUsageTypeCode</Alias>
+
+   <Term termID="1">
+      <Name xml:lang="en">Intertitle Text</Name>
+      <Definition xml:lang="en">A title card appearing intercut with a scene. Commonly used with
+         silent films.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="2">
+      <Name xml:lang="en">Closed Caption</Name>
+      <Definition xml:lang="en">A title card appearing intercut with a scene. Commonly used with
+         silent films.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="3">
+      <Name xml:lang="en">Subtitle Dubbed Text</Name>
+      <Definition xml:lang="en">The text of the sub-titles of a programme intended to be transmitted
+         in synch with the programme, in a different language than that which is being
+         spoken.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="4">
+      <Name xml:lang="en">Subtitle Dubbed Text and Speaker</Name>
+      <Definition xml:lang="en">The text of the sub-titles of a programme intended to be transmitted
+         in synch with the programme, in a different language than that which is being spoken. It
+         includes the speacker recognition.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="5">
+      <Name xml:lang="en">Subtitle and Speaker and Non-Speech Sound</Name>
+      <Definition xml:lang="en">The text of the sub-titles of a programme intended to be transmitted
+         in synch with the programme, in a different language than that which is being spoken. It
+         includes the speacker recognition and the non-speech sound description for hard-hearing
+         viewers.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="6">
+      <Name xml:lang="en">Subtitle</Name>
+      <Definition xml:lang="en">The text of the sub-titles of a programme intended to be transmitted
+         in synch with the programme.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="7">
+      <Name xml:lang="en">Subitle Text Non Close-Caption</Name>
+      <Definition xml:lang="en">The text of the sub-titles of a programme intended to be transmitted
+         in synch with the programme, but not dealing with the current dialog on
+         screen.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="8">
+      <Name xml:lang="en">Subtitle Text and Non-Speech Sound</Name>
+      <Definition xml:lang="en">The text of the sub-titles of a programme intended to be transmitted
+         in synch with the programme. It includes the non-speech sound description for hard-hearing
+         viewers.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="9">
+      <Name xml:lang="en">Subtitle Text and Speaker</Name>
+      <Definition xml:lang="en">The text of the sub-titles of a programme intended to be transmitted
+         in synch with the programme. It includes the speacker recognition.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="10">
+      <Name xml:lang="en">Subtitle Text and Speaker and Non-Speech Sound</Name>
+      <Definition xml:lang="en">The text of the sub-titles of a programme intended to be transmitted
+         in synch with the programme. It includes the speacker recognition and the non-speech sound
+         description for hard-hearing viewers.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="11">
+      <Name xml:lang="en">Supplemental</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="12">
+      <Name xml:lang="en">Web Page Text</Name>
+      <Definition xml:lang="en">Textual material used as content on web pages.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+</ClassificationScheme>

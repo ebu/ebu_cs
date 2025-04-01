@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassificationScheme uri="urn:ebu:metadata-cs:ObjectTypeCodeCS" versionDate="2013-01-07">
+
+   <!-- #####################################################################
+	     OBJECT TYPE CODE                                 
+	     Definition: A list of codes to qualify types of objects / resources 
+
+	     IMPORTANT NOTE: This CS supercedes the TITLE TYPE CODE CS
+	     
+	     The following Creative Commons Rights apply to the use of this EBU resource:
+	     http://creativecommons.org/licenses/by-sa/3.0/
+	     
+	     Owner: EBU Technical Department
+	     Author: Jean-Pierre Evain
+	     Contact: metadata@ebu.ch
+	     
+	     ##################################################################### -->
+
+   <Alias>EBUObjectTypeCode</Alias>
+
+   <Term termID="1">
+      <Name xml:lang="en">Brand</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="2">
+      <Name xml:lang="en">Programme</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="3">
+      <Name xml:lang="en">Programme Group</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="4">
+      <Name xml:lang="en">Collection</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="5">
+      <Name xml:lang="en">Series</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="6">
+      <Name xml:lang="en">Episode</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="7">
+      <Name xml:lang="en">Item</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="8">
+      <Name xml:lang="en">Scene</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="9">
+      <Name xml:lang="en">Shot</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="10">
+      <Name xml:lang="en">Element</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="11">
+      <Name xml:lang="en">Segment</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="12">
+      <Name xml:lang="en">Clip</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="13">
+      <Name xml:lang="en">Media Object</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="14">
+      <Name xml:lang="en">Track</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="15">
+      <Name xml:lang="en">Project</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <!--Term termID="16">
+      <Name xml:lang="en">Number</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment>Concept moved to Title Status CS</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>0</ValidityFlag>
+      <DeprecatedVersionDate>2009-04-02</DeprecatedVersionDate>
+      <Term termID="16.1">
+         <Name xml:lang="en">Series Number</Name>
+         <Definition xml:lang="en"/>
+         <ChangeComment>Concept moved to Title Status CS</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-09-25</FirstVersiondate>
+         <ValidityFlag>0</ValidityFlag>
+         <DeprecatedVersionDate>2009-04-02</DeprecatedVersionDate>
+      </Term>
+      <Term termID="16.2">
+         <Name xml:lang="en">Episode Number</Name>
+         <Definition xml:lang="en"/>
+         <ChangeComment>Concept moved to Title Status CS</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-09-25</FirstVersiondate>
+         <ValidityFlag>0</ValidityFlag>
+         <DeprecatedVersionDate>2009-04-02</DeprecatedVersionDate>
+      </Term>
+      <Term termID="16.3">
+         <Name xml:lang="en">Scene Number</Name>
+         <Definition xml:lang="en"/>
+         <ChangeComment>Concept moved to Title Status CS</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-09-25</FirstVersiondate>
+         <ValidityFlag>0</ValidityFlag>
+         <DeprecatedVersionDate>2009-04-02</DeprecatedVersionDate>
+      </Term>
+      <Term termID="16.4">
+         <Name xml:lang="en">Take Number</Name>
+         <Definition xml:lang="en"/>
+         <ChangeComment>Concept moved to Title Status CS</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-09-25</FirstVersiondate>
+         <ValidityFlag>0</ValidityFlag>
+         <DeprecatedVersionDate>2009-04-02</DeprecatedVersionDate>
+      </Term>
+   </Term-->
+   <Term termID="17">
+      <Name xml:lang="en">Framework</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="18">
+      <Name xml:lang="en">Event</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-09-25</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="19">
+      <Name xml:lang="en">Trailer</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2008-12-16</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="20">
+      <Name xml:lang="en">Pilot</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2008-12-16</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="21">
+      <Name xml:lang="en">Album</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2010-08-03</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="22">
+      <Name xml:lang="en">Song</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2010-08-03</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="23">
+      <Name xml:lang="en">Season</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2010-08-03</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="24">
+      <Name xml:lang="en">Ad</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2010-08-03</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="25">
+      <Name xml:lang="en">Excerpt</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2010-08-03</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="26">
+      <Name xml:lang="en">Franchise</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2010-08-03</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="27">
+      <Name xml:lang="en">Part</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2013-01-07</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="28">
+      <Name xml:lang="en">Fragment</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment/>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2013-01-07</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+</ClassificationScheme>

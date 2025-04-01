@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:MusicTypeCS" versionDate="2019-03-18">
+   <!-- ##################################################################### 
+    MUSIC TYPE CS
+    Describes the type of music being used within a production.
+    
+    The following Creative Commons Rights apply to the use of 
+    this EBU resource:   http://creativecommons.org/licenses/by-nc-sa/3.0/   
+      
+    Owner: EBU Technical Department   
+    Contact: metadata@ebu.ch      
+
+    ##################################################################### -->
+   
+   <Alias>DwerftMusicType</Alias>
+   
+   <Term termID="1">
+      <Name xml:lang="en">Composition</Name>
+      <Definition xml:lang="de">Eine musikalische Komposition, üblicherweise im Rahmen eines
+         Medienprojekts/Filmprojekts.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="2">
+      <Name xml:lang="en">Source Music</Name>
+      <Definition xml:lang="de">Ein existierendes Musikstück, welches im Rahmen eines
+         Medienprojekts/Filmprojekts Verwendung findet.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+</ClassificationScheme>

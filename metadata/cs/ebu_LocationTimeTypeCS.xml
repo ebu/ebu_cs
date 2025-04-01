@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:LocationTime" versionDate="2019-09-09">
+  <!-- ##################################################################### 
+    LOCATION TIME CS
+    Describes the time in which the recording was made, in terms of subjective descriptions.
+    
+    The following Creative Commons Rights apply to the use of 
+    this EBU resource:   http://creativecommons.org/licenses/by-nc-sa/3.0/   
+      
+    Owner: EBU Technical Department   
+    Contact: metadata@ebu.ch      
+
+    ##################################################################### -->
+  
+  <Alias>DwerftLocationTimeType</Alias>
+  
+  <Term termID="1">
+    <Name xmlns:lang="en">SUNRISE</Name>
+    <Definition xmlns:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="2">
+    <Name xmlns:lang="en">MORNING</Name>
+    <Definition xmlns:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="3">
+    <Name xmlns:lang="en">MIDDAY</Name>
+    <Definition xmlns:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="4">
+    <Name xmlns:lang="en">DAY</Name>
+    <Definition xmlns:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="5">
+    <Name xmlns:lang="en">AFTERNOON</Name>
+    <Definition xmlns:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="6">
+    <Name xmlns:lang="en">EVENING</Name>
+    <Definition xmlns:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="7">
+    <Name xmlns:lang="en">SUNSET</Name>
+    <Definition xmlns:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="8">
+    <Name xmlns:lang="en">NIGHT</Name>
+    <Definition xmlns:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+</ClassificationScheme>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:StorageIdentifierTypeCodeCS" versionDate="2020-01-14">
+
+   <!-- #####################################################################
+          STORAGE IDENTIFIER TYPE CODE                                        
+          Definition:
+          
+          The following Creative Commons Rights apply to the use of this EBU resource:
+          http://creativecommons.org/licenses/by-sa/3.0/
+          
+          Owner: EBU Technical Department
+          Author: Jean-Pierre Evain
+          Contact: metadata@ebu.ch
+          
+          ##################################################################### -->
+
+   <Alias>EBUStorageIdentifierTypeCode</Alias>
+
+   <Term termID="1">
+      <Name xml:lang="en">EBU International Broadcast Tape Number - IBTN</Name>
+      <Definition xml:lang="en">A tape number according to the EBU International Broadcast Tape
+         Number scheme</Definition>
+      <Reference>EBU Tech 3279</Reference>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="2">
+      <Name xml:lang="en">Organisational</Name>
+      <Definition xml:lang="en">This defines the storage identifier (e.g. tape number) communicated
+         as being a number belonging to a scheme defined by the organisation sending the
+         material</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+</ClassificationScheme>

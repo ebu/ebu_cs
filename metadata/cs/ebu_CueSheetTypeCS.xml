@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:CueSheetType" versionDate="2019-08-21">
+  <!-- ##################################################################### 
+    CUE SHEET TYPE CS
+    Defines a list of events that refer to a certain timecode on a timeline.
+    
+    The following Creative Commons Rights apply to the use of 
+    this EBU resource:   http://creativecommons.org/licenses/by-nc-sa/3.0/   
+      
+    Owner: EBU Technical Department   
+    Author: Jean-Pierre Evain   
+    Contact: evain@ebu.ch      
+    ##################################################################### -->
+  
+  <Alias>DwerftScoreCues</Alias>
+  <Term termID="1">
+    <Name xml:lang="en">MusicCues</Name>
+    <Definition xml:lang="en">A cuesheet for musical cues.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="1.1">
+      <Name xml:lang="en">ScoreCues</Name>
+      <Definition xml:lang="en">A cuesheet for musical score.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="1.2">
+      <Name xml:lang="en">SourceCues</Name>
+      <Definition xml:lang="en">A cuesheet for source music.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="2">
+    <Name xml:lang="en">DialogueCues</Name>
+    <Definition xml:lang="en">A cuesheet for dialogue takes.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="2.1">
+      <Name xml:lang="en">ADRCues</Name>
+      <Definition xml:lang="en">A cuesheet for ADR dialogue takes.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="2.2">
+      <Name xml:lang="en">DubbingCues</Name>
+      <Definition xml:lang="en">A cuesheet for dubbed dialogue takes.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="3">
+    <Name xml:lang="en">FoleyCues</Name>
+    <Definition xml:lang="en">A cuesheet to list needed foley sounds.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="4">
+    <Name xml:lang="en">MarkerCues</Name>
+    <Definition xml:lang="en">A cuesheet to list annotations e.g. from a meeting refering to the
+      sound design.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+</ClassificationScheme>

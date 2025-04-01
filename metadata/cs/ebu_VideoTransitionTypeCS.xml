@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:VideoTransitionType" versionDate="2019-08-21">
+  <!-- ##################################################################### 
+    VIDEO TRANSITION TYPE CS
+    Defines different types of video transitions between two images or a fade to black.
+    
+    The following Creative Commons Rights apply to the use of 
+    this EBU resource:   http://creativecommons.org/licenses/by-nc-sa/3.0/   
+      
+    Owner: EBU Technical Department   
+    Author: Jean-Pierre Evain   
+    Contact: evain@ebu.ch      
+    ##################################################################### -->
+  
+  <Alias>DwerftVideoTransitionType</Alias>
+  
+  <Term termID="1">
+    <Name xml:lang="en">Additive Dissolve</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="2">
+    <Name xml:lang="en">Cross Dissolve</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="3">
+    <Name xml:lang="en">Dip to Black</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="4">
+    <Name xml:lang="en">Dip to White</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="5">
+    <Name xml:lang="en">Film Dissolve</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="6">
+    <Name xml:lang="en">Morph Cut</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="7">
+    <Name xml:lang="en">Non-Additive Dissolve</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="8">
+    <Name xml:lang="en">Blur Dissolve</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+</ClassificationScheme>

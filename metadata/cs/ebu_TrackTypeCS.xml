@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:TrackTypeCS" versionDate="2019-03-18">
+   <!-- #####################################################################
+	     TRACK TYPE CODE                                            
+	     Definition: A list of possible track types.
+	     
+	     The following Creative Commons Rights apply to the use of this EBU resource:
+	     http://creativecommons.org/licenses/by-sa/3.0/
+	     
+	     Owner: EBU Technical Department
+        Contact: metadata@ebu.ch      
+	     
+	     ##################################################################### -->
+   
+   <Alias>DwerftTrackType</Alias>
+   
+   <Term termID="1">
+      <Name xml:lang="en">Audio</Name>
+      <Definition xml:lang="en">This track is an Audio Track.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="2">
+      <Name xml:lang="en">Video</Name>
+      <Definition xml:lang="en">This track is a Video Track.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="3">
+      <Name xml:lang="en">Data</Name>
+      <Definition xml:lang="en">This track is a Data Track.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="4">
+      <Name xml:lang="en">Timecode</Name>
+      <Definition xml:lang="en">This track is a Timecode Track.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="5">
+      <Name xml:lang="en">Metadata</Name>
+      <Definition xml:lang="en">This track is a Metadata Track.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+</ClassificationScheme>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:NameTypeCS" versionDate="2020-02-21">
+  <!-- ##################################################################### 
+    NAME TYPE CS
+    Describes different types of names that a person can have.
+    
+    The following Creative Commons Rights apply to the use of 
+    this EBU resource:   http://creativecommons.org/licenses/by-nc-sa/3.0/   
+      
+    Owner: EBU Technical Department   
+    Contact: metadata@ebu.ch      
+
+    ##################################################################### -->
+  
+  <Alias>DwerftNameType</Alias>
+  
+  <Term termID="1">
+    <Name xmlns:lang="en">Birth Name</Name>
+    <Definition xmlns:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2020</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="2">
+    <Name xmlns:lang="en">Given Name</Name>
+    <Definition xmlns:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2020</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="3">
+    <Name xmlns:lang="en">Middle Name</Name>
+    <Definition xmlns:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2020</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="4">
+    <Name xmlns:lang="en">Family Name</Name>
+    <Definition xmlns:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2020</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="5">
+    <Name xmlns:lang="en">Full Name</Name>
+    <Definition xmlns:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2020</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="6">
+    <Name xmlns:lang="en">Nick Name</Name>
+    <Definition xmlns:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2020</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="7">
+    <Name xmlns:lang="en">Pseudonym</Name>
+    <Definition xmlns:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2020</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="8">
+    <Name xmlns:lang="en">User Name</Name>
+    <Definition xmlns:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2020</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+</ClassificationScheme>

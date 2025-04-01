@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:QCType" versionDate="2020-03-12">
+    <!-- #####################################################################
+	     IDENTIFIER TYPE CODE                                            
+	     Definition: Different types and aspects of Quality Checks
+	     
+	     The following Creative Commons Rights apply to the use of this EBU resource:
+	     http://creativecommons.org/licenses/by-sa/3.0/
+	     
+	     Owner: EBU Technical Department
+         Contact: metadata@ebu.ch      
+	     
+	     ##################################################################### -->
+    
+    <Alias>DwerftQCType</Alias>
+    
+    <Term termID="1">
+        <Name xml:lang="en">Manual QC</Name>
+        <Definition xml:lang="en">A manual QC has been applied</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2020</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="2">
+        <Name xml:lang="en">Automatic QC</Name>
+        <Definition xml:lang="en">An automatic QC has been applied.</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2020</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="3">
+        <Name xml:lang="en">Technical QC</Name>
+        <Definition xml:lang="en">Technical parameters have been approved.</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2020</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="4">
+        <Name xml:lang="en">Contextual QC</Name>
+        <Definition xml:lang="en">Contextual parameters have been approved.</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2020</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+    </Term>
+</ClassificationScheme>

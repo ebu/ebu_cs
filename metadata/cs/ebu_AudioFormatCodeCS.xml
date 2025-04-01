@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:AudioFormatCodeCS" versionDate="2013-01-07">
+   <!--
+##################################################################### 
+AUDIO FORMAT CS	                                                                             
+Definition: This is a list of possible presentation formats /configurations for audio. 
+
+The following Creative Commons Rights apply to the use of this EBU resource:
+   http://creativecommons.org/licenses/by-sa/3.0/
+   
+   Owner: EBU Technical Department
+   Author: Jean-Pierre Evain
+   Contact: metadata@ebu.ch
+   
+   ##################################################################### 
+-->
+
+
+   <Alias>EBUAudioFormatCode</Alias>
+
+   <Note>This list has been updated and partly reorganised</Note>
+
+   <Term termID="1">
+      <Name xml:lang="en">No sound</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2008-10-01</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="2">
+      <Name xml:lang="en">1/0 (Mono)</Name>
+      <Definition xml:lang="en">Single Monographic Sound. A system using a single discrete audio
+         channel (Monophonic). Also called monaural.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2008-10-01</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="3">
+      <Name xml:lang="en">Dual mono</Name>
+      <Definition xml:lang="en">The same monaural signal is replicated on both
+         channels.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2008-10-01</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="4">
+      <Name xml:lang="en">2/0 (Stereo)</Name>
+      <Definition xml:lang="en">Stereographic Sound.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2008-10-01</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term termID="4.1">
+         <Name xml:lang="en">2/0 (Stereo) + LFE</Name>
+         <Definition xml:lang="en">Stereographic Sound plus Low Frequency Effects.</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="4.2">
+         <Name xml:lang="en">Stereo International</Name>
+         <Definition xml:lang="en">Stereographic Sound plus two single monographic sounds for
+            commentaries.</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+   <Term termID="5">
+      <Name xml:lang="en">Stereo A and B</Name>
+      <Definition xml:lang="en">A system using two discrete audio channels, typically derived from
+         two transducers geographically separated, to give slightly different audio perspective of
+         the same event.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2008-10-01</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="6">
+      <Name xml:lang="en">Stereo M and S</Name>
+      <Definition xml:lang="en">A system using two discrete audio channels, typically derived from
+         two transducers geographically separated, to give slightly different audio perspective of
+         the same event.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2008-10-01</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="7">
+      <Name xml:lang="en">Multi-lingual</Name>
+      <Definition xml:lang="en">A channel configuration allowing the support of more than one
+         language</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2008-10-01</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="8">
+      <Name xml:lang="en">Surround</Name>
+      <Definition xml:lang="en">Surround Sound</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2008-10-01</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term termID="8.1">
+         <Name xml:lang="en">5.1 Surround</Name>
+         <Definition xml:lang="en">A system comprising five discrete, full range main channels
+            (Left, Centre, Right, Left surround, Right surround) plus a band-limited Low Frequency
+            Effects channel: 3/2/1 (L,C,R, LSide, RSide). This is used in Home Theater
+            systems</Definition>
+         <Reference/>
+         <ChangeComment>Update</ChangeComment>
+         <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Link xml:lang="en">
+            <URL>http://en.wikipedia.org/wiki/5.1_surround_sound</URL>
+            <LinkName>wikipedia</LinkName>
+         </Link>
+      </Term>
+      <Term termID="8.2">
+         <Name xml:lang="en">7.1 Surround</Name>
+         <Definition xml:lang="en">An eight-channel surround audio system. It adds two additional
+            speakers to the more conventional six-channel (5.1) audio configuration. As with 5.1
+            surround sound, 7.1 surround sound positional audio uses the standard front, center, and
+            LFE (subwoofer) speaker configuration. This is used in Movie Theater
+            systems.</Definition>
+         <Reference/>
+         <ChangeComment>Update</ChangeComment>
+         <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Link xml:lang="en">
+            <URL>http://en.wikipedia.org/wiki/7.1_surround_sound</URL>
+            <LinkName>wikipedia</LinkName>
+         </Link>
+      </Term>
+      <Term termID="8.3">
+         <Name xml:lang="en">10.2 Surround</Name>
+         <Definition xml:lang="en">10.2 surround sound would add four more channels to the front
+            listening area and only one surround channel.</Definition>
+         <Reference/>
+         <ChangeComment>Update</ChangeComment>
+         <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Link xml:lang="en">
+            <URL>http://en.wikipedia.org/wiki/10.2_surround_sound</URL>
+            <LinkName>wikipedia</LinkName>
+         </Link>
+      </Term>
+      <Term termID="8.4">
+         <Name xml:lang="en">22.2 Surround</Name>
+         <Definition xml:lang="en">The surround sound component of Super Hi-Vision developed by NHK
+            STRL and using 22 + 2 LFE speakers.</Definition>
+         <Reference/>
+         <ChangeComment>Update</ChangeComment>
+         <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Link xml:lang="en">
+            <URL>http://en.wikipedia.org/wiki/22.2_surround_sound</URL>
+            <LinkName>wikipedia</LinkName>
+         </Link>
+      </Term>
+   </Term>
+
+   <Term termID="9">
+      <Name xml:lang="en">Multi-channel</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2008-10-01</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term termID="9.1">
+         <Name xml:lang="en">2/1 (Multi-channel)</Name>
+         <Definition xml:lang="en"/>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2008-10-01</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="9.2">
+         <Name xml:lang="en">2/2 (Multi-channel)</Name>
+         <Definition xml:lang="en"/>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2008-10-01</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="9.3">
+         <Name xml:lang="en">3/0 (Multi-channel)</Name>
+         <Definition xml:lang="en"/>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2008-10-01</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="9.4">
+         <Name xml:lang="en">3/1 (Multi-channel)</Name>
+         <Definition xml:lang="en"/>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2008-10-01</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="9.5">
+         <Name xml:lang="en">3/2 (Multi-channel)</Name>
+         <Definition xml:lang="en"/>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2008-10-01</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Term termID="9.5.1">
+            <Name xml:lang="en">3/2 (Multi-channel) + LFE</Name>
+            <Definition xml:lang="en"/>
+            <Reference/>
+            <ChangeComment>Update</ChangeComment>
+            <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+      </Term>
+   </Term>
+
+   <Term termID="10">
+      <Name xml:lang="en">Ambisonics</Name>
+      <Definition xml:lang="en">A series of recording and replay techniques using multichannel
+         mixing technology that can be used live or in the studio and which recreates the soundfield
+         as it existed in the space, in contrast to traditional surround systems, which can only
+         create illusion of the soundfield if the listener is located in a very narrow sweetspot
+         between speakers. </Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="11">
+      <Name xml:lang="en">Panor-Ambiophonic (PanAmbio) 4.0/4.1</Name>
+      <Definition xml:lang="en">Combines a stereo dipole and crosstalk cancellation in front and a
+         second set behind the listener (total of four speakers) for 360° 2D surround reproduction.
+         Four channel recordings, especially those containing binaural cues, create speaker-binaural
+         surround sound. 5.1 channel recordings, including movie DVDs, are compatible by mixing
+         C-channel content to the front speaker pair. 6.1 can be played by mixing SC to the back
+         pair.</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="12">
+      <Name xml:lang="en">Object audio</Name>
+      <Definition xml:lang="en">Audio following a structure following the the Audio Definition Model
+         (ADM), specifies how XML metadata can be generated to provide the definitions of tracks in
+         an audio file.</Definition>
+      <Reference>Recommendation ITU-R BS.2076</Reference>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-11-25</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="99">
+      <Name xml:lang="en">Other</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2008-10-01</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+</ClassificationScheme>

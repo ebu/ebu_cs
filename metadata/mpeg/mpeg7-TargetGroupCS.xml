@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:mpeg:mpeg7:cs:TargetGroupCS:2001"
+    domain="//CreationInformation/Classification/Market">
+    <Header type="DescriptionMetadataType">
+        <Comment>
+            <FreeTextAnnotation xml:lang="en">
+                Program intended for special audiences defined by age, cultural/ethnic 
+                background, profession, and so forth
+            </FreeTextAnnotation>
+        </Comment>
+    </Header>
+    
+    <Term termID="1">
+        <Name xml:lang="en">General audience</Name>
+        <Definition xml:lang="en">
+            Programs not intended for a specific target group
+        </Definition>
+        <Term termID="1.1">
+            <Name xml:lang="en">Family</Name>
+        </Term>
+    </Term>
+    <Term termID="2">
+        <Name xml:lang="en">Age groups</Name>
+        <Definition xml:lang="en">
+            The age group levels for which the program is primarily intended
+        </Definition>
+        <Term termID="2.1">
+            <Name xml:lang="en">Adults only</Name>
+        </Term>
+        <Term termID="2.2">
+            <Name xml:lang="en">Young children (approx. 3-5 years)</Name>
+        </Term>
+        <Term termID="2.3">
+            <Name xml:lang="en">Children (approx. 6-12 years)</Name>
+        </Term>
+        <Term termID="2.4">
+            <Name xml:lang="en">Teenagers (approx. 13-19 years)</Name>
+        </Term>
+        <Term termID="2.5">
+            <Name xml:lang="en">Young adults (approx. 20-34 years)</Name>
+        </Term>
+        <Term termID="2.6">
+            <Name xml:lang="en">Senior citizens (35-54)</Name>
+        </Term>
+        <Term termID="2.7">
+            <Name xml:lang="en">Elderly (55+)</Name>
+        </Term>
+        <Term termID="2.18">
+            <Name xml:lang="en">Pre-school children</Name>
+        </Term>
+        <Term termID="2.9">
+            <Name xml:lang="en">Entertainment for 6 to 14</Name>
+        </Term>
+        <Term termID="2.10">
+            <Name xml:lang="en">Entertainment for 10 to 16</Name>
+        </Term>
+        <Term termID="2.11">
+            <Name xml:lang="en">Elementary school students</Name>
+        </Term>
+        <Term termID="2.12">
+            <Name xml:lang="en">Junior high school</Name>
+        </Term>
+        <Term termID="2.13">
+            <Name xml:lang="en">High school students</Name>
+        </Term>
+        <Term termID="2.14">
+            <Name xml:lang="en">University students</Name>
+        </Term>
+    </Term>
+    <Term termID="3">
+        <Name xml:lang="en">Regional groups</Name>
+        <Term termID="3.1">
+            <Name xml:lang="en">Regional</Name>
+        </Term>
+        <Term termID="3.2">
+            <Name xml:lang="en">Local</Name>
+        </Term>
+    </Term>
+    <Term termID="4">
+        <Name xml:lang="en">Minority groups</Name>
+        <Term termID="4.1">
+            <Name xml:lang="en">Ethnic groups</Name>
+            <Definition xml:lang="en">
+                Program for native-born people differing in language and/or
+                culture
+            </Definition>
+        </Term>
+        <Term termID="4.2">
+            <Name xml:lang="en">Immigrant groups</Name>
+            <Definition xml:lang="en">
+                Program for non-native born people and their immediate
+                descendants, differing in language and/or culture
+            </Definition>
+        </Term>
+        <Term termID="4.3">
+            <Name xml:lang="en">Linguistic groups</Name>
+        </Term>
+    </Term>
+    <Term termID="5">
+        <Name xml:lang="en">Occupational groups</Name>
+        <Term termID="5.1">
+            <Name xml:lang="en">Mainshoppers</Name>
+        </Term>
+        <Term termID="5.2">
+            <Name xml:lang="en">Business people</Name>
+        </Term>
+        <Term termID="5.3">
+            <Name xml:lang="en">Farmers</Name>
+        </Term>
+        <Term termID="5.4">
+            <Name xml:lang="en">Fishermen/Sailors</Name>
+        </Term>
+        <Term termID="5.5">
+            <Name xml:lang="en">Schoolchildren/Students</Name>
+        </Term>
+        <Term termID="5.6">
+            <Name xml:lang="en">Unemployed people</Name>
+        </Term>
+    </Term>
+    <Term termID="6">
+        <Name xml:lang="en">Other special interest groups</Name>
+        <Term termID="6.1">
+            <Name xml:lang="en">Motorist</Name>
+        </Term>
+        <Term termID="6.2">
+            <Name xml:lang="en">Tourist</Name>
+        </Term>
+        <Term termID="6.3">
+            <Name xml:lang="en">Women</Name>
+        </Term>
+        <Term termID="6.3">
+            <Name xml:lang="en">Man</Name>
+        </Term>
+    </Term>
+</ClassificationScheme>

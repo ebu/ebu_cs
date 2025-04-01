@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassificationScheme uri="urn:ebu:metadata-cs:OrganisationTypeCodeCS" versionDate="2020-04-08">
+
+   <!-- #####################################################################
+	     ORGANISATION TYPE CODE                                      
+	     Definition:
+	     
+	     The following Creative Commons Rights apply to the use of this EBU resource:
+	     http://creativecommons.org/licenses/by-sa/3.0/
+	     
+	     Owner: EBU Technical Department
+	     Author: Jean-Pierre Evain
+        Contact: metadata@ebu.ch      
+	     
+	     ##################################################################### -->
+
+   <Alias>EBUOrganisationTypeCode</Alias>
+
+   <Term termID="1">
+      <Name xml:lang="en">Charity</Name>
+      <Definition xml:lang="en">An organisation which is funded by donations and which provides some
+         form of community service</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="2">
+      <Name xml:lang="en">Chartered Body</Name>
+      <Definition xml:lang="en">An independent body with a degree of public funding, but which does
+         not come under the control of a government agency. This includes professional bodies (e.g.
+         the bodies which control the membership of professions such as medicine and accountancy),
+         independent commissions (such as the Commission for Racial Equality and the Arts Council),
+         and public service broadcasters</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="3">
+      <Name xml:lang="en">Civil Defence Organisation</Name>
+      <Definition xml:lang="en">Police, fire brigade, ambulance service, coastguard and similar
+         bodies</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="4">
+      <Name xml:lang="en">Club / Society</Name>
+      <Definition xml:lang="en">A group of people with a common shared aim or interest. Clubs and
+         societies in this context usually refer to recreational and cultural pursuits as other
+         interests may be covered by charities</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="5">
+      <Name xml:lang="en">Consortium</Name>
+      <Definition xml:lang="en">A group of organisations which band together for a specific purpose
+         such as financing a project which is too large for any of them to back alone</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="6">
+      <Name xml:lang="en">Co-operative</Name>
+      <Definition xml:lang="en">An organisation where the workforce all jointly own the company and
+         thus share in the decision making process and also receive a profit share</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="7">
+      <Name xml:lang="en">Educational Establishment</Name>
+      <Definition xml:lang="en">A school, college, university or other publicly recognised seat of
+         learning</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="8">
+      <Name xml:lang="en">Financial Institution</Name>
+      <Definition xml:lang="en">An institution providing financial services such as saving and
+         borrowing money. For example a bank</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="9">
+      <Name xml:lang="en">Internal Department</Name>
+      <Definition xml:lang="en">An internal department within any organisation</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="10">
+      <Name xml:lang="en">International Public Body</Name>
+      <Definition xml:lang="en">Organisations which act with common consent across international
+         boundaries. Examples include the United Nations and the European Union</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="11">
+      <Name xml:lang="en">Judiciary</Name>
+      <Definition xml:lang="en">Courts of law or their equivalent</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="12">
+      <Name xml:lang="en">Limited Company</Name>
+      <Definition xml:lang="en">A registered limited company bound by companies law in the country
+         in which it is incorporated</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="13">
+      <Name xml:lang="en">Local Authority</Name>
+      <Definition xml:lang="en">A regional government body within a country. Note that some
+         countries may have several layers of government</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="14">
+      <Name xml:lang="en">Military Organisation</Name>
+      <Definition xml:lang="en">The army, navy or air force of any country or one of its constituent
+         parts</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="15">
+      <Name xml:lang="en">Mutual Society</Name>
+      <Definition xml:lang="en">A financial institution such as a mutual assurance society or
+         building society that has no shareholders but is directly owned by its
+         investors</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="16">
+      <Name xml:lang="en">Partnership</Name>
+      <Definition xml:lang="en">A legal partnership between two or more persons in which they take
+         an equal risk and share of the profits from any joint venture</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="17">
+      <Name xml:lang="en">Political Party</Name>
+      <Definition xml:lang="en">A group of people with common political aims</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="18">
+      <Name xml:lang="en">Religious Order</Name>
+      <Definition xml:lang="en">A religious organisation. This could refer to the organisation of an
+         entire religion, a sect within a religion, a grouping within a religious sect, or an the
+         organisation controlling an individual place of worship</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="19">
+      <Name xml:lang="en">Sole Trader</Name>
+      <Definition xml:lang="en">An individual person who is registered to trade. Effectively, this
+         is the position of many self-employed people</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="20">
+      <Name xml:lang="en">Trade Unions</Name>
+      <Definition xml:lang="en">An organisation which campaigns for the rights of workers employed
+         by a particular employer or within a particular industry</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="21">
+      <Name xml:lang="en">Government Department</Name>
+      <Definition xml:lang="en">A department of a country's central government</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="22">
+      <Name xml:lang="en">Broadcaster</Name>
+      <Definition xml:lang="en">An organization responsible of one or more broadcasting
+         services.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+</ClassificationScheme>

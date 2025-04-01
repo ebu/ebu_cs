@@ -1,0 +1,3992 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:SoundCategory" versionDate="2019-09-03">
+  <!-- ##################################################################### 
+    SOUND CATEGORY CS
+    Defines a set of sound categories.
+    
+    The following Creative Commons Rights apply to the use of 
+    this EBU resource:   http://creativecommons.org/licenses/by-nc-sa/3.0/   
+      
+    Owner: EBU Technical Department   
+    Contact: metadata@ebu.ch      
+    ##################################################################### -->
+  
+  <Alias>DwerftSoundCategory</Alias>
+  
+  <Term termID="1">
+    <Name xml:lang="en">AIRCRAFT</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="1.1">
+      <Name xml:lang="en">BLIMPS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="1.2">
+      <Name xml:lang="en">GLIDERS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="1.3">
+      <Name xml:lang="en">HELICOPTERS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="1.4">
+      <Name xml:lang="en">JETS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="1.5">
+      <Name xml:lang="en">MILITARY</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="1.6">
+      <Name xml:lang="en">MISC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="1.7">
+      <Name xml:lang="en">PROPS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="1.8">
+      <Name xml:lang="en">ROCKETS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="2">
+    <Name xml:lang="en">ALARMS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="3">
+    <Name xml:lang="en">AMBIENCE</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="3.1">
+      <Name xml:lang="en">CAVE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="3.2">
+      <Name xml:lang="en">CELEBRATION</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="3.3">
+      <Name xml:lang="en">CONSTRUCTION</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="3.4">
+      <Name xml:lang="en">DESERT</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="3.5">
+      <Name xml:lang="en">ETHEREAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="3.6">
+      <Name xml:lang="en">EXOTIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="3.7">
+      <Name xml:lang="en">FOREIGN</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="3.8">
+      <Name xml:lang="en">HISTORICAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="3.9">
+      <Name xml:lang="en">INDUSTRIAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="3.10">
+      <Name xml:lang="en">NAUTICAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="3.11">
+      <Name xml:lang="en">PUBLIC PLACES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="3.12">
+      <Name xml:lang="en">ROOM TONES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="3.13">
+      <Name xml:lang="en">RURAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="3.14">
+      <Name xml:lang="en">SCIFI</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="3.15">
+      <Name xml:lang="en">SEASIDE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="3.16">
+      <Name xml:lang="en">SUBURBAN</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="3.17">
+      <Name xml:lang="en">SWAMP</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="3.18">
+      <Name xml:lang="en">TECHNICAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="3.19">
+      <Name xml:lang="en">TRAFFIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="3.20">
+      <Name xml:lang="en">TROPICAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="3.21">
+      <Name xml:lang="en">URBAN</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="3.22">
+      <Name xml:lang="en">WARFARE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="4">
+    <Name xml:lang="en">ANIMALS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="4.1">
+      <Name xml:lang="en">AMPHIBIANS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="4.2">
+      <Name xml:lang="en">BATS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="4.3">
+      <Name xml:lang="en">BIRDS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="4.4">
+      <Name xml:lang="en">CATS DOMESTIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="4.5">
+      <Name xml:lang="en">CATS WILD</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="4.6">
+      <Name xml:lang="en">COWS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="4.7">
+      <Name xml:lang="en">DOGS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="4.8">
+      <Name xml:lang="en">FARM</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="4.9">
+      <Name xml:lang="en">HORSES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="4.10">
+      <Name xml:lang="en">INSECTS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="4.11">
+      <Name xml:lang="en">MARINE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="4.12">
+      <Name xml:lang="en">PRIMATES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="4.13">
+      <Name xml:lang="en">REPTILES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="4.14">
+      <Name xml:lang="en">RODENTS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="4.15">
+      <Name xml:lang="en">WILD</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="5">
+    <Name xml:lang="en">BEEPS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="6">
+    <Name xml:lang="en">BELLS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="7">
+    <Name xml:lang="en">BOATS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="7.1">
+      <Name xml:lang="en">AIR BOATS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="7.2">
+      <Name xml:lang="en">BOW WASH</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="7.3">
+      <Name xml:lang="en">FISHING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="7.4">
+      <Name xml:lang="en">MISC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="7.5">
+      <Name xml:lang="en">MOTORBOATS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="7.6">
+      <Name xml:lang="en">RACING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="7.7">
+      <Name xml:lang="en">ROWBOATS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="7.8">
+      <Name xml:lang="en">SAILBOATS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="7.9">
+      <Name xml:lang="en">SHIPS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="7.10">
+      <Name xml:lang="en">STEAM</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="7.11">
+      <Name xml:lang="en">SUBMARINES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="8">
+    <Name xml:lang="en">BONES</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="9">
+    <Name xml:lang="en">BUZZERS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="10">
+    <Name xml:lang="en">CARS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="10.1">
+      <Name xml:lang="en">PASS BY</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="10.2">
+      <Name xml:lang="en">ACCELERATE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="10.3">
+      <Name xml:lang="en">BRAKE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="10.4">
+      <Name xml:lang="en">REVERSE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="10.5">
+      <Name xml:lang="en">START</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="10.6">
+      <Name xml:lang="en">WINDOW</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="10.7">
+      <Name xml:lang="en">WIPER</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="10.8">
+      <Name xml:lang="en">DOORS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="10.9">
+      <Name xml:lang="en">CRASH</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="10.10">
+      <Name xml:lang="en">TIRES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="10.11">
+      <Name xml:lang="en">BLINKER</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="10.12">
+      <Name xml:lang="en">IDLE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="10.13">
+      <Name xml:lang="en">ON BOARD</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="10.14">
+      <Name xml:lang="en">APPROACH</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="10.15">
+      <Name xml:lang="en">AWAY</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="11">
+    <Name xml:lang="en">CARTOON</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="11.1">
+      <Name xml:lang="en">BOINGS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="11.2">
+      <Name xml:lang="en">MISC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="11.3">
+      <Name xml:lang="en">TWANGS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="11.4">
+      <Name xml:lang="en">ZIPS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="12">
+    <Name xml:lang="en">CHAINS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="13">
+    <Name xml:lang="en">CHIMES</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="14">
+    <Name xml:lang="en">CLICKS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="15">
+    <Name xml:lang="en">CLOCKS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="16">
+    <Name xml:lang="en">CLOTH</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="16.1">
+      <Name xml:lang="en">LEATHER</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="16.2">
+      <Name xml:lang="en">SILK</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="16.3">
+      <Name xml:lang="en">LATEX</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="16.4">
+      <Name xml:lang="en">POLYESTER</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="17">
+    <Name xml:lang="en">COINS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="18">
+    <Name xml:lang="en">COMMUNICATIONS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="18.1">
+      <Name xml:lang="en">CAMERAS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="18.2">
+      <Name xml:lang="en">MICROPHONES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="18.3">
+      <Name xml:lang="en">PHONOGRAPHS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="18.4">
+      <Name xml:lang="en">RADIOS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="18.5">
+      <Name xml:lang="en">STATIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="18.6">
+      <Name xml:lang="en">TELEMETRY</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="18.7">
+      <Name xml:lang="en">TELEPHONES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="18.8">
+      <Name xml:lang="en">TELEVISIONS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="18.9">
+      <Name xml:lang="en">TYPEWRITERS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="18.10">
+      <Name xml:lang="en">WALKIE TALKIES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="19">
+    <Name xml:lang="en">COMPUTERS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="20">
+    <Name xml:lang="en">CRACKS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="20.1">
+      <Name xml:lang="en">GLASS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="20.2">
+      <Name xml:lang="en">METAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="20.3">
+      <Name xml:lang="en">MISC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="20.4">
+      <Name xml:lang="en">ROCK</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="20.5">
+      <Name xml:lang="en">WOOD</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="21">
+    <Name xml:lang="en">CRASHES</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="21.1">
+      <Name xml:lang="en">GLASS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="21.2">
+      <Name xml:lang="en">METAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="21.3">
+      <Name xml:lang="en">MISC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="21.4">
+      <Name xml:lang="en">POTTERY</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="21.5">
+      <Name xml:lang="en">ROCK</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="21.6">
+      <Name xml:lang="en">WOOD</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="22">
+    <Name xml:lang="en">CREAKS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="22.1">
+      <Name xml:lang="en">DOOR</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="22.2">
+      <Name xml:lang="en">GLASS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="22.3">
+      <Name xml:lang="en">METAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="22.4">
+      <Name xml:lang="en">MISC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="22.5">
+      <Name xml:lang="en">WOOD</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="23">
+    <Name xml:lang="en">CROWDS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="23.1">
+      <Name xml:lang="en">APPLAUSE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="23.2">
+      <Name xml:lang="en">BATTLE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="23.3">
+      <Name xml:lang="en">CHEERING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="23.4">
+      <Name xml:lang="en">LAUGHTER</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="23.5">
+      <Name xml:lang="en">REACTIONS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="23.6">
+      <Name xml:lang="en">SCREAMS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="23.7">
+      <Name xml:lang="en">WALLAS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="24">
+    <Name xml:lang="en">CRUNCHES</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="24.1">
+      <Name xml:lang="en">GLASS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="24.2">
+      <Name xml:lang="en">METAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="24.3">
+      <Name xml:lang="en">MISC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="24.4">
+      <Name xml:lang="en">ROCK</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="24.5">
+      <Name xml:lang="en">WOOD</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="25">
+    <Name xml:lang="en">DEBRIS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="25.1">
+      <Name xml:lang="en">DUST</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="25.2">
+      <Name xml:lang="en">GLASS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="25.3">
+      <Name xml:lang="en">GRIT</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="25.4">
+      <Name xml:lang="en">MISC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="25.5">
+      <Name xml:lang="en">METAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="25.6">
+      <Name xml:lang="en">ROCK</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="25.7">
+      <Name xml:lang="en">WOOD</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="26">
+    <Name xml:lang="en">DESIGNED SOUND</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="27">
+    <Name xml:lang="en">DOORS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="27.1">
+      <Name xml:lang="en">APPLIANCES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="27.2">
+      <Name xml:lang="en">CABINETS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="27.3">
+      <Name xml:lang="en">CASTLE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="27.4">
+      <Name xml:lang="en">ELECTRIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="27.5">
+      <Name xml:lang="en">EXOTIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="27.6">
+      <Name xml:lang="en">GATES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="27.7">
+      <Name xml:lang="en">GLASS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="27.8">
+      <Name xml:lang="en">JAIL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="27.9">
+      <Name xml:lang="en">HARDWARE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="27.10">
+      <Name xml:lang="en">HYDRAULIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="27.11">
+      <Name xml:lang="en">KNOCKING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="27.12">
+      <Name xml:lang="en">METAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="27.13">
+      <Name xml:lang="en">MISC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="27.14">
+      <Name xml:lang="en">PNEUMATIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="27.15">
+      <Name xml:lang="en">SLIDING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="27.16">
+      <Name xml:lang="en">STONE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="27.17">
+      <Name xml:lang="en">SWINGING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="27.18">
+      <Name xml:lang="en">VEHICLE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="27.19">
+      <Name xml:lang="en">WOOD</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="28">
+    <Name xml:lang="en">DRAWERS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="28.1">
+      <Name xml:lang="en">GLASS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="28.2">
+      <Name xml:lang="en">METAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="28.3">
+      <Name xml:lang="en">WOOD</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="29">
+    <Name xml:lang="en">ECHOES</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="30">
+    <Name xml:lang="en">ELECTRICAL</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="30.1">
+      <Name xml:lang="en">ARCING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="30.2">
+      <Name xml:lang="en">HUMS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="30.3">
+      <Name xml:lang="en">RELAYS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="30.4">
+      <Name xml:lang="en">SPARKS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="30.5">
+      <Name xml:lang="en">TONES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="30.6">
+      <Name xml:lang="en">WELDING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="30.7">
+      <Name xml:lang="en">ZAPS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="31">
+    <Name xml:lang="en">ELEVATORS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="32">
+    <Name xml:lang="en">EMERGENCY</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="32.1">
+      <Name xml:lang="en">AMBULANCE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="32.2">
+      <Name xml:lang="en">FIRE FIGHTING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="32.3">
+      <Name xml:lang="en">HOSPITAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="32.4">
+      <Name xml:lang="en">MISC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="32.5">
+      <Name xml:lang="en">POLICE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="32.6">
+      <Name xml:lang="en">SIRENS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="33">
+    <Name xml:lang="en">ESCALATORS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="34">
+    <Name xml:lang="en">EXPLOSIONS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="35">
+    <Name xml:lang="en">FANS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="36">
+    <Name xml:lang="en">FANTASY</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="37">
+    <Name xml:lang="en">FIGHT</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="37.1">
+      <Name xml:lang="en">BODYFALL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="37.2">
+      <Name xml:lang="en">GRAB</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="37.3">
+      <Name xml:lang="en">KICK</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="37.4">
+      <Name xml:lang="en">PUNCH</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="37.5">
+      <Name xml:lang="en">STAB</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="38">
+    <Name xml:lang="en">FIRE</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="38.1">
+      <Name xml:lang="en">BURNING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="38.2">
+      <Name xml:lang="en">IGNITING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="38.3">
+      <Name xml:lang="en">SIZZLES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="38.4">
+      <Name xml:lang="en">TORCHES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="38.5">
+      <Name xml:lang="en">WHOOSHES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="39">
+    <Name xml:lang="en">FIREWORKS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="40">
+    <Name xml:lang="en">FOLEY</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="41">
+    <Name xml:lang="en">FOOD &amp; DRINK</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="41.1">
+      <Name xml:lang="en">COOKING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="41.2">
+      <Name xml:lang="en">DRINKING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="41.3">
+      <Name xml:lang="en">EATING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="41.4">
+      <Name xml:lang="en">GLASSWARE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="41.5">
+      <Name xml:lang="en">KITCHENWARE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="41.6">
+      <Name xml:lang="en">TABLEWARE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="42">
+    <Name xml:lang="en">FOOTSTEPS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="42.1">
+      <Name xml:lang="en">ANIMAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="42.2">
+      <Name xml:lang="en">INSECTS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="42.3">
+      <Name xml:lang="en">HUMAN</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="42.4">
+      <Name xml:lang="en">MONSTERS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="42.5">
+      <Name xml:lang="en">ASPHALT</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="42.6">
+      <Name xml:lang="en">GRAVEL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="42.7">
+      <Name xml:lang="en">SAND</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="42.8">
+      <Name xml:lang="en">STONE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="42.9">
+      <Name xml:lang="en">GRASS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="42.10">
+      <Name xml:lang="en">WATER</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="42.11">
+      <Name xml:lang="en">WOOD</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="42.12">
+      <Name xml:lang="en">BOOTS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="42.13">
+      <Name xml:lang="en">HIGH HEELS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="42.14">
+      <Name xml:lang="en">SNEAKER</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="42.15">
+      <Name xml:lang="en">BAREFEET</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="43">
+    <Name xml:lang="en">FURNITURE</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="44">
+    <Name xml:lang="en">GAMES</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="45">
+    <Name xml:lang="en">GHOSTS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="46">
+    <Name xml:lang="en">GLASS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="46.1">
+      <Name xml:lang="en">BREAKING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="46.2">
+      <Name xml:lang="en">CRACKING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="46.3">
+      <Name xml:lang="en">MISC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="47">
+    <Name xml:lang="en">GUNS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="47.1">
+      <Name xml:lang="en">AIR</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="47.2">
+      <Name xml:lang="en">ARTILLERY</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="47.3">
+      <Name xml:lang="en">BULLET BYS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="47.4">
+      <Name xml:lang="en">BULLET HITS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="47.5">
+      <Name xml:lang="en">CANNONS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="47.6">
+      <Name xml:lang="en">HANDLING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="47.7">
+      <Name xml:lang="en">MACHINE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="47.8">
+      <Name xml:lang="en">PISTOLS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="47.9">
+      <Name xml:lang="en">RIFLES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="47.10">
+      <Name xml:lang="en">RICOCHETS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="47.11">
+      <Name xml:lang="en">SCIFI</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="47.12">
+      <Name xml:lang="en">SHOTGUNS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="48">
+    <Name xml:lang="en">HORNS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="49">
+    <Name xml:lang="en">HORROR</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="50">
+    <Name xml:lang="en">HOUSEHOLD</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="51">
+    <Name xml:lang="en">HUMAN</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="51.1">
+      <Name xml:lang="en">BREATHE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="51.2">
+      <Name xml:lang="en">BURP</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="51.3">
+      <Name xml:lang="en">COUGH</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="51.4">
+      <Name xml:lang="en">FART</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="51.5">
+      <Name xml:lang="en">MISC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="51.6">
+      <Name xml:lang="en">HEARBEAT</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="51.7">
+      <Name xml:lang="en">SNORE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="51.8">
+      <Name xml:lang="en">SNEEZE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="51.9">
+      <Name xml:lang="en">HAWK</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="52">
+    <Name xml:lang="en">IMPACTS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="52.1">
+      <Name xml:lang="en">GLASS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="52.2">
+      <Name xml:lang="en">METAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="52.3">
+      <Name xml:lang="en">MISC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="52.4">
+      <Name xml:lang="en">ROCK</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="52.5">
+      <Name xml:lang="en">WOOD</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="53">
+    <Name xml:lang="en">KEYS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="54">
+    <Name xml:lang="en">LASERS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="55">
+    <Name xml:lang="en">LEATHER</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="56">
+    <Name xml:lang="en">LIQUID</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="57">
+    <Name xml:lang="en">MACHINES</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="57.1">
+      <Name xml:lang="en">ANTIQUE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="57.2">
+      <Name xml:lang="en">APPLIANCES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="57.3">
+      <Name xml:lang="en">CONSTRUCTION</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="57.4">
+      <Name xml:lang="en">INDUSTRIAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="57.5">
+      <Name xml:lang="en">LIGHT</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="57.6">
+      <Name xml:lang="en">OFFICE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="57.7">
+      <Name xml:lang="en">HEAVY</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="57.8">
+      <Name xml:lang="en">SCIFI</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="57.9">
+      <Name xml:lang="en">TECHNICAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="57.10">
+      <Name xml:lang="en">VENDING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="58">
+    <Name xml:lang="en">MAGIC</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="58.1">
+      <Name xml:lang="en">CHIMES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="58.2">
+      <Name xml:lang="en">POOF</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="58.3">
+      <Name xml:lang="en">SPELL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="59">
+    <Name xml:lang="en">MECHANICAL</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="59.1">
+      <Name xml:lang="en">GEARS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="59.2">
+      <Name xml:lang="en">LATCHES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="59.3">
+      <Name xml:lang="en">LEVERS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="59.4">
+      <Name xml:lang="en">LOCKS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="59.5">
+      <Name xml:lang="en">RATCHETS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="59.6">
+      <Name xml:lang="en">ROLLERS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="59.7">
+      <Name xml:lang="en">PUMPS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="59.8">
+      <Name xml:lang="en">SWITCHES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="60">
+    <Name xml:lang="en">METAL</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="60.1">
+      <Name xml:lang="en">SCREECHES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="60.2">
+      <Name xml:lang="en">SHINGS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="60.3">
+      <Name xml:lang="en">SPRINGS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="60.4">
+      <Name xml:lang="en">WARPS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="61">
+    <Name xml:lang="en">MOTORS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="61.1">
+      <Name xml:lang="en">ANTIQUE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="61.2">
+      <Name xml:lang="en">ELECTRIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="61.3">
+      <Name xml:lang="en">COMBUSTION</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="61.4">
+      <Name xml:lang="en">HYDRAULIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="61.5">
+      <Name xml:lang="en">PNEUMATIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="61.6">
+      <Name xml:lang="en">SERVOS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="61.7">
+      <Name xml:lang="en">TURBINES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="62">
+    <Name xml:lang="en">MOVEMENT</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="62.1">
+      <Name xml:lang="en">CROWDS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="62.2">
+      <Name xml:lang="en">MISC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="62.3">
+      <Name xml:lang="en">MONSTERS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="63">
+    <Name xml:lang="en">MUSICAL</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="63.1">
+      <Name xml:lang="en">INSTRUMENT</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="63.2">
+      <Name xml:lang="en">SONG OR PHRASE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="63.3">
+      <Name xml:lang="en">STING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="63.4">
+      <Name xml:lang="en">TONALITIES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="63.5">
+      <Name xml:lang="en">LOOPS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="63.6">
+      <Name xml:lang="en">PERCUSSIONS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="63.7">
+      <Name xml:lang="en">HISTORICAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="64">
+    <Name xml:lang="en">NATURE</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="64.1">
+      <Name xml:lang="en">AIR</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="64.2">
+      <Name xml:lang="en">AVALANCHE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="64.3">
+      <Name xml:lang="en">DIRT</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="64.4">
+      <Name xml:lang="en">EARTH</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="64.5">
+      <Name xml:lang="en">EARTHQUAKE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="64.6">
+      <Name xml:lang="en">FOLIAGE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="64.7">
+      <Name xml:lang="en">GEOTHERMAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="64.8">
+      <Name xml:lang="en">GRASS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="64.9">
+      <Name xml:lang="en">HAIL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="64.10">
+      <Name xml:lang="en">ICE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="64.11">
+      <Name xml:lang="en">LAVA</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="64.12">
+      <Name xml:lang="en">LEAVES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="64.13">
+      <Name xml:lang="en">MUD</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="64.14">
+      <Name xml:lang="en">RAIN</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="64.15">
+      <Name xml:lang="en">SAND</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="64.16">
+      <Name xml:lang="en">SNOW</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="64.17">
+      <Name xml:lang="en">STEAM</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="64.18">
+      <Name xml:lang="en">STORMS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="64.19">
+      <Name xml:lang="en">TREES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="64.20">
+      <Name xml:lang="en">THUNDER</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="64.21">
+      <Name xml:lang="en">WIND</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="65">
+    <Name xml:lang="en">PAPER</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="65.1">
+      <Name xml:lang="en">TEAR</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="65.2">
+      <Name xml:lang="en">CRUMPLE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="65.3">
+      <Name xml:lang="en">MOVEMENTS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="66">
+    <Name xml:lang="en">PHONES</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="66.1">
+      <Name xml:lang="en">RINGING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="66.2">
+      <Name xml:lang="en">ANTIQUE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="66.3">
+      <Name xml:lang="en">MODERN</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="66.4">
+      <Name xml:lang="en">MOBILE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="67">
+    <Name xml:lang="en">PLASTIC</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="68">
+    <Name xml:lang="en">POPS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="69">
+    <Name xml:lang="en">RATTLES</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="69.1">
+      <Name xml:lang="en">GLASS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="69.2">
+      <Name xml:lang="en">METAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="69.3">
+      <Name xml:lang="en">MISC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="69.4">
+      <Name xml:lang="en">ROCK</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="69.5">
+      <Name xml:lang="en">WOOD</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="70">
+    <Name xml:lang="en">RIPS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="71">
+    <Name xml:lang="en">ROBOTS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="72">
+    <Name xml:lang="en">ROCKS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="72.1">
+      <Name xml:lang="en">BREAKS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="72.2">
+      <Name xml:lang="en">COLLAPSE &amp; FALL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="72.3">
+      <Name xml:lang="en">HITS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="72.4">
+      <Name xml:lang="en">ROLLING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="73">
+    <Name xml:lang="en">ROPE</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="74">
+    <Name xml:lang="en">RUBBER</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="75">
+    <Name xml:lang="en">RUMBLES</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="76">
+    <Name xml:lang="en">SCI-FI</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="77">
+    <Name xml:lang="en">SCRAPES</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="77.1">
+      <Name xml:lang="en">GLASS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="77.2">
+      <Name xml:lang="en">METAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="77.3">
+      <Name xml:lang="en">MISC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="77.4">
+      <Name xml:lang="en">ROCK</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="77.5">
+      <Name xml:lang="en">WOOD</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="78">
+    <Name xml:lang="en">SPACESHIPS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="79">
+    <Name xml:lang="en">SPLATS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="80">
+    <Name xml:lang="en">SPORTS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="81">
+    <Name xml:lang="en">SQUEAKS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="81.1">
+      <Name xml:lang="en">GLASS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="81.2">
+      <Name xml:lang="en">METAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="81.3">
+      <Name xml:lang="en">MISC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="81.4">
+      <Name xml:lang="en">WOOD</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="82">
+    <Name xml:lang="en">SQUISHES</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="83">
+    <Name xml:lang="en">STICKY</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="84">
+    <Name xml:lang="en">STINGERS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="85">
+    <Name xml:lang="en">SUBHARMONIC</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="86">
+    <Name xml:lang="en">SWOOSHES</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="86.1">
+      <Name xml:lang="en">SWISH</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="86.2">
+      <Name xml:lang="en">WHOOSH</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="87">
+    <Name xml:lang="en">TOOLS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="87.1">
+      <Name xml:lang="en">CONSTRUCTION</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="87.2">
+      <Name xml:lang="en">HAND</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="87.3">
+      <Name xml:lang="en">POWER</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="87.4">
+      <Name xml:lang="en">PNEUMATIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="88">
+    <Name xml:lang="en">TOYS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="89">
+    <Name xml:lang="en">TRAINS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="89.1">
+      <Name xml:lang="en">DIESEL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="89.2">
+      <Name xml:lang="en">ELECTRIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="89.3">
+      <Name xml:lang="en">HORNS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="89.4">
+      <Name xml:lang="en">STEAM</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="89.5">
+      <Name xml:lang="en">SUBWAY</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="90">
+    <Name xml:lang="en">VEHICLES</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="90.1">
+      <Name xml:lang="en">ANTIQUE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="90.2">
+      <Name xml:lang="en">BICYCLES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="90.3">
+      <Name xml:lang="en">BRAKES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="90.4">
+      <Name xml:lang="en">BUSSES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="90.5">
+      <Name xml:lang="en">CARS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="90.6">
+      <Name xml:lang="en">CARTS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="90.7">
+      <Name xml:lang="en">CONSTRUCTION</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="90.8">
+      <Name xml:lang="en">ELECTRICAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="90.9">
+      <Name xml:lang="en">HORNS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="90.10">
+      <Name xml:lang="en">MECHANICAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="90.11">
+      <Name xml:lang="en">MILITARY</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="90.12">
+      <Name xml:lang="en">MOTORCYCLES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="90.13">
+      <Name xml:lang="en">RACING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="90.14">
+      <Name xml:lang="en">SCIFI</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="90.15">
+      <Name xml:lang="en">SKIDS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="90.16">
+      <Name xml:lang="en">SNOWMOBILES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="90.17">
+      <Name xml:lang="en">SUSPENSION</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="90.18">
+      <Name xml:lang="en">TIRES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="90.19">
+      <Name xml:lang="en">TRACTORS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="90.20">
+      <Name xml:lang="en">TRUCKS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="90.21">
+      <Name xml:lang="en">WAGONS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="90.22">
+      <Name xml:lang="en">WHEELS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="91">
+    <Name xml:lang="en">VOICES</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="91.1">
+      <Name xml:lang="en">ALIEN</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="91.2">
+      <Name xml:lang="en">BABIES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="91.3">
+      <Name xml:lang="en">CHILDREN</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="91.4">
+      <Name xml:lang="en">FEMALE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="91.5">
+      <Name xml:lang="en">FOREIGN</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="91.6">
+      <Name xml:lang="en">LAUGHING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="91.7">
+      <Name xml:lang="en">MALE</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="91.8">
+      <Name xml:lang="en">MONSTERS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="91.9">
+      <Name xml:lang="en">PUBLIC ANNOUNCEMENTS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="91.10">
+      <Name xml:lang="en">REACTIONS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="91.11">
+      <Name xml:lang="en">ROBOTS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="91.12">
+      <Name xml:lang="en">SCREAMS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="91.13">
+      <Name xml:lang="en">GERMAN</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="91.14">
+      <Name xml:lang="en">ENGLISH</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="91.15">
+      <Name xml:lang="en">FRENCH</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="91.16">
+      <Name xml:lang="en">RUSSIAN</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="91.17">
+      <Name xml:lang="en">SPANISH</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="91.18">
+      <Name xml:lang="en">ITALIAN</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="91.19">
+      <Name xml:lang="en">POLISH</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="91.20">
+      <Name xml:lang="en">SWEDISH</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="91.21">
+      <Name xml:lang="en">LATIN</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="92">
+    <Name xml:lang="en">WATER</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="92.1">
+      <Name xml:lang="en">BUBBLES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="92.2">
+      <Name xml:lang="en">DRIPS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="92.3">
+      <Name xml:lang="en">FIZZING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="92.4">
+      <Name xml:lang="en">FLOWING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="92.5">
+      <Name xml:lang="en">LAPPING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="92.6">
+      <Name xml:lang="en">PLUMBING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="92.7">
+      <Name xml:lang="en">POURING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="92.8">
+      <Name xml:lang="en">SPLASHES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="92.9">
+      <Name xml:lang="en">SPRAYING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="92.10">
+      <Name xml:lang="en">SURF</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="92.11">
+      <Name xml:lang="en">TURBULENT</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="92.12">
+      <Name xml:lang="en">UNDERWATER</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="93">
+    <Name xml:lang="en">WEAPONS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="93.1">
+      <Name xml:lang="en">BOW AND ARROW</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="93.2">
+      <Name xml:lang="en">BLADES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="93.3">
+      <Name xml:lang="en">CATAPULT</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="93.4">
+      <Name xml:lang="en">CROSSBOWS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="93.5">
+      <Name xml:lang="en">FLAMETHROWERS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="93.6">
+      <Name xml:lang="en">MEDIEVAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="93.7">
+      <Name xml:lang="en">SCIFI</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="93.8">
+      <Name xml:lang="en">SWORDS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="94">
+    <Name xml:lang="en">WHISTLES</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="94.1">
+      <Name xml:lang="en">HUMAN</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="94.2">
+      <Name xml:lang="en">MECHANICAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="95">
+    <Name xml:lang="en">WINDOWS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="95.1">
+      <Name xml:lang="en">METAL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="95.2">
+      <Name xml:lang="en">SLIDING</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="95.3">
+      <Name xml:lang="en">VEHICLES</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="95.4">
+      <Name xml:lang="en">WOOD</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="96">
+    <Name xml:lang="en">WINGS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="96.1">
+      <Name xml:lang="en">BIRD</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="96.2">
+      <Name xml:lang="en">BEAST</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="96.3">
+      <Name xml:lang="en">INSECT</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="96.4">
+      <Name xml:lang="en">MISC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="97">
+    <Name xml:lang="en">WOOD</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="97.1">
+      <Name xml:lang="en">CHOPS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="97.2">
+      <Name xml:lang="en">CRACKS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="98">
+    <Name xml:lang="en">WRITING</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="98.1">
+      <Name xml:lang="en">PENCIL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="98.2">
+      <Name xml:lang="en">BALLPEN</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="98.3">
+      <Name xml:lang="en">MARKER</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="98.4">
+      <Name xml:lang="en">FOUNTAIN PEN</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="98.5">
+      <Name xml:lang="en">FEATHER PEN</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="99">
+    <Name xml:lang="en">ZIPPERS</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+</ClassificationScheme>

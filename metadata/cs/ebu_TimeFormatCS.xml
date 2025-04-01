@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:TimeFormatCS" versionDate="2013-01-07">
+   <!--
+##################################################################### 
+TIME FORMAT CS	                                                                             
+Definition: This is a list of possible time formats to express time and duration.
+
+The following Creative Commons Rights apply to the use of this EBU resource:
+http://creativecommons.org/licenses/by-sa/3.0/
+
+Owner: EBU Technical Department
+Author: Jean-Pierre Evain
+Contact: metadata@ebu.ch
+
+##################################################################### 
+   		-->
+
+   <Alias>EBUTimeFormat</Alias>
+
+   <Term termID="1">
+      <Name xml:lang="en">ISO 8601</Name>
+      <Definition xml:lang="en"/>
+      <Reference>ISO</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2008-12-16</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="2">
+      <Name xml:lang="en">SMPTE 12M (Timecode)</Name>
+      <Definition xml:lang="en"/>
+      <Reference>SMPTE</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2008-12-16</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term termID="2.1">
+         <Name xml:lang="en">SMPTE 12M (Timecode) with drop frames</Name>
+         <Definition xml:lang="en"/>
+         <Reference>SMPTE</Reference>
+         <ChangeComment/>
+         <ChangeVersionDate>2008-12-16</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+   <Term termID="3">
+      <Name xml:lang="en">Edit Unit</Name>
+      <Definition xml:lang="en">Fraction of a second inversely proportional to the video frame rate
+         or audio sample rate</Definition>
+      <Reference/>
+      <ChangeComment/>
+      <ChangeVersionDate>2008-12-16</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="4">
+      <Name xml:lang="en">Second</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment/>
+      <ChangeVersionDate>2008-12-16</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="5">
+      <Name xml:lang="en">Millisecond</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Spelling mistake corrected</ChangeComment>
+      <ChangeVersionDate>2009-01-06</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="6">
+      <Name xml:lang="en">RFC 3339</Name>
+      <Definition xml:lang="en">Date and time over the Internet, Note that RFC 3339 is stricter than
+         ISO 8601 and will require that each element is present for the definition of data AND time
+         e.g. when expressing only a date or time within an element or attribute of dateTime
+         type</Definition>
+      <Reference>IETF</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2008-12-16</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="7">
+      <Name xml:lang="en">Normal Play Time</Name>
+      <Definition xml:lang="en">Time specification conforming to section 3.6 of RFC 2326 (Normal
+         Play Time). Syntax: hh:mm:ss.mmm (precision: millisecond)</Definition>
+      <Reference>IETF</Reference>
+      <ChangeComment>Added for harmonisation with IPTC for use e.g. in NewsML-G2</ChangeComment>
+      <ChangeVersionDate>2009-02-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+</ClassificationScheme>

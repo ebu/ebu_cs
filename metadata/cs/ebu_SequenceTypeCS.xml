@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:SequenceType" versionDate="2019-11-08">
+  <!-- ##################################################################### 
+    SEQUENCE TYPE CS
+    Defines possible types of sequences.
+    
+    The following Creative Commons Rights apply to the use of 
+    this EBU resource:   http://creativecommons.org/licenses/by-nc-sa/3.0/   
+      
+    Owner: EBU Technical Department   
+    Contact: metadata@ebu.ch      
+    ##################################################################### -->
+  
+  <Alias>DwerftSequenceType</Alias>
+  
+  <Term termID="1">
+    <Name xml:lang="en">Direct Quote</Name>
+    <Definition xml:lang="en">A sequence containing direct quotes.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="2">
+    <Name xml:lang="en">ImageContent</Name>
+    <Definition xml:lang="en">A sequence containing moving image content.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="3">
+    <Name xml:lang="en">Music</Name>
+    <Definition xml:lang="en">A sequence containing music.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="4">
+    <Name xml:lang="en">Photo</Name>
+    <Definition xml:lang="en">A sequence containing photos.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+</ClassificationScheme>

@@ -1,0 +1,1135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:AudioChannelFunction" versionDate="2019-09-02">
+  <!-- ##################################################################### 
+    AUDIO CHANNEL FUNCTION CS
+    Defines the layout and function of an audio channel.
+    
+    The following Creative Commons Rights apply to the use of 
+    this EBU resource:   http://creativecommons.org/licenses/by-nc-sa/3.0/   
+      
+    Owner: EBU Technical Department   
+    Contact: metadata@ebu.ch      
+    ##################################################################### -->
+  <Alias>DWERFTAudioChannelFunction</Alias>
+  <Term termID="1">
+    <Name xml:lang="en">Mono</Name>
+    <Definition xml:lang="en">A simple Mono Channel of a Mono Track</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="2">
+    <Name xml:lang="en">MidSide</Name>
+    <Definition xml:lang="en">Mid-Side Encoding</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="2.1">
+      <Name xml:lang="en">M-MidSide</Name>
+      <Definition xml:lang="en">Mid Channel of a MS Encoding</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="2.2">
+      <Name xml:lang="en">S-MidSide</Name>
+      <Definition xml:lang="en">Side Channel of a MS Encoding</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="3">
+    <Name xml:lang="en">XY</Name>
+    <Definition xml:lang="en">X/Y Encoding</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="3.1">
+      <Name xml:lang="en">X-XY</Name>
+      <Definition xml:lang="en">X-Channel of an X/Y-Recording</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="3.2">
+      <Name xml:lang="en">Y-XY</Name>
+      <Definition xml:lang="en">Y-Channel of an X/Y-Recording</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="4">
+    <Name xml:lang="en">MIX (stereo or mono mixdown)</Name>
+    <Definition xml:lang="en">Mixdown to mono or stereo</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="4.1">
+      <Name xml:lang="en">L-MIX</Name>
+      <Definition xml:lang="en">Left Mixdown Channel</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="4.2">
+      <Name xml:lang="en">R-MIX</Name>
+      <Definition xml:lang="en">Right Mixdown Channel</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="5">
+    <Name xml:lang="en">STEREO</Name>
+    <Definition xml:lang="en">Stereo Track</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="5.1">
+      <Name xml:lang="en">LEFT</Name>
+      <Definition xml:lang="en">Left Channel of a Stereo Track</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="5.2">
+      <Name xml:lang="en">RIGHT</Name>
+      <Definition xml:lang="en">Right Channel of a Stereo Track</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="6">
+    <Name xml:lang="en">DMS</Name>
+    <Definition xml:lang="en">Double Mid-Side</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="6.1">
+      <Name xml:lang="en">F-DMS</Name>
+      <Definition xml:lang="en">Front</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="6.2">
+      <Name xml:lang="en">8-DMS</Name>
+      <Definition xml:lang="en">Side (Figure Eight)</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="6.3">
+      <Name xml:lang="en">R-DMS</Name>
+      <Definition xml:lang="en">Rear</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="7">
+    <Name xml:lang="en">LCR</Name>
+    <Definition xml:lang="en">Left Center Right </Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="7.1">
+      <Name xml:lang="en">L-LCR</Name>
+      <Definition xml:lang="en">Left Channel of an LCR Track</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="7.2">
+      <Name xml:lang="en">C-LCR</Name>
+      <Definition xml:lang="en">Center Channel of an LCR Track</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="7.3">
+      <Name xml:lang="en">R-LCR</Name>
+      <Definition xml:lang="en">Right Channel of an LCR Track</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="8">
+    <Name xml:lang="en">LCRS</Name>
+    <Definition xml:lang="en">4-channel Setup, can be matrized / encoded as LtRt</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="8.1">
+      <Name xml:lang="en">L-LCRS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="8.2">
+      <Name xml:lang="en">C-LCRS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="8.3">
+      <Name xml:lang="en">R-LCRS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="8.4">
+      <Name xml:lang="en">S-LCRS</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="9">
+    <Name xml:lang="en">5.0Surround</Name>
+    <Definition xml:lang="en">5.0 Surround Track</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="9.1">
+      <Name xml:lang="en">L-5.0</Name>
+      <Definition xml:lang="en">Left Channel of a 5.0 Track</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="9.2">
+      <Name xml:lang="en">C-5.0</Name>
+      <Definition xml:lang="en">Center Channel of a 5.0 Track</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="9.3">
+      <Name xml:lang="en">R-5.0</Name>
+      <Definition xml:lang="en">Right Channel of a 5.0 Track</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="9.4">
+      <Name xml:lang="en">Ls-5.0</Name>
+      <Definition xml:lang="en">Left Surround Channel of a 5.0 Track</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="9.5">
+      <Name xml:lang="en">Rs-5.0</Name>
+      <Definition xml:lang="en">Right Surround Channel of a 5.0 Track</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="10">
+    <Name xml:lang="en">5.1Surround</Name>
+    <Definition xml:lang="en">5.1 Surround Track</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="10.1">
+      <Name xml:lang="en">5.1Surround SmpteOrder</Name>
+      <Definition xml:lang="en">5.1 Surround Track defined order by SMPTE</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="10.1.1">
+        <Name xml:lang="en">L-5.1</Name>
+        <Definition xml:lang="en">Left Channel of a 5.1 Track</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="10.1.2">
+        <Name xml:lang="en">R-5.1</Name>
+        <Definition xml:lang="en">Right Channel of a 5.1 Track</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="10.1.3">
+        <Name xml:lang="en">C-5.1</Name>
+        <Definition xml:lang="en">Center Channel of a 5.1 Track</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="10.1.4">
+        <Name xml:lang="en">LFE-5.1</Name>
+        <Definition xml:lang="en">Low Frequency Effect Channel of a 5.1 Track</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="10.1.5">
+        <Name xml:lang="en">Ls-5.1</Name>
+        <Definition xml:lang="en">Left Surround Channel of a 5.1 Track</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="10.1.6">
+        <Name xml:lang="en">Rs-5.1</Name>
+        <Definition xml:lang="en">Right Surround Channel of a 5.1 Track</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+    </Term>
+    <Term termID="10.2">
+      <Name xml:lang="en">5.1Surround FilmOrder</Name>
+      <Definition xml:lang="en">5.1 Surround Track ordered by film standard</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="10.2.1">
+        <Name xml:lang="en">L-5.1</Name>
+        <Definition xml:lang="en">Left Channel of a 5.1 Track</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="10.2.2">
+        <Name xml:lang="en">C-5.1</Name>
+        <Definition xml:lang="en">Center Channel of a 5.1 Track</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="10.2.3">
+        <Name xml:lang="en">R-5.1</Name>
+        <Definition xml:lang="en">Right Channel of a 5.1 Track</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="10.2.4">
+        <Name xml:lang="en">Ls-5.1</Name>
+        <Definition xml:lang="en">Left Surround Channel of a 5.1 Track</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="10.2.5">
+        <Name xml:lang="en">Rs-5.1</Name>
+        <Definition xml:lang="en">Right Surround Channel of a 5.1 Track</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="10.2.6">
+        <Name xml:lang="en">LFE-5.1</Name>
+        <Definition xml:lang="en">Low Frequency Effect Channel of a 5.1 Track</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+    </Term>
+  </Term>
+  <Term termID="11">
+    <Name xml:lang="en">7.1Surround</Name>
+    <Definition xml:lang="en">7.1 Surround Track</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="11.1">
+      <Name xml:lang="en">7.1Surround SmpteOrder</Name>
+      <Definition xml:lang="en">7.1 Surround Track defined order by SMPTE</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="11.1.1">
+        <Name xml:lang="en">L-7.1</Name>
+        <Definition xml:lang="en">Left Channel of a 7.1 Track</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="11.1.2">
+        <Name xml:lang="en">R-7.1</Name>
+        <Definition xml:lang="en">Right Channel of a 7.1 Track</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="11.1.3">
+        <Name xml:lang="en">C-7.1</Name>
+        <Definition xml:lang="en">Center Channel of a 7.1 Track</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="11.1.4">
+        <Name xml:lang="en">LFE-7.1</Name>
+        <Definition xml:lang="en">Low Frequency Effect Channel of a 7.1 Track</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="11.1.5">
+        <Name xml:lang="en">Lss-7.1</Name>
+        <Definition xml:lang="en">Left Side Channel of a 7.1 Track</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="11.1.6">
+        <Name xml:lang="en">Rss-7.1</Name>
+        <Definition xml:lang="en">Right Side Channel of a 7.1 Track</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="11.1.7">
+        <Name xml:lang="en">Lrs-7.1</Name>
+        <Definition xml:lang="en">Left Rear Channel of a 7.1 Track</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="11.1.8">
+        <Name xml:lang="en">Rrs-7.1</Name>
+        <Definition xml:lang="en">Right Rear Channel of a 7.1 Track</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+    </Term>
+    <Term termID="11.2">
+      <Name xml:lang="en">7.1Surround FilmOrder</Name>
+      <Definition xml:lang="en">7.1 Surround Track ordered by film standard</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="11.2.1">
+        <Name xml:lang="en">L-7.1</Name>
+        <Definition xml:lang="en">Left Channel of a 7.1 Track</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="11.2.2">
+        <Name xml:lang="en">C-7.1</Name>
+        <Definition xml:lang="en">Center Channel of a 7.1 Track</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="11.2.3">
+        <Name xml:lang="en">R-7.1</Name>
+        <Definition xml:lang="en">Right Channel of a 7.1 Track</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="11.2.4">
+        <Name xml:lang="en">Lss-7.1</Name>
+        <Definition xml:lang="en">Left Side Channel of a 7.1 Track</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="11.2.5">
+        <Name xml:lang="en">Rss-7.1</Name>
+        <Definition xml:lang="en">Right Side Channel of a 7.1 Track</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="11.2.6">
+        <Name xml:lang="en">Lrs-7.1</Name>
+        <Definition xml:lang="en">Left Rear Channel of a 7.1 Track</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="11.2.7">
+        <Name xml:lang="en">Rrs-7.1</Name>
+        <Definition xml:lang="en">Right Rear Channel of a 7.1 Track</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="11.2.8">
+        <Name xml:lang="en">LFE-7.1</Name>
+        <Definition xml:lang="en">Low Frequency Effect Channel of a 7.1 Track</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+    </Term>
+  </Term>
+  <Term termID="12">
+    <Name xml:lang="en">GenericSurround </Name>
+    <Definition xml:lang="en">Generic Surround Track for individual surround files where the
+      ultimate surround configuration is not known</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="12.1">
+      <Name xml:lang="en">L-GENERIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="12.2">
+      <Name xml:lang="en">Lc-GENERIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="12.3">
+      <Name xml:lang="en">C-GENERIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="12.4">
+      <Name xml:lang="en">Rc-GENERIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="12.5">
+      <Name xml:lang="en">R-GENERIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="12.6">
+      <Name xml:lang="en">Ls-GENERIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="12.7">
+      <Name xml:lang="en">Rs-GENERIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="12.8">
+      <Name xml:lang="en">LFE-GENERIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="13">
+    <Name xml:lang="en">Main Layer Sides</Name>
+    <Definition xml:lang="en">Main Layer Sides</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="13.1">
+      <Name xml:lang="en">Sl-GENERIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="13.2">
+      <Name xml:lang="en">Sr-GENERIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="14">
+    <Name xml:lang="en">MainLayerSurroundHalf-Centers</Name>
+    <Definition xml:lang="en">Main Layer Surround Half-Centers (for NHK22.2)</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="14.1">
+      <Name xml:lang="en">Lcs-GENERIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="14.2">
+      <Name xml:lang="en">Rcs-GENERIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="15">
+    <Name xml:lang="en">LFE2-GENERIC (MainLayer 2nd LFE)</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="16">
+    <Name xml:lang="en">TopLayer</Name>
+    <Definition xml:lang="en">Top Layer (for Atmos, Auro, NKH22.2 etc)</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="16.1">
+      <Name xml:lang="en">VoG-GENERIC</Name>
+      <Definition xml:lang="en">Voice of God</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="16.2">
+      <Name xml:lang="en">Tl-GENERIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="16.3">
+      <Name xml:lang="en">Tc-GENERIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="16.4">
+      <Name xml:lang="en">Tr-GENERIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="16.5">
+      <Name xml:lang="en">Trl-GENERIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="16.6">
+      <Name xml:lang="en">Trc-GENERIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="16.7">
+      <Name xml:lang="en">Trr-GENERIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="16.8">
+      <Name xml:lang="en">Tsl-GENERIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="16.9">
+      <Name xml:lang="en">Tsr-GENERIC</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="17">
+    <Name xml:lang="en">BottomLayer</Name>
+    <Definition xml:lang="en">Bottom Layer (for NHK22.2 and future)</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="17.1">
+      <Name xml:lang="en">VoD-GENERIC</Name>
+      <Definition xml:lang="en">Voice of Devil</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="17.2">
+      <Name xml:lang="en">Bl-GENERIC</Name>
+      <Definition xml:lang="en">Bottom Layer Generic Left</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="17.3">
+      <Name xml:lang="en">Bc-GENERIC</Name>
+      <Definition xml:lang="en">Bottom Layer Generic Center</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="17.4">
+      <Name xml:lang="en">Br-GENERIC</Name>
+      <Definition xml:lang="en">Bottom Layer Generic Right</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="17.5">
+      <Name xml:lang="en">Brl-GENERIC</Name>
+      <Definition xml:lang="en">Bottom Layer Generic Rear Left</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="17.6">
+      <Name xml:lang="en">Brc-GENERIC</Name>
+      <Definition xml:lang="en">Bottom Layer Generic Rear Center</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="17.7">
+      <Name xml:lang="en">Brr-GENERIC</Name>
+      <Definition xml:lang="en">Bottom Layer Generic Rear Right</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="17.8">
+      <Name xml:lang="en">Bsl-GENERIC</Name>
+      <Definition xml:lang="en">Bottom Layer Generic Surround Left</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="17.9">
+      <Name xml:lang="en">Bsr-GENERIC</Name>
+      <Definition xml:lang="en">Bottom Layer Generic Surround Right</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="18">
+    <Name xml:lang="en">Soundfield, B-Format, Ambisonics</Name>
+    <Definition xml:lang="en">Soundfield, B-Format, Ambisonics</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="18.1">
+      <Name xml:lang="en">W-Soundfield</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="18.2">
+      <Name xml:lang="en">X-Soundfield</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="18.3">
+      <Name xml:lang="en">Y-Soundfield</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="18.4">
+      <Name xml:lang="en">Z-Soundfield</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="19">
+    <Name xml:lang="en">Ambisonic Functions</Name>
+    <Definition xml:lang="en">Ambisonic Functions</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="19.1">
+      <Name xml:lang="en">First Order Ambisonic (ACN)</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="19.1.1">
+        <Name xml:lang="en">ACN0-FOA</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="19.1.2">
+        <Name xml:lang="en">ACN1-FOA</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="19.1.3">
+        <Name xml:lang="en">ACN2-FOA</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="19.1.4">
+        <Name xml:lang="en">ACN3-FOA</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+    </Term>
+    <Term termID="19.2">
+      <Name xml:lang="en">Second Order Ambisonics (ACN)</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="19.2.1">
+        <Name xml:lang="en">ACN0-HOA2</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="19.2.2">
+        <Name xml:lang="en">ACN1-HOA2</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="19.2.3">
+        <Name xml:lang="en">ACN2-HOA2</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="19.2.4">
+        <Name xml:lang="en">ACN3-HOA2</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="19.2.5">
+        <Name xml:lang="en">ACN4-HOA2</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="19.2.6">
+        <Name xml:lang="en">ACN5-HOA2</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="19.2.7">
+        <Name xml:lang="en">ACN6-HOA2</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="19.2.8">
+        <Name xml:lang="en">ACN7-HOA2</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="19.2.9">
+        <Name xml:lang="en">ACN8-HOA2</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+    </Term>
+    <Term termID="19.3">
+      <Name xml:lang="en">Third Order Ambisonics (ACN)</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="19.3.1">
+        <Name xml:lang="en">ACN0-HOA3</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="19.3.2">
+        <Name xml:lang="en">ACN1-HOA3</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="19.3.3">
+        <Name xml:lang="en">ACN2-HOA3</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="19.3.4">
+        <Name xml:lang="en">ACN3-HOA3</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="19.3.5">
+        <Name xml:lang="en">ACN4-HOA3</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="19.3.6">
+        <Name xml:lang="en">ACN5-HOA3</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="19.3.7">
+        <Name xml:lang="en">ACN6-HOA3</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="19.3.8">
+        <Name xml:lang="en">ACN7-HOA3</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="19.3.9">
+        <Name xml:lang="en">ACN8-HOA3</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="19.3.10">
+        <Name xml:lang="en">ACN9-HOA3</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="19.3.11">
+        <Name xml:lang="en">ACN10-HOA3</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="19.3.12">
+        <Name xml:lang="en">ACN11-HOA3</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="19.3.13">
+        <Name xml:lang="en">ACN12-HOA3</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="19.3.14">
+        <Name xml:lang="en">ACN13-HOA3</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="19.3.15">
+        <Name xml:lang="en">ACN14-HOA3</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="19.3.16">
+        <Name xml:lang="en">ACN15-HOA3</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+    </Term>
+  </Term>
+</ClassificationScheme>

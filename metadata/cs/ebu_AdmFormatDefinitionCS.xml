@@ -1,0 +1,358 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:AdmFormatDefinition" versionDate="2019-09-02">
+  <!-- ##################################################################### 
+    ADM FORMAT DEFINITION CS
+    Definies a list of format codes for an audio stream.
+    
+    The following Creative Commons Rights apply to the use of 
+    this EBU resource:   http://creativecommons.org/licenses/by-nc-sa/3.0/   
+      
+    Owner: EBU Technical Department   
+    Contact: metadata@ebu.ch      
+    ##################################################################### -->
+  <Alias/>
+  <Term termID="1">
+    <Name xml:lang="en">0x0001</Name>
+    <Definition xml:lang="en">PCM</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="2">
+    <Name xml:lang="en">0x0002</Name>
+    <Definition xml:lang="en">MS ADPCM</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="3">
+    <Name xml:lang="en">0x0003</Name>
+    <Definition xml:lang="en">IEEE FLOAT</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="4">
+    <Name xml:lang="en">0x0005</Name>
+    <Definition xml:lang="en">IBM CVSD</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="5">
+    <Name xml:lang="en">0x0006</Name>
+    <Definition xml:lang="en">ALAW</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="6">
+    <Name xml:lang="en">0x0007</Name>
+    <Definition xml:lang="en">MULAW</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="7">
+    <Name xml:lang="en">0x0010</Name>
+    <Definition xml:lang="en">OKI ADPCM</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="8">
+    <Name xml:lang="en">0x0011</Name>
+    <Definition xml:lang="en">DVI/IMA ADPCM</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="9">
+    <Name xml:lang="en">0x0012</Name>
+    <Definition xml:lang="en">MEDIASPACE ADPCM</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="10">
+    <Name xml:lang="en">0x0013</Name>
+    <Definition xml:lang="en">SIERRA ADPCM</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="11">
+    <Name xml:lang="en">0x0014</Name>
+    <Definition xml:lang="en">G723 ADPCM</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="12">
+    <Name xml:lang="en">0x0015</Name>
+    <Definition xml:lang="en">DIGISTD</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="13">
+    <Name xml:lang="en">0x0016</Name>
+    <Definition xml:lang="en">DIGIFIX</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="14">
+    <Name xml:lang="en">0x0017</Name>
+    <Definition xml:lang="en">DIALOGIC OKI ADPCM</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="15">
+    <Name xml:lang="en">0x0020</Name>
+    <Definition xml:lang="en">YAMAHA ADPCM</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="16">
+    <Name xml:lang="en">0x0021</Name>
+    <Definition xml:lang="en">SONARC</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="17">
+    <Name xml:lang="en">0x0022</Name>
+    <Definition xml:lang="en">DSPGROUP TRUESPEECH</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="18">
+    <Name xml:lang="en">0x0023</Name>
+    <Definition xml:lang="en">ECHOSC1</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="19">
+    <Name xml:lang="en">0x0024</Name>
+    <Definition xml:lang="en">AUDIOFILE AF36</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="20">
+    <Name xml:lang="en">0x0025</Name>
+    <Definition xml:lang="en">APTX</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="21">
+    <Name xml:lang="en">0x0026</Name>
+    <Definition xml:lang="en">AUDIOFILE AF10</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="22">
+    <Name xml:lang="en">0x0030</Name>
+    <Definition xml:lang="en">DOLBY AC2</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="23">
+    <Name xml:lang="en">0x0031</Name>
+    <Definition xml:lang="en">GSM610</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="24">
+    <Name xml:lang="en">0x0033</Name>
+    <Definition xml:lang="en">ANTEX ADPCME</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="25">
+    <Name xml:lang="en">0x0034</Name>
+    <Definition xml:lang="en">CONTROL RES VQLPC</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="26">
+    <Name xml:lang="en">0x0035</Name>
+    <Definition xml:lang="en">CONTROL RES VQLPC</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="27">
+    <Name xml:lang="en">0x0036</Name>
+    <Definition xml:lang="en">DIGIADPCM</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="28">
+    <Name xml:lang="en">0x0037</Name>
+    <Definition xml:lang="en">CONTROL RES CR10</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="29">
+    <Name xml:lang="en">0x0038</Name>
+    <Definition xml:lang="en">NMS VBXADPCM</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="30">
+    <Name xml:lang="en">0x0039</Name>
+    <Definition xml:lang="en">CS IMAADPCM (Roland RDAC)</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="31">
+    <Name xml:lang="en">0x0040</Name>
+    <Definition xml:lang="en">G721 ADPCM</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="32">
+    <Name xml:lang="en">0x0050</Name>
+    <Definition xml:lang="en">MPEG-1 Layer I, II</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="33">
+    <Name xml:lang="en">0x0055</Name>
+    <Definition xml:lang="en">MPEG-1 Layer III (MP3)</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="34">
+    <Name xml:lang="en">0x0069</Name>
+    <Definition xml:lang="en">Xbox ADPCM</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="35">
+    <Name xml:lang="en">0x0200</Name>
+    <Definition xml:lang="en">CREATIVE ADPCM</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="36">
+    <Name xml:lang="en">0x0202</Name>
+    <Definition xml:lang="en">CREATIVE FASTSPEECH8</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="37">
+    <Name xml:lang="en">0x0203</Name>
+    <Definition xml:lang="en">CREATIVE FASTSPEECH10</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="38">
+    <Name xml:lang="en">0x0300</Name>
+    <Definition xml:lang="en">FM TOWNS SND</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="39">
+    <Name xml:lang="en">0x1000</Name>
+    <Definition xml:lang="en">OLIGSM</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="40">
+    <Name xml:lang="en">0x1001</Name>
+    <Definition xml:lang="en">OLIADPCM</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="41">
+    <Name xml:lang="en">0x1002</Name>
+    <Definition xml:lang="en">OLICELP</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="42">
+    <Name xml:lang="en">0x1003</Name>
+    <Definition xml:lang="en">OLISBC</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="43">
+    <Name xml:lang="en">0x1004</Name>
+    <Definition xml:lang="en">OLIOPR</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+</ClassificationScheme>

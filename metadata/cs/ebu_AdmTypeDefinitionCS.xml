@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:AdmTypeDefinition" versionDate="2019-09-02">
+  <!-- ##################################################################### 
+    ADM TYPE DEFINITION CS
+    Definies the tpye of the audio definition model.
+    
+    The following Creative Commons Rights apply to the use of 
+    this EBU resource:   http://creativecommons.org/licenses/by-nc-sa/3.0/   
+      
+    Owner: EBU Technical Department   
+    Contact: metadata@ebu.ch      
+    ##################################################################### -->
+  <Alias/>
+  <Term termID="1">
+    <Name xml:lang="en">DirectSpeakers</Name>
+    <Definition xml:lang="en">For channel-based audio, where each channel feeds a speaker directly</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="2">
+    <Name xml:lang="en">Matrix</Name>
+    <Definition xml:lang="en">For channel-based audio where channels are matrixed together, such as Mid-Side, Lt/Rt</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="3">
+    <Name xml:lang="en">Objects</Name>
+    <Definition xml:lang="en">For object-based audio where channels represent audio objects (or parts of objects), so include positional information</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="4">
+    <Name xml:lang="en">HOA</Name>
+    <Definition xml:lang="en">For scene-based audio where Ambisonics and HOA are used</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="5">
+    <Name xml:lang="en">Binaural</Name>
+    <Definition xml:lang="en">For binaural audio, where playback is over headphones</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="6">
+    <Name xml:lang="en">User Custom</Name>
+    <Definition xml:lang="en">For user custom types.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+</ClassificationScheme>

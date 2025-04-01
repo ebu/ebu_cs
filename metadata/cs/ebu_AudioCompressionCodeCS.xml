@@ -1,0 +1,1644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:AudioCompressionCodeCS" versionDate="2019-06-24">
+   <!--
+   ##################################################################### 
+   AUDIO COMPRESSION CODE CS                                                                     
+   Definition: This is a list of well recognised audio compression techniques as identiied by EBU, DVB and MPEG. 
+
+   The following Creative Commons Rights apply to the use of this EBU resource:
+   http://creativecommons.org/licenses/by-sa/3.0/
+   
+   Owner: EBU Technical Department
+   Author: Jean-Pierre Evain
+   Contact: metadata@ebu.ch
+   
+   ##################################################################### 
+   -->
+
+   <Alias>EBUAudioCompressionCode</Alias>
+
+   <Link xml:lang="en">
+      <URL>http://mpeg.chiariglione.org/docs/uri-assets</URL>
+      <LinkName>MPEG URI Assets</LinkName>
+   </Link>
+   <Link xml:lang="en">
+      <URL>http://www.dvb.org/metadata/cs/AudioCodecCS.xml</URL>
+      <LinkName>DVB Audio Codecs CS</LinkName>
+   </Link>
+
+   <Term termID="1">
+      <Name xml:lang="en">A-LAW</Name>
+      <Definition xml:lang="en">The 13 bits non-uniform coding scheme, as defined by
+         G.711</Definition>
+      <Reference>CCITT</Reference>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://en.wikipedia.org/wiki/A-law_algorithm</URL>
+         <LinkName>wikipedia</LinkName>
+      </Link>
+   </Term>
+
+   <Term termID="2">
+      <Name xml:lang="en">MU-LAW</Name>
+      <Definition xml:lang="en">The 14 bits non-uniform coding scheme, as defined by
+         G.711</Definition>
+      <Reference>CCITT</Reference>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://en.wikipedia.org/wiki/Mu-law_algorithm</URL>
+         <LinkName>wikipedia</LinkName>
+      </Link>
+   </Term>
+
+   <Term termID="3">
+      <Name xml:lang="en">ATRAC</Name>
+      <Definition xml:lang="en">The Adaptive Transform Acoustic Coding scheme as defined by Sony -
+         Adaptive Transform Acoustic Coding</Definition>
+      <Reference>Sony</Reference>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://en.wikipedia.org/wiki/ATRAC</URL>
+         <LinkName>wikipedia</LinkName>
+      </Link>
+      <Term termID="3.1">
+         <Name xml:lang="en">ATRAC2</Name>
+         <Definition xml:lang="en">The Adaptive Transform Acoustic Coding scheme as defined by Sony
+            - Adaptive Transform Acoustic Coding 2</Definition>
+         <Reference>Sony</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="3.2">
+         <Name xml:lang="en">ATRAC3</Name>
+         <Definition xml:lang="en">The Adaptive Transform Acoustic Coding scheme as defined by Sony
+            - Adaptive Transform Acoustic Coding3</Definition>
+         <Reference>Sony</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+   <Term termID="4">
+      <Name xml:lang="en">DOLBY</Name>
+      <Definition xml:lang="en">Any Dolby compression scheme as defined by Dolby
+         Laboratories.</Definition>
+      <Reference>Dolby Laboratories</Reference>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://live.dbpedia.org/page/Dolby_Digital</URL>
+         <LinkName>dbpedia</LinkName>
+      </Link>
+      <Link xml:lang="en">
+         <URL>http://en.wikipedia.org/wiki/Dolby_Digital</URL>
+         <LinkName>wikipedia</LinkName>
+      </Link>
+      <Term termID="4.1">
+         <Name xml:lang="en">DOLBY A</Name>
+         <Definition xml:lang="en">The Dolby A compression scheme as defined by Dolby
+            Laboratories.</Definition>
+         <Reference>Dolby Laboratories</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="4.2">
+         <Name xml:lang="en">AC3</Name>
+         <Definition xml:lang="en">Dolby AC3</Definition>
+         <Reference>Dolby Laboratories</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="4.3">
+         <Name xml:lang="en">E-AC3</Name>
+         <Definition xml:lang="en">Dolby Enhanced AC3</Definition>
+         <Reference>Dolby Laboratories</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="4.4">
+         <Name xml:lang="en">DOLBY B</Name>
+         <Definition xml:lang="en">The Dolby B noise reduction scheme as defined by Dolby
+            Laboratories.</Definition>
+         <Reference>Dolby Laboratories</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="4.5">
+         <Name xml:lang="en">DOLBY C</Name>
+         <Definition xml:lang="en">The Dolby C noise reduction scheme as defined by Dolby
+            Laboratories.</Definition>
+         <Reference>Dolby Laboratories</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="4.6">
+         <Name xml:lang="en">DOLBY E</Name>
+         <Definition xml:lang="en">The Dolby E compression scheme as defined by Dolby Laboratories.
+            This is 6 channels and metadata</Definition>
+         <Reference>Dolby Laboratories</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="4.7">
+         <Name xml:lang="en">DOLBY Pro-logic</Name>
+         <Definition xml:lang="en">The Dolby Pro-logic compression scheme as defined by Dolby
+            Laboratories. This is 4 channels.</Definition>
+         <Reference>Dolby Laboratories</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="4.8">
+         <Name xml:lang="en">DOLBY Pro-logic II</Name>
+         <Definition xml:lang="en">The Dolby Pro-logic II compression scheme as defined by Dolby
+            Laboratories. This is 6 channels.</Definition>
+         <Reference>Dolby Laboratories</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="4.9">
+         <Name xml:lang="en">DOLBY S</Name>
+         <Definition xml:lang="en">The Dolby S noise reduction scheme as defined by Dolby
+            Laboratories.</Definition>
+         <Reference>Dolby Laboratories</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="4.10">
+         <Name xml:lang="en">DOLBY SR</Name>
+         <Definition xml:lang="en">The Dolby SR noise reduction and recording scheme as defined by
+            Dolby Laboratories.</Definition>
+         <Reference>Dolby Laboratories</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="4.11">
+         <Name xml:lang="en">DOLBY Stereo</Name>
+         <Definition xml:lang="en">The Dolby Stereo compression scheme as defined by Dolby
+            Laboratories. This is for cinema.</Definition>
+         <Reference>Dolby Laboratories</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="4.12">
+         <Name xml:lang="en">DOLBY Surround</Name>
+         <Definition xml:lang="en">The Dolby Surround compression scheme as defined by Dolby
+            Laboratories. This is 3 channels.</Definition>
+         <Reference>Dolby Laboratories</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="4.13">
+         <Name xml:lang="en">DOLBY Digital Plus</Name>
+         <Definition xml:lang="en">The Dolby Surround compression scheme as defined by Dolby
+            Laboratories.</Definition>
+         <Reference>Dolby Laboratories</Reference>
+         <ChangeComment>Alignment with tech 3285</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="4.14">
+         <Name xml:lang="en">DOLBY EX</Name>
+         <Definition xml:lang="en">The Dolby Surround compression scheme as defined by Dolby
+            Laboratories.</Definition>
+         <Reference>Dolby Laboratories</Reference>
+         <ChangeComment>Alignment with tech 3285</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="4.15">
+         <Name xml:lang="en">DOLBY TRUEHD</Name>
+         <Definition xml:lang="en">The Dolby compression scheme as defined by Dolby
+            Laboratories.</Definition>
+         <Reference>Dolby Laboratories</Reference>
+         <ChangeComment>MovieLabs mapping</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+   <Term termID="5">
+      <Name xml:lang="en">DTS</Name>
+      <Definition xml:lang="en">Digital Theatrical sound System</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://en.wikipedia.org/wiki/DTS_%28sound_system%29</URL>
+         <LinkName>wikipedia</LinkName>
+      </Link>
+      <Link xml:lang="en">
+         <URL>http://live.dbpedia.org/page/DTS_%28sound_system%29</URL>
+         <LinkName>dbpedia</LinkName>
+      </Link>
+      <Term termID="5.1">
+         <Name xml:lang="en">DTS-ES</Name>
+         <Definition xml:lang="en">DTS ES (Extended Surround)</Definition>
+         <Reference/>
+         <ChangeComment>MovieLabs mapping</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="5.2">
+         <Name xml:lang="en">DTS-HRA</Name>
+         <Definition xml:lang="en">DTS-HD High Resolution Audio</Definition>
+         <Reference/>
+         <ChangeComment>MovieLabs mapping</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="5.3">
+         <Name xml:lang="en">DTS-96/24</Name>
+         <Definition xml:lang="en"/>
+         <Reference/>
+         <ChangeComment>MovieLabs mapping</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="5.4">
+         <Name xml:lang="en">DTS-MA</Name>
+         <Definition xml:lang="en">DTS-HD Master Audio</Definition>
+         <Reference/>
+         <ChangeComment>MovieLabs mapping</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+   <Term termID="6">
+      <Name xml:lang="en">G.72x</Name>
+      <Definition xml:lang="en">ITU-T G.72x Speech Coding</Definition>
+      <Reference>CCITT, ITU-T</Reference>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term termID="6.1">
+         <Name xml:lang="en">G.722</Name>
+         <Definition xml:lang="en">standard wideband speech codec operating at 48-64 kbit/s.
+            Technology of the codec is based on split band ADPCM.</Definition>
+         <Reference>CCITT, ITU-T</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Link xml:lang="en">
+            <URL>http://en.wikipedia.org/wiki/G.722</URL>
+            <LinkName>wikipedia</LinkName>
+         </Link>
+      </Term>
+      <Term termID="6.2">
+         <Name xml:lang="en">G.723</Name>
+         <Definition xml:lang="en">is an extension of Recommendation G.721 adaptive differential
+            pulse code modulation to 24 and 40 kbit/s for digital circuit multiplication equipment
+            application. </Definition>
+         <Reference>CCITT, ITU-T</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Link xml:lang="en">
+            <URL>http://en.wikipedia.org/wiki/G.723</URL>
+            <LinkName>wikipedia</LinkName>
+         </Link>
+      </Term>
+      <Term termID="6.3">
+         <Name xml:lang="en">G.723.1</Name>
+         <Definition xml:lang="en">audio codec for voice that compresses voice audio in 30 ms
+            frames. An algorithmic look-ahead of 7.5 ms duration means that total algorithmic delay
+            is 37.5 ms. Note that this is a completely different codec from G.723.</Definition>
+         <Reference>CCITT, ITU-T</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="6.4">
+         <Name xml:lang="en">G.726</Name>
+         <Definition xml:lang="en">ADPCM speech codec standard covering the transmission of voice at
+            rates of 16, 24, 32, and 40 kbit/s</Definition>
+         <Reference>CCITT, ITU-T</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Link xml:lang="en">
+            <URL>http://en.wikipedia.org/wiki/G.726</URL>
+            <LinkName>wikipedia</LinkName>
+         </Link>
+      </Term>
+      <Term termID="6.5">
+         <Name xml:lang="en">G.728</Name>
+         <Definition xml:lang="en">Speech coding operating at 16 kbit/s. Technology used is LD-CELP,
+            Low Delay Code Excited Linear Prediction.</Definition>
+         <Reference>CCITT, ITU-T</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Link xml:lang="en">
+            <URL>http://en.wikipedia.org/wiki/G.728</URL>
+            <LinkName>wikipedia</LinkName>
+         </Link>
+      </Term>
+      <Term termID="6.6">
+         <Name xml:lang="en">G.729</Name>
+         <Definition xml:lang="en">Speech Coding. The Sub-band ADPCM coding scheme, as defined by
+            G.729</Definition>
+         <Reference>CCITT, ITU-T</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Link xml:lang="en">
+            <URL>http://en.wikipedia.org/wiki/G.729</URL>
+            <LinkName>wikipedia</LinkName>
+         </Link>
+      </Term>
+      <Term termID="6.7">
+         <Name xml:lang="en">G.729.1</Name>
+         <Definition xml:lang="en">8-32 kbit/s embedded speech and audio coder providing bitstream
+            interoperability with G.729.</Definition>
+         <Reference>CCITT, ITU-T</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="6.8">
+         <Name xml:lang="en">G.729.a</Name>
+         <Definition xml:lang="en">Audio data compression algorithm for voice that compresses voice
+            audio in chunks of 10 milliseconds.</Definition>
+         <Reference>CCITT, ITU-T</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+   <Term termID="7">
+      <Name xml:lang="en">MPEG-1 Audio</Name>
+      <Definition xml:lang="en">Compression is applied to audio producing an output according to
+         International Standard ISO/IEC 11172-3 with the limitations given by the specified Layer I
+         defined within the same standard.</Definition>
+      <Reference>ISO/IEC</Reference>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://en.wikipedia.org/wiki/MPEG-1</URL>
+         <LinkName>wikipedia</LinkName>
+      </Link>
+      <Link xml:lang="en">
+         <URL>http://live.dbpedia.org/page/MPEG-1</URL>
+         <LinkName>dbpedia</LinkName>
+      </Link>
+      <Link xml:lang="en">
+         <URL>http://mpgedit.org/mpgedit/mpeg_format/mpeghdr.htm</URL>
+         <LinkName>MPEG</LinkName>
+      </Link>
+      <Term termID="7.1">
+         <Name xml:lang="en">MPEG-1 Layer I</Name>
+         <Definition xml:lang="en">Compression is applied to audio producing an output according to
+            International Standard ISO/IEC 11172-3 with the limitations given by the specified Layer
+            I defined within the same standard.</Definition>
+         <Reference>ISO/IEC</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="7.2">
+         <Name xml:lang="en">MPEG-1 Layer II</Name>
+         <Definition xml:lang="en">Compression is applied to audio producing an output according to
+            International Standard ISO/IEC 11172-3 with the limitations given by the specified Layer
+            II defined within the same standard. So called Musicam.</Definition>
+         <Reference>ISO/IEC</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="7.3">
+         <Name xml:lang="en">MPEG-1 Layer III</Name>
+         <Definition xml:lang="en">Compression is applied to audio producing an output according to
+            International Standard ISO/IEC 11172-3 with the limitations given by the specified Layer
+            III defined within the same standard.</Definition>
+         <Reference>ISO/IEC</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+   <Term termID="8">
+      <Name xml:lang="en">MPEG-2 AAC</Name>
+      <Definition xml:lang="en">Advanced Audio Coding. Compression is applied to audio producing an
+         output according to International Standard ISO/IEC 13818-7.</Definition>
+      <Reference>ISO/IEC</Reference>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://en.wikipedia.org/wiki/Advanced_Audio_Coding</URL>
+         <LinkName>wikipedia</LinkName>
+      </Link>
+      <Link xml:lang="en">
+         <URL>http://mpgedit.org/mpgedit/mpeg_format/mpeghdr.htm</URL>
+         <LinkName>MPEG</LinkName>
+      </Link>
+      <Term termID="8.1">
+         <Name xml:lang="en">MPEG-2 Audio AAC Low Complexity Profile</Name>
+         <Definition xml:lang="en">ISO/IEC 13818-7</Definition>
+         <Reference>ISO/IEC</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="8.2">
+         <Name xml:lang="en">MPEG-2 Audio AAC Main Profile</Name>
+         <Definition xml:lang="en">ISO/IEC 13818-7</Definition>
+         <Reference>ISO/IEC</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="8.3">
+         <Name xml:lang="en">MPEG-2 Audio AAC Sampling Rate Scalable Profile</Name>
+         <Definition xml:lang="en">ISO/IEC 13818-7</Definition>
+         <Reference>ISO/IEC</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="8.4">
+         <Name xml:lang="en">MP3</Name>
+         <Definition xml:lang="en">MP3 Audio Coding: MPEG-1 Layer III + MPEG-2 Low Sampling Rate
+            Layer III</Definition>
+         <Reference>ISO/IEC</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Link xml:lang="en">
+            <URL>http://en.wikipedia.org/wiki/MP3</URL>
+            <LinkName>wikipedia</LinkName>
+         </Link>
+      </Term>
+      <Term termID="8.5">
+         <Name xml:lang="en">HE-AACv2</Name>
+         <Definition xml:lang="en">High Efficiency AAC v2</Definition>
+         <Reference/>
+         <ChangeComment>MovieLabs mapping</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+   <Term termID="9">
+      <Name xml:lang="en">MPEG-2 Audio</Name>
+      <Definition xml:lang="en">ISO/IEC 13818-3 - MPEG-2 Audio Coding format</Definition>
+      <Reference>ISO/IEC</Reference>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://en.wikipedia.org/wiki/MPEG-2</URL>
+         <LinkName>wikipedia</LinkName>
+      </Link>
+      <Link xml:lang="en">
+         <URL>http://live.dbpedia.org/page/MPEG-2</URL>
+         <LinkName>dbpedia</LinkName>
+      </Link>
+      <Link xml:lang="en">
+         <URL>http://mpgedit.org/mpgedit/mpeg_format/mpeghdr.htm</URL>
+         <LinkName>MPEG</LinkName>
+      </Link>
+      <Term termID="9.1">
+         <Name xml:lang="en">MPEG-2 Layer I</Name>
+         <Definition xml:lang="en">Compression is applied to audio producing an output according to
+            International Standard ISO/IEC 13818-3 with the limitations given by the specified Layer
+            I defined within the same standard.</Definition>
+         <Reference>ISO/IEC</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="9.2">
+         <Name xml:lang="en">MPEG-2 Layer II</Name>
+         <Definition xml:lang="en">Compression is applied to audio producing an output according to
+            International Standard ISO/IEC 13818-3 with the limitations given by the specified Layer
+            II defined within the same standard.</Definition>
+         <Reference>ISO/IEC</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="9.3">
+         <Name xml:lang="en">MPEG-2 Layer III</Name>
+         <Definition xml:lang="en">Compression is applied to audio producing an output according to
+            International Standard ISO/IEC 13818-3 with the limitations given by the specified Layer
+            IIIdefined within the same standard.</Definition>
+         <Reference>ISO/IEC</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="9.4">
+         <Name xml:lang="en">MPEG-2 Audio Low Sampling Rate</Name>
+         <Definition xml:lang="en">MPEG-2 Audio Low Sampling Rate according to International
+            Standard ISO/IEC 13818-3, extension to MPEG-1 (sample rates half those of MPEG-1, bit
+            rates from 8 kbps up to 256kbp)</Definition>
+         <Reference>ISO/IEC</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Link xml:lang="en">
+            <URL>http://mpgedit.org/mpgedit/mpeg_format/mpeghdr.htm</URL>
+            <LinkName>MPEG</LinkName>
+         </Link>
+         <Term termID="9.4.1">
+            <Name xml:lang="en">MPEG-2 Audio Low Sampling Rate Layer I</Name>
+            <Definition xml:lang="en">MPEG-2 Audio Low Sampling Rate Layer I according to
+               International Standard ISO/IEC 13818-3</Definition>
+            <Reference>ISO/IEC 13818-3</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="9.4.2">
+            <Name xml:lang="en">MPEG-2 Audio Low Sampling Rate Layer II</Name>
+            <Definition xml:lang="en">MPEG-2 Audio Low Sampling Rate Layer II according to
+               International Standard ISO/IEC 13818-3</Definition>
+            <Reference>ISO/IEC 13818-3</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="9.4.3">
+            <Name xml:lang="en">MPEG-2 Audio Low Sampling Rate Layer III</Name>
+            <Definition xml:lang="en">MPEG-2 Audio Low Sampling Rate Layer III according to
+               International Standard ISO/IEC 13818-3</Definition>
+            <Reference>ISO/IEC 13818-3</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+      </Term>
+      <Term termID="9.5">
+         <Name xml:lang="en">MPEG-2 Backward Compatible Multi-Channel</Name>
+         <Definition xml:lang="en">ISO/IEC 13818-3 - MPEG-2 Backward Compatible</Definition>
+         <Reference>ISO/IEC</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Term termID="9.5.1">
+            <Name xml:lang="en">MPEG-2 Backward Compatible Multi-Channel Layer I</Name>
+            <Definition xml:lang="en">ISO/IEC 13818-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="9.5.2">
+            <Name xml:lang="en">MPEG-2 Backward Compatible Multi-Channel Layer II</Name>
+            <Definition xml:lang="en">ISO/IEC 13818-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="9.5.3">
+            <Name xml:lang="en">MPEG-2 Backward Compatible Multi-Channel Layer III</Name>
+            <Definition xml:lang="en">ISO/IEC 13818-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+      </Term>
+   </Term>
+
+   <Term termID="10">
+      <Name xml:lang="en">MPEG-4 Audio</Name>
+      <Definition xml:lang="en">MPEG-4 Audio Coding Format according to ISO/IEC 14496-3</Definition>
+      <Reference>ISO/IEC</Reference>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://en.wikipedia.org/wiki/MPEG-4</URL>
+         <LinkName>wikipedia</LinkName>
+      </Link>
+      <Link xml:lang="en">
+         <URL>http://live.dbpedia.org/page/MPEG-4</URL>
+         <LinkName>dbpedia</LinkName>
+      </Link>
+      <Term termID="10.1">
+         <Name xml:lang="en">MPEG-4 Audio Synthetic Profile</Name>
+         <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+         <Reference>ISO/IEC</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Term termID="10.1.1">
+            <Name xml:lang="en">MPEG-4 Audio Synthetic Profile @ Level 1</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.1.2">
+            <Name xml:lang="en">MPEG-4 Audio Synthetic Profile @ Level 2</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.1.3">
+            <Name xml:lang="en">MPEG-4 Audio Synthetic Profile @ Level 3</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+      </Term>
+      <Term termID="10.2">
+         <Name xml:lang="en">MPEG-4 Audio Speech Profile</Name>
+         <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+         <Reference>ISO/IEC</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Term termID="10.2.1">
+            <Name xml:lang="en">MPEG-4 Audio Speech Profile @ Level 1</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.2.2">
+            <Name xml:lang="en">MPEG-4 Audio Speech Profile @ Level 2</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+      </Term>
+      <Term termID="10.3">
+         <Name xml:lang="en">MPEG-4 Audio Scalable Profile</Name>
+         <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+         <Reference>ISO/IEC</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Term termID="10.3.1">
+            <Name xml:lang="en">MPEG-4 Audio Scalable Profile @ Level 1</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.3.2">
+            <Name xml:lang="en">MPEG-4 Audio Scalable Profile @ Level 2</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.3.3">
+            <Name xml:lang="en">MPEG-4 Audio Scalable Profile @ Level 3</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.3.4">
+            <Name xml:lang="en">MPEG-4 Audio Scalable Profile @ Level 4</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+      </Term>
+      <Term termID="10.4">
+         <Name xml:lang="en">MPEG-4 Main Audio Profile</Name>
+         <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+         <Reference>ISO/IEC</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Term termID="10.4.1">
+            <Name xml:lang="en">MPEG-4 Main Audio Profile @ Level 1</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.4.2">
+            <Name xml:lang="en">MPEG-4 Main Audio Profile @ Level 2</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.4.3">
+            <Name xml:lang="en">MPEG-4 Main Audio Profile @ Level 3</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.4.4">
+            <Name xml:lang="en">MPEG-4 Main Audio Profile @ Level 4</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+      </Term>
+      <Term termID="10.5">
+         <Name xml:lang="en">MPEG-4 High Quality Audio Profile</Name>
+         <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+         <Reference>ISO/IEC</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Term termID="10.5.1">
+            <Name xml:lang="en">MPEG-4 High Quality Audio Profile @ Level 1</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.5.2">
+            <Name xml:lang="en">MPEG-4 High Quality Audio Profile @ Level 2</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.5.3">
+            <Name xml:lang="en">MPEG-4 High Quality Audio Profile @ Level 3</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.5.4">
+            <Name xml:lang="en">MPEG-4 High Quality Audio Profile @ Level 4</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.5.5">
+            <Name xml:lang="en">MPEG-4 High Quality Audio Profile @ Level 5</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.5.6">
+            <Name xml:lang="en">MPEG-4 High Quality Audio Profile @ Level 6</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.5.7">
+            <Name xml:lang="en">MPEG-4 High Quality Audio Profile @ Level 7</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.5.8">
+            <Name xml:lang="en">MPEG-4 High Quality Audio Profile @ Level 8</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+      </Term>
+      <Term termID="10.6">
+         <Name xml:lang="en">MPEG-4 Low Delay Audio Profile</Name>
+         <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+         <Reference>ISO/IEC</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Term termID="10.6.1">
+            <Name xml:lang="en">MPEG-4 Low Delay Audio Profile @ Level 1</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.6.2">
+            <Name xml:lang="en">MPEG-4 Low Delay Audio Profile @ Level 2</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.6.3">
+            <Name xml:lang="en">MPEG-4 Low Delay Audio Profile @ Level 3</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.6.4">
+            <Name xml:lang="en">MPEG-4 Low Delay Audio Profile @ Level 4</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.6.5">
+            <Name xml:lang="en">MPEG-4 Low Delay Audio Profile @ Level 5</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.6.6">
+            <Name xml:lang="en">MPEG-4 Low Delay Audio Profile @ Level 6</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.6.7">
+            <Name xml:lang="en">MPEG-4 Low Delay Audio Profile @ Level 7</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.6.8">
+            <Name xml:lang="en">MPEG-4 Low Delay Audio Profile @ Level 8</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+      </Term>
+      <Term termID="10.7">
+         <Name xml:lang="en">MPEG-4 Natural Audio Profile</Name>
+         <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+         <Reference>ISO/IEC</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Term termID="10.7.1">
+            <Name xml:lang="en">MPEG-4 Natural Audio Profile @ Level 1</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.7.2">
+            <Name xml:lang="en">MPEG-4 Natural Audio Profile @ Level 2</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.7.3">
+            <Name xml:lang="en">MPEG-4 Natural Audio Profile @ Level 3</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.7.4">
+            <Name xml:lang="en">MPEG-4 Natural Audio Profile @ Level 4</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+      </Term>
+      <Term termID="10.8">
+         <Name xml:lang="en">MPEG-4 Mobile Audio Internetworking Profile</Name>
+         <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+         <Reference>ISO/IEC</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Term termID="10.8.1">
+            <Name xml:lang="en">MPEG-4 Mobile Audio Internetworking Profile @ Level 1</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.8.2">
+            <Name xml:lang="en">MPEG-4 Mobile Audio Internetworking Profile @ Level 2</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.8.3">
+            <Name xml:lang="en">MPEG-4 Mobile Audio Internetworking Profile @ Level 3</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.8.4">
+            <Name xml:lang="en">MPEG-4 Mobile Audio Internetworking Profile @ Level 4</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.8.5">
+            <Name xml:lang="en">MPEG-4 Mobile Audio Internetworking Profile @ Level 5</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.8.6">
+            <Name xml:lang="en">MPEG-4 Mobile Audio Internetworking Profile @ Level 6</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+      </Term>
+      <Term termID="10.9">
+         <Name xml:lang="en">MPEG-4 AAC Profile</Name>
+         <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+         <Reference>ISO/IEC</Reference>
+         <ChangeComment>Corrected name according to MPEG</ChangeComment>
+         <ChangeVersionDate>2009-02-25</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Term termID="10.9.1">
+            <Name xml:lang="en">MPEG-4 AAC Profile @ Level 1</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>Corrected name according to MPEG</ChangeComment>
+            <ChangeVersionDate>2009-02-25</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.9.2">
+            <Name xml:lang="en">MPEG-4 AAC Profile @ Level 2</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>Corrected name according to MPEG</ChangeComment>
+            <ChangeVersionDate>2009-02-25</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.9.3">
+            <Name xml:lang="en">MPEG-4 AAC Profile @ Level 3</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>Corrected name according to MPEG</ChangeComment>
+            <ChangeVersionDate>2009-02-25</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.9.4">
+            <Name xml:lang="en">MPEG-4 AAC Profile @ Level 4</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>Corrected name according to MPEG</ChangeComment>
+            <ChangeVersionDate>2009-02-25</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.9.5">
+            <Name xml:lang="en">MPEG-4 AAC Profile @ Level 5</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>Corrected name according to MPEG</ChangeComment>
+            <ChangeVersionDate>2009-02-25</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+      </Term>
+      <Term termID="10.10">
+         <Name xml:lang="en">MPEG-4 High Efficiency AAC Profile</Name>
+         <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+         <Reference>ISO/IEC</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeComment>Corrected name according to MPEG</ChangeComment>
+         <ChangeVersionDate>2009-02-25</ChangeVersionDate>
+         <DeprecatedVersionDate/>
+         <Term termID="10.10.0">
+            <Name xml:lang="en">MPEG-4 High Efficiency AAC Profile @ Level 1</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>Addition according to MPEG</ChangeComment>
+            <ChangeVersionDate>2009-02-25</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.10.1">
+            <Name xml:lang="en">MPEG-4 High Efficiency AAC Profile @ Level 2</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>Corrected name according to MPEG</ChangeComment>
+            <ChangeVersionDate>2009-02-25</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.10.2">
+            <Name xml:lang="en">MPEG-4 High Efficiency AAC Profile @ Level 3</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>Corrected name according to MPEG</ChangeComment>
+            <ChangeVersionDate>2009-02-25</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.10.3">
+            <Name xml:lang="en">MPEG-4 High Efficiency AAC Profile @ Level 4</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>Corrected name according to MPEG</ChangeComment>
+            <ChangeVersionDate>2009-02-25</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.10.5">
+            <Name xml:lang="en">MPEG-4 High Efficiency AAC Profile @ Level 5</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>Corrected name according to MPEG</ChangeComment>
+            <ChangeVersionDate>2009-02-25</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+      </Term>
+      <Term termID="10.11">
+         <Name xml:lang="en">MPEG-4 High Efficency AAC v2 Profile</Name>
+         <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+         <Reference>ISO/IEC</Reference>
+         <ChangeComment>Corrected name according to MPEG</ChangeComment>
+         <ChangeVersionDate>2009-02-25</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Term termID="10.11.0">
+            <Name xml:lang="en">MPEG-4 High Efficency AAC v2 Profile @ Level 1</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>Added according to MPEG</ChangeComment>
+            <ChangeVersionDate>2009-02-25</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.11.1">
+            <Name xml:lang="en">MPEG-4 High Efficency AAC v2 Profile @ Level 2</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>Corrected name according to MPEG</ChangeComment>
+            <ChangeVersionDate>2009-02-25</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.11.2">
+            <Name xml:lang="en">MPEG-4 High Efficency AAC v2 Profile @ Level 3</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>Corrected name according to MPEG</ChangeComment>
+            <ChangeVersionDate>2009-02-25</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.11.3">
+            <Name xml:lang="en">MPEG-4 High Efficency AAC v2 Profile @ Level 4</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>Corrected name according to MPEG</ChangeComment>
+            <ChangeVersionDate>2009-02-25</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="10.11.4">
+            <Name xml:lang="en">MPEG-4 High Efficency AAC v2 Profile @ Level 5</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>Corrected name according to MPEG</ChangeComment>
+            <ChangeVersionDate>2009-02-25</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+      </Term>
+      <Term termID="10.12">
+         <Name xml:lang="en">MPEG-4 Low Delay AAC Profile</Name>
+         <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+         <Reference>ISO/IEC</Reference>
+         <ChangeComment>Added according to MPEG</ChangeComment>
+         <ChangeVersionDate>2009-02-25</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Term termID="10.12.1">
+            <Name xml:lang="en">MPEG-4 Low Delay AAC Profile @ Level 1</Name>
+            <Definition xml:lang="en">ISO/IEC 14496-3</Definition>
+            <Reference>ISO/IEC</Reference>
+            <ChangeComment>Added according to MPEG</ChangeComment>
+            <ChangeVersionDate>2009-02-25</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+      </Term>
+   </Term>
+
+   <Term termID="11">
+      <Name xml:lang="en">Linear PCM</Name>
+      <Definition xml:lang="en">Linear Pulse Code Modulation</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://en.wikipedia.org/wiki/Linear_pulse-code_modulation</URL>
+         <LinkName>wikipedia</LinkName>
+      </Link>
+   </Term>
+
+   <Term termID="12">
+      <Name xml:lang="en">AMR</Name>
+      <Definition xml:lang="en">Advanced Multi Rate</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://en.wikipedia.org/wiki/Adaptive_Multi-Rate_audio_codec</URL>
+         <LinkName>wikipedia</LinkName>
+      </Link>
+      <Term termID="12.1">
+         <Name xml:lang="en">AMR-WB+</Name>
+         <Definition xml:lang="en">Advanced Multi Rate - ETSI TS 126 290 Extended AMR Wideband
+            codec</Definition>
+         <Reference>ETSI</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+   <Term termID="13">
+      <Name xml:lang="en">NICAM</Name>
+      <Definition xml:lang="en">Near Instantaneuous Companded Audio Multiplex.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://en.wikipedia.org/wiki/NICAM</URL>
+         <LinkName>wikipedia</LinkName>
+      </Link>
+   </Term>
+
+   <Term termID="14">
+      <Name xml:lang="en">Real Audio</Name>
+      <Definition xml:lang="en">Compression is made using RealNetworks audio compression
+         algorithm.</Definition>
+      <Reference>RealNetworks</Reference>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://en.wikipedia.org/wiki/RealAudio</URL>
+         <LinkName>wikipedia</LinkName>
+      </Link>
+      <Term termID="14.1">
+         <Name xml:lang="en">Real Audio - Lossless</Name>
+         <Definition xml:lang="en">Real Networks’ lossless format</Definition>
+         <Reference/>
+         <ChangeComment>MovieLabs mapping</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+   <Term termID="15">
+      <Name xml:lang="en">None</Name>
+      <Definition xml:lang="en">No compression is applied</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="16">
+      <Name xml:lang="en">Unspecified</Name>
+      <Definition xml:lang="en">A compression is applied but the type is unspecified</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="17">
+      <Name xml:lang="en">Unspecified lossless</Name>
+      <Definition xml:lang="en">A lossless compression is applied. Other details are
+         unspecified.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="18">
+      <Name xml:lang="en">Unspecified lossy</Name>
+      <Definition xml:lang="en">A lossy compression is applied. Other details are
+         unspecified.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="19">
+      <Name xml:lang="en">Windows Media Audio (Wma)</Name>
+      <Definition xml:lang="en">Variable Bit Rate (VBR), Constant Bit Rate (CBR) and lossless audio
+         encoding. Compression is based on the Modified discrete cosine transform.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://en.wikipedia.org/wiki/Windows_Media_Audio</URL>
+         <LinkName>Wikipedia</LinkName>
+      </Link>
+      <Link xml:lang="en">
+         <URL>http://live.dbpedia.org/page/Windows_Media_Audio</URL>
+         <LinkName>dbpedia</LinkName>
+      </Link>
+      <Term termID="19.1">
+         <Name xml:lang="en">WM9-lossless</Name>
+         <Definition xml:lang="en">Windows Media Audio 9 Lossless is a lossless incarnation of
+            Windows Media Audio</Definition>
+         <Reference/>
+         <ChangeComment>Former termId was 27</ChangeComment>
+         <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+   <Term termID="20">
+      <Name xml:lang="en">ALAC</Name>
+      <Definition xml:lang="en">Apple Lossless Audio Codec.</Definition>
+      <Reference/>
+      <ChangeComment>MovieLabs mapping</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://en.wikipedia.org/wiki/Apple_Lossless</URL>
+         <LinkName>wikipedia</LinkName>
+      </Link>
+   </Term>
+
+   <Term termID="21">
+      <Name xml:lang="en">DSD</Name>
+      <Definition xml:lang="en">Direct Stream Digital.</Definition>
+      <Reference/>
+      <ChangeComment>MovieLabs mapping</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://en.wikipedia.org/wiki/Direct_Stream_Digital</URL>
+         <LinkName>Wikipedia</LinkName>
+      </Link>
+      <Term termID="21.1">
+         <Name xml:lang="en">DST</Name>
+         <Definition xml:lang="en">Direct Stream Transfer.</Definition>
+         <Reference/>
+         <ChangeComment>MovieLabs mapping</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+   <Term termID="21">
+      <Name xml:lang="en">DST</Name>
+      <Definition xml:lang="en">Direct Stream Transfer.</Definition>
+      <Reference/>
+      <ChangeComment>Change to termID 21.1</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>0</ValidityFlag>
+      <DeprecatedVersionDate>2013-01-07</DeprecatedVersionDate>
+   </Term>
+
+   <Term termID="22">
+      <Name xml:lang="en">FLAC</Name>
+      <Definition xml:lang="en">Free Lossless Audio Codec</Definition>
+      <Reference/>
+      <ChangeComment>MovieLabs mapping</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://en.wikipedia.org/wiki/FLAC</URL>
+         <LinkName>Wikipedia</LinkName>
+      </Link>
+   </Term>
+
+   <Term termID="23">
+      <Name xml:lang="en">LPAC</Name>
+      <Definition xml:lang="en">Lossless Predictive Audio Compression</Definition>
+      <Reference/>
+      <ChangeComment>MovieLabs mapping</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://en.wikipedia.org/wiki/Lossless_predictive_audio_compression</URL>
+         <LinkName>Wikipedia</LinkName>
+      </Link>
+   </Term>
+
+   <Term termID="24">
+      <Name xml:lang="en">LTAC</Name>
+      <Definition xml:lang="en">Lossless transform Audio Compression</Definition>
+      <Reference/>
+      <ChangeComment>MovieLabs mapping</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://en.wikipedia.org/wiki/Lossless_Transform_Audio_Compression</URL>
+         <LinkName>Wikipedia</LinkName>
+      </Link>
+   </Term>
+
+   <Term termID="25">
+      <Name xml:lang="en">MLP</Name>
+      <Definition xml:lang="en">Meridian Lossless Packing</Definition>
+      <Reference/>
+      <ChangeComment>Corrected name from pacakge to packing</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://en.wikipedia.org/wiki/Meridian_Lossless_Packing</URL>
+         <LinkName>Wikipedia</LinkName>
+      </Link>
+   </Term>
+
+   <Term termID="25">
+      <Name xml:lang="en">QCELP</Name>
+      <Definition xml:lang="en">Qualcomm Code Excited Linear Prediction</Definition>
+      <Reference/>
+      <ChangeComment>MovieLabs mapping</ChangeComment>
+      <ChangeComment>DEPRECATED - Duplicated termId, renumbered to 30</ChangeComment>
+      <ChangeVersionDate>2019-06-24</ChangeVersionDate>
+      <ValidityFlag>0</ValidityFlag>
+      <DeprecatedVersionDate>2019-06-24</DeprecatedVersionDate>
+      <Link xml:lang="en">
+         <URL>http://en.wikipedia.org/wiki/Qualcomm_code-excited_linear_prediction</URL>
+         <LinkName>Wikipedia</LinkName>
+      </Link>
+   </Term>
+
+   <Term termID="26">
+      <Name xml:lang="en">Vorbis</Name>
+      <Definition xml:lang="en">Ogg Vorbis</Definition>
+      <Reference/>
+      <ChangeComment>MovieLabs mapping</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://en.wikipedia.org/wiki/Vorbis</URL>
+         <LinkName>Wikipedia</LinkName>
+      </Link>
+   </Term>
+
+   <Term termID="27">
+      <Name xml:lang="en">WM9-lossless</Name>
+      <Definition xml:lang="en">Windows Media Audio 9 Lossless is a lossless incarnation of Windows
+         Media Audio</Definition>
+      <Reference/>
+      <ChangeComment>New termId is 19.1</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>0</ValidityFlag>
+      <DeprecatedVersionDate>2013-01-07</DeprecatedVersionDate>
+   </Term>
+
+   <Term termID="28">
+      <Name xml:lang="en">WAV</Name>
+      <Definition xml:lang="en">Waveform Audio File format</Definition>
+      <Reference/>
+      <ChangeComment>MovieLabs mapping</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://en.wikipedia.org/wiki/WAV</URL>
+         <LinkName>Wikipedia</LinkName>
+      </Link>
+   </Term>
+
+   <Term termID="29">
+      <Name xml:lang="en">Ambisonic</Name>
+      <Definition xml:lang="en">A series of recording and replay techniques using multichannel
+         mixing technology that can be used live or in the studio.</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://en.wikipedia.org/wiki/Ambisonics</URL>
+         <LinkName>Wikipedia</LinkName>
+      </Link>
+   </Term>
+
+   <Term termID="30">
+      <Name xml:lang="en">QCELP</Name>
+      <Definition xml:lang="en">Qualcomm Code Excited Linear Prediction</Definition>
+      <Reference/>
+      <ChangeComment>MovieLabs mapping</ChangeComment>
+      <ChangeComment>Changed termId from 25 to 30</ChangeComment>
+      <ChangeVersionDate>2019-06-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://en.wikipedia.org/wiki/Qualcomm_code-excited_linear_prediction</URL>
+         <LinkName>Wikipedia</LinkName>
+      </Link>
+   </Term>
+
+</ClassificationScheme>

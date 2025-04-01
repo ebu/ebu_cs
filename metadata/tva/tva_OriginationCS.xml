@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:tva:metadata-cs:OriginationCS_2008">
+   
+	<!-- ##################################################################### -->
+	<!--ORIGINATION                                                                                     -->
+	<!-- Definition: The original distribution method or platform for the content  -->
+	<!-- ##################################################################### -->
+	
+   
+   <Term termID="5.7">
+      <Name xml:lang="en">Cinema</Name>
+      <Definition xml:lang="en">Made originally for viewing in the cinema</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate></DeprecatedVersionDate>
+      <Term termID="5.7.1">
+         <Name xml:lang="en">Made on location</Name>
+         <Definition xml:lang="en">.</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate></DeprecatedVersionDate>
+      </Term>
+      <Term termID="5.7.2">
+         <Name xml:lang="en">Made in studio</Name>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate></DeprecatedVersionDate>
+      </Term>
+      <Term termID="5.7.3">
+         <Name xml:lang="en">Made by the consumer</Name>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate></DeprecatedVersionDate>
+      </Term>
+   </Term>
+	
+   
+   <Term termID="5.8">
+      <Name xml:lang="en">TV</Name>
+      <Definition xml:lang="en">Made originally for viewing on TV screens</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="5.8.1">
+         <Name xml:lang="en">Made on location</Name>
+         <Definition xml:lang="en">made at an event in an unstructured environment - where the action is based</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="5.8.1.1">
+            <Name xml:lang="en">Live</Name>
+            <Definition xml:lang="en">eg live sporting coverage, Live concerts, Operas etc from theatres</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <FirstVersiondate>2007-04-12</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="5.8.1.2">
+            <Name xml:lang="en">As Live</Name>
+            <Definition xml:lang="en">delayed relay of events - eg olympics frrom different time zone</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <FirstVersiondate>2007-04-12</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="5.8.1.3">
+            <Name xml:lang="en">Edited</Name>
+            <Definition xml:lang="en">edited highlights from event such as Match of the Day, NFL highlights</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <FirstVersiondate>2007-04-12</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+      </Term>
+      <Term termID="5.8.2">
+         <Name xml:lang="en">Made in studio</Name>
+         <Definition xml:lang="en">made in a puropse built studio or controlled environment such as quiz show from village hall where the action comes to the equipment required to make the programme</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="5.8.2.1">
+            <Name xml:lang="en">Live</Name>
+            <Definition xml:lang="en">News, Weather. Lottery etc</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <FirstVersiondate>2007-04-12</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="5.8.2.2">
+            <Name xml:lang="en">As Live</Name>
+            <Definition xml:lang="en">CNN rebroadcasts, Question Time,</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <FirstVersiondate>2007-04-12</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="5.8.2.3">
+            <Name xml:lang="en">Edited</Name>
+            <Definition xml:lang="en">Sitcoms, most entertainment shows, Dramas etc</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <FirstVersiondate>2007-04-12</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+      </Term>
+      <Term termID="5.8.3">
+         <Name xml:lang="en">Made by the consumer</Name>
+         <Definition xml:lang="en">e.g. home video shared between consumer</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+   </Term>
+	
+   
+   <Term termID="5.9">
+      <Name xml:lang="en">Radio</Name>
+      <Definition xml:lang="en">Made originally for listening on Radio</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="5.9.1">
+         <Name xml:lang="en">Made on location</Name>
+         <Definition xml:lang="en">made at an event in an unstructured environment - where the action is based</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="5.9.1.1">
+            <Name xml:lang="en">Live</Name>
+            <Definition xml:lang="en">eg live sporting coverage, Live concerts, Operas etc from theatres</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <FirstVersiondate>2007-04-12</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="5.9.1.2">
+            <Name xml:lang="en">As Live</Name>
+            <Definition xml:lang="en">delayed relay of events - eg olympics frrom different time zone</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <FirstVersiondate>2007-04-12</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="5.9.1.3">
+            <Name xml:lang="en">Edited</Name>
+            <Definition xml:lang="en">edited highlights from events such as Down Your Way,</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <FirstVersiondate>2007-04-12</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+      </Term>
+      <Term termID="5.9.2">
+         <Name xml:lang="en">Made in studio</Name>
+         <Definition xml:lang="en">made in a puropse built studio or controlled environment such as quiz show from village hall where the action comes to the equipment required to make the programme</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="5.9.2.1">
+            <Name xml:lang="en">Live</Name>
+            <Definition xml:lang="en">DJ hosted programme, live chat show</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <FirstVersiondate>2007-04-12</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="5.9.2.2">
+            <Name xml:lang="en">As Live</Name>
+            <Definition xml:lang="en">repeats of whole previous programmes, deferred relays for rights</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <FirstVersiondate>2007-04-12</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="5.9.2.3">
+            <Name xml:lang="en">Edited</Name>
+            <Definition xml:lang="en">radio drama, documentary etc</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <FirstVersiondate>2007-04-12</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+      </Term>
+      <Term termID="5.9.3">
+         <Name xml:lang="en">Made on consumer equipment (home audio)</Name>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="5.9.3.1">
+            <Name xml:lang="en">Live</Name>
+            <Definition xml:lang="en">live streaming etc</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <FirstVersiondate>2007-04-12</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="5.9.3.2">
+            <Name xml:lang="en">As Live</Name>
+            <Definition xml:lang="en">deferred live stream</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <FirstVersiondate>2007-04-12</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="5.9.3.3">
+            <Name xml:lang="en">Edited</Name>
+            <Definition xml:lang="en">home audio content</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <FirstVersiondate>2007-04-12</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+      </Term>
+   </Term>
+	
+   
+   <Term termID="5.10">
+      <Name xml:lang="en">Online Distribution</Name>
+      <Definition xml:lang="en">Made originally for distribution over non broadcast networks (streaming or download)</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="5.10.1">
+         <Name xml:lang="en">Made on location</Name>
+         <Definition xml:lang="en">made at an event in an unstructured environment - where the action is based</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="5.10.1.1">
+            <Name xml:lang="en">Live</Name>
+            <Definition xml:lang="en">eg live sporting coverage, Live concerts, Operas etc from theatres</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <FirstVersiondate>2007-04-12</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="5.10.1.2">
+            <Name xml:lang="en">As Live</Name>
+            <Definition xml:lang="en">delayed relay of events - eg olympics frrom different time zone</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <FirstVersiondate>2007-04-12</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="5.10.1.3">
+            <Name xml:lang="en">Edited</Name>
+            <Definition xml:lang="en">edited highlights from event.</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <FirstVersiondate>2007-04-12</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+      </Term>
+      <Term termID="5.10.2">
+         <Name xml:lang="en">Made in studio</Name>
+         <Definition xml:lang="en">made in a puropse built studio or controlled environment</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="5.10.2.1">
+            <Name xml:lang="en">Live</Name>
+            <Definition xml:lang="en">News, Weather. Lottery etc</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <FirstVersiondate>2007-04-12</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="5.10.2.2">
+            <Name xml:lang="en">As Live</Name>
+            <Definition xml:lang="en">,</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <FirstVersiondate>2007-04-12</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="5.10.2.3">
+            <Name xml:lang="en">Edited</Name>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <FirstVersiondate>2007-04-12</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+      </Term>
+      <Term termID="5.10.3">
+         <Name xml:lang="en">Made on consumer equipment</Name>
+         <Definition xml:lang="en">eg home video shared between consumer</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="5.10.3.1">
+            <Name xml:lang="en">Live</Name>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <FirstVersiondate>2007-04-12</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="5.10.3.2">
+            <Name xml:lang="en">As Live</Name>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <FirstVersiondate>2007-04-12</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="5.10.3.3">
+            <Name xml:lang="en">Edited</Name>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <FirstVersiondate>2007-04-12</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+      </Term>
+   </Term>
+	
+   
+   <Term termID="5.11">
+      <Name xml:lang="en">Offline Distribution</Name>
+      <Definition xml:lang="en">CDs DVDs Other removable media</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+</ClassificationScheme>

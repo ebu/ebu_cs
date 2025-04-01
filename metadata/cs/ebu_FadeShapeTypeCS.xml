@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:FadeShapeType" versionDate="2019-08-21">
+  <!-- ##################################################################### 
+    FADE SHAPE TYPE CS
+    Defines different types of shapes that can be used to fade a certain parameter e.g. level of an audio clip.
+    
+    The following Creative Commons Rights apply to the use of 
+    this EBU resource:   http://creativecommons.org/licenses/by-nc-sa/3.0/   
+      
+    Owner: EBU Technical Department   
+    Contact: metadata@ebu.ch      
+    ##################################################################### -->
+  
+  <Alias>DwerftFadeShadeType</Alias>
+  
+  <Term termID="1">
+    <Name xml:lang="en">Linear Fade</Name>
+    <Definition xml:lang="en">Also called "constant gain". A linear shape.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="2">
+    <Name xml:lang="en">Logarithmic Fade</Name>
+    <Definition xml:lang="en">Also called "constant power". A more smoother, less abrupt transition
+      with a logarithmic shape.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="3">
+    <Name xml:lang="en">Reverse Logarithmic Fade</Name>
+    <Definition xml:lang="en">Also called "constant power". A more smoother, less abrupt transition
+      with a logarithmic shape, but the inverse version.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="4">
+    <Name xml:lang="en">S-Curve</Name>
+    <Definition xml:lang="en">Beginng and end have a slow, less steep curve while in the center can
+      become quite steep. </Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="5">
+    <Name xml:lang="en">Bezier</Name>
+    <Definition xml:lang="en">A mouldable shape which can be modelled by the user.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="6">
+    <Name xml:lang="en">Hard Fade</Name>
+    <Definition xml:lang="en">Not really a fade. There is no gradual transition, just a hard
+      change.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+</ClassificationScheme>

@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassificationScheme uri="urn:ebu:metadata-cs:RightGrantOfRightsMediaCodeCS"
+   versionDate="2020-04-09">
+
+   <!-- #####################################################################
+	     RIGHT GRANT OF RIGHTS MEDIA CODE
+	     Definition:
+	     
+	     The following Creative Commons Rights apply to the use of this EBU resource:
+	     http://creativecommons.org/licenses/by-sa/3.0/
+	     
+	     Owner: EBU Technical Department
+        Author: Jean-Pierre Evain
+        Contact: metadata@ebu.ch      
+	     
+	     ##################################################################### -->
+
+   <Alias>EBURightGrantOfRightsMediaCode</Alias>
+
+   <Term termID="0">
+      <Name xml:lang="en">All</Name>
+      <Definition xml:lang="en">This means that all types of media are covered by the
+         right</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="1">
+      <Name xml:lang="en">Cable</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="2">
+      <Name xml:lang="en">Cable Pay TV</Name>
+      <Definition xml:lang="en">This means services in which the delivery of the material is done
+         through cable medium and for which a charge for admission to the service is
+         made</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="3">
+      <Name xml:lang="en">Cable TV On-demand</Name>
+      <Definition xml:lang="en">This means that the delivery of the material is done through cable
+         propagation medium and that the deliverer provides an application catalogue from which
+         consumers may choose. Besides a charge for admission is made</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="4">
+      <Name xml:lang="en">Cable Pay-per-view TV</Name>
+      <Definition xml:lang="en">This means services in which the delivery of the material is done
+         through cable medium and for which a charge is made for user's fruition of programmes
+         selected by himself/herself</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="5">
+      <Name xml:lang="en">Downloadable</Name>
+      <Definition xml:lang="en">This includes all services for which the fruition of the material is
+         achieved through a data downloading, regardless of the propagation medium and of the access
+         policy</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="6">
+      <Name xml:lang="en">Free</Name>
+      <Definition xml:lang="en">This embraces all kind of free services regardless of the
+         propagation medium and of delivery mechanism</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="7">
+      <Name xml:lang="en">Home Video/Audio</Name>
+      <Definition xml:lang="en">This means that the delivery of the material is done through the
+         distribution and sale of storage formats suitable to be played by consumer profile devices,
+         like CD, VHS, DVD, Video Disc</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term termID="7.1">
+         <Name xml:lang="en">CD</Name>
+         <Definition xml:lang="en"/>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="7.2">
+         <Name xml:lang="en">VHS</Name>
+         <Definition xml:lang="en"/>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="7.3">
+         <Name xml:lang="en">Video Disk</Name>
+         <Definition xml:lang="en"/>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="7.4">
+         <Name xml:lang="en">DVD</Name>
+         <Definition xml:lang="en"/>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="7.5">
+         <Name xml:lang="en">Blue-Ray</Name>
+         <Definition xml:lang="en"/>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+   <Term termID="8">
+      <Name xml:lang="en">Internet</Name>
+      <Definition xml:lang="en">This means that the delivery of the material is done through TCP/IP
+         network protocol regardless of the kind of application protocol (i.e. http, ftp, streaming
+         etc.)</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="9">
+      <Name xml:lang="en">Internet On-demand</Name>
+      <Definition xml:lang="en">This means that the delivery of the material is done through TCP/IP
+         network protocol regardless of the kind of application protocol (i.e. http, ftp, streaming
+         etc.) and that the deliverer provides an application catalogue from which consumers may
+         choose. Besides a charge for admission is made</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term termID="9.1">
+         <Name xml:lang="en">Internet Buy</Name>
+         <Definition xml:lang="en"/>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="9.2">
+         <Name xml:lang="en">Internet Rent</Name>
+         <Definition xml:lang="en"/>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+   <Term termID="10">
+      <Name xml:lang="en">Internet Public Site</Name>
+      <Definition xml:lang="en">This means that the delivery of the material is done through TCP/IP
+         network protocol regardless of the kind of application protocol (i.e. http, ftp, streaming
+         etc.) and that there is no tracking or registering procedures of the consumers' access to
+         the published material</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="11">
+      <Name xml:lang="en">Internet Restricted Access Site</Name>
+      <Definition xml:lang="en">This means that the delivery of the material is done through TCP/IP
+         network protocol regardless of the kind of application protocol (i.e. http, ftp, streaming
+         etc.) and that there is a mechanism for tracking and registering the consumers' access to
+         the published material</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="12">
+      <Name xml:lang="en">Pay Media</Name>
+      <Definition xml:lang="en">This embraces all kind of services with charge for admission,
+         regardless of the propagation medium and of delivery mechanism</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="13">
+      <Name xml:lang="en">Radio</Name>
+      <Definition xml:lang="en">This means the RADIO broadcast through terrestrial propagation
+         medium</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="14">
+      <Name xml:lang="en">Restricted Access media</Name>
+      <Definition xml:lang="en">This embraces all kind of restricted access services without charge
+         for admission, regardless of the propagation medium and of delivery mechanism</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="15">
+      <Name xml:lang="en">Satellite</Name>
+      <Definition xml:lang="en">This embraces all kind of satellite services regardless of the
+         access policy</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="16">
+      <Name xml:lang="en">Satellite Free TV</Name>
+      <Definition xml:lang="en">This means services broadcast through satellite transponder
+         medium</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="17">
+      <Name xml:lang="en">Satellite Pay TV</Name>
+      <Definition xml:lang="en">This means services in which the delivery of the material is done
+         through satellite transponders and for which a charge for admission to the service is
+         made</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="18">
+      <Name xml:lang="en">Satellite Pay-per-view TV</Name>
+      <Definition xml:lang="en">This means services in which the delivery of the material is done
+         through satellite transponders and for which a charge is made for user's fruition of
+         programmes selected by himself/herself</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="19">
+      <Name xml:lang="en">Streaming Media</Name>
+      <Definition xml:lang="en">This includes all services for which the fruition of the material is
+         achieved through a data stream decoding, regardless of the propagation medium and of the
+         access policy</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="20">
+      <Name xml:lang="en">Terrestrial</Name>
+      <Definition xml:lang="en">This embraces all kind of terrestrial services regardless of the
+         access policy</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="21">
+      <Name xml:lang="en">Terrestrial Free TV</Name>
+      <Definition xml:lang="en">This means the TV broadcast through terrestrial propagation medium.
+         Access is free of charge (this includes the public broacast services although they could be
+         financed partly or totally by a government licence fee)</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="22">
+      <Name xml:lang="en">Terrestrial Pay TV</Name>
+      <Definition xml:lang="en">This means services in which the delivery of the TV material is done
+         through terrestrial propagation medium and for which a charge for admission to the service
+         is made</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="23">
+      <Name xml:lang="en">Interactive TV</Name>
+      <Definition xml:lang="en">This means that the delivery service is done in association with
+         content enriching applications such as electronic programme guides, on line catalogues etc.
+         running on the consumers' set top box</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="24">
+      <Name xml:lang="en">Theatrical Distribution</Name>
+      <Definition xml:lang="en">This means exhibition to audiences in places where a charge for
+         admission is made including, but not limited to, cinemas and concert halls</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="25">
+      <Name xml:lang="en">Removable Media</Name>
+      <Definition xml:lang="en">Optical or magnetic disk, memory stick, tape, film, Vynil,
+         etc.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="26">
+      <Name xml:lang="en">Pay-per-View / Catch-up-TV</Name>
+      <Definition xml:lang="en">Rights for pay-per-view (other than cable, e.g. on a second screen
+         via internet), etc.</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2013-01-07</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="27">
+      <Name xml:lang="en">Catch-up-TV</Name>
+      <Definition xml:lang="en">Rights for pay-per-view on a second screen via internet,
+         etc.</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2013-01-07</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="28">
+      <Name xml:lang="en">Hospitality</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2013-01-07</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="29">
+      <Name xml:lang="en">Theatrical</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2013-01-07</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="30">
+      <Name xml:lang="en">Video-on-Demand (VOD)</Name>
+      <Definition xml:lang="en">Ability to download digital videos on demand from an online service
+         or view them directly via streaming.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="31">
+      <Name xml:lang="en">Subscription Video-on-Demand (SVOD)</Name>
+      <Definition xml:lang="en">Variant of VoD: Ability to view digital videos on demand from an
+         online service via streaming. Billing is flat-rate for an agreed period. During the period,
+         unlimited content can be retrieved from the provider's catalogue.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="32">
+      <Name xml:lang="en">Download to Rent (DTR)</Name>
+      <Definition xml:lang="en">Variant of VoD: The user acquires a time-limited right of use for
+         the content and can play it back as often as desired during this period. Content is billed
+         on an individual call-off basis, i.e. according to actual use.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="33">
+      <Name xml:lang="en">Download to Own (DTO)</Name>
+      <Definition xml:lang="en">Variant of VoD: The user acquires a right to use the content for an
+         unlimited period of time and can archive it, usually as a copy-protected file on a separate
+         drive, and then play it back as often as desired.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="34">
+      <Name xml:lang="en">Advertised Video-on-Demand (AVOD)</Name>
+      <Definition xml:lang="en">Variant of VoD: describes streaming financed by
+         advertising.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+</ClassificationScheme>

@@ -1,0 +1,1309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:IdentifierTypeCodeCS" versionDate="2020-04-08">
+
+
+   <!-- #####################################################################
+	     IDENTIFIER TYPE CODE                                            
+	     Definition: A combination of identifiers/locators as identified by EBU and SMPTE
+	     
+	     The following Creative Commons Rights apply to the use of this EBU resource:
+	     http://creativecommons.org/licenses/by-sa/3.0/
+	     
+	     Owner: EBU Technical Department
+	     Author: Jean-Pierre Evain
+        Contact: metadata@ebu.ch      
+	     
+	     ##################################################################### -->
+
+
+   <Alias>EBUIdentifierTypeCode</Alias>
+
+
+   <Term termID="1">
+      <Name xml:lang="en">PROGRAMME IDENTIFIERS</Name>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term termID="1.1">
+         <Name xml:lang="en">UMID</Name>
+         <Definition xml:lang="en">A unique identifier for audiovisual material which is locally
+            created and globally unique. It doesn't depend wholly uopn a pre-registration process,
+            but can be generated automatically at the point of material origination without
+            reference to a central resource</Definition>
+         <Reference>SMPTE 330M, EBU R108-2001</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="1.2">
+         <Name xml:lang="en">EPID</Name>
+         <Definition xml:lang="en">An identifier for Editorial Programme Versions issued by an
+            organisation having the programme editorial control, according to the EBU technical
+            specifications</Definition>
+         <Reference>EBU</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="1.3">
+         <Name xml:lang="en">UPID</Name>
+         <Definition xml:lang="en">SMPTE (ATSC) UPID - A Unique Program Identifier for a programme
+            as a Work</Definition>
+         <Reference>ATSC A/57</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="1.4">
+         <Name xml:lang="en">UPN</Name>
+         <Definition xml:lang="en">British Independent Television (ITVA) Universal Programme Number.
+            The use of this is restricted, in the main, to British Independent Television companies
+            and associated organisations.</Definition>
+         <Reference>ITV</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="1.5">
+         <Name xml:lang="en">USID</Name>
+         <Definition xml:lang="en">Unambiguous identification scheme for BWF (Broadcast Wave Format)
+            files. The Identifier called Unique’ Source Identifier is used in the
+            OriginatorReference-field in the BWF as a sequence of 32 ASCII characters and is
+            definded in EBU Technical Recommendation R99-1999.</Definition>
+         <Reference>EBU R99-1999</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="1.6">
+         <Name xml:lang="en">Programme Number</Name>
+         <Definition xml:lang="en">An identifying number issued by the organisation supplying the
+            material (in this case a complete programme) and recognised by them as
+            such.</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="1.7">
+         <Name xml:lang="en">Programme Version Number</Name>
+         <Definition xml:lang="en">An identifying number, for a particular version of a programme,
+            issued by the organisation supplying the material (in this case a complete programme)
+            and recognised by them as such.</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+   </Term>
+
+
+
+   <Term termID="2">
+      <Name xml:lang="en">PHYSICAL MEDIA IDENTIFIERS</Name>
+      <Definition xml:lang="en">Organisationally given identifiers for physical media</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="2.1">
+         <Name xml:lang="en">TAPE IDENTIFIERS</Name>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="2.1.1">
+            <Name xml:lang="en">IBTN</Name>
+            <Definition xml:lang="en">EBU International Broadcast Tape Number</Definition>
+            <Reference>EBU R71-2001</Reference>
+            <ChangeComment>First version after conversion of P/META into XML. First version date is
+               version date from reference publisher</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.1.2">
+            <Name xml:lang="en">Tape Number</Name>
+            <Definition xml:lang="en">Organisational Tape Number</Definition>
+            <Reference>EBU R71-2001</Reference>
+            <ChangeComment>First version after conversion of P/META into XML. First version date is
+               version date from reference publisher</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+      </Term>
+      <Term termID="2.2.">
+         <Name xml:lang="en">FILM CODES</Name>
+         <Definition xml:lang="en">Organisationally given identifiers for film</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="2.2.1">
+            <Name xml:lang="en">Film Header</Name>
+            <Definition xml:lang="en">An organizationally given header for a film reel or
+               roll.</Definition>
+            <Reference/>
+            <ChangeComment>First version after conversion of P/META into XML. First version date is
+               version date from reference publisher</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.2.2">
+            <Name xml:lang="en">Reel/Roll Number</Name>
+            <Definition xml:lang="en">An organisationally given number for a film reel or
+               roll.</Definition>
+            <Reference/>
+            <ChangeComment>the termID was missing</ChangeComment>
+            <ChangeVersionDate>2010-03-10</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+      </Term>
+      <Term termID="2.3">
+         <Name xml:lang="en">DISK IDENTIFIERS</Name>
+         <Definition xml:lang="en">Organisationally given identifiers for Disks</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="2.3.1">
+            <Name xml:lang="en">Magnetic Disk</Name>
+            <Reference/>
+            <ChangeComment>First version after conversion of P/META into XML. First version date is
+               version date from reference publisher</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <Term termID="2.3.2">
+               <Name xml:lang="en">Magnetic Disk Number</Name>
+               <Definition xml:lang="en">An organisationally given number for a magnetic disc or
+                  disc pack.</Definition>
+               <Reference/>
+               <ChangeComment>termID was missing</ChangeComment>
+               <ChangeVersionDate>2010-03-10</ChangeVersionDate>
+               <ValidityFlag>1</ValidityFlag>
+            </Term>
+         </Term>
+         <Term termID="2.4">
+            <Name xml:lang="en">Optical Disk</Name>
+            <Reference/>
+            <ChangeComment>First version after conversion of P/META into XML. First version date is
+               version date from reference publisher</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <Term termID="2.4.1">
+               <Name xml:lang="en">Optical Disk Number</Name>
+               <Definition xml:lang="en">An organisationally given number for an optical disc or
+                  disc pack.</Definition>
+               <Reference/>
+               <ChangeComment>First version after conversion of P/META into XML. First version date
+                  is version date from reference publisher</ChangeComment>
+               <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+               <ValidityFlag>1</ValidityFlag>
+            </Term>
+         </Term>
+      </Term>
+   </Term>
+
+
+
+   <Term termID="3">
+      <Name xml:lang="en">INTERNATIONAL STANDARD IDENTIFIERS</Name>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="3.1">
+         <Name xml:lang="en">CRID</Name>
+         <Definition xml:lang="en">ETSI. Content Reference identifier. A globally unique identifier
+            defined by TV-Anytime. RFC 4078</Definition>
+         <Reference>ETSI TS 102 822-4</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <Link xml:lang="en">
+            <URL>http://www.etsi.org/</URL>
+            <LinkName>etsi</LinkName>
+         </Link>
+         <Link xml:lang="en">
+            <URL>http://tools.ietf.org/html/rfc4078</URL>
+            <LinkName>ietf</LinkName>
+         </Link>
+      </Term>
+      <Term termID="3.2">
+         <Name xml:lang="en">ISAN / V-ISAN</Name>
+         <Definition xml:lang="en">ISO. International Standard Audiovisual Number, ISO 16706, a
+            unique permanent reference for each audiovisual work (not publicatiosn or broadcasts)
+            centrally registered in the ISAN system. The versioned ISAN number allows to identify a
+            particular version of a work (e.g. a special cut / format or particular language
+            edition).</Definition>
+         <Reference>ISO 15706</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <Link xml:lang="en">
+            <URL>http://www.isan.org/</URL>
+            <LinkName>isan</LinkName>
+         </Link>
+      </Term>
+      <Term termID="3.3">
+         <Name xml:lang="en">ISBD</Name>
+         <Definition xml:lang="en">International Federation of Library Associations and Institutions
+            Bibliographic Descriptor</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.4">
+         <Name xml:lang="en">ISBN</Name>
+         <Definition xml:lang="en">ISO. International Standard Book Number</Definition>
+         <Reference>ISO 2108:1992</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.5">
+         <Name xml:lang="en">ISCI</Name>
+         <Definition xml:lang="en">American Association of Advertising Industries Commercial
+            Identifier</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.6">
+         <Name xml:lang="en">ISMN</Name>
+         <Definition xml:lang="en">ISO. International Standard Printed Music Number</Definition>
+         <Reference>ISO 2108:1992</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.7">
+         <Name xml:lang="en">ISRC</Name>
+         <Definition xml:lang="en">ISO. International Standard Recording Code</Definition>
+         <Reference>ISO 3901:2001</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.8">
+         <Name xml:lang="en">ISRN</Name>
+         <Definition xml:lang="en">ISO. International Standard Report Number</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.9">
+         <Name xml:lang="en">ISSN</Name>
+         <Definition xml:lang="en">ISO. International Standard Serial Number</Definition>
+         <Reference>ISO 3297:1998</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.10">
+         <Name xml:lang="en">ISTC</Name>
+         <Definition xml:lang="en">ISO. International Standard Textual Work Code</Definition>
+         <Reference>ISO 21047</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.11">
+         <Name xml:lang="en">EIDR</Name>
+         <Definition xml:lang="en"> Canonical Representation of an Entertainment Identifier Registry
+            (EIDR) Identifier, a universal unique identifier for movie and television assets. </Definition>
+         <Reference>Section 2.2 at Section 2.2 of EIDR: ID FORMAT</Reference>
+         <ChangeComment>Clarified that the Canonical Representation is used.</ChangeComment>
+         <ChangeVersionDate>2015-05-22</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <Link xml:lang="en">
+            <URL>http://eidr.org/documents/EIDR_ID_Format_v1.2.pdf</URL>
+            <LinkName>EIDR: ID FORMAT</LinkName>
+         </Link>
+      </Term>
+      <Term termID="3.12">
+         <Name xml:lang="en">IMDb</Name>
+         <Definition xml:lang="en">Entertainment identifier for movie and television assets managed
+            by IMDb, workdwide repository on movie and TV content and celebrities.</Definition>
+         <Reference/>
+         <ChangeComment/>
+         <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <Link xml:lang="en">
+            <URL>http://www.imdb.com/</URL>
+            <LinkName>imdb</LinkName>
+         </Link>
+      </Term>
+   </Term>
+
+
+
+   <Term termID="4">
+      <Name xml:lang="en">INTERNATIONAL STANDARD BASED COMPOUND IDENTIFIERS</Name>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="4.1">
+         <Name xml:lang="en">SICI</Name>
+         <Definition xml:lang="en">ANSI/NISO Serial Item and Contribution Identifier</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="4.2">
+         <Name xml:lang="en">BICI</Name>
+         <Definition xml:lang="en">ANSI/NISO Book Item and Component Identifier</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="4.3">
+         <Name xml:lang="en">AICI</Name>
+         <Definition xml:lang="en">ANSI/NISO Audio-visual Item and Component Identifier</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="4.4">
+         <Name xml:lang="en">PII</Name>
+         <Definition xml:lang="en">American Chemical Society Publisher Item Identifier</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+   </Term>
+
+
+
+   <Term termID="5">
+      <Name xml:lang="en">OBJECT IDENTIFIERS</Name>
+      <Definition/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="5.1">
+         <Name xml:lang="en">UUID / GUID</Name>
+         <Definition xml:lang="en">Universally Unique IDentifier / Globally Unique Identifier.
+            Guarantees uniqueness across space and time and does not require central
+            registration</Definition>
+         <Reference>ISO/IEC 11578, RFC 4122</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="5.2">
+         <Name xml:lang="en">LUID</Name>
+         <Definition xml:lang="en">A 4 byte locally unique ID</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="5.3">
+         <Name xml:lang="en">Package Name</Name>
+         <Definition xml:lang="en">Identifies the AAF metadata object by name</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="5.4">
+         <Name xml:lang="en">DOI</Name>
+         <Definition xml:lang="en">International DOI Foundation. Digital Object
+            Identifier</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="5.5">
+         <Name xml:lang="en">Defined Object ID</Name>
+         <Definition xml:lang="en">The unique identifier for the item being defined.</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="5.6">
+         <Name xml:lang="en">Global Number</Name>
+         <Definition xml:lang="en">Organizationally-given global number used to identify subjects in
+            the image.</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="5.7">
+         <Name xml:lang="en">Clip ID</Name>
+         <Definition xml:lang="en">Clip ID as a basic UMID. Note that the value includes the whole
+            UMID including the first 12 UL bytes.</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="5.8">
+         <Name xml:lang="en">Extended Clip ID</Name>
+         <Definition xml:lang="en">Clip ID as an Extended UMID. Note that the value includes the
+            whole UMID including the first 12 UL.</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="5.9">
+         <Name xml:lang="en">Clip ID Array</Name>
+         <Definition xml:lang="en">An ordered array of Basic UMIDs.</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="5.10">
+         <Name xml:lang="en">Package ID</Name>
+         <Definition xml:lang="en">Identifies the Metadata Object with a a unique
+            identifier.</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="5.11">
+         <Name xml:lang="en">IPN</Name>
+         <Definition xml:lang="en">The Identifier called IPN is an Internal Production
+            Number.</Definition>
+         <Reference/>
+         <ChangeComment>First version within the Dwerft project</ChangeComment>
+         <ChangeVersionDate>2020-03-31</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="5.12">
+         <Name xml:lang="en">NDB-ID</Name>
+         <Definition xml:lang="en">The Identifier called ID used in the Normdatenbank-Database to
+            identify a ressource.</Definition>
+         <Reference/>
+         <ChangeComment>First version within the Dwerft project</ChangeComment>
+         <ChangeVersionDate>2019</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="5.13">
+         <Name xml:lang="en">Fesad</Name>
+         <Definition xml:lang="en">Normed database used by the ARD</Definition>
+         <Reference/>
+         <ChangeComment>First version within the Dwerft project</ChangeComment>
+         <ChangeVersionDate>2019</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="5.13.1">
+            <Name xml:lang="en">Fesad-IDNR</Name>
+            <Definition xml:lang="en">The Identifier called IDNR (ID/Produktionsnummer) used in the
+               Fesad-Database to identify a documentation unit.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="5.13.2">
+            <Name xml:lang="en">Fesad-DU-Key</Name>
+            <Definition xml:lang="en">The Identifier called DU-Key (DE-Kunstschluessel) used in the
+               Fesad-Database to identify a documentation unit.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="5.13.3">
+            <Name xml:lang="en">Fesad-Barcode</Name>
+            <Definition xml:lang="en">The Identifier called Barcode used in the Fesad-Database to
+               identify a storage medium.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="5.13.4">
+            <Name xml:lang="en">Fesad-ANR</Name>
+            <Definition xml:lang="en">The Identifier called ANR (Archivnummer) used in the
+               Fesad-Database to identify a storage medium.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="5.13.5">
+            <Name xml:lang="en">Fesad-Essenz-ID</Name>
+            <Definition xml:lang="en">The Identifier called Essenz-ID used in the Fesad-Database to
+               identify a file used as a storage medium.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="5.13.6">
+            <Name xml:lang="en">Fesad-Datei-ID</Name>
+            <Definition xml:lang="en">The Identifier called Datei-ID used in the Fesad-Database to
+               identify a file used as a storage medium.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+      </Term>
+   </Term>
+
+
+
+   <Term termID="6">
+      <Name xml:lang="en">DEVICE IDENTIFIERS</Name>
+      <Definition xml:lang="en">Unique identifiers for any device used in programme production -
+         cameras, microphones, editing, colour grading etc</Definition>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="6.1">
+         <Name xml:lang="en">Device Designation</Name>
+         <Definition xml:lang="en">Identifies the "house name" of the device used in capturing or
+            generating the essence</Definition>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="6.2">
+         <Name xml:lang="en">Device Model</Name>
+         <Definition xml:lang="en">Identifies the device model used in capturing or generating the
+            essence.</Definition>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="6.3">
+         <Name xml:lang="en">Device Serial Number</Name>
+         <Definition xml:lang="en">Alphanumeric serial number identifying the individual
+            device</Definition>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="6.4">
+         <Name xml:lang="en">IEEE Device Identifier (often used as a network node identifier)</Name>
+         <Definition xml:lang="en">Hex number identifying a device by manufacturer and device
+            number</Definition>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="6.5">
+         <Name xml:lang="en">Device ID Type</Name>
+         <Definition xml:lang="en">The type of identifier used to identify the device</Definition>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="6.6">
+         <Name xml:lang="en">Device Type</Name>
+         <Definition xml:lang="en">Device Type expressed as a common name - e.g. camera, audio tape
+            recorder, RAM, Hard disk etc- - or as a code</Definition>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="6.7">
+         <Name xml:lang="en">Device Asset Number</Name>
+         <Definition xml:lang="en">Defines the asset number of the device used in capturing or
+            generating the content</Definition>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+   </Term>
+
+
+
+   <Term termID="7">
+      <Name xml:lang="en">PLATFORM IDENTIFIERS</Name>
+      <Definition xml:lang="en">Organisationally given identifiers for platforms, vehicles, or
+         mounts carrying devices or sensors</Definition>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="7.1">
+         <Name xml:lang="en">Platform Designation</Name>
+         <Definition xml:lang="en">Identifies the generic name of the platform carrying the device
+            used in capturing or generating the essence</Definition>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="7.2">
+         <Name xml:lang="en">Platform Model</Name>
+         <Definition xml:lang="en">Identifies the platform model carrying the device used in
+            capturing or generating the essence.</Definition>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="7.3">
+         <Name xml:lang="en">Platform Serial Number</Name>
+         <Definition xml:lang="en">Alphanumeric serial number identifying the individual platform
+            carrying the device used in capturing or generating the essence.</Definition>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+   </Term>
+
+
+
+
+   <Term termID="8">
+      <Name xml:lang="en">NETWORK AND STREAM IDENTIFIERS</Name>
+      <Definition xml:lang="en">Information about channel numbering</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="8.1">
+         <Name xml:lang="en">Channel Handle</Name>
+         <Definition xml:lang="en">Unique number identifying a channel number in a
+            stream</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="8.2">
+         <Name xml:lang="en">Stream ID</Name>
+         <Definition xml:lang="en">Organizationally given identifier that is the stream_id in
+            ISO/IEC 13818-1 (MPEG-2 Systems)</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="8.3">
+         <Name xml:lang="en">Transport ID</Name>
+         <Definition xml:lang="en">Identifier that is the transport_stream_id in ISO/IEC 13818-1
+            (MPEG-2 Systems)</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="8.4">
+         <Name xml:lang="en">Essence ID</Name>
+         <Definition xml:lang="en">Essence (or its container) stream ID</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="8.5">
+         <Name xml:lang="en">Index Stream ID</Name>
+         <Definition xml:lang="en">Index table stream ID</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+   </Term>
+
+
+
+   <Term termID="9">
+      <Name xml:lang="en">LOCALLY UNIQUE LOCATORS</Name>
+      <Definition xml:lang="en">Locally unique path definitions</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="9.1">
+         <Name xml:lang="en">MEDIA LOCATORS</Name>
+         <Definition xml:lang="en">Local paths for a digital media, data, metadata file
+            etc.</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="9.1.1">
+            <Name xml:lang="en">Local File Path</Name>
+            <Definition xml:lang="en">The local path to a complete digital media, data, metadata...
+               file</Definition>
+            <Reference/>
+            <ChangeComment>First version after conversion of P/META into XML. First version date is
+               version date from reference publisher</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="9.1.2">
+            <Name xml:lang="en">Physical Media Location</Name>
+            <Definition xml:lang="en">A Definition of the physical location of media - e.g. which
+               archive, place, rack, shelf, position on shelf</Definition>
+            <Reference/>
+            <ChangeComment>First version after conversion of P/META into XML. First version date is
+               version date from reference publisher</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="9.1.3">
+            <Name xml:lang="en">Track Number</Name>
+            <Definition xml:lang="en">Specifies the intended track number in a sequences of
+               tracks</Definition>
+            <Reference/>
+            <ChangeComment>First version after conversion of P/META into XML. First version date is
+               version date from reference publisher</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="9.1.4">
+            <Name xml:lang="en">Track Number Batch</Name>
+            <Definition xml:lang="en">An unordered list of Track Numbers used to link the System
+               item element to the essence tracks used in the Content Package</Definition>
+            <Reference/>
+            <ChangeComment>First version after conversion of P/META into XML. First version date is
+               version date from reference publisher</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+      </Term>
+      <Term termID="9.2">
+         <Name xml:lang="en">FILM LOCATORS</Name>
+         <Definition xml:lang="en">Location information for film</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="9.2.1">
+            <Name xml:lang="en">Edge Code</Name>
+            <Definition xml:lang="en">The edge code on the film eg. feet or frames</Definition>
+            <Reference/>
+            <ChangeComment>First version after conversion of P/META into XML. First version date is
+               version date from reference publisher</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="9.2.2">
+            <Name xml:lang="en">Key Code</Name>
+            <Definition xml:lang="en">Machine readable version of Frame Code</Definition>
+            <Reference/>
+            <ChangeComment>First version after conversion of P/META into XML. First version date is
+               version date from reference publisher</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="9.2.3">
+            <Name xml:lang="en">Lnk Number</Name>
+            <Definition/>
+            <Reference/>
+            <ChangeComment>First version after conversion of P/META into XML. First version date is
+               version date from reference publisher</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+      </Term>
+   </Term>
+
+
+
+
+   <Term termID="10">
+      <Name xml:lang="en">GENERAL ORGANISATION IDENTIFIERS</Name>
+      <Definition xml:lang="en">Unique Identifiers for Organisations</Definition>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="10.1">
+         <Name xml:lang="en">Organisation Code</Name>
+         <Definition xml:lang="en">The identifying Code for an organisation</Definition>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+   </Term>
+
+
+
+
+   <Term termID="11">
+      <Name xml:lang="en">UNIQUE IPR IDENTIFIERS</Name>
+      <Definition xml:lang="en">Unique IDs allocated by IP Rights organisations</Definition>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+
+   <Term termID="12">
+      <Name xml:lang="en">IPI (SUISA/CISAC)</Name>
+      <Definition xml:lang="en">IP Identifiers allocated by CISAC</Definition>
+      <Reference>CISAC</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="12.1">
+         <Name xml:lang="en">Natural Person / legal entity</Name>
+         <Definition xml:lang="en">Natural person or legal entity ID in the International
+            Confederation of Societies of Authors and Composers(CISAC) Interested Parties
+            system</Definition>
+         <Reference>CISAC</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+   </Term>
+
+
+
+
+   <Term termID="13">
+      <Name xml:lang="en">AGICOA/MPAA</Name>
+      <Definition xml:lang="en">Unique Identifiers allocated by AGICOA</Definition>
+      <Reference>AGICOA</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="13.1">
+         <Name xml:lang="en">AGICOA/MPAA Identifier</Name>
+         <Definition xml:lang="en">The Association of International Collective Management of Audio
+            Visual Works (AGICOA) register ID.</Definition>
+         <Reference>AGICOA</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+   </Term>
+
+
+
+
+   <Term termID="14">
+      <Name xml:lang="en">MUSIC INDUSTRY IDENTIFIERS</Name>
+      <Definition xml:lang="en">Identifiers associated with the Music Industry</Definition>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="14.1">
+         <Name xml:lang="en">ISWC</Name>
+         <Definition xml:lang="en">ISO. International Standard Musical Work Code</Definition>
+         <Reference>ISO 15707</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="14.2">
+         <Name xml:lang="en">Recording Label</Name>
+         <Definition xml:lang="en">Name of a publication label - e.g. United Artists,
+            Topic</Definition>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="14.3">
+         <Name xml:lang="en">Collection</Name>
+         <Definition xml:lang="en">Name of a published collection - e.g. 'Sinatra Live at the
+            Sands'</Definition>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="14.4">
+         <Name xml:lang="en">Origin Code</Name>
+         <Definition xml:lang="en">Code indicating the type of source of material</Definition>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="14.5">
+         <Name xml:lang="en">Main catalogue number</Name>
+         <Definition xml:lang="en">The main catalogue number for a recording</Definition>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="14.6">
+         <Name xml:lang="en">Catalogue prefix number</Name>
+         <Definition xml:lang="en">The alphanumeric prefix to the Main catalogue number</Definition>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="14.7">
+         <Name xml:lang="en">Side number</Name>
+         <Definition xml:lang="en">Where appropriate, the side number on which the track is
+            recorded.</Definition>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="14.8">
+         <Name xml:lang="en">Track number</Name>
+         <Definition xml:lang="en">The track or band number of a recording.</Definition>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="14.9">
+         <Name xml:lang="en">LC</Name>
+         <Definition xml:lang="en">The Identifier called Label Code is an unique 4-digit or 5-digit
+            music label identification code that is assigned by Gesellschaft zur Verwertung von
+            Leistungsschutzrechten (GVL), Germany.</Definition>
+         <ChangeComment>First version within the Dwerft project</ChangeComment>
+         <ChangeVersionDate>2020-03-31</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="14.10">
+         <Name xml:lang="en">ADM</Name>
+         <Definition xml:lang="en">Identifier for the different classes of the Audio Definition
+            Model. Detailed definition in ITU-R BS.2076-1 - §6</Definition>
+         <Reference/>
+         <ChangeComment>First version within the Dwerft project</ChangeComment>
+         <ChangeVersionDate>2019</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <Link xml:lang="en">
+            <URL>https://www.itu.int/rec/R-REC-BS.2076-1-201706-S/en</URL>
+            <LinkName>itu</LinkName>
+         </Link>
+         <Term termID="14.10.1">
+            <Name xml:lang="en">audioPackFormatID</Name>
+            <Definition xml:lang="en">Format: AP_yyyyxxxx - The yyyy digits of AP_yyyyxxxx_represent
+               the type of audio contained in the pack.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="14.10.2">
+            <Name xml:lang="en">audioChannelFormatID</Name>
+            <Definition xml:lang="en">Format: AC_yyyyxxxx - The yyyy digits of AC_yyyyxxxx_represent
+               the type of audio contained in the channel. The xxxx digits should match the
+               audioStreamFormat xxxx digits.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="14.10.3">
+            <Name xml:lang="en">audioBlockFormatID</Name>
+            <Definition xml:lang="en">Format: AB_yyyyxxxx_zzzzzzzz</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="14.10.4">
+            <Name xml:lang="en">audioStreamFormatID</Name>
+            <Definition xml:lang="en">Format: AS_yyyyxxxx - The yyyy digits of AS_yyyyxxxx_represent
+               the type of audio contained in the stream. The xxxx digits should match the
+               audioChannelFormat xxxx digits.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="14.10.5">
+            <Name xml:lang="en">audioTrackFormatID</Name>
+            <Definition xml:lang="en">Format: AT_yyyyxxxx_zz - The yyyy digits of
+               AT_yyyyxxxx_nn_represent the type of audio contained in the track. The yyyyxxxx
+               digits should match the audioStreamFormat yyyyxxxx digits.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="14.10.6">
+            <Name xml:lang="en">audioProgrammeID</Name>
+            <Definition xml:lang="en">Format: APR_wwww</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="14.10.7">
+            <Name xml:lang="en">audioContentID</Name>
+            <Definition xml:lang="en">Format: ACO_wwww</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="14.10.8">
+            <Name xml:lang="en">audioObjectID</Name>
+            <Definition xml:lang="en">Format: AO_wwww</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+      </Term>
+      <Term termID="14.11">
+         <Name xml:lang="en">GEMA</Name>
+         <Definition xml:lang="en">Identifier created by the GEMA (Society for musical performing
+            and mechanical reproduction rights).</Definition>
+         <ChangeComment>First version within the Dwerft project</ChangeComment>
+         <ChangeVersionDate>2020-03-31</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <Link xml:lang="en">
+            <URL>https://www.gema.de</URL>
+            <LinkName>gema</LinkName>
+         </Link>
+         <Term termID="14.11.1">
+            <Name xml:lang="de">werkNummer</Name>
+            <Definition xml:lang="de">Werknummer des Titels</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="14.11.2">
+            <Name xml:lang="de">werkfassungsNummer</Name>
+            <Definition xml:lang="en">Number of a title. Format = NNNNNNN-NNN e.g.
+               3831170-001</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="14.11.3">
+            <Name xml:lang="en">ipiBaseNumber</Name>
+            <Definition xml:lang="en">- Description follows! -</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="14.11.4">
+            <Name xml:lang="en">ipiNameNumber</Name>
+            <Definition xml:lang="en">- Description follows! -</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="14.11.5">
+            <Name xml:lang="de">werkIdentifkator</Name>
+            <Definition xml:lang="en">- Description follows! -</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="14.11.6">
+            <Name xml:lang="en">IWK</Name>
+            <Definition xml:lang="de">IWK des Titels</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2020</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+      </Term>
+   </Term>
+
+   <Term termID="15">
+      <Name xml:lang="en">URI</Name>
+      <Definition xml:lang="en">Uniform Resource Identifier</Definition>
+      <Reference>IETF</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="15.1">
+         <Name xml:lang="en">URN</Name>
+         <Definition xml:lang="en">Uniform Resource Namespace</Definition>
+         <Reference>IETF</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="15.2">
+         <Name xml:lang="en">URL</Name>
+         <Definition xml:lang="en">Uniform Resource Locator</Definition>
+         <Reference>IETF</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+   </Term>
+
+
+   <Term termID="16">
+      <Name xml:lang="en">Accounting Reference</Name>
+      <Definition xml:lang="en">An accounting reference issued by the organisation supplying the
+         material and used by them to identify the material being exchanged for accounting
+         purposes.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="17">
+      <Name xml:lang="en">Archive Number</Name>
+      <Definition xml:lang="en">An identifying number issued within the organisation by the Archive
+         supplying the material and recognised by them as such.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="18">
+      <Name xml:lang="en">Commissioning Project Number</Name>
+      <Definition xml:lang="en">An identifying number for the project (to create the material being
+         exchanged) issued by the organisation commissioning the material and recognised by them as
+         such.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="19">
+      <Name xml:lang="en">PMetaTransactionNumber</Name>
+      <Definition xml:lang="en">An identifying number for the PMeta exchange issued by the sender
+         organisation and recognised by them as such.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="20">
+      <Name xml:lang="en">Other identifiers</Name>
+      <Definition xml:lang="en">Identifying identifiers types not in the reference list</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="21">
+      <Name xml:lang="en">Other private references</Name>
+      <Definition xml:lang="en">Organisational</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+</ClassificationScheme>

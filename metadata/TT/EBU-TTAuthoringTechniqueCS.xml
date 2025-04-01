@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:EBU-TTAuthoringTechniqueCS" versionDate="2015-09-11">
+    <!--
+   ##################################################################### 
+  EBU-TT AUTHORING TECHNIQUE CS                                                                    
+   Definition: This is a list of authoring tools and techniques that can be referred to from EBU-TT (Tech 3350) to signal which technique(s) was/were used to create the content in the document.
+   
+   The following Creative Commons Rights apply to the use of this EBU resource:
+   http://creativecommons.org/licenses/by-sa/3.0/
+   
+   Owner: EBU Technical Department
+   Author: EBU MIM-XMLSubs grroup
+   Contact: tech@ebu.ch
+   
+   ##################################################################### 
+   -->
+
+    <Alias>EBU-TTAuthoringTechnique</Alias>
+
+    <Term termID="1">
+        <Name xml:lang="en">OCR</Name>
+        <Definition xml:lang="en">OCR is intended to represent text that has been captured by an Optical Character Recognition process - such as a scanned script, or from existing bitmap subtitle representations e.g. DVD, DVB or ‘burnt in’ on screen text.</Definition>
+        <FirstVersiondate>2015-09-11</FirstVersiondate>
+        <ValidityFlag>1</ValidityFlag>
+    </Term>
+
+    <Term termID="2">
+        <Name xml:lang="en">ASR</Name>
+        <Definition xml:lang="en">ASR is intended to represent text that has been captured by an Automatic Speech Recognition (ASR) process  based on audio from the programme content. The ASR could be performed by a specific recognition engine capable of taking an audio signal and extracting any spoken utterances contained therein and translating them to an accurate textual representation.</Definition>
+        <FirstVersiondate>2015-09-11</FirstVersiondate>
+        <ValidityFlag>1</ValidityFlag>
+    </Term>
+
+    <Term termID="3">
+        <Name xml:lang="en">Steno</Name>
+        <Definition xml:lang="en">Steno is intended to represent text that has been captured via a Stenography process - using trained stenographers, bespoke keyboards and keystroke translation software.</Definition>
+        <FirstVersiondate>2015-09-11</FirstVersiondate>
+        <ValidityFlag>1</ValidityFlag>
+    </Term>
+
+    <Term termID="4">
+        <Name xml:lang="en">Typing</Name>
+        <Definition xml:lang="en">Typing is intended to represent text that has been captured by typists using standard Qwerty or similar keyboards; it is possible that certain Typing scenarios may use multiple keyboards and typists to match the speed of the spoken word in the audio signal.</Definition>
+        <FirstVersiondate>2015-09-11</FirstVersiondate>
+        <ValidityFlag>1</ValidityFlag>
+    </Term>
+
+    <Term termID="5">
+        <Name xml:lang="en">Respeaking</Name>
+        <Definition xml:lang="en">Respeaking is intended to represent text that has been originated by trained respeakers dictating into a speech recognition engine trained to their own voice. Respeakers repeat the spoken words in the audio signal almost synchronously with the content and add spoken punctuation and other presentation commands as required.</Definition>
+        <FirstVersiondate>2015-09-11</FirstVersiondate>
+        <ValidityFlag>1</ValidityFlag>
+    </Term>
+
+    <Term termID="6">
+        <Name xml:lang="en">Import Script</Name>
+        <Definition xml:lang="en">Import Script is intended to represent text that has been originated in external systems and imported as a text-based file for use in a subtitling  authoring system.</Definition>
+        <FirstVersiondate>2015-09-11</FirstVersiondate>
+        <ValidityFlag>1</ValidityFlag>
+    </Term>
+
+    <Term termID="7">
+        <Name xml:lang="en">Extract</Name>
+        <Definition xml:lang="en">Extract is intended to represent subtitles that have been extracted from files or sources that also include audio or video; for example data embedded within wrapper-based formats, i.e. MXF containing SMPTE 436M subtitles, ‘tall’ video with teletext, or other related formats.</Definition>
+        <FirstVersiondate>2015-09-11</FirstVersiondate>
+        <ValidityFlag>1</ValidityFlag>
+    </Term>
+
+    <Term termID="8">
+        <Name xml:lang="en">Transcoded</Name>
+        <Definition xml:lang="en">Transcoded  is intended to represent subtitles that have been taken from an existing subtitle only data in an alternative format (which could be either a file or stream) and modified or transcoded to an EBU-TT document. Transcoding may be a lossy process, and may result in substantive, irreversible changes to the subtitle data.</Definition>
+        <FirstVersiondate>2015-09-11</FirstVersiondate>
+        <ValidityFlag>1</ValidityFlag>
+    </Term>
+
+</ClassificationScheme>

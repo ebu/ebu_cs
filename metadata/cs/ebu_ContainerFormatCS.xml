@@ -1,0 +1,1166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:ContainerFormatCS" versionDate="2016-12-15">
+   <!-- #####################################################################
+         CONTAINER FORMAT 
+         Definition: Main container formats met in broadcasting
+         
+		 THIS SUPERSEDES THE FORMER FILE FORMAT CS.
+		 
+         The following Creative Commons Rights apply to the use of this EBU resource:
+         http://creativecommons.org/licenses/by-sa/3.0/
+         
+         Owner: EBU Technical Department
+         Author: Jean-Pierre Evain
+         Contact: metadata@ebu.ch
+         
+         ##################################################################### -->
+
+   <Alias>EBUContainerFormat</Alias>
+
+   <Term termID="7.0">
+      <Name xml:lang="en">Proprietary</Name>
+      <Definition xml:lang="en">For use where proprietary extensions are required, or the use of
+         keywords that do not fit in any classification below</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="7.1">
+      <Name xml:lang="en">Audio</Name>
+      <Definition xml:lang="en">Radio programme</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term termID="7.1.1">
+         <Name xml:lang="en">mp3</Name>
+         <Definition xml:lang="en">Moving Pictures type 3 files</Definition>
+         <Reference>ISO</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="7.1.2">
+         <Name xml:lang="en">mp4</Name>
+         <Definition xml:lang="en">Moving Pictures type 4 audio files</Definition>
+         <Reference>ISO</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="7.1.3">
+         <Name xml:lang="en">Real Audio</Name>
+         <Definition xml:lang="en">Real Networks Inc Audio files.</Definition>
+         <Reference>ISO</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="7.1.4">
+         <Name xml:lang="en">wav</Name>
+         <Definition xml:lang="en">Microsoft and Creative Labs waveform audio files</Definition>
+         <Reference>ISO</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="7.1.5">
+         <Name xml:lang="en">wma</Name>
+         <Definition xml:lang="en">Windows Media audio files.</Definition>
+         <Reference>ISO</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="7.1.6">
+         <Name xml:lang="en">Quicktime</Name>
+         <Definition xml:lang="en">Apple Computer Inc. audio files.</Definition>
+         <Reference>ISO</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <MappingTerm originalTermID="ml-17">
+            <ClassificationSchemeAcronym>movieLabs</ClassificationSchemeAcronym>
+            <ClassificationSchemeName>movieLabs Common Metadata 2010</ClassificationSchemeName>
+            <ClassificationSchemeURL>movieLabs2010#</ClassificationSchemeURL>
+            <OriginalTermName xml:lang="en">Quicktime (mov)</OriginalTermName>
+            <OriginalTermDefinition/>
+         </MappingTerm>
+      </Term>
+      <Term termID="7.1.7">
+         <Name xml:lang="en">aiff</Name>
+         <Definition xml:lang="en">Apple Computer Inc Audio Interchange Files.</Definition>
+         <Reference>ISO</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <MappingTerm originalTermID="ml-3">
+            <ClassificationSchemeAcronym>movieLabs</ClassificationSchemeAcronym>
+            <ClassificationSchemeName>movieLabs Common Metadata 2010</ClassificationSchemeName>
+            <ClassificationSchemeURL>movieLabs2010#</ClassificationSchemeURL>
+            <OriginalTermName xml:lang="en">AIFF</OriginalTermName>
+            <OriginalTermDefinition/>
+         </MappingTerm>
+      </Term>
+      <Term termID="7.1.8">
+         <Name xml:lang="en">aiff-c</Name>
+         <Definition xml:lang="en">Apple Computer Inc Compressed Audio Interchange
+            Files.</Definition>
+         <Reference>ISO</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+   <Term termID="7.2">
+      <Name xml:lang="en">Video</Name>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term termID="7.2.1">
+         <Name xml:lang="en">mjpeg</Name>
+         <Definition xml:lang="en"/>
+         <Reference>ISO</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="7.2.2">
+         <Name xml:lang="en">mpeg</Name>
+         <Definition xml:lang="en">Motion picture Expert Group video files</Definition>
+         <Reference>ISO</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <MappingTerm originalTermID="ml-8">
+            <ClassificationSchemeAcronym>movieLabs</ClassificationSchemeAcronym>
+            <ClassificationSchemeName>movieLabs Common Metadata 2010</ClassificationSchemeName>
+            <ClassificationSchemeURL>movieLabs2010#</ClassificationSchemeURL>
+            <OriginalTermName xml:lang="en">ISO</OriginalTermName>
+            <OriginalTermDefinition/>
+         </MappingTerm>
+         <Term termID="7.2.2.1">
+            <Name xml:lang="en">mpg</Name>
+            <Definition xml:lang="en">Motion picture Expert Group video files</Definition>
+            <Reference>ISO</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.2.2.2">
+            <Name xml:lang="en">mp4</Name>
+            <Definition xml:lang="en"/>
+            <Reference>ISO</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+            <MappingTerm originalTermID="ml-12">
+               <ClassificationSchemeAcronym>movieLabs</ClassificationSchemeAcronym>
+               <ClassificationSchemeName>movieLabs Common Metadata 2010</ClassificationSchemeName>
+               <ClassificationSchemeURL>movieLabs2010#</ClassificationSchemeURL>
+               <OriginalTermName xml:lang="en">MP4</OriginalTermName>
+               <OriginalTermDefinition/>
+            </MappingTerm>
+         </Term>
+      </Term>
+      <Term termID="7.2.3">
+         <Name xml:lang="en">dv</Name>
+         <Definition xml:lang="en">Digital Video format</Definition>
+         <Reference>ISO</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="7.2.4">
+         <Name xml:lang="en">avi</Name>
+         <Definition xml:lang="en">Audio Video Interweaved</Definition>
+         <Reference>ISO</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <MappingTerm originalTermID="ml-4">
+            <ClassificationSchemeAcronym>movieLabs</ClassificationSchemeAcronym>
+            <ClassificationSchemeName>movieLabs Common Metadata 2010</ClassificationSchemeName>
+            <ClassificationSchemeURL>movieLabs2010#</ClassificationSchemeURL>
+            <OriginalTermName xml:lang="en">AVI</OriginalTermName>
+            <OriginalTermDefinition/>
+         </MappingTerm>
+      </Term>
+      <Term termID="7.2.5">
+         <Name xml:lang="en">quicktime</Name>
+         <Definition xml:lang="en">Apple Computer Inc. video files.</Definition>
+         <Reference>ISO</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="7.2.6">
+         <Name xml:lang="en">Real Networks</Name>
+         <Definition xml:lang="en">Real Networks Inc. video files.</Definition>
+         <Reference>ISO</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <MappingTerm originalTermID="ml-19">
+            <ClassificationSchemeAcronym>movieLabs</ClassificationSchemeAcronym>
+            <ClassificationSchemeName>movieLabs Common Metadata 2010</ClassificationSchemeName>
+            <ClassificationSchemeURL>movieLabs2010#</ClassificationSchemeURL>
+            <OriginalTermName xml:lang="en">RM</OriginalTermName>
+            <OriginalTermDefinition>RealNetwork’s RealMedia file format</OriginalTermDefinition>
+         </MappingTerm>
+      </Term>
+      <Term termID="7.2.7">
+         <Name xml:lang="en">wmv</Name>
+         <Definition xml:lang="en">Windows Media Video files.</Definition>
+         <Reference>ISO</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <MappingTerm originalTermID="ml-24">
+            <ClassificationSchemeAcronym>movieLabs</ClassificationSchemeAcronym>
+            <ClassificationSchemeName>movieLabs Common Metadata 2010</ClassificationSchemeName>
+            <ClassificationSchemeURL>movieLabs2010#</ClassificationSchemeURL>
+            <OriginalTermName xml:lang="en">WMV</OriginalTermName>
+            <OriginalTermDefinition/>
+         </MappingTerm>
+      </Term>
+      <Term termID="7.2.8">
+         <Name xml:lang="en">asf</Name>
+         <Definition xml:lang="en">Advanced Streaming Format</Definition>
+         <Reference>ISO</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <MappingTerm originalTermID="ml-4">
+            <ClassificationSchemeAcronym>movieLabs</ClassificationSchemeAcronym>
+            <ClassificationSchemeName>movieLabs Common Metadata 2010</ClassificationSchemeName>
+            <ClassificationSchemeURL>movieLabs2010#</ClassificationSchemeURL>
+            <OriginalTermName xml:lang="en">ASF</OriginalTermName>
+            <OriginalTermDefinition/>
+         </MappingTerm>
+      </Term>
+      <Term termID="7.2.9">
+         <Name xml:lang="en">ogg</Name>
+         <Definition xml:lang="en"/>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <MappingTerm originalTermID="ml-16">
+            <ClassificationSchemeAcronym>movieLabs</ClassificationSchemeAcronym>
+            <ClassificationSchemeName>movieLabs Common Metadata 2010</ClassificationSchemeName>
+            <ClassificationSchemeURL>movieLabs2010#</ClassificationSchemeURL>
+            <OriginalTermName xml:lang="en">Ogg</OriginalTermName>
+            <OriginalTermDefinition/>
+         </MappingTerm>
+      </Term>
+      <Term termID="7.2.10">
+         <Name xml:lang="en">raw</Name>
+         <Definition xml:lang="en"/>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="7.2.11">
+         <Name xml:lang="en">mov</Name>
+         <Definition xml:lang="en"/>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="7.2.12">
+         <Name xml:lang="en">3GP</Name>
+         <Definition xml:lang="en">Third Generation Partnership Project (3GPP) file
+            format</Definition>
+         <ChangeComment>MovieLabs mapping</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <MappingTerm originalTermID="ml-1">
+            <ClassificationSchemeAcronym>movieLabs</ClassificationSchemeAcronym>
+            <ClassificationSchemeName>movieLabs Common Metadata 2010</ClassificationSchemeName>
+            <ClassificationSchemeURL>movieLabs2010#</ClassificationSchemeURL>
+            <OriginalTermName xml:lang="en">3GP</OriginalTermName>
+            <OriginalTermDefinition/>
+         </MappingTerm>
+      </Term>
+      <Term termID="7.2.13">
+         <Name xml:lang="en">3GP2</Name>
+         <Definition xml:lang="en">Third Generation Partnership Project (3GPP2) file
+            format</Definition>
+         <ChangeComment>MovieLabs mapping</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <MappingTerm originalTermID="ml-2">
+            <ClassificationSchemeAcronym>movieLabs</ClassificationSchemeAcronym>
+            <ClassificationSchemeName>movieLabs Common Metadata 2010</ClassificationSchemeName>
+            <ClassificationSchemeURL>movieLabs2010#</ClassificationSchemeURL>
+            <OriginalTermName xml:lang="en">3GP2</OriginalTermName>
+            <OriginalTermDefinition/>
+         </MappingTerm>
+      </Term>
+      <Term termID="7.2.14">
+         <Name xml:lang="en">DIVX</Name>
+         <Definition xml:lang="en"/>
+         <ChangeComment>MovieLabs mapping</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <MappingTerm originalTermID="ml-6">
+            <ClassificationSchemeAcronym>movieLabs</ClassificationSchemeAcronym>
+            <ClassificationSchemeName>movieLabs Common Metadata 2010</ClassificationSchemeName>
+            <ClassificationSchemeURL>movieLabs2010#</ClassificationSchemeURL>
+            <OriginalTermName xml:lang="en">DIVX</OriginalTermName>
+            <OriginalTermDefinition/>
+         </MappingTerm>
+      </Term>
+      <Term termID="7.2.15">
+         <Name xml:lang="en">FLV</Name>
+         <Definition xml:lang="en"/>
+         <ChangeComment>MovieLabs mapping</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <MappingTerm originalTermID="ml-7">
+            <ClassificationSchemeAcronym>movieLabs</ClassificationSchemeAcronym>
+            <ClassificationSchemeName>movieLabs Common Metadata 2010</ClassificationSchemeName>
+            <ClassificationSchemeURL>movieLabs2010#</ClassificationSchemeURL>
+            <OriginalTermName xml:lang="en">FLV</OriginalTermName>
+            <OriginalTermDefinition/>
+         </MappingTerm>
+      </Term>
+      <Term termID="7.2.16">
+         <Name xml:lang="en">HCT</Name>
+         <Definition xml:lang="en"/>
+         <ChangeComment>Hectavision file</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <MappingTerm originalTermID="ml-8">
+            <ClassificationSchemeAcronym>movieLabs</ClassificationSchemeAcronym>
+            <ClassificationSchemeName>movieLabs Common Metadata 2010</ClassificationSchemeName>
+            <ClassificationSchemeURL>movieLabs2010#</ClassificationSchemeURL>
+            <OriginalTermName xml:lang="en">HCT</OriginalTermName>
+            <OriginalTermDefinition/>
+         </MappingTerm>
+      </Term>
+      <Term termID="7.2.17">
+         <Name xml:lang="en">M4V</Name>
+         <Definition xml:lang="en"/>
+         <ChangeComment/>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <MappingTerm originalTermID="ml-10">
+            <ClassificationSchemeAcronym>movieLabs</ClassificationSchemeAcronym>
+            <ClassificationSchemeName>movieLabs Common Metadata 2010</ClassificationSchemeName>
+            <ClassificationSchemeURL>movieLabs2010#</ClassificationSchemeURL>
+            <OriginalTermName xml:lang="en">M4V</OriginalTermName>
+            <OriginalTermDefinition/>
+         </MappingTerm>
+      </Term>
+      <Term termID="7.2.18">
+         <Name xml:lang="en">MJ2</Name>
+         <Definition xml:lang="en"/>
+         <ChangeComment/>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <MappingTerm originalTermID="ml-11">
+            <ClassificationSchemeAcronym>movieLabs</ClassificationSchemeAcronym>
+            <ClassificationSchemeName>movieLabs Common Metadata 2010</ClassificationSchemeName>
+            <ClassificationSchemeURL>movieLabs2010#</ClassificationSchemeURL>
+            <OriginalTermName xml:lang="en">MJ2</OriginalTermName>
+            <OriginalTermDefinition>JPEG 2000 file format; ‘ISO’ containing JPEG
+               2000</OriginalTermDefinition>
+         </MappingTerm>
+      </Term>
+      <Term termID="7.2.19">
+         <Name xml:lang="en">MKV</Name>
+         <Definition xml:lang="en">Matroska multimedia container</Definition>
+         <ChangeComment/>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <MappingTerm originalTermID="ml-13">
+            <ClassificationSchemeAcronym>movieLabs</ClassificationSchemeAcronym>
+            <ClassificationSchemeName>movieLabs Common Metadata 2010</ClassificationSchemeName>
+            <ClassificationSchemeURL>movieLabs2010#</ClassificationSchemeURL>
+            <OriginalTermName xml:lang="en">MKV</OriginalTermName>
+            <OriginalTermDefinition/>
+         </MappingTerm>
+      </Term>
+      <Term termID="7.2.20">
+         <Name xml:lang="en">RIFF</Name>
+         <Definition xml:lang="en">Resource Interchange File Format</Definition>
+         <ChangeComment/>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <MappingTerm originalTermID="ml-21">
+            <ClassificationSchemeAcronym>movieLabs</ClassificationSchemeAcronym>
+            <ClassificationSchemeName>movieLabs Common Metadata 2010</ClassificationSchemeName>
+            <ClassificationSchemeURL>movieLabs2010#</ClassificationSchemeURL>
+            <OriginalTermName xml:lang="en">RIFF</OriginalTermName>
+            <OriginalTermDefinition/>
+         </MappingTerm>
+      </Term>
+      <Term termID="7.2.21">
+         <Name xml:lang="en">VOB</Name>
+         <Definition xml:lang="en">DVD Video object file</Definition>
+         <ChangeComment/>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <MappingTerm originalTermID="ml-25">
+            <ClassificationSchemeAcronym>movieLabs</ClassificationSchemeAcronym>
+            <ClassificationSchemeName>movieLabs Common Metadata 2010</ClassificationSchemeName>
+            <ClassificationSchemeURL>movieLabs2010#</ClassificationSchemeURL>
+            <OriginalTermName xml:lang="en">VOB</OriginalTermName>
+            <OriginalTermDefinition/>
+         </MappingTerm>
+      </Term>
+      <Term termID="7.2.22">
+         <Name xml:lang="en">MXF</Name>
+         <Definition xml:lang="en">The MXF file (defined by SMPTE ST 377) structure provides a means
+            of exchanging metadata using a formal data structure that permits interoperability
+            together with an essence container that can accommodate many different essence formats
+            both compressed and uncompressed and including video streams, individual pictures, sound
+            and essence data (such as sub-titles, VBI data etc.).</Definition>
+         <ChangeComment/>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Term termID="7.2.22.1">
+            <Name xml:lang="en">OP1a</Name>
+            <Definition xml:lang="en">MXF Operational Pattern 1a: Single Item, Single
+               Package.</Definition>
+            <ChangeComment/>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.2.22.2">
+            <Name xml:lang="en">OP1b</Name>
+            <Definition xml:lang="en">MXF Operational Pattern 1b: Single Item, Ganged
+               Packages.</Definition>
+            <ChangeComment/>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.2.22.3">
+            <Name xml:lang="en">OP1c</Name>
+            <Definition xml:lang="en">MXF Operational Pattern 1c: Single Item, Alternate
+               Packages.</Definition>
+            <ChangeComment/>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.2.22.4">
+            <Name xml:lang="en">OP2a</Name>
+            <Definition xml:lang="en">MXF Operational Pattern 2a: Play-list Items, Single
+               Package.</Definition>
+            <ChangeComment/>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.2.22.5">
+            <Name xml:lang="en">OP2b</Name>
+            <Definition xml:lang="en">MXF Operational Pattern 2b: Play-list Items, Ganged
+               Packages.</Definition>
+            <ChangeComment/>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.2.22.6">
+            <Name xml:lang="en">OP2c</Name>
+            <Definition xml:lang="en">MXF Operational Pattern 2c: Play-list Items, Alternate
+               Packages.</Definition>
+            <ChangeComment/>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.2.22.7">
+            <Name xml:lang="en">OP3a</Name>
+            <Definition xml:lang="en">MXF Operational Pattern 3a: Edit Items, Single
+               Package.</Definition>
+            <ChangeComment/>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.2.22.8">
+            <Name xml:lang="en">OP3b</Name>
+            <Definition xml:lang="en">MXF Operational Pattern 3b: Edit Items, Ganged
+               Packages.</Definition>
+            <ChangeComment/>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.2.22.9">
+            <Name xml:lang="en">OP3c</Name>
+            <Definition xml:lang="en">MXF Operational Pattern 3c: Edit Items, Alternate
+               Packages.</Definition>
+            <ChangeComment/>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.2.22.10">
+            <Name xml:lang="en">OP Atom</Name>
+            <Definition xml:lang="en">Specialized Operational Pattern OP-Atom is a simplified
+               operational pattern for the storage and interchange of a single item of essence. Each
+               OP-Atom MXF file contains a single essence stream in a single partition.</Definition>
+            <ChangeComment/>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+      </Term>
+      <Term termID="7.2.23">
+         <Name xml:lang="en">MXF AS</Name>
+         <Definition xml:lang="en">MXF Application Specifications.</Definition>
+         <ChangeComment/>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Term termID="7.2.23.1">
+            <Name xml:lang="en">AS-01 AMWA</Name>
+            <Definition xml:lang="en">AMWA Application Specification 01: Edit metadata interchange
+               using AAF. Includes base set of effects.</Definition>
+            <ChangeComment/>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.2.23.2">
+            <Name xml:lang="en">AS-02 AMWA</Name>
+            <Definition xml:lang="en">AMWA Application Specification 02: Storage of MXF program
+               components to enable versions &amp; inventories, for use in a multi-version,
+               multi-lingual, multi-delivery media environment.</Definition>
+            <ChangeComment/>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.2.23.3">
+            <Name xml:lang="en">AS-03 AMWA</Name>
+            <Definition xml:lang="en">AMWA Application Specification 03: MXF optimized for program
+               delivery intended for direct playout via a video server for example. This is based on
+               a PBS profile for MXF program delivery.</Definition>
+            <ChangeComment/>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.2.23.5">
+            <Name xml:lang="en">AS-05 AMWA</Name>
+            <Definition xml:lang="en">AMWA Application Specification 05: Extends AS-01 with color,
+               text &amp; opacity effects.</Definition>
+            <ChangeComment/>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.2.23.7">
+            <Name xml:lang="en">AS-07 AMWA</Name>
+            <Definition xml:lang="en">AMWA Application Specification 07: A vendor-neutral subset of
+               the MXF file format to use for long-term archiving and preservation of moving image
+               content and associated materials including audio, captions and metadata. Archive and
+               Preservation files may contain a single item, or an entire series of
+               items.</Definition>
+            <ChangeComment/>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.2.23.10">
+            <Name xml:lang="en">AS-10 AMWA</Name>
+            <Definition xml:lang="en">AMWA Application Specification 10: MXF for end-to-end
+               production workflow.</Definition>
+            <ChangeComment/>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.2.23.11">
+            <Name xml:lang="en">AS-11 AMWA</Name>
+            <Definition xml:lang="en">AMWA Application Specification 11: The AMWA AS-11 family of
+               Specifications define constrained media file formats for the delivery of finished
+               media assets to a broadcaster or publisher. Includes Specifications used by
+               broadcasters in the UK (DPP), Nordic countries, Australia and New
+               Zealand.</Definition>
+            <ChangeComment/>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.2.23.12">
+            <Name xml:lang="en">AS-12 AMWA</Name>
+            <Definition xml:lang="en">AMWA Application Specification 12: MXF format optimized for
+               the delivery of finished commercials to broadcast stations. AS-12 adds advertising
+               identification metadata to an advertisement contained in an AMWA MXF Application
+               Specification compliant MXF file.</Definition>
+            <ChangeComment/>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+      </Term>
+   </Term>
+
+   <Term termID="7.3">
+      <Name xml:lang="en">Image</Name>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term termID="7.3.1">
+         <Name xml:lang="en">jpeg</Name>
+         <Definition xml:lang="en"/>
+         <Reference>ISO</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <MappingTerm originalTermID="ml-9">
+            <ClassificationSchemeAcronym>movieLabs</ClassificationSchemeAcronym>
+            <ClassificationSchemeName>movieLabs Common Metadata 2010</ClassificationSchemeName>
+            <ClassificationSchemeURL>movieLabs2010#</ClassificationSchemeURL>
+            <OriginalTermName xml:lang="en">JPEG</OriginalTermName>
+            <OriginalTermDefinition/>
+         </MappingTerm>
+         <Term termID="7.3.1.1">
+            <Name xml:lang="en">jpeg baseline</Name>
+            <Definition xml:lang="en"/>
+            <Reference>ISO</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.3.1.2">
+            <Name xml:lang="en">jpeg progressive</Name>
+            <Definition xml:lang="en"/>
+            <Reference>ISO</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.3.1.3">
+            <Name xml:lang="en">jpg</Name>
+            <Definition xml:lang="en"/>
+            <Reference>ISO</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.3.1.4">
+            <Name xml:lang="en">jpeg2000</Name>
+            <Definition xml:lang="en"/>
+            <Reference>ISO</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+      </Term>
+      <Term termID="7.3.2">
+         <Name xml:lang="en">jfif</Name>
+         <Definition xml:lang="en"/>
+         <Reference>ISO</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="7.3.3">
+         <Name xml:lang="en">bdf</Name>
+         <Definition xml:lang="en">bitmap</Definition>
+         <Reference>ISO</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="7.3.4">
+         <Name xml:lang="en">bmp</Name>
+         <Definition xml:lang="en">Microsoft Windows bitmap format</Definition>
+         <Reference>ISO</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="7.3.5">
+         <Name xml:lang="en">gif</Name>
+         <Definition xml:lang="en">Graphics Interchange Format</Definition>
+         <Reference>ISO</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Term termID="7.3.5.1">
+            <Name xml:lang="en">gif87</Name>
+            <Definition xml:lang="en">Graphics Interchange Format</Definition>
+            <Reference>ISO</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.3.5.2">
+            <Name xml:lang="en">gif89</Name>
+            <Definition xml:lang="en">Graphics Interchange Format</Definition>
+            <Reference>ISO</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.3.6">
+            <Name xml:lang="en">Photocd/ImagePac</Name>
+            <Definition xml:lang="en">Eastman Kodak PhotoCD Image-Pac file format.</Definition>
+            <Reference>ISO</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.3.7">
+            <Name xml:lang="en">ppm</Name>
+            <Definition xml:lang="en">Portable Pixmap format</Definition>
+            <Reference>ISO</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.3.8">
+            <Name xml:lang="en">png</Name>
+            <Definition xml:lang="en">Portable Network Graphic format</Definition>
+            <Reference>ISO</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+            <MappingTerm originalTermID="ml-18">
+               <ClassificationSchemeAcronym>movieLabs</ClassificationSchemeAcronym>
+               <ClassificationSchemeName>movieLabs Common Metadata 2010</ClassificationSchemeName>
+               <ClassificationSchemeURL>movieLabs2010#</ClassificationSchemeURL>
+               <OriginalTermName xml:lang="en">PNG</OriginalTermName>
+               <OriginalTermDefinition/>
+            </MappingTerm>
+         </Term>
+         <Term termID="7.3.9">
+            <Name xml:lang="en">spiff</Name>
+            <Definition xml:lang="en">Still Picture Interchange File Format</Definition>
+            <Reference>ISO</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.3.10">
+            <Name xml:lang="en">tiff</Name>
+            <Definition xml:lang="en">Adobe/Aldus Tagged Image File format files</Definition>
+            <Reference>ISO</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+            <MappingTerm originalTermID="ml-23">
+               <ClassificationSchemeAcronym>movieLabs</ClassificationSchemeAcronym>
+               <ClassificationSchemeName>movieLabs Common Metadata 2010</ClassificationSchemeName>
+               <ClassificationSchemeURL>movieLabs2010#</ClassificationSchemeURL>
+               <OriginalTermName xml:lang="en">TIFF</OriginalTermName>
+               <OriginalTermDefinition/>
+            </MappingTerm>
+         </Term>
+         <Term termID="7.3.11">
+            <Name xml:lang="en">pcx</Name>
+            <Definition xml:lang="en">ZSoft Paint BMP format files</Definition>
+            <Reference>ISO</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+      </Term>
+      <Term termID="7.4">
+         <Name xml:lang="en">Text</Name>
+         <Definition xml:lang="en">Digital text</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Term termID="7.4.1">
+            <Name xml:lang="en">IPTC 7901</Name>
+            <Definition xml:lang="en">IPTC Text Message Format 7901.</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.4.2">
+            <Name xml:lang="en">NITF</Name>
+            <Definition xml:lang="en">IPTC News Industry Text Format.</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.4.3">
+            <Name xml:lang="en">CSV</Name>
+            <Definition xml:lang="en">Comma Separated Values data format.</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.4.4">
+            <Name xml:lang="en">css</Name>
+            <Definition xml:lang="en">Cascading style sheet.</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.4.5">
+            <Name xml:lang="en">xml</Name>
+            <Definition xml:lang="en">eXtended Markup Language.</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.4.6">
+            <Name xml:lang="en">html</Name>
+            <Definition xml:lang="en">hypertext Markup Language.</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+      </Term>
+      <Term termID="7.5">
+         <Name xml:lang="en">Graphics</Name>
+         <Definition xml:lang="en">Graphics</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Term termID="7.5.1">
+            <Name xml:lang="en">svg</Name>
+            <Definition xml:lang="en">Scalable Vector Graphic files</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.5.2">
+            <Name xml:lang="en">cdr</Name>
+            <Definition xml:lang="en">Corel Draw files.</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+      </Term>
+      <Term termID="7.6">
+         <Name xml:lang="en">Application</Name>
+         <Definition xml:lang="en">A software application that controls the consumer
+            experience</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Term termID="7.6.1">
+            <Name xml:lang="en">pdf</Name>
+            <Definition xml:lang="en">Adobe Portable Document Files.</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.6.2">
+            <Name xml:lang="en">msword/doc</Name>
+            <Definition xml:lang="en">Microsoft Word file format</Definition>
+            <Reference>ISO</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.6.3">
+            <Name xml:lang="en">ms-excel/xls</Name>
+            <Definition xml:lang="en">Microsoft Excel file format</Definition>
+            <Reference>ISO</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.6.4">
+            <Name xml:lang="en">ms-powerpoint/ppt</Name>
+            <Definition xml:lang="en">Microsoft Powerpoint file format</Definition>
+            <Reference>ISO</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.6.5">
+            <Name xml:lang="en">postscript/eps</Name>
+            <Definition xml:lang="en">Encapsulated Postscript Adobe Illustrator compatible files
+               format.</Definition>
+            <Reference>ISO</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.6.6">
+            <Name xml:lang="en">rtf</Name>
+            <Definition xml:lang="en">Rich Text File format.</Definition>
+            <Reference>ISO</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+      </Term>
+      <Term termID="7.7">
+         <Name xml:lang="en">Data</Name>
+         <Definition xml:lang="en">E.g. a weather data service</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Term termID="7.7.1">
+            <Name xml:lang="en">atj</Name>
+            <Definition xml:lang="en"> A type of archive as created by the homonimous Robert Jung
+               compression utility</Definition>
+            <Reference/>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.7.2">
+            <Name xml:lang="en">bzip2</Name>
+            <Definition xml:lang="en"> A type of archive as created by the homonimous compression
+               utility found in Unix distributions</Definition>
+            <Reference>UNIX</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.7.3">
+            <Name xml:lang="en">compress</Name>
+            <Definition xml:lang="en"> A type of archive as created by the homonimous compression
+               utility found in Unix distributions</Definition>
+            <Reference>UNIX</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.7.4">
+            <Name xml:lang="en">gzip</Name>
+            <Definition xml:lang="en"> Data file compressed acording to IETF RFC 1952: GZIP file
+               format specification version 4.3</Definition>
+            <Reference>IETF</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.7.5">
+            <Name xml:lang="en">jar</Name>
+            <Definition xml:lang="en"> type of archive consisting of a Zip archive, as defined by
+               PKWARE, containing a manifest file and potentially signature files, as defined in the
+               Manifest and Signature specification</Definition>
+            <Reference>Sun</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.7.6">
+            <Name xml:lang="en">tar</Name>
+            <Definition xml:lang="en"> A type of archive as created by the homonimous Unix command
+               without compression option applied. So this is not a compression format, but rather
+               an archive format, as the files in a tar archive are not compressed, just gathered
+               together in one file.The archive file is often called "Tarball", which is a jargon
+               term for a tar archive, suggesting "a bunch of files stuck together in a ball of
+               tar."</Definition>
+            <Reference>UNIX</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.7.7">
+            <Name xml:lang="en">tar.bzip2</Name>
+            <Definition xml:lang="en"> A type of archive as created by tar Unix command with bzip2
+               compression applied. In this case files are first gathered together in one file,
+               which is than compressed by bzip2.</Definition>
+            <Reference>UNIX</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.7.8">
+            <Name xml:lang="en">tar.compress</Name>
+            <Definition xml:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.7.9">
+            <Name xml:lang="en">tar.gzip</Name>
+            <Definition xml:lang="en"> A type of archive as created by tar Unix command with gzip
+               compression applied. In this case files are first gathered together in one file,
+               which is than compressed by gzip</Definition>
+            <Reference>UNIX</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.7.10">
+            <Name xml:lang="en">zip</Name>
+            <Definition xml:lang="en"> A type of archive used for distributing and storing files.
+               Zip files contain one or more files. Usually the files "archived" in a Zip are
+               compressed to save space. Zip files make it easy to group files and make transporting
+               and copying these files faster</Definition>
+            <Reference/>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.7.11">
+            <Name xml:lang="en">BiM</Name>
+            <Definition xml:lang="en"> A compression format for xml</Definition>
+            <Reference/>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.7.12">
+            <Name xml:lang="en">XHTML</Name>
+            <Definition xml:lang="en"> W3C XHTML marked up files.</Definition>
+            <Reference/>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.7.13">
+            <Name xml:lang="en">iff</Name>
+            <Definition xml:lang="en">Interchange File Format</Definition>
+            <Reference>ISO</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="7.7.14">
+            <Name xml:lang="en">miff</Name>
+            <Definition xml:lang="en">Machine Independent File Format</Definition>
+            <Reference>ISO</Reference>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+      </Term>
+   </Term>
+
+   <Term termID="7.8">
+      <Name xml:lang="en">Animation</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term termID="7.8.1">
+         <Name xml:lang="en">fla</Name>
+         <Definition xml:lang="en">Macromedia Flash Animation files.</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="7.8.2">
+         <Name xml:lang="en">swf</Name>
+         <Definition xml:lang="en">Macromedia Shockwave presentation files.</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <MappingTerm originalTermID="ml-22">
+            <ClassificationSchemeAcronym>movieLabs</ClassificationSchemeAcronym>
+            <ClassificationSchemeName>movieLabs Common Metadata 2010</ClassificationSchemeName>
+            <ClassificationSchemeURL>movieLabs2010#</ClassificationSchemeURL>
+            <OriginalTermName xml:lang="en">SWF</OriginalTermName>
+            <OriginalTermDefinition/>
+         </MappingTerm>
+      </Term>
+   </Term>
+
+   <Term termID="7.9">
+      <Name xml:lang="en">Other</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+
+</ClassificationScheme>

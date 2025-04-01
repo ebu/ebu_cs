@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:EqualizerShapeType" versionDate="2019-09-02">
+  <!-- ##################################################################### 
+    EQUALIZER SHAPE TYPE CS
+    Defines a list of possible filter shapes of a audio equalizer.
+    
+    The following Creative Commons Rights apply to the use of 
+    this EBU resource:   http://creativecommons.org/licenses/by-nc-sa/3.0/   
+      
+    Owner: EBU Technical Department   
+    Contact: metadata@ebu.ch      
+
+    ##################################################################### -->
+  
+  <Alias>DwerftEqualizerShapeType</Alias>
+  
+  <Term termID="1">
+    <Name xml:lang="en">All Pass</Name>
+    <Definition xml:lang="en">No spectral information are affected, but the phase will be
+      manipulated.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="2">
+    <Name xml:lang="en">Low Pass</Name>
+    <Definition xml:lang="en">Spectral information below a certain frequency passes
+      trough.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="3">
+    <Name xml:lang="en">High Pass</Name>
+    <Definition xml:lang="en">Spectral information above a certain frequency passes
+      trough.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="4">
+    <Name xml:lang="en">Band Pass</Name>
+    <Definition xml:lang="en">Spectral information at and around a certain centre frequency are
+      gradually passed trough.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="5">
+    <Name xml:lang="en">Low Shelf</Name>
+    <Definition xml:lang="en">Spectral information below a certain frequency are lowered or
+      amplified in a evenly way.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="6">
+    <Name xml:lang="en">High Shelf</Name>
+    <Definition xml:lang="en">Spectral information above a certain frequency are lowered or
+      amplified in a evenly way.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="7">
+    <Name xml:lang="en">Bell</Name>
+    <Definition xml:lang="en">Spectral information at a certain centre frequency are lowered or
+      amplified.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="8">
+    <Name xml:lang="en">Notch</Name>
+    <Definition xml:lang="en">Spectral information at a certain centre frequency are gradually
+      removed.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="9">
+    <Name xml:lang="en">Tilt</Name>
+    <Definition xml:lang="en">Changes the balance of spectral information between the area below and
+      over a certain centre frequency. Based on Fast Fourier Transformation. </Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+</ClassificationScheme>

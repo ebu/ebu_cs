@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:EditorialControlCodeCS" versionDate="2013-01-07">
+
+   <!--
+##################################################################### 
+EDITORIAL CONTROL CODE                                                                            
+Definition:
+
+The following Creative Commons Rights apply to the use of this EBU resource:
+http://creativecommons.org/licenses/by-sa/3.0/
+Owner: EBU Technical Department
+Author: Jean-Pierre Evain
+Contact: metadata@ebu.ch
+
+##################################################################### 
+   		-->
+
+
+   <Alias>EBUEditorialControlCode</Alias>
+
+
+   <Term termID="1">
+      <Name xml:lang="en">CO-PRODUCTION</Name>
+      <Definition xml:lang="en">A joint production venture of several organisations with agreement
+         in advance. Participation may include co-financing, provision of production resources
+         and/or editorial content.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-01-15</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="2">
+      <Name xml:lang="en">EXCHANGE</Name>
+      <Definition xml:lang="en">A production exchanged either live, deferred or in material form
+         between broadcasting organisations (bi- and multilateral exchanges, Eurovision
+         etc.).</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-01-15</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3">
+      <Name xml:lang="en">PURCHASE</Name>
+      <Definition xml:lang="en">A production made by an external service on its own initiative and
+         for which the broadcasting organisation buys only the right for one or more broadcasts
+         (including the purchase of broadcasting rights before the production, and including cinema
+         films).</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-01-15</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="4">
+      <Name xml:lang="en">OWN PRODUCTION</Name>
+      <Definition xml:lang="en">A production, carried out on the organisation initiative, produced
+         by its own services and under its editorial responsibility: in general with its own
+         production facilities; or with rented external facilities; or by a production company
+         incorporated under a legislative act or regulation - operating production facilities which
+         are usually owned by a broadcasting organisation; or by a subsidiary of the broadcasting
+         organisation in which it holds a controlling interest.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-01-15</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="5">
+      <Name xml:lang="en">COMMISSIONED PRODUCTION</Name>
+      <Definition xml:lang="en">Production commissioned from an independent production house on the
+         broadcasting organisation�s initiative and under the latter�s editorial
+         control.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-01-15</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+</ClassificationScheme>

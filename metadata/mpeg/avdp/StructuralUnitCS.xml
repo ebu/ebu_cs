@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Mpeg7 xmlns="urn:mpeg:mpeg7:schema:2004" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >
+<!-- ##################################################################### 
+        Structural Unit Classification Scheme
+	     
+	    The following Creative Commons Rights apply to the use of this EBU resource:
+	    http://creativecommons.org/licenses/by-sa/3.0/
+	     
+	    Owner: EBU Technical Department
+	    Author: ECM SCAIE
+	    Contact: evain@ebu.ch
+	     
+	 ##################################################################### -->
+	<Description xsi:type="ClassificationSchemeDescriptionType">
+		<ClassificationScheme uri="http://www.ebu.ch/metadata/cs/mpeg/avdp/StructuralUnitCS" domain="//AudiovisualSegment/StructuralUnit //VideoSegment/StructuralUnit //AudioSegment/StructuralUnit">
+		<Term termID="1">
+			<Name xml:lang="en">Programme</Name>
+			<Definition xml:lang="en">Audiovisual segment that constitutes a programme</Definition>
+		</Term>
+		<Term termID="2">
+			<Name xml:lang="en">Clip</Name>
+			<Definition xml:lang="en">Clip of audiovisual content</Definition>
+		</Term>
+		<Term termID="3">
+			<Name xml:lang="en">Visual clip</Name>
+			<Definition xml:lang="en">Clip of visual content</Definition>
+			<Term termID="3.1">
+				<Name xml:lang="en">Visual stream clip</Name>
+				<Definition xml:lang="en">A single stream of a visual clip</Definition>
+			</Term>	
+			<Term termID="3.2">
+				<Name xml:lang="en">Frame</Name>
+				<Definition xml:lang="en">A single frame of a visual clip</Definition>
+			</Term>	
+		</Term>		
+		<Term termID="4">
+			<Name xml:lang="en">Audio clip</Name>
+			<Definition xml:lang="en">Clip of audio content</Definition>
+			<Term termID="4.1">
+				<Name xml:lang="en">Audio stream clip</Name>
+				<Definition xml:lang="en">A single stream of a audio clip</Definition>
+			</Term>	
+			<Term termID="4.2">
+				<Name xml:lang="en">Speech segment</Name>
+				<Definition xml:lang="en">An audio clip representing a speech </Definition>
+			</Term>	
+		</Term>			
+		
+		<Term termID="10">
+			<Name xml:lang="en">Shot</Name>
+			<Definition xml:lang="en">A segment representing a shot</Definition>
+		</Term>
+		<Term termID="11">
+			<Name xml:lang="en">Gradual transition</Name>
+			<Definition xml:lang="en">A gradual transition segment</Definition>
+		</Term>
+		<Term termID="12">
+			<Name xml:lang="en">Keyframe</Name>
+			<Definition xml:lang="en">A still image which represents a segment of a visual media</Definition>
+		</Term>	
+		<Term termID="13">
+			<Name xml:lang="en">Key visual clip</Name>
+			<Definition xml:lang="en">A video clip which represents a segment of a visual media</Definition>
+		</Term>			
+		<Term termID="15">
+			<Name xml:lang="en">Key audio clip</Name>
+			<Definition xml:lang="en">A audio clip which represents a segment of a audio</Definition>
+		</Term>			
+		
+		<Term termID="20">
+			<Name xml:lang="en">Scene</Name>
+			<Definition xml:lang="en">Segment representing a scene</Definition>
+		</Term>
+		<Term termID="21">
+			<Name xml:lang="en">Story</Name>
+			<Definition xml:lang="en">Segment representing a story</Definition>
+		</Term>
+
+		<Term termID="30">
+			<Name xml:lang="en">Video object</Name>
+			<Definition xml:lang="en">An object visible in the video content</Definition>
+			<Term termID="30.1">
+				<Name xml:lang="en">Moving video object</Name>
+				<Definition xml:lang="en">An moving object visible in the video content</Definition>
+			</Term>
+			<Term termID="30.2">
+				<Name xml:lang="en">Video text</Name>
+				<Definition xml:lang="en">Text visible in the video content</Definition>
+			</Term>
+		</Term>
+		
+		</ClassificationScheme>
+	</Description>
+</Mpeg7>

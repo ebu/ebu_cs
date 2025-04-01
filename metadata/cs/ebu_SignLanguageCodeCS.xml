@@ -1,0 +1,1959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassificationScheme uri="urn:ebu:metadata-cs:SignLanguageCodeCS" versionDate="2013-02-24">
+
+   <!-- ##################################################################### 
+         SIGN LANGUAGE  CODE                                                              
+         Definition: Codes attributed to registered signed version of spoken languages
+         
+         The following Creative Commons Rights apply to the use of this EBU resource:
+         http://creativecommons.org/licenses/by-sa/3.0/
+         
+         Owner: EBU Technical Department
+         Author: Jean-Pierre Evain
+         Contact: metadata@ebu.ch
+         
+         ##################################################################### -->
+
+   <Alias>EBUSignLanguageCode</Alias>
+
+   <Term termID="ads">
+      <Name xml:lang="en">Adamorobe Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="aed">
+      <Name xml:lang="en">Argentine Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="aen">
+      <Name xml:lang="en">Armenian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="afg">
+      <Name xml:lang="en">Afghan Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="ase">
+      <Name xml:lang="en">American Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="asf">
+      <Name xml:lang="en">Australian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="asp">
+      <Name xml:lang="en">Algerian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="asq">
+      <Name xml:lang="en">Austrian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="asw">
+      <Name xml:lang="en">Australian Aborigines Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="bfi">
+      <Name xml:lang="en">British Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="bfk">
+      <Name xml:lang="en">Ban Khor Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="bog">
+      <Name xml:lang="en">Bamako Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="bqn">
+      <Name xml:lang="en">Bulgarian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="bqy">
+      <Name xml:lang="en">Bengkala Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="bvl">
+      <Name xml:lang="en">Bolivian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="bzs">
+      <Name xml:lang="en">Brazilian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="cds">
+      <Name xml:lang="en">Chadian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="csc">
+      <Name xml:lang="en">Catalan Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="csd">
+      <Name xml:lang="en">Chiangmai Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="cse">
+      <Name xml:lang="en">Czech Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="csf">
+      <Name xml:lang="en">Cuba Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="csg">
+      <Name xml:lang="en">Chilean Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="csl">
+      <Name xml:lang="en">Chinese Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="csn">
+      <Name xml:lang="en">Colombian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="csq">
+      <Name xml:lang="en">Croatia Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="csr">
+      <Name xml:lang="en">Costa Rican Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="doq">
+      <Name xml:lang="en">Dominican Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="dse">
+      <Name xml:lang="en">Dutch Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="dsl">
+      <Name xml:lang="en">Danish Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="ecs">
+      <Name xml:lang="en">Ecuadorian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="esl">
+      <Name xml:lang="en">Egypt Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="esn">
+      <Name xml:lang="en">Salvadoran Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="eso">
+      <Name xml:lang="en">Estonian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="eth">
+      <Name xml:lang="en">Ethiopian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="fcs">
+      <Name xml:lang="en">Quebec Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="fse">
+      <Name xml:lang="en">Finnish Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="fsl">
+      <Name xml:lang="en">French Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="fss">
+      <Name xml:lang="en">Finland-Swedish Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="gse">
+      <Name xml:lang="en">Ghanaian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="gsg">
+      <Name xml:lang="en">German Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="gsm">
+      <Name xml:lang="en">Guatemalan Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="gss">
+      <Name xml:lang="en">Greek Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="gus">
+      <Name xml:lang="en">Guinean Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="hab">
+      <Name xml:lang="en">Hanoi Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="haf">
+      <Name xml:lang="en">Haiphong Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="hds">
+      <Name xml:lang="en">Honduras Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="hks">
+      <Name xml:lang="en">Hong Kong Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="hos">
+      <Name xml:lang="en">Ho Chi Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="hps">
+      <Name xml:lang="en">Hawai'I Pidgin Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="hsh">
+      <Name xml:lang="en">Hungarian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="hsl">
+      <Name xml:lang="en">Hausa Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="icl">
+      <Name xml:lang="en">Icelandic Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="inl">
+      <Name xml:lang="en">Indonesian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="ins">
+      <Name xml:lang="en">Indian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="ise">
+      <Name xml:lang="en">Italian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="isg">
+      <Name xml:lang="en">Irish Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="isr">
+      <Name xml:lang="en">Israeli Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="jcs">
+      <Name xml:lang="en">Jamaican Country Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="jhs">
+      <Name xml:lang="en">Jhankot Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="jls">
+      <Name xml:lang="en">Jamaican Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="jos">
+      <Name xml:lang="en">Jordanian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="jsl">
+      <Name xml:lang="en">Japanese Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="jus">
+      <Name xml:lang="en">Jumla Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="kgi">
+      <Name xml:lang="en">Selangor Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="kvk">
+      <Name xml:lang="en">Korean Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="lbs">
+      <Name xml:lang="en">Libyan Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="lls">
+      <Name xml:lang="en">Lithuanian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="lsg">
+      <Name xml:lang="en">Lyons Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="lsl">
+      <Name xml:lang="en">Latvian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="lso">
+      <Name xml:lang="en">Laos Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="lsp">
+      <Name xml:lang="en">Panamanian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="lst">
+      <Name xml:lang="en">Trinidad Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="lsy">
+      <Name xml:lang="en">Mauritian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="mdl">
+      <Name xml:lang="en">Maltese Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="mfs">
+      <Name xml:lang="en">Mexican Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="mre">
+      <Name xml:lang="en">Martha's Vineyard Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="msd">
+      <Name xml:lang="en">Yucatec Maya Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="msr">
+      <Name xml:lang="en">Mongolian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="mzg">
+      <Name xml:lang="en">Monastic Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="mzy">
+      <Name xml:lang="en">Mozambican Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="nbs">
+      <Name xml:lang="en">Namibian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="ncs">
+      <Name xml:lang="en">Nicaraguan Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="nsi">
+      <Name xml:lang="en">Nigerian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="nsl">
+      <Name xml:lang="en">Norwegian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="nsp">
+      <Name xml:lang="en">Nepalese Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="nsr">
+      <Name xml:lang="en">Maritime Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="nzs">
+      <Name xml:lang="en">New Zealand Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="prl">
+      <Name xml:lang="en">Peruvian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="prz">
+      <Name xml:lang="en">Providencia Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="psc">
+      <Name xml:lang="en">Persian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="psd">
+      <Name xml:lang="en">Plains Indian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="psg">
+      <Name xml:lang="en">Penang Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="psl">
+      <Name xml:lang="en">Puerto Rican Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="pso">
+      <Name xml:lang="en">Polish Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="psp">
+      <Name xml:lang="en">Philippine Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="psr">
+      <Name xml:lang="en">Portuguese Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="pys">
+      <Name xml:lang="en">Paraguayan Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="rms">
+      <Name xml:lang="en">Romanian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="rsi">
+      <Name xml:lang="en">Rennellese Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="rsl">
+      <Name xml:lang="en">Russian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="sdl">
+      <Name xml:lang="en">Saudi Arabian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="sfb">
+      <Name xml:lang="en">Langue des Signes de Beligique Francophone Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="sfs">
+      <Name xml:lang="en">South African Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="sgg">
+      <Name xml:lang="en">Swiss-German Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="slf">
+      <Name xml:lang="en">Swiss-Italian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="sls">
+      <Name xml:lang="en">Singapore Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="sqk">
+      <Name xml:lang="en">Albanian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="sqs">
+      <Name xml:lang="en">Sri Lankan Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="ssp">
+      <Name xml:lang="en">Spanish Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="ssr">
+      <Name xml:lang="en">Swiss-French Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="svk">
+      <Name xml:lang="en">Slovakian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="swl">
+      <Name xml:lang="en">Swedish Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="syy">
+      <Name xml:lang="en">Al-Sayyid Bedouin Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="tse">
+      <Name xml:lang="en">Tunisian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="tsm">
+      <Name xml:lang="en">Turkish Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="tsq">
+      <Name xml:lang="en">Thai Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="tss">
+      <Name xml:lang="en">Taiwan Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="tsy">
+      <Name xml:lang="en">Tebul Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="tza">
+      <Name xml:lang="en">Tanzanian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="ugn">
+      <Name xml:lang="en">Ugandan Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="ugy">
+      <Name xml:lang="en">Uruguayan Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="ukl">
+      <Name xml:lang="en">Ukrainian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="uks">
+      <Name xml:lang="en">Urubú-Kaapor Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="vsi">
+      <Name xml:lang="en">Moldova Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="vsl">
+      <Name xml:lang="en">Venezuelan Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="vsv">
+      <Name xml:lang="en">Valencian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="xki">
+      <Name xml:lang="en">Kenyan Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="xml">
+      <Name xml:lang="en">Malaysian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="xms">
+      <Name xml:lang="en">Moroccan Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="ysl">
+      <Name xml:lang="en">Yugoslavian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="zib">
+      <Name xml:lang="en">Zimbabwe Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="zsl">
+      <Name xml:lang="en">Zambian Sign Language</Name>
+      <Definition xml:lang="en"/>
+      <Reference>IANA</Reference>
+      <ChangeComment/>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://www-01.sil.org/iso639-3/codes.asp</URL>
+         <LinkName>ISO - SIL 3-letter sign language codes, ISO639-3 codes</LinkName>
+      </Link>
+   </Term>
+   <Term termID="sgn-afr-ZA">
+      <Name xml:lang="en">Signed Afrikaans</Name>
+      <Definition>South Africa</Definition>
+      <Reference>SignWriting.org</Reference>
+      <ChangeComment>Superseded by RFC 5646</ChangeComment>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>0</ValidityFlag>
+      <DeprecatedVersionDate>2013-02-24</DeprecatedVersionDate>
+      <Link xml:lang="en">
+         <URL>http://www.signwriting.org/archive/docs1/sw0033-Sign-Language-Codes.pdf</URL>
+         <LinkName>Sign Writing Recommmendations - use of ISO codes for sign language</LinkName>
+      </Link>
+   </Term>
+
+   <Term termID="sgn-chi-TW">
+      <Name xml:lang="en">Signed Chinese</Name>
+      <Definition>Taiwan</Definition>
+      <Reference>SignWriting.org</Reference>
+      <ChangeComment>Superseded by RFC 5646</ChangeComment>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>0</ValidityFlag>
+      <DeprecatedVersionDate>2013-02-24</DeprecatedVersionDate>
+      <Link xml:lang="en">
+         <URL>http://www.signwriting.org/archive/docs1/sw0033-Sign-Language-Codes.pdf</URL>
+         <LinkName>Sign Writing Recommmendations - use of ISO codes for sign language</LinkName>
+      </Link>
+   </Term>
+
+   <Term termID="sgn-dan-DK">
+      <Name xml:lang="en">Signed Danish</Name>
+      <Definition>Denmark</Definition>
+      <Reference>SignWriting.org</Reference>
+      <ChangeComment>Superseded by RFC 5646</ChangeComment>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>0</ValidityFlag>
+      <DeprecatedVersionDate>2013-02-24</DeprecatedVersionDate>
+      <Link xml:lang="en">
+         <URL>http://www.signwriting.org/archive/docs1/sw0033-Sign-Language-Codes.pdf</URL>
+         <LinkName>Sign Writing Recommmendations - use of ISO codes for sign language</LinkName>
+      </Link>
+   </Term>
+
+   <Term termID="sgn-dut-BE">
+      <Name xml:lang="en">Signed Dutch</Name>
+      <Definition>Belgium</Definition>
+      <Reference>SignWriting.org</Reference>
+      <ChangeComment>Superseded by RFC 5646</ChangeComment>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>0</ValidityFlag>
+      <DeprecatedVersionDate>2013-02-24</DeprecatedVersionDate>
+      <Link xml:lang="en">
+         <URL>http://www.signwriting.org/archive/docs1/sw0033-Sign-Language-Codes.pdf</URL>
+         <LinkName>Sign Writing Recommmendations - use of ISO codes for sign language</LinkName>
+      </Link>
+   </Term>
+
+   <Term termID="sgn-dut-NL">
+      <Name xml:lang="en">Signed Dutch</Name>
+      <Definition>Netherlands</Definition>
+      <Reference>SignWriting.org</Reference>
+      <ChangeComment>Superseded by RFC 5646</ChangeComment>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>0</ValidityFlag>
+      <DeprecatedVersionDate>2013-02-24</DeprecatedVersionDate>
+      <Link xml:lang="en">
+         <URL>http://www.signwriting.org/archive/docs1/sw0033-Sign-Language-Codes.pdf</URL>
+         <LinkName>Sign Writing Recommmendations - use of ISO codes for sign language</LinkName>
+      </Link>
+   </Term>
+
+   <Term termID="sgn-eng-GB">
+      <Name xml:lang="en">Signed English</Name>
+      <Definition>United Kingdom</Definition>
+      <Reference>SignWriting.org</Reference>
+      <ChangeComment>Superseded by RFC 5646</ChangeComment>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>0</ValidityFlag>
+      <DeprecatedVersionDate>2013-02-24</DeprecatedVersionDate>
+      <Link xml:lang="en">
+         <URL>http://www.signwriting.org/archive/docs1/sw0033-Sign-Language-Codes.pdf</URL>
+         <LinkName>Sign Writing Recommmendations - use of ISO codes for sign language</LinkName>
+      </Link>
+   </Term>
+
+   <Term termID="sgn-eng-IE">
+      <Name xml:lang="en">Signed English</Name>
+      <Definition>Ireland</Definition>
+      <Reference>SignWriting.org</Reference>
+      <ChangeComment>Superseded by RFC 5646</ChangeComment>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>0</ValidityFlag>
+      <DeprecatedVersionDate>2013-02-24</DeprecatedVersionDate>
+      <Link xml:lang="en">
+         <URL>http://www.signwriting.org/archive/docs1/sw0033-Sign-Language-Codes.pdf</URL>
+         <LinkName>Sign Writing Recommmendations - use of ISO codes for sign language</LinkName>
+      </Link>
+   </Term>
+
+   <Term termID="sgn-eng-US">
+      <Name xml:lang="en">Signed English</Name>
+      <Definition>USA</Definition>
+      <Reference>SignWriting.org</Reference>
+      <ChangeComment>Superseded by RFC 5646</ChangeComment>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>0</ValidityFlag>
+      <DeprecatedVersionDate>2013-02-24</DeprecatedVersionDate>
+      <Link xml:lang="en">
+         <URL>http://www.signwriting.org/archive/docs1/sw0033-Sign-Language-Codes.pdf</URL>
+         <LinkName>Sign Writing Recommmendations - use of ISO codes for sign language</LinkName>
+      </Link>
+   </Term>
+
+   <Term termID="sgn-fin-FI">
+      <Name xml:lang="en">Signed Finnish</Name>
+      <Definition>Finland</Definition>
+      <Reference>SignWriting.org</Reference>
+      <ChangeComment>Superseded by RFC 5646</ChangeComment>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>0</ValidityFlag>
+      <DeprecatedVersionDate>2013-02-24</DeprecatedVersionDate>
+      <Link xml:lang="en">
+         <URL>http://www.signwriting.org/archive/docs1/sw0033-Sign-Language-Codes.pdf</URL>
+         <LinkName>Sign Writing Recommmendations - use of ISO codes for sign language</LinkName>
+      </Link>
+   </Term>
+
+   <Term termID="sgn-fre-BE">
+      <Name xml:lang="en">Signed French</Name>
+      <Definition>Belgium</Definition>
+      <Reference>SignWriting.org</Reference>
+      <ChangeComment>Superseded by RFC 5646</ChangeComment>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>0</ValidityFlag>
+      <DeprecatedVersionDate>2013-02-24</DeprecatedVersionDate>
+      <Link xml:lang="en">
+         <URL>http://www.signwriting.org/archive/docs1/sw0033-Sign-Language-Codes.pdf</URL>
+         <LinkName>Sign Writing Recommmendations - use of ISO codes for sign language</LinkName>
+      </Link>
+   </Term>
+
+   <Term termID="sgn-fre-CA">
+      <Name xml:lang="en">Signed French</Name>
+      <Definition>Canada</Definition>
+      <Reference>SignWriting.org</Reference>
+      <ChangeComment>Superseded by RFC 5646</ChangeComment>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>0</ValidityFlag>
+      <DeprecatedVersionDate>2013-02-24</DeprecatedVersionDate>
+      <Link xml:lang="en">
+         <URL>http://www.signwriting.org/archive/docs1/sw0033-Sign-Language-Codes.pdf</URL>
+         <LinkName>Sign Writing Recommmendations - use of ISO codes for sign language</LinkName>
+      </Link>
+   </Term>
+
+   <Term termID="sgn-fre-FR">
+      <Name xml:lang="en">Signed French</Name>
+      <Definition>France</Definition>
+      <Reference>SignWriting.org</Reference>
+      <ChangeComment>Superseded by RFC 5646</ChangeComment>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>0</ValidityFlag>
+      <DeprecatedVersionDate>2013-02-24</DeprecatedVersionDate>
+      <Link xml:lang="en">
+         <URL>http://www.signwriting.org/archive/docs1/sw0033-Sign-Language-Codes.pdf</URL>
+         <LinkName>Sign Writing Recommmendations - use of ISO codes for sign language</LinkName>
+      </Link>
+   </Term>
+
+   <Term termID="sgn-jpn-JP">
+      <Name xml:lang="en">Signed Japanese</Name>
+      <Definition>Japan</Definition>
+      <Reference>SignWriting.org</Reference>
+      <ChangeComment>Superseded by RFC 5646</ChangeComment>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>0</ValidityFlag>
+      <DeprecatedVersionDate>2013-02-24</DeprecatedVersionDate>
+      <Link xml:lang="en">
+         <URL>http://www.signwriting.org/archive/docs1/sw0033-Sign-Language-Codes.pdf</URL>
+         <LinkName>Sign Writing Recommmendations - use of ISO codes for sign language</LinkName>
+      </Link>
+   </Term>
+
+   <Term termID="sgn-nor-NO">
+      <Name xml:lang="en">Signed Norwegian</Name>
+      <Definition>Norway</Definition>
+      <Reference>SignWriting.org</Reference>
+      <ChangeComment>Superseded by RFC 5646</ChangeComment>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>0</ValidityFlag>
+      <DeprecatedVersionDate>2013-02-24</DeprecatedVersionDate>
+      <Link xml:lang="en">
+         <URL>http://www.signwriting.org/archive/docs1/sw0033-Sign-Language-Codes.pdf</URL>
+         <LinkName>Sign Writing Recommmendations - use of ISO codes for sign language</LinkName>
+      </Link>
+   </Term>
+
+   <Term termID="sgn-por-PT">
+      <Name xml:lang="en">Signed Portuguese</Name>
+      <Definition>Portugal</Definition>
+      <Reference>SignWriting.org</Reference>
+      <ChangeComment>Superseded by RFC 5646</ChangeComment>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>0</ValidityFlag>
+      <DeprecatedVersionDate>2013-02-24</DeprecatedVersionDate>
+      <Link xml:lang="en">
+         <URL>http://www.signwriting.org/archive/docs1/sw0033-Sign-Language-Codes.pdf</URL>
+         <LinkName>Sign Writing Recommmendations - use of ISO codes for sign language</LinkName>
+      </Link>
+   </Term>
+
+   <Term termID="sgn-swe-SE">
+      <Name xml:lang="en">Signed Swedish</Name>
+      <Definition>Sweden</Definition>
+      <Reference>SignWriting.org</Reference>
+      <ChangeComment>Superseded by RFC 5646</ChangeComment>
+      <ChangeVersionDate>2013-02-24</ChangeVersionDate>
+      <ValidityFlag>0</ValidityFlag>
+      <DeprecatedVersionDate>2013-02-24</DeprecatedVersionDate>
+      <Link xml:lang="en">
+         <URL>http://www.signwriting.org/archive/docs1/sw0033-Sign-Language-Codes.pdf</URL>
+         <LinkName>Sign Writing Recommmendations - use of ISO codes for sign language</LinkName>
+      </Link>
+   </Term>
+</ClassificationScheme>

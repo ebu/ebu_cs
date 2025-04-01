@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:DescriptionTypeCodeCS" versionDate="2013-01-07">
+
+
+   <!-- #####################################################################
+	     DESCRIPTION TYPE CODE                                 
+	     Definition: A list of codes to qualify types of description 
+	     
+   The following Creative Commons Rights apply to the use of this EBU resource:
+   http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+   Owner: EBU Technical Department
+   Author: Jean-Pierre Evain
+   Contact: metadata@ebu.ch
+   
+   ##################################################################### 
+-->
+
+
+
+   <Alias>EBUDescriptionTypeCode</Alias>
+
+   <Note>Update with new terms and definitions</Note>
+
+   <Term termID="1">
+      <Name xml:lang="en">Description</Name>
+      <Definition xml:lang="en">A human readable description of the content.</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-019-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term termID="1.1">
+         <Name xml:lang="en">Annotation Description</Name>
+         <Definition xml:lang="en">An annotated description of the content</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-019-24</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+   <Term termID="2">
+      <Name xml:lang="en">Synopsis</Name>
+      <Definition xml:lang="en">A brief or condensed statement giving a general view e.g. a brief
+         summary of the plot of a novel, motion picture, play, etc. Origin: </Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-019-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term termID="2.1">
+         <Name xml:lang="en">Group Synopsis</Name>
+         <Definition xml:lang="en">The synopsis of a group of content/resources e.g. the synopsis of
+            a series.</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-019-24</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="2.2">
+         <Name xml:lang="en">Annotation Synopsis</Name>
+         <Definition xml:lang="en">An annotated synopsis</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-019-24</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+   <Term termID="3">
+      <Name xml:lang="en">Script / Screenplay / Storyboard</Name>
+      <Definition xml:lang="en">A motion-picture or television scenario. Text specifying content of
+         a production or performance, used as a guide. May include character and setting profiles,
+         production directives (audio, lighting, scenery, camera moves), as well as dialogue to be
+         recited by talent.</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-019-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="4">
+      <Name xml:lang="en">Summary</Name>
+      <Definition xml:lang="en">A comprehensive and usually brief abstract, recapitulation, or
+         compendium of of actions and events in the content / resource.</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-019-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="5">
+      <Name xml:lang="en">Promotional information</Name>
+      <Definition xml:lang="en">Something devised to publicize or advertise a content / resource or
+         associated product.</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-019-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="6">
+      <Name xml:lang="en">Review / Opinion</Name>
+      <Definition xml:lang="en">a critical article or report concerning the content / resource, e.g.
+         a critique or an evaluation.</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-019-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="7">
+      <Name xml:lang="en">Selection / Excerpt</Name>
+      <Definition xml:lang="en">To take or select passages; abridge by choosing representative
+         sections.</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-019-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="8">
+      <Name xml:lang="en">Table of contents</Name>
+      <Definition xml:lang="en">An sequentually structured and itemised list of items contained in
+         the content / resource in a particular order.</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-019-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="9">
+      <Name xml:lang="en">Playlist</Name>
+      <Definition xml:lang="en">A list of content within a particular program or time period, often
+         including their sequence, duration, etc. for example in an electronic file containing a
+         list of audio or video files that can be played back in a particular sequence. Origin: </Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-019-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="10">
+      <Name xml:lang="en">Abstract</Name>
+      <Definition xml:lang="en">To express a syntetic characteristic.</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-019-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="11">
+      <Name xml:lang="en">Transcript</Name>
+      <Definition xml:lang="en">An exact copy or reproduction e.g. of a dialog or
+         interview.</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-019-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="12">
+      <Name xml:lang="en">Anecdotal comments &amp; reflections</Name>
+      <Definition xml:lang="en">Commenst and reflections based e.g. on personal
+         observation.</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-019-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="13">
+      <Name xml:lang="en">Annotation</Name>
+      <Definition xml:lang="en">A critical or explanatory note or body of notes added to a
+         text.</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-019-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="14">
+      <Name xml:lang="en">Bookmarks</Name>
+      <Definition xml:lang="en">One or more pointer to facilitate quick access to a specific part of
+         the content / resource.</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-019-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="15">
+      <Name xml:lang="en">Theme</Name>
+      <Definition xml:lang="en">A unifying or dominant idea, motif, etc., in the content /
+         resource.</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-019-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="16">
+      <Name xml:lang="en">Highlights</Name>
+      <Definition xml:lang="en">Striking, noticeable aspects of the content / resource.</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-019-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="17">
+      <Name xml:lang="en">Shot list</Name>
+      <Definition xml:lang="en">Freeform textual listing of shots, for example indexed against time
+         or frame count.</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-019-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="18">
+      <Name xml:lang="en">Edit Decision List</Name>
+      <Definition xml:lang="en">(EDL) Handwritten or computer-generated compilation of all edits
+         (marked by their time code in points and out points) to be executed in a video
+         production.</Definition>
+      <ChangeComment>New term</ChangeComment>
+      <ChangeVersionDate>2007-09-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="19">
+      <Name xml:lang="en">Purpose</Name>
+      <Definition xml:lang="en">A summary of the intentions with which the data set was
+         developed.</Definition>
+      <ChangeComment>New term</ChangeComment>
+      <ChangeVersionDate>2007-09-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="20">
+      <Name xml:lang="en">Outline</Name>
+      <Definition xml:lang="en">A general account indicating only the main features of the content
+         of a resource.</Definition>
+      <ChangeComment>New term</ChangeComment>
+      <ChangeVersionDate>2007-09-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="21">
+      <Name xml:lang="en">Rundown</Name>
+      <Definition xml:lang="en">A rundown sheet is a simple review of the script for the with
+         directions for the various crew members. It can also be breaking the show into "blocks"
+         split by commercial breaks and it lists all the different pieces of the show and what
+         should happen during these pieces (e.g. a graphic will display, or a video tape will be
+         played). This is useful for the crew so that they do not have to read through an entire
+         script during production, they have the show in a simplified form. A rundown can be used
+         for playout</Definition>
+      <ChangeComment>New term</ChangeComment>
+      <ChangeVersionDate>2007-09-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="22">
+      <Name xml:lang="en">Cue Words</Name>
+      <Definition xml:lang="en">Signal to begin, end, or otherwise influence on-camera activity
+         while recording. Presetting specific starting points of audio or video material so it's
+         available for immediate and precise playback when required.</Definition>
+      <ChangeComment>New term</ChangeComment>
+      <ChangeVersionDate>2007-09-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term termID="22.1">
+         <Name xml:lang="en">Cue-In Words</Name>
+         <Definition xml:lang="en">The actual words on the sound track or a textual reference to
+            music etc. at the in-cue point.</Definition>
+         <ChangeComment>New term</ChangeComment>
+         <ChangeVersionDate>2007-09-24</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="22.2">
+         <Name xml:lang="en">Cue-Out Words</Name>
+         <Definition xml:lang="en">The words on the sound track or a textual reference to music etc.
+            at the out-cue point</Definition>
+         <ChangeComment>New term</ChangeComment>
+         <ChangeVersionDate>2007-09-24</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+   <Term termID="23">
+      <Name xml:lang="en">Process</Name>
+      <Definition xml:lang="en">A description of the process to which the resource was submitted
+         e.g. during restoration</Definition>
+      <ChangeComment>New term</ChangeComment>
+      <ChangeVersionDate>2007-09-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="24">
+      <Name xml:lang="en">Assessment / Qualitative Value</Name>
+      <Definition xml:lang="en">A subjective evaluation of the (asset, content, aesthetic, historic,
+         technical) value of the resource</Definition>
+      <ChangeComment>New term</ChangeComment>
+      <ChangeVersionDate>2007-09-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="25">
+      <Name xml:lang="en">Awards</Name>
+      <Definition xml:lang="en">A description of the awards attributed to the resource (festival,
+         award name, award classification, nomination category, etc.)</Definition>
+      <ChangeComment>New term</ChangeComment>
+      <ChangeVersionDate>2007-09-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="26">
+      <Name xml:lang="en">Editorial comments</Name>
+      <Definition xml:lang="en">Comments made to complement editorial definitions.</Definition>
+      <ChangeComment>New term</ChangeComment>
+      <ChangeVersionDate>2007-09-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="27">
+      <Name xml:lang="en">Key Points</Name>
+      <Definition xml:lang="en">Highlights, special features, etc.</Definition>
+      <ChangeComment>New term</ChangeComment>
+      <ChangeVersionDate>2007-09-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="28">
+      <Name xml:lang="en">Number</Name>
+      <Definition xml:lang="en">E.g. episode number or position number in a sequence of ordered
+         resources</Definition>
+      <ChangeComment>New term</ChangeComment>
+      <ChangeVersionDate>2007-09-24</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="29">
+      <Name xml:lang="en">Headline</Name>
+      <Definition xml:lang="en">Title summarising the main descriptive elements concerning a news
+         item</Definition>
+      <ChangeComment>New term</ChangeComment>
+      <ChangeVersionDate>2008-12-19</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="30">
+      <Name xml:lang="en">Shot Description</Name>
+      <Definition xml:lang="en">A freeform textual description of a shot.</Definition>
+      <ChangeComment>Refine due to duplication and overlap with Term@termID="17".</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="31">
+      <Name xml:lang="en">Dopesheet</Name>
+      <Definition xml:lang="en">Technical and editorial information about a news item</Definition>
+      <ChangeComment>New term</ChangeComment>
+      <ChangeVersionDate>2008-12-19</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="32">
+      <Name xml:lang="en">Keyword</Name>
+      <Definition xml:lang="en">One or more terms characterising / summarising an aspect of the
+         content.</Definition>
+      <ChangeComment>New term</ChangeComment>
+      <ChangeVersionDate>2008-12-19</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33">
+      <Name xml:lang="en">Credit Line</Name>
+      <Definition xml:lang="en">Used to attribute special credit for contribution to the resource
+         being described</Definition>
+      <ChangeComment>New term</ChangeComment>
+      <ChangeVersionDate>2008-12-19</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="34">
+      <Name xml:lang="en">Instructions</Name>
+      <Definition xml:lang="en">Used to provide instructions specific to the use of the resource
+         being described</Definition>
+      <ChangeComment>New term</ChangeComment>
+      <ChangeVersionDate>2008-12-19</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="35">
+      <Name xml:lang="en">Model Information</Name>
+      <Definition xml:lang="en">Information about the model (e.g. fashion) presented in the
+         content</Definition>
+      <ChangeComment>New term for harmonisation with IPTC</ChangeComment>
+      <ChangeVersionDate>2009-01-15</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="36">
+      <Name xml:lang="en">Artwork / Object</Name>
+      <Definition xml:lang="en">Information about an object or artwork presented in the
+         content</Definition>
+      <ChangeComment>New term for harmonisation with IPTC</ChangeComment>
+      <ChangeVersionDate>2009-01-15</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="37">
+      <Name xml:lang="en">Event</Name>
+      <Definition xml:lang="en">Information about the event depicted in the content</Definition>
+      <ChangeComment>New term for harmonisation with IPTC</ChangeComment>
+      <ChangeVersionDate>2009-01-15</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="38">
+      <Name xml:lang="en">Release information</Name>
+      <Definition xml:lang="en">Information contextually important at the time of publication inc.
+         particular conditions, restrictions on media, medium, publication region, etc.</Definition>
+      <ChangeComment>Update TV-Anytime</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="39">
+      <Name xml:lang="en">Intention</Name>
+      <Definition xml:lang="en">A summary of the intentions with which the data set was
+         developed.</Definition>
+      <ChangeComment>New term for harmonisation with SMPTE RP 210</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="40">
+      <Name xml:lang="en">Shot Comment</Name>
+      <Definition xml:lang="en">The comment or note about a shot (e.g., 'general view of valley in
+         autumn', 'badly recorded' or 'sombre mood').</Definition>
+      <ChangeComment>New term for harmonisation with SMPTE RP 210</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="41">
+      <Name xml:lang="en">Quote / Citation</Name>
+      <Definition xml:lang="en">A citation or quote from a contributor / participant, or a related
+         quote.</Definition>
+      <ChangeComment>New term for harmonisation with SMPTE RP 210</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+</ClassificationScheme>

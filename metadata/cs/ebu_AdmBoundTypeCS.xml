@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:AdmBoundType" versionDate="2019-09-02">
+  <!-- ##################################################################### 
+    ADM BOUND TYPE CS
+    Defines whether a value is the minimum or maximum boundary.
+    
+    The following Creative Commons Rights apply to the use of 
+    this EBU resource:   http://creativecommons.org/licenses/by-nc-sa/3.0/   
+      
+    Owner: EBU Technical Department   
+    Contact: metadata@ebu.ch      
+    ##################################################################### -->
+  <Alias/>
+  <Term termID="1">
+    <Name xml:lang="en">Min</Name>
+    <Definition xml:lang="en">Declares a value as the minimum in a certain boundary.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="2">
+    <Name xml:lang="en">Max</Name>
+    <Definition xml:lang="en">Declares a value as the maximum in a certain boundary.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+</ClassificationScheme>

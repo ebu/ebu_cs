@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:ContextNodeIDDefinitionList targetNamespace="urn:tva:transport:contextNodeIDs:2011" xmlns:tns="urn:tva:transport:2011" xmlns:tva="urn:tva:metadata:2011" xmlns:tva2="urn:tva:metadata:extended:2008" xmlns:mpeg7="urn:tva:mpeg7:2011" xmlns:cr="urn:tva:ContentReferencing:2008"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:tva:transport:2011 tva_transport_6-1_v171.xsd">
+	<!-- ######################################################################################## -->
+	<!-- ContextNodeIDs with multiple xPath                                                       -->
+	<!-- ######################################################################################## -->
+	<tns:ContextNodeIDDefinition contextNodeID="CreditsItem" contextNodeDefinition="/tva:TVAMain/tva:ProgramDescription/tva:ProgramInformationTable/tva:ProgramInformation/tva:BasicDescription/tva:CreditsList/tva:CreditsItem /tva:TVAMain/tva:ProgramDescription/tva:GroupInformationTable/tva:GroupInformation/tva:BasicDescription/tva:CreditsList/tva:CreditsItem
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:CreditsList/tva:CreditsItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:CreditsList/tva:CreditsItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:CreditsList/tva:CreditsItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:CreditsList/tva:CreditsItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:CreditsList/tva:CreditsItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:CreditsList/tva:CreditsItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:CreditsList/tva:CreditsItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:CreditsList/tva:CreditsItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:CreditsList/tva:CreditsItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:CreditsList/tva:CreditsItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:CreditsList/tva:CreditsItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:CreditsList/tva:CreditsItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:CreditsList/tva:CreditsItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:CreditsList/tva:CreditsItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:CreditsList/tva:CreditsItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:CreditsList/tva:CreditsItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:CreditsList/tva:CreditsItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:CreditsList/tva:CreditsItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:CreditsList/tva:CreditsItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:CreditsList/tva:CreditsItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:CreditsList/tva:CreditsItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:CreditsList/tva:CreditsItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:CreditsList/tva:CreditsItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:CreditsList/tva:CreditsItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:CreditsList/tva:CreditsItem
+"/>
+	<tns:ContextNodeIDDefinition contextNodeID="AudioAttributes" contextNodeDefinition="/tva:TVAMain/tva:ProgramDescription/tva:ProgramInformationTable/tva:ProgramInformation/tva:AVAttributes/tva:AudioAttributes 
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramLocationTable/tva:BroadcastEvent/tva:InstanceDescription/tva:AVAttributes/tva:AudioAttributes /tva:TVAMain/tva:ProgramDescription/tva:ProgramLocationTable/tva:Schedule/tva:ScheduleEvent/tva:InstanceDescription/tva:AVAttributes/tva:AudioAttributes 
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramLocationTable/tva:OnDemandProgram/tva:InstanceDescription/tva:AVAttributes/tva:AudioAttributes /tva:TVAMain/tva:ProgramDescription/tva:ProgramLocationTable/tva:OnDemandService/tva:OnDemandProgram/tva:InstanceDescription/tva:AVAttributes/tva:AudioAttributes
+
+
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramInformationTable/tva:ProgramInformation/tva2:ExtendedContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva:TVAMain/tva:ProgramDescription/tva:GroupInformationTable/tva:GroupInformation/tva2:ExtendedContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+"/>
+	<tns:ContextNodeIDDefinition contextNodeID="VideoAttributes" contextNodeDefinition="/tva:TVAMain/tva:ProgramDescription/tva:ProgramInformationTable/tva:ProgramInformation/tva:AVAttributes/tva:VideoAttributes 
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramLocationTable/tva:BroadcastEvent/tva:InstanceDescription/tva:AVAttributes/tva:VideoAttributes /tva:TVAMain/tva:ProgramDescription/tva:ProgramLocationTable/tva:Schedule/tva:ScheduleEvent/tva:InstanceDescription/tva:AVAttributes/tva:VideoAttributes 
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramLocationTable/tva:OnDemandProgram/tva:InstanceDescription/tva:AVAttributes/tva:VideoAttributes /tva:TVAMain/tva:ProgramDescription/tva:ProgramLocationTable/tva:OnDemandService/tva:OnDemandProgram/tva:InstanceDescription/tva:AVAttributes/tva:VideoAttributes
+
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramInformationTable/tva:ProgramInformation/tva2:ExtendedContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva:TVAMain/tva:ProgramDescription/tva:GroupInformationTable/tva:GroupInformation/tva2:ExtendedContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+"/>
+	<tns:ContextNodeIDDefinition contextNodeID="AwardsListItem" contextNodeDefinition="/tva:TVAMain/tva:ProgramDescription/tva:ProgramInformationTable/tva:ProgramInformation/tva:BasicDescription/tva:AwardsList/tva:AwardsListItem 
+/tva:TVAMain/tva:ProgramDescription/tva:GroupInformationTable/tva:GroupInformation/tva:BasicDescription/tva:AwardsList/tva:AwardsListItem
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:AwardsList/tva:AwardsListItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:AwardsList/tva:AwardsListItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:AwardsList/tva:AwardsListItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:AwardsList/tva:AwardsListItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:AwardsList/tva:AwardsListItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:AwardsList/tva:AwardsListItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:AwardsList/tva:AwardsListItem
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:AwardsList/tva:AwardsListItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:AwardsList/tva:AwardsListItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:AwardsList/tva:AwardsListItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:AwardsList/tva:AwardsListItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:AwardsList/tva:AwardsListItem
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:AwardsList/tva:AwardsListItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:AwardsList/tva:AwardsListItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:AwardsList/tva:AwardsListItem
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:AwardsList/tva:AwardsListItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:AwardsList/tva:AwardsListItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:AwardsList/tva:AwardsListItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:AwardsList/tva:AwardsListItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:AwardsList/tva:AwardsListItem
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:AwardsList/tva:AwardsListItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:AwardsList/tva:AwardsListItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:AwardsList/tva:AwardsListItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:AwardsList/tva:AwardsListItem
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:AwardsList/tva:AwardsListItem
+"/>
+	<tns:ContextNodeIDDefinition contextNodeID="Price" contextNodeDefinition="/tva:TVAMain/tva:ProgramDescription/tva:ProgramInformationTable/tva:ProgramInformation/tva:BasicDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price 
+/tva:TVAMain/tva:ProgramDescription/tva:GroupInformationTable/tva:GroupInformation/tva:BasicDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price 
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramLocationTable/tva:BroadcastEvent/tva:InstanceDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price 
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramLocationTable/tva:Schedule/tva:ScheduleEvent/tva:PurchaseList/tva:PurchaseItem/tva:Price 
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramLocationTable/tva:OnDemandProgram/tva:InstanceDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price 
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramLocationTable/tva:OnDemandService/tva:OnDemandProgram/tva:InstanceDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price 
+/tva:TVAMain/tva:ProgramDescription/tva:PurchaseInformationTable/tva:PurchaseInformation/tva:Price
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva:PurchaseList/tva:PurchaseItem/tva:Price
+"/>
+	<!-- ######################################################################################## -->
+	<!-- ContextNodeIDs with multiple xPath   for RMPI                                                    -->
+	<!-- ######################################################################################## -->
+	<tns:ContextNodeIDDefinition contextNodeID="ExtendRights" contextNodeDefinition="/tva:TVAMain/tva:ProgramDescription/tva:ProgramInformationTable/tva:ProgramInformation/tva:BasicDescription/tva:PurchaseList/tva2:ExtendedPurchaseItem/tva2:RMPIDescription/tva2:ExtendRights /tva:TVAMain/tva:ProgramDescription/tva:GroupInformationTable/tva:GroupInformation/tva:BasicDescription/tva:PurchaseList/tva2:ExtendedPurchaseItem/tva2:RMPIDescription/tva2:ExtendRights /tva:TVAMain/tva:ProgramDescription/tva:ProgramLocationTable/tva:BroadcastEvent/tva:InstanceDescription/tva:PurchaseList/tva2:ExtendedPurchaseItem/tva2:RMPIDescription/tva2:ExtendRights 
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramLocationTable/tva:Schedule/tva:ScheduleEvent/tva:PurchaseList/tva2:ExtendedPurchaseItem/tva2:RMPIDescription/tva2:ExtendRights 
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramLocationTable/tva:OnDemandProgram/tva:InstanceDescription/tva2:ExtendedPurchaseItem/tva2:RMPIDescription/tva2:ExtendRights 
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramLocationTable/tva:OnDemandService/tva:OnDemandProgram/tva:InstanceDescription/tva2:ExtendedPurchaseItem/tva2:RMPIDescription/tva2:ExtendRights 
+/tva2:ExtendedTVAMain/tva2:RMPITable/tva2:RMPIDescription/tva2:ExtendRights"/>
+	<tns:ContextNodeIDDefinition contextNodeID="AnyDomainRights" contextNodeDefinition="/tva:TVAMain/tva:ProgramDescription/tva:ProgramInformationTable/tva:ProgramInformation/tva:BasicDescription/tva:PurchaseList/tva2:ExtendedPurchaseItem/tva2:RMPIDescription/tva2:AnyDomainRights /tva:TVAMain/tva:ProgramDescription/tva:GroupInformationTable/tva:GroupInformation/tva:BasicDescription/tva:PurchaseList/tva2:ExtendedPurchaseItem/tva2:RMPIDescription/tva2:AnyDomainRights /tva:TVAMain/tva:ProgramDescription/tva:ProgramLocationTable/tva:BroadcastEvent/tva:InstanceDescription/tva:PurchaseList/tva2:ExtendedPurchaseItem/tva2:RMPIDescription/tva2:AnyDomainRights 
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramLocationTable/tva:Schedule/tva:ScheduleEvent/tva:PurchaseList/tva2:ExtendedPurchaseItem/tva2:RMPIDescription/tva2:AnyDomainRights 
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramLocationTable/tva:OnDemandProgram/tva:InstanceDescription/tva2:ExtendedPurchaseItem/tva2:RMPIDescription/tva2:AnyDomainRights 
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramLocationTable/tva:OnDemandService/tva:OnDemandProgram/tva:InstanceDescription/tva2:ExtendedPurchaseItem/tva2:RMPIDescription/tva2:AnyDomainRights 
+/tva2:ExtendedTVAMain/tva2:RMPITable/tva2:RMPIDescription/tva2:AnyDomainRights"/>
+	<tns:ContextNodeIDDefinition contextNodeID="ReceivingDomainRights" contextNodeDefinition="/tva:TVAMain/tva:ProgramDescription/tva:ProgramInformationTable/tva:ProgramInformation/tva:BasicDescription/tva:PurchaseList/tva2:ExtendedPurchaseItem/tva2:RMPIDescription/tva2:ReceivingDomainRights /tva:TVAMain/tva:ProgramDescription/tva:GroupInformationTable/tva:GroupInformation/tva:BasicDescription/tva:PurchaseList/tva2:ExtendedPurchaseItem/tva2:RMPIDescription/tva2:ReceivingDomainRights /tva:TVAMain/tva:ProgramDescription/tva:ProgramLocationTable/tva:BroadcastEvent/tva:InstanceDescription/tva:PurchaseList/tva2:ExtendedPurchaseItem/tva2:RMPIDescription/tva2:ReceivingDomainRights 
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramLocationTable/tva:Schedule/tva:ScheduleEvent/tva:PurchaseList/tva2:ExtendedPurchaseItem/tva2:RMPIDescription/tva2:ReceivingDomainRights 
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramLocationTable/tva:OnDemandProgram/tva:InstanceDescription/tva2:ExtendedPurchaseItem/tva2:RMPIDescription/tva2:ReceivingDomainRights 
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramLocationTable/tva:OnDemandService/tva:OnDemandProgram/tva:InstanceDescription/tva2:ExtendedPurchaseItem/tva2:RMPIDescription/tva2:ReceivingDomainRights 
+/tva2:ExtendedTVAMain/tva2:RMPITable/tva2:RMPIDescription/tva2:ReceivingDomainRights"/>
+	<!-- ######################################################################################## -->
+	<!-- ContextNodeIDs for Package                                                    				 -->
+	<!-- ######################################################################################## -->
+	<tns:ContextNodeIDDefinition contextNodeID="Package" contextNodeDefinition="/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package"/>
+	<tns:ContextNodeIDDefinition contextNodeID="ContentProperties" contextNodeDefinition="
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramInformationTable/tva:ProgramInformation/tva2:ExtendedContentDescription/tva2:ContentProperties
+/tva:TVAMain/tva:ProgramDescription/tva:GroupInformationTable/tva:GroupInformation/tva2:ExtendedContentDescription/tva2:ContentProperties
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties
+"/>
+	<!-- ######################################################################################## -->
+	<!-- ContextNodeIDs for Various types of Contents                                                    		 -->
+	<!-- ######################################################################################## -->
+	<!-- ######################################################################################## -->
+	<!-- ContextNodeID for AudioContent  in Package  -->
+	<!-- ######################################################################################## -->
+	<tns:ContextNodeIDDefinition contextNodeID="AudioContent" contextNodeDefinition="
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramInformationTable/tva:ProgramInformation/tva2:ExtendedContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva:TVAMain/tva:ProgramDescription/tva:GroupInformationTable/tva:GroupInformation/tva2:ExtendedContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:AudioAttributes
+"/>
+	<!-- ######################################################################################## -->
+	<!-- ContextNodeID for VideoContent  in Package  -->
+	<!-- ######################################################################################## -->
+	<tns:ContextNodeIDDefinition contextNodeID="VideoContent" contextNodeDefinition="
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramInformationTable/tva:ProgramInformation/tva2:ExtendedContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva:TVAMain/tva:ProgramDescription/tva:GroupInformationTable/tva:GroupInformation/tva2:ExtendedContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:VideoAttributes
+"/>
+	<!-- ######################################################################################## -->
+	<!-- ContextNodeID for StillImageContent  in Package  -->
+	<!-- ######################################################################################## -->
+	<tns:ContextNodeIDDefinition contextNodeID="StillImageContent" contextNodeDefinition="
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramInformationTable/tva:ProgramInformation/tva2:ExtendedContentDescription/tva2:ContentProperties/tva2:StillImageContentAttributes
+/tva:TVAMain/tva:ProgramDescription/tva:GroupInformationTable/tva:GroupInformation/tva2:ExtendedContentDescription/tva2:ContentProperties/tva2:StillImageContentAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:StillImageContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:StillImageContentAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:StillImageContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:StillImageContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:StillImageContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:StillImageContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:StillImageContentAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:StillImageContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:StillImageContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:StillImageContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:StillImageContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:StillImageContentAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:StillImageContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:StillImageContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:StillImageContentAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:StillImageContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:StillImageContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:StillImageContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:StillImageContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:StillImageContentAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:StillImageContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:StillImageContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:StillImageContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:StillImageContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:StillImageContentAttributes
+"/>
+	<!-- ######################################################################################## -->
+	<!-- ContextNodeID for TextContent   in Package  -->
+	<!-- ######################################################################################## -->
+	<tns:ContextNodeIDDefinition contextNodeID="TextContent" contextNodeDefinition="
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramInformationTable/tva:ProgramInformation/tva2:ExtendedContentDescription/tva2:ContentProperties/tva2:TextContentAttributes
+/tva:TVAMain/tva:ProgramDescription/tva:GroupInformationTable/tva:GroupInformation/tva2:ExtendedContentDescription/tva2:ContentProperties/tva2:TextContentAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:TextContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:TextContentAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:TextContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:TextContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:TextContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:TextContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:TextContentAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:TextContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:TextContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:TextContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:TextContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:TextContentAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:TextContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:TextContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:TextContentAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:TextContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:TextContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:TextContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:TextContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:TextContentAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:TextContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:TextContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:TextContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:TextContentAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:TextContentAttributes
+"/>
+	<!-- ######################################################################################## -->
+	<!-- ContextNodeID for DataBroadcastingContent in Package  -->
+	<!-- ######################################################################################## -->
+	<tns:ContextNodeIDDefinition contextNodeID="DataBroadcastingContent" contextNodeDefinition="
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramInformationTable/tva:ProgramInformation/tva2:ExtendedContentDescription/tva2:ContentProperties/tva2:DataBroadcastingContextAttributes
+/tva:TVAMain/tva:ProgramDescription/tva:GroupInformationTable/tva:GroupInformation/tva2:ExtendedContentDescription/tva2:ContentProperties/tva2:DataBroadcastingContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:DataBroadcastingContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:DataBroadcastingContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:DataBroadcastingContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:DataBroadcastingContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:DataBroadcastingContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:DataBroadcastingContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:DataBroadcastingContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:DataBroadcastingContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:DataBroadcastingContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:DataBroadcastingContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:DataBroadcastingContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:DataBroadcastingContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:DataBroadcastingContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:DataBroadcastingContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:DataBroadcastingContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:DataBroadcastingContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:DataBroadcastingContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:DataBroadcastingContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:DataBroadcastingContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:DataBroadcastingContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:DataBroadcastingContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:DataBroadcastingContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:DataBroadcastingContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:DataBroadcastingContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:DataBroadcastingContextAttributes
+"/>
+	<!-- ######################################################################################## -->
+	<!-- ContextNodeID for InterstitialContent in Package  -->
+	<!-- ######################################################################################## -->
+	<tns:ContextNodeIDDefinition contextNodeID="InterstitialContent" contextNodeDefinition="
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramInformationTable/tva:ProgramInformation/tva2:ExtendedContentDescription/tva2:ContentProperties/tva2:InterstitialContextAttributes
+/tva:TVAMain/tva:ProgramDescription/tva:GroupInformationTable/tva:GroupInformation/tva2:ExtendedContentDescription/tva2:ContentProperties/tva2:InterstitialContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:InterstitialContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:InterstitialContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:InterstitialContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:InterstitialContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:InterstitialContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:InterstitialContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:InterstitialContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:InterstitialContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:InterstitialContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:InterstitialContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:InterstitialContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:InterstitialContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:InterstitialContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:InterstitialContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:InterstitialContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:InterstitialContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:InterstitialContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:InterstitialContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:InterstitialContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:InterstitialContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:InterstitialContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:InterstitialContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:InterstitialContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:InterstitialContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:InterstitialContextAttributes
+"/>
+	<!-- ######################################################################################## -->
+	<!-- ContextNodeID for EducationalContent in Package  -->
+	<!-- ######################################################################################## -->
+	<tns:ContextNodeIDDefinition contextNodeID="EducationalContent" contextNodeDefinition="
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramInformationTable/tva:ProgramInformation/tva2:ExtendedContentDescription/tva2:ContentProperties/tva2:EducationalContextAttributes
+/tva:TVAMain/tva:ProgramDescription/tva:GroupInformationTable/tva:GroupInformation/tva2:ExtendedContentDescription/tva2:ContentProperties/tva2:EducationalContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:EducationalContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:EducationalContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:EducationalContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:EducationalContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:EducationalContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:EducationalContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:EducationalContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:EducationalContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:EducationalContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:EducationalContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:EducationalContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:EducationalContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:EducationalContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:EducationalContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:EducationalContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:EducationalContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:EducationalContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:EducationalContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:EducationalContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:EducationalContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:EducationalContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:EducationalContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:EducationalContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:EducationalContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:EducationalContextAttributes
+"/>
+	<!-- ######################################################################################## -->
+	<!-- ContextNodeID for ApplicationContent in Package  -->
+	<!-- ######################################################################################## -->
+	<tns:ContextNodeIDDefinition contextNodeID="ApplicationContent" contextNodeDefinition="
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramInformationTable/tva:ProgramInformation/tva2:ExtendedContentDescription/tva2:ContentProperties/tva2:ApplicationContextAttributes
+/tva:TVAMain/tva:ProgramDescription/tva:GroupInformationTable/tva:GroupInformation/tva2:ExtendedContentDescription/tva2:ContentProperties/tva2:ApplicationContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:ApplicationContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:ApplicationContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:ApplicationContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:ApplicationContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:ApplicationContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:ApplicationContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:ApplicationContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:ApplicationContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:ApplicationContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:ApplicationContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:ApplicationContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:ApplicationContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:ApplicationContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:ApplicationContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:ApplicationContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:ApplicationContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:ApplicationContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:ApplicationContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:ApplicationContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:ApplicationContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:ApplicationContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:ApplicationContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:ApplicationContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:ApplicationContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:ApplicationContextAttributes
+"/>
+	<!-- ######################################################################################## -->
+	<!-- ContextNodeID for GameContent in Package  -->
+	<!-- ######################################################################################## -->
+	<tns:ContextNodeIDDefinition contextNodeID="GameContent" contextNodeDefinition="
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramInformationTable/tva:ProgramInformation/tva2:ExtendedContentDescription/tva2:ContentProperties/tva2:GameContextAttributes
+/tva:TVAMain/tva:ProgramDescription/tva:GroupInformationTable/tva:GroupInformation/tva2:ExtendedContentDescription/tva2:ContentProperties/tva2:GameContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:GameContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:GameContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:GameContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:GameContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:GameContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:GameContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:GameContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:GameContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:GameContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:GameContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:GameContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:GameContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:GameContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:GameContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:GameContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:GameContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:GameContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:GameContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:GameContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:GameContextAttributes
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:GameContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:GameContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:GameContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:GameContextAttributes
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:ContentProperties/tva2:GameContextAttributes
+"/>
+	<!-- ######################################################################################## -->
+	<!-- ContextNodeIDs for Targeting                                                    				 -->
+	<!-- ######################################################################################## -->
+	<tns:ContextNodeIDDefinition contextNodeID="UserInformation" contextNodeDefinition="
+/tva:TVAMain/tva2:ExtendedUserDescription/tva2:UserInformationTable/tva2:UserInformation/tva2:AccessibilityInformation/tva2:AuditoryImpairment
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramInformationTable/tva:ProgramInformation/tva2:ExtendedContentDescription/tva2:TargetingInformation/tva2:UserInformation
+/tva:TVAMain/tva:ProgramDescription/tva:GroupInformationTable/tva:GroupInformation/tva2:ExtendedContentDescription/tva2:TargetingInformation/tva2:UserInformation
+/tva2:ExtendedTVAMain/tva2:TargetingInformationTable/tva2:TargetingInformation/tva2:UserInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:UserInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:UserInformation
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:UserInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:UserInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:UserInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:UserInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:UserInformation
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:UserInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:UserInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:UserInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:UserInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:UserInformation
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:UserInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:UserInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:UserInformation
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:UserInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:UserInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:UserInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:UserInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:UserInformation
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:UserInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:UserInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:UserInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:UserInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:UserInformation
+"/>
+	<tns:ContextNodeIDDefinition contextNodeID="TerminalInformation" contextNodeDefinition="
+/tva:TVAMain/tva2:ExtendedUserDescription/tva2:UsageEnvironment/tva2:TerminalInformationTable/tva2:TerminalInformation
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramInformationTable/tva:ProgramInformation/tva2:ExtendedContentDescription/tva2:TargetingInformation/tva2:TerminalInformation
+/tva:TVAMain/tva:ProgramDescription/tva:GroupInformationTable/tva:GroupInformation/tva2:ExtendedContentDescription/tva2:TargetingInformation/tva2:TerminalInformation
+/tva2:ExtendedTVAMain/tva2:TargetingInformationTable/tva2:TargetingInformation/tva2:TerminalInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:TerminalInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:TerminalInformation
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:TerminalInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:TerminalInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:TerminalInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:TerminalInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:TerminalInformation
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:TerminalInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:TerminalInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:TerminalInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:TerminalInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:TerminalInformation
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:TerminalInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:TerminalInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:TerminalInformation
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:TerminalInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:TerminalInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:TerminalInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:TerminalInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:TerminalInformation
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:TerminalInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:TerminalInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:TerminalInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:TerminalInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:TerminalInformation
+"/>
+	<tns:ContextNodeIDDefinition contextNodeID="NetworkInformation" contextNodeDefinition="
+/tva:TVAMain/tva2:ExtendedUserDescription/tva2:UsageEnvironment/tva2:NetworkInformationTable/tva2:NetworkInformation
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramInformationTable/tva:ProgramInformation/tva2:ExtendedContentDescription/tva2:TargetingInformation/tva2:NetworkInformation
+/tva:TVAMain/tva:ProgramDescription/tva:GroupInformationTable/tva:GroupInformation/tva2:ExtendedContentDescription/tva2:TargetingInformation/tva2:NetworkInformation
+/tva2:ExtendedTVAMain/tva2:TargetingInformationTable/tva2:TargetingInformation/tva2:NetworkInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NetworkInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NetworkInformation
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NetworkInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NetworkInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NetworkInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NetworkInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NetworkInformation
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NetworkInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NetworkInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NetworkInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NetworkInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NetworkInformation
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NetworkInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NetworkInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NetworkInformation
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NetworkInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NetworkInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NetworkInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NetworkInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NetworkInformation
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NetworkInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NetworkInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NetworkInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NetworkInformation
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NetworkInformation
+"/>
+	<tns:ContextNodeIDDefinition contextNodeID="NaturalEnvironment" contextNodeDefinition="
+/tva:TVAMain/tva2:ExtendedUserDescription/tva2:UsageEnvironment/tva2:NaturalEnvironmentInformationTable/tva2:NaturalEnvironmentInformation
+/tva:TVAMain/tva:ProgramDescription/tva:ProgramInformationTable/tva:ProgramInformation/tva2:ExtendedContentDescription/tva2:TargetingInformation/tva2:NaturalEnvironment
+/tva:TVAMain/tva:ProgramDescription/tva:GroupInformationTable/tva:GroupInformation/tva2:ExtendedContentDescription/tva2:TargetingInformation/tva2:NaturalEnvironment
+/tva2:ExtendedTVAMain/tva2:TargetingInformationTable/tva2:TargetingInformation/tva2:NaturalEnvironment
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NaturalEnvironment
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NaturalEnvironment
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NaturalEnvironment
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NaturalEnvironment
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NaturalEnvironment
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NaturalEnvironment
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NaturalEnvironment
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NaturalEnvironment
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NaturalEnvironment
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NaturalEnvironment
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NaturalEnvironment
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NaturalEnvironment
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NaturalEnvironment
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NaturalEnvironment
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Declarations/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NaturalEnvironment
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NaturalEnvironment
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NaturalEnvironment
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NaturalEnvironment
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NaturalEnvironment
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NaturalEnvironment
+
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NaturalEnvironment
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NaturalEnvironment
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Choice/tva2:Selection/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NaturalEnvironment
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NaturalEnvironment
+/tva2:ExtendedTVAMain/tva2:PackageTable/tva2:Package/tva2:Item/tva2:Item/tva2:Component/tva2:Anchor/tva2:Descriptor/tva2:ObjectDescription/tva2:ContentDescription/tva2:TargetingInformation/tva2:NaturalEnvironment
+"/>
+	<!-- ######################################################################################## -->
+	<!-- ContextNodeIDs with single xPath                                                       -->
+	<!-- ######################################################################################## -->
+	<tns:ContextNodeIDDefinition contextNodeID="ProgramInformation" contextNodeDefinition="/tva:TVAMain/tva:ProgramDescription/tva:ProgramInformationTable/tva:ProgramInformation"/>
+	<tns:ContextNodeIDDefinition contextNodeID="GroupInformation" contextNodeDefinition="/tva:TVAMain/tva:ProgramDescription/tva:GroupInformationTable/tva:GroupInformation"/>
+	<tns:ContextNodeIDDefinition contextNodeID="BroadcastEvent" contextNodeDefinition="/tva:TVAMain/tva:ProgramDescription/tva:ProgramLocationTable/tva:BroadcastEvent"/>
+	<tns:ContextNodeIDDefinition contextNodeID="Schedule" contextNodeDefinition="/tva:TVAMain/tva:ProgramDescription/tva:ProgramLocationTable/tva:Schedule"/>
+	<tns:ContextNodeIDDefinition contextNodeID="OnDemandProgram" contextNodeDefinition="/tva:TVAMain/tva:ProgramDescription/tva:ProgramLocationTable/tva:OnDemandProgram"/>
+	<tns:ContextNodeIDDefinition contextNodeID="OnDemandService" contextNodeDefinition="/tva:TVAMain/tva:ProgramDescription/tva:ServiceInformationTable/tva:ServiceInformation"/>
+	<tns:ContextNodeIDDefinition contextNodeID="PersonName" contextNodeDefinition="/tva:TVAMain/tva:ProgramDescription/tva:CreditsInformationTable/tva:PersonName"/>
+	<tns:ContextNodeIDDefinition contextNodeID="OrganizationName" contextNodeDefinition="/tva:TVAMain/tva:ProgramDescription/tva:CreditsInformationTable/tva:OrganizationName"/>
+	<tns:ContextNodeIDDefinition contextNodeID="SegmentInformation" contextNodeDefinition="/tva:TVAMain/tva:ProgramDescription/tva:SegmentInformationTable/tva:SegmentInformation"/>
+	<tns:ContextNodeIDDefinition contextNodeID="SegmentGroupInformation" contextNodeDefinition="/tva:TVAMain/tva:ProgramDescription/tva:SegmentInformationTable/tva:SegmentGroupInformation"/>
+	<tns:ContextNodeIDDefinition contextNodeID="Review" contextNodeDefinition="/tva:TVAMain/tva:ProgramDescription/tva:ProgramReviewTable/tva:Review"/>
+	<tns:ContextNodeIDDefinition contextNodeID="CSAlias" contextNodeDefinition="/tva:TVAMain/tva:ClassificationSchemeTable/tva:CSAlias"/>
+	<tns:ContextNodeIDDefinition contextNodeID="ClassificationScheme" contextNodeDefinition="/tva:TVAMain/tva:ClassificationSchemeTable/tva:ClassificationScheme"/>
+</tns:ContextNodeIDDefinitionList>

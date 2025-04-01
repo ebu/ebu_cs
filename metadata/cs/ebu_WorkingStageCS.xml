@@ -1,0 +1,923 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:WorkingStage" versionDate="2019-08-21">
+  <!-- ##################################################################### 
+    WORKING STAGE CS
+    Defines a list of the different working steps that can occur while creating a movie or A/V production.
+    
+    The following Creative Commons Rights apply to the use of 
+    this EBU resource:   http://creativecommons.org/licenses/by-nc-sa/3.0/   
+      
+    Owner: EBU Technical Department   
+    Author: Jean-Pierre Evain   
+    Contact: evain@ebu.ch      
+    ##################################################################### -->
+  
+  <Alias>DwerftWorkingStage</Alias>
+  
+  <Term termID="1">
+    <Name xml:lang="en">Preproduction</Name>
+    <Definition xml:lang="en">The preliminary planning and preparation before the
+      production.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="2">
+    <Name xml:lang="en">Production</Name>
+    <Definition xml:lang="en">The process of filming and recording the raw footage of a
+      movie.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="3">
+    <Name xml:lang="en">Postproduction</Name>
+    <Definition xml:lang="en">The processing and assembling of the raw footage to a final product.
+      Additional material like VFX, Sound Effects and Music may be added.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="3.1">
+      <Name xml:lang="en">Audio</Name>
+      <Definition xml:lang="en">Audio related postproduction steps.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="3.1.1">
+        <Name xml:lang="en">ProductionSoundEditing</Name>
+        <Definition xml:lang="en">Editing and splitting of original dialogue and production
+          effects.</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.1.2">
+        <Name xml:lang="en">ADR</Name>
+        <Definition xml:lang="en">Recording of unusable dialogue usually with the original actors in
+          a studio environment.</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="3.1.2.2">
+          <Name xml:lang="en">AdrTakeListPreparation</Name>
+          <Definition xml:lang="en">Creation of a take list, including all dialogue parts which need
+            to be replaced.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.1.2.3">
+          <Name xml:lang="en">AdrRecording</Name>
+          <Definition xml:lang="en">Recording of the marked dialogue takes.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.1.2.4">
+          <Name xml:lang="en">AdrEditing</Name>
+          <Definition xml:lang="en">Editing of the recorded ADR.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+      </Term>
+      <Term termID="3.1.3">
+        <Name xml:lang="en">Dubbing</Name>
+        <Definition xml:lang="en">Recording of the translated dialogue for foreign
+          distribution.</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="3.1.3.1">
+          <Name xml:lang="en">DubbingTranslation</Name>
+          <Definition xml:lang="en">Translation of the original dialogue into the foreign
+            language.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.1.3.2">
+          <Name xml:lang="en">DubbingRecording</Name>
+          <Definition xml:lang="en">Recording of the translated dialogue.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.1.3.3">
+          <Name xml:lang="en">DubbingEditing</Name>
+          <Definition xml:lang="en">Editing of the recorded dubbed dialogue.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+      </Term>
+      <Term termID="3.1.4">
+        <Name xml:lang="en">FieldRecordings</Name>
+        <Definition xml:lang="en">Recording of sounds outside of a studio environment e.g. ambient
+          sounds.</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="3.1.4.1">
+          <Name xml:lang="en">FieldRecordingRec</Name>
+          <Definition xml:lang="en">Recording of sounds outside of a studio environment e.g. ambient
+            sounds.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+          <Term termID="3.1.4.1">
+            <Name xml:lang="en">FieldRecordingEditing</Name>
+            <Definition xml:lang="en">Editing of fieldrecordings.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+        </Term>
+      </Term>
+      <Term termID="3.1.5">
+        <Name xml:lang="en">Foleys</Name>
+        <Definition xml:lang="en">Recording of sounds in a studio environment, mostly for character
+          related sound events like footsteps and movements.</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="3.1.5.1">
+          <Name xml:lang="en">FoleyPreparation</Name>
+          <Definition xml:lang="en">Creation of marker tracks, including all timestemps which need
+            some foley sounds.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.1.5.2">
+          <Name xml:lang="en">FoleyRecording</Name>
+          <Definition xml:lang="en">Recording of foley sounds.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.1.5.3">
+          <Name xml:lang="en">FoleyEditing</Name>
+          <Definition xml:lang="en">Editing of foley sounds.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+      </Term>
+      <Term termID="3.1.6">
+        <Name xml:lang="en">Sounddesign</Name>
+        <Definition xml:lang="en">Assembling and merging of all non-dialoge sounds.</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="3.1.6.1">
+          <Name xml:lang="en">BackgroundEffects</Name>
+          <Definition xml:lang="en">Adding sounds for background events.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.1.6.2">
+          <Name xml:lang="en">SpotEffects</Name>
+          <Definition xml:lang="en">Adding sounds visible events.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.1.6.3">
+          <Name xml:lang="en">AmbientDesign</Name>
+          <Definition xml:lang="en">Adding sounds for static environmental layers.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.1.6.5">
+          <Name xml:lang="en">SoundEffectsGenerated</Name>
+          <Definition xml:lang="en">Generating sound effects by a hard- or software
+            tool.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.1.6.6">
+          <Name xml:lang="en">SoundEffectsFromLibrary</Name>
+          <Definition xml:lang="en">Adding sound effects from a library.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.1.6.7">
+          <Name xml:lang="en">SoundEffectsEditing</Name>
+          <Definition xml:lang="en">Editing of sound effects.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+      </Term>
+      <Term termID="3.1.7">
+        <Name xml:lang="en">Music</Name>
+        <Definition xml:lang="en">Creating and seeking of music.</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="3.1.7.1">
+          <Name xml:lang="en">Score</Name>
+          <Definition xml:lang="en">Music which does not occur inside the plot and is only
+            perceptible for the audience.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+          <Term termID="3.1.7.1.1">
+            <Name xml:lang="en">ScoreComposing</Name>
+            <Definition xml:lang="en">Composition of the score music usually by a film
+              composer.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.1.7.1.2">
+            <Name xml:lang="en">ScoreRecording</Name>
+            <Definition xml:lang="en">Recording of the composed score.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.1.7.1.3">
+            <Name xml:lang="en">ScoreEditing</Name>
+            <Definition xml:lang="en">Editing of the recorded score.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.1.7.1.4">
+            <Name xml:lang="en">ScoreMixing</Name>
+            <Definition xml:lang="en">Mixing the recorded and edited score.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.1.7.1.5">
+            <Name xml:lang="en">ScoreMusicResearch</Name>
+            <Definition xml:lang="en">Researching for possible score songs or temporary music in a
+              library or other types of music distribution services.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+        </Term>
+        <Term termID="3.1.7.2">
+          <Name xml:lang="en">Source</Name>
+          <Definition xml:lang="en">Music which occurence is embedded inside the plot of the movie
+            e.g. music from a radio.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+          <Term termID="3.1.7.2.1">
+            <Name xml:lang="en">SourceComposing</Name>
+            <Definition xml:lang="en">Composition of the source music usually by a film
+              composer.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.1.7.2.2">
+            <Name xml:lang="en">SourceRecording</Name>
+            <Definition xml:lang="en">Recording of the composed source.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.1.7.2.3">
+            <Name xml:lang="en">SourceEditing</Name>
+            <Definition xml:lang="en">Editing of the recorded source.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.1.7.2.4">
+            <Name xml:lang="en">SourceMixing</Name>
+            <Definition xml:lang="en">Mixing the recorded and edited source.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.1.7.2.5">
+            <Name xml:lang="en">SourceMusicResearch</Name>
+            <Definition xml:lang="en">Researching for possible source songs or temporary music in a
+              library or other types of music distribution services.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+        </Term>
+        <Term termID="3.1.7.3">
+          <Name xml:lang="en">CuesheetPreparation</Name>
+          <Definition xml:lang="en">Listing all needed music tracks.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+      </Term>
+      <Term termID="3.1.8">
+        <Name xml:lang="en">Mixing</Name>
+        <Definition xml:lang="en">Mixing of all or a specific selection of tracks.</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="3.1.8.1">
+          <Name xml:lang="en">MixingDataAcquisition</Name>
+          <Definition xml:lang="en">Collecting and preparing all needed sounds in one session in
+            order to proceed with the mixing steps.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.1.8.2">
+          <Name xml:lang="en">Premix</Name>
+          <Definition xml:lang="en">Preparation and premixing of a specific group of
+            sounds.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+          <Term termID="3.1.8.2.1">
+            <Name xml:lang="en">PremixDialogue</Name>
+            <Definition xml:lang="en">Preparing and adjusting all dialogue parts in order to
+              accelerate the main mix.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.1.8.2.2">
+            <Name xml:lang="en">PremixEffects</Name>
+            <Definition xml:lang="en">Preparing and adjusting all effect parts in order to
+              accelerate the main mix.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.1.8.2.3">
+            <Name xml:lang="en">PremixMusic</Name>
+            <Definition xml:lang="en">Preparing and adjusting all the musical parts in order to
+              accelerate the main mix.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+        </Term>
+        <Term termID="3.1.8.3">
+          <Name xml:lang="en">TheatricalMix</Name>
+          <Definition xml:lang="en">Mix of all kinds of sound for distribution to cinemas, usually
+            at least in 5.1 surround.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.1.8.4">
+          <Name xml:lang="en">TrailerMix</Name>
+          <Definition xml:lang="en">Mix of all types of sound except the music in order to assemble
+            a film trailer which has its own music.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.1.8.5">
+          <Name xml:lang="en">TelevisionMix</Name>
+          <Definition xml:lang="en">Mix of all kinds of sound for distribution to broadcast
+            companies, usually in stereo and/or 5.1.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.1.8.6">
+          <Name xml:lang="en">MneMix</Name>
+          <Definition xml:lang="en">Mix of a specific selection of groups, usually without dialogue
+            and location restricted music.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.1.8.7">
+          <Name xml:lang="en">ImpairedMix</Name>
+          <Definition xml:lang="en">Mix for an impaired audience.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.1.8.8">
+          <Name xml:lang="en">DubbedMix</Name>
+          <Definition xml:lang="en">Mix of the dubbed dialogue and an MnE-Mix.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+      </Term>
+      <Term termID="3.1.9">
+        <Name xml:lang="en">FinalMixAcceptance</Name>
+        <Definition xml:lang="en">Acceptance of the MainMix by the director or other production
+          members.</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.1.10">
+        <Name xml:lang="en">CuesheetsFilling</Name>
+        <Definition xml:lang="en">Supplementing the Cuesheets for each mix with the final
+          timecodes.</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+    </Term>
+    <Term termID="3.2">
+      <Name xml:lang="en">Video</Name>
+      <Definition xml:lang="en">Video related postproduction steps.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="3.2.1">
+        <Name xml:lang="en">Dailies</Name>
+        <Definition xml:lang="en">Processing the daily raw footage as soon as possible.</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="3.2.1.1">
+          <Name xml:lang="en">DailiesGrading</Name>
+          <Definition xml:lang="en">Color grading of the daily raw footage as soon as
+            possible.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.2.1.2">
+          <Name xml:lang="en">DailiesAudioVideoSync</Name>
+          <Definition xml:lang="en">Syncing audio and video while the dailies process</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.2.1.3">
+          <Name xml:lang="en">DailiesQC</Name>
+          <Definition xml:lang="en">Checking the technical and content-related properties e.g.
+            metadata, integrity, acuity, framing</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+      </Term>
+      <Term termID="3.2.2">
+        <Name xml:lang="en">AssistingFilmEditing</Name>
+        <Definition xml:lang="en">Vorbereitung des Schnitt-Projekts</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="3.2.2.1">
+          <Name xml:lang="en">AssisingFilmEditAudioVideoSync</Name>
+          <Definition xml:lang="en">Syncing audio and video by the assistent editor</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.2.2.2">
+          <Name xml:lang="en">EditingProjectPreparation</Name>
+          <Definition xml:lang="en">Preparing the editing project for the editor</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+      </Term>
+      <Term termID="3.2.3">
+        <Name xml:lang="en">PictureEditing</Name>
+        <Definition xml:lang="en">Assembling multiple Shots on a timeline usually with proxy
+          files.</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="3.2.3.1">
+          <Name xml:lang="en">PictureLock</Name>
+          <Definition xml:lang="en">Final version of the edited timeline.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2020</ChangeVersionDate>
+          <ValidityFlag>2</ValidityFlag>
+        </Term>
+      </Term>
+      <Term termID="3.2.4">
+        <Name xml:lang="en">Conforming</Name>
+        <Definition xml:lang="en">Transferring the final editing timeline into the grading system.
+          Relinking of the raw footage.</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.2.5">
+        <Name xml:lang="en">PreVfxQc</Name>
+        <Definition xml:lang="en">Check for lenght, format, colour space and contentwise errors
+          before sending the raw footage to the VFX department.</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.2.6">
+        <Name xml:lang="en">VFX</Name>
+        <Definition xml:lang="en">The process by which imagery is created or manipulated outside the
+          context of a live action shot.</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.2.7">
+        <Name xml:lang="en">PostVfxQc</Name>
+        <Definition xml:lang="en">Check for lenght, format, colour space and contentwise errors of
+          the returned VFX shots.</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.2.8">
+        <Name xml:lang="en">Title</Name>
+        <Definition xml:lang="en">Creating textual titles which appear on screen.</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="3.2.8.1">
+          <Name xml:lang="en">Front Titles</Name>
+          <Definition xml:lang="en">Titles that appear at the beginning of a movie, usually to
+            introduce the most significant cast and the film title.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.2.8.2">
+          <Name xml:lang="en">End Titles</Name>
+          <Definition xml:lang="en">Titles that appear at the end of a movie, usually to credit all
+            cast members grouped by their role. Also called "Credits".</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.2.8.3">
+          <Name xml:lang="en">InsertTitles</Name>
+          <Definition xml:lang="en">Titles that occur e.g. in a scene change to introduce a new
+            Location ("Berlin, Alexanderplatz") or to introduce a character by a title.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.2.8.4">
+          <Name xml:lang="en">Subtitles</Name>
+          <Definition xml:lang="en">Textual titles that include all spoken dialogue in the original
+            or a foreign language. Can be open or closed (as a separate source or burned into the
+            video).</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.2.8.5">
+          <Name xml:lang="en">Captions</Name>
+          <Definition xml:lang="en">Textual titles that include all spoken dialogue and descriptions
+            for significant noises and music in the original or a foreign language. Can be open or
+            closed (as a separate source or burned into the video).</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+      </Term>
+      <Term termID="3.2.9">
+        <Name xml:lang="en">Grading</Name>
+        <Definition xml:lang="en">Creating a visual look for each scene in order to create a certain
+          mood or continuity (shot matching).</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.2.10">
+        <Name xml:lang="en">Playouts</Name>
+        <Definition xml:lang="en">Render the whole movie as a consolidated video file</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="3.2.10.1">
+          <Name xml:lang="en">CinemaPlayout</Name>
+          <Definition xml:lang="en">A render version supposed to be watched in a cinematic
+            environment.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+          <Term termID="3.2.10.1.1">
+            <Name xml:lang="en">CinemaPlayoutSDR</Name>
+            <Definition xml:lang="en">A render version supposed to be watched in a cinematic
+              environment with a standard dynamic range.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.2.10.1.2">
+            <Name xml:lang="en">CinemaPlayoutHDR</Name>
+            <Definition xml:lang="en">A render version supposed to be watched in a cinematic
+              environment with a high dynamic range.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.2.10.1.3">
+            <Name xml:lang="en">CinemaPlayoutXYZ</Name>
+            <Definition xml:lang="en">A render version supposed to be watched in a cinematic
+              environment with the colour space "XYZ" which is used for beamer
+              projections.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+        </Term>
+        <Term termID="3.2.10.2">
+          <Name xml:lang="en">TVPlayout</Name>
+          <Definition xml:lang="en">A render version supposed to be published by broadcast
+            companies.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+          <Term termID="3.2.10.2.1">
+            <Name xml:lang="en">TVPlayoutHDR</Name>
+            <Definition xml:lang="en">A render version supposed to be published by broadcast
+              companies with a standard dynamic range.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.2.10.2.2">
+            <Name xml:lang="en">TVPlayoutSDR</Name>
+            <Definition xml:lang="en">A render version supposed to be published by broadcast
+              companies with a high dynamic range.</Definition>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+        </Term>
+        <Term termID="3.2.10.3">
+          <Name xml:lang="en">PreviewPlayout</Name>
+          <Definition xml:lang="en">A render version supposed to act as a preview in a low
+            resolution e.g. for a fast online transfer.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+      </Term>
+    </Term>
+    <Term termID="3.3">
+      <Name xml:lang="en">Mastering</Name>
+      <Definition xml:lang="en">Final merging of audio and video</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="3.3.1">
+        <Name xml:lang="en">DcpMastering</Name>
+        <Definition xml:lang="en">Creation of a Digital Cinema Package which contains a necessary
+          audio and video files to be played in a cinema.</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.3.2">
+        <Name xml:lang="en">DvdMastering</Name>
+        <Definition xml:lang="en">Creation of a Print Master for the DVD release.</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.3.3">
+        <Name xml:lang="en">BluRayMastering</Name>
+        <Definition xml:lang="en">Creation of a Print Master for the Blu-Ray release.</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.3.4">
+        <Name xml:lang="en">HomeCinemaMastering</Name>
+        <Definition xml:lang="en">Creation of a Master for Home Cinemas</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.3.5">
+        <Name xml:lang="en">DCDM</Name>
+        <Definition xml:lang="en">Creation of a Digital Cinema Initiative Distribution
+          Master</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+    </Term>
+    <Term termID="3.4">
+      <Name xml:lang="en">FormalAccommodations</Name>
+      <Definition xml:lang="en">Final accommodations for audio and video files.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="3.4.1">
+        <Name xml:lang="en">AudioMixAccommodations</Name>
+        <Definition xml:lang="en">Final accommodations for audio files.</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="3.4.1.1">
+          <Name xml:lang="en">PitchCorrection</Name>
+          <Definition xml:lang="en">Changing the pitch of an audio mix in order to correct changes
+            that occur when changing the lengh of the mix.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.4.1.2">
+          <Name xml:lang="en">Timestretch</Name>
+          <Definition xml:lang="en">Changing the lengh of a mix in order to adjust it to a different
+            framerate.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.4.1.3">
+          <Name xml:lang="en">ChannelFormatConversion</Name>
+          <Definition xml:lang="en">Creating generic downmixes or splitting in multiple mono
+            channels.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.4.1.4">
+          <Name xml:lang="en">LoudnessAdjustment</Name>
+          <Definition xml:lang="en">Adjusting the loundness of a mix in order to match the demanded
+            technical specifications.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+      </Term>
+      <Term termID="3.4.2">
+        <Name xml:lang="en">FinalVideoAccommodations</Name>
+        <Definition xml:lang="en">Final accommodations for video files.</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="3.4.2.1">
+          <Name xml:lang="en">FrameRateConversion</Name>
+          <Definition xml:lang="en">Changing the frame rate in order to enable the distribution for
+            different countries and types of publishing e.g. cinema in 24fps, european TV in 25 fps,
+            US-American TV in 29.97fps</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.4.2.2">
+          <Name xml:lang="en">ScanAndPan</Name>
+          <Definition xml:lang="en">Adjusting the position of each video clip when the desired
+            aspect ratio differs from the recorded aspect ratio.</Definition>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+      </Term>
+    </Term>
+    <Term termID="3.5">
+      <Name xml:lang="en">FinalQualityCheck</Name>
+      <Definition xml:lang="en">Technical check of the final products for clicks or flaws from
+        rendering.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="3.6">
+      <Name xml:lang="en">Delivery</Name>
+      <Definition xml:lang="en">The final product goes to the customer or other institutions like
+        film distributors or broadcast companies.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="4">
+    <Name xml:lang="en">Release</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="5">
+    <Name xml:lang="en">Archiving</Name>
+    <Definition xml:lang="en">Long-Term storing of the final products and related auxillary data in
+      a maintained system.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="6">
+    <Name xml:lang="en">RightsManagement</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+</ClassificationScheme>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		
+<ClassificationScheme uri="urn:ebu:metadata-cs:ProgrammeGroupTypeCS" versionDate="2013-01-07">
+
+   <!-- #####################################################################
+	     PROGRAMME GROUP TYPE                                                        
+	     Definition: A list of codes to qualify types of programme groups
+	     
+	     The following Creative Commons Rights apply to the use of this EBU resource:
+	     http://creativecommons.org/licenses/by-sa/3.0/
+	     
+	     Owner: EBU Technical Department
+	     Author: Jean-Pierre Evain
+	     Contact: metadata@ebu.ch
+	     
+	     ##################################################################### -->
+
+   <Alias>EBUProgrammeGroupType</Alias>
+
+   <Term termID="1">
+      <Name xml:lang="en">Package</Name>
+      <Definition xml:lang="en">A coherent / related group of programmes grouped for delivery,
+         release or else.</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="2">
+      <Name xml:lang="en">Collection</Name>
+      <Definition xml:lang="en">A group of programmes / resources, themed or not
+         themed.</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="3">
+      <Name xml:lang="en">Series</Name>
+      <Definition xml:lang="en">an ordered or unordered collection of programmes that is shown in a
+         sequence (e.g. "Friends" season 1, episodes "1 to n"). An unbounded series (e.g. an ongoing
+         drama series) may be considered to be a serial.</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="4">
+      <Name xml:lang="en">Show</Name>
+      <Definition xml:lang="en">a programme theme that is typically be associated with a collection
+         of series (e.g. all episodes of Friends). programConcept - the editorial concept for a
+         programme from which specific programme versions have been derived (e.g. the concept of
+         "Blood Runner" as opposed to "Blood Runner - The Director's Cut" as a specific version of
+         that concept). </Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="5">
+      <Name xml:lang="en">Concept</Name>
+      <Definition xml:lang="en">An editorially coherent groups of programmes</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="6">
+      <Name xml:lang="en">Compilation</Name>
+      <Definition xml:lang="en">a collection of programmes that is used to allow segments from
+         multiple programmes to be combined in segment groups. When used in conjunction with
+         segmentation information, a programCompilation programme group allows, for example, several
+         related news segments from different news programmes to be grouped for playback in
+         sequence.</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="7">
+      <Name xml:lang="en">Choice</Name>
+      <Definition xml:lang="en">A selection of preferred resources.</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="8">
+      <Name xml:lang="en">Highlights</Name>
+      <Definition xml:lang="en">A selection of most representative resources.</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="9">
+      <Name xml:lang="en">Sub-series</Name>
+      <Definition xml:lang="en">A sub-grouping of episodes beneath the level of the
+         series.</Definition>
+      <ChangeComment>Update TVA 2012</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="10">
+      <Name xml:lang="en">Season</Name>
+      <Definition xml:lang="en">Collection of programmes with an overarching editorial theme (e.g.
+         "Renaissance Art"). Not to be confused with series.</Definition>
+      <ChangeComment>Update TVA 2012</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="11">
+      <Name xml:lang="en">Magazine</Name>
+      <Definition xml:lang="en">A collection of individual programmes that are shown as a group
+         because they are editorially coherent (e.g. a general sports programme with individual
+         sub-programmes covering different events)</Definition>
+      <ChangeComment>Update TVA 2012</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="12">
+      <Name xml:lang="en">Mini-series</Name>
+      <Definition xml:lang="en">A series consisting of a limited number of programmes (typically 2
+         or 3) screened over a short period of time (e.g. on consecutive days); these may be based
+         on a literary work or have some other theme where it is important that all of the
+         programmes be viewed and that they be viewed in sequence.</Definition>
+      <ChangeComment>Update TVA 2012</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="13">
+      <Name xml:lang="en">Brand</Name>
+      <Definition xml:lang="en">An overarching group representing a marketing brand. Such a group
+         may contain groups of any other type or programmes that share the same branding, for
+         example a show and its spin-off series. All members should be acquired if the group is
+         selected.</Definition>
+      <ChangeComment>Update TVA 2012</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="14">
+      <Name xml:lang="en">Automatic Acquisition Themed</Name>
+      <Definition xml:lang="en">A collection of events related by some editorial policy that shall
+         be acquired automatically. All members of the group should be acquired.</Definition>
+      <ChangeComment>Update TVA 2012</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="15">
+      <Name xml:lang="en">Automatic Acquisition Non Themed</Name>
+      <Definition xml:lang="en">A collection of events that are not editorially related which shall
+         be acquired automatically. All members of the group should be acquired.</Definition>
+      <ChangeComment>Update TVA 2012</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="16">
+      <Name xml:lang="en">Clip</Name>
+      <Definition xml:lang="en">the editorial concept of a piece of short-form content, excerpted
+         from a longer episode, from which specific clip versions have been derived.</Definition>
+      <ChangeComment>Update TVA 2012</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="99">
+      <Name xml:lang="en">Other relation</Name>
+      <Definition xml:lang="en">Can be used for any other grouping of content not represented in the
+         list above and from where only one member of the group should be acquired is the group is
+         selected.</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+</ClassificationScheme>

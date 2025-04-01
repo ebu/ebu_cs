@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:ContractTypeCodeCS" versionDate="2020-04-09">
+
+   <!-- ##################################################################### 
+	     CONTRACT TYPE CODE                                                    
+	     Definition: A list of typical types of contracts in broadcasting
+	     
+   The following Creative Commons Rights apply to the use of this EBU resource:
+   http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+   Owner: EBU Technical Department
+   Author: Jean-Pierre Evain
+   Contact: metadata@ebu.ch      
+   
+   ##################################################################### 
+-->
+
+
+   <Alias>EBUContractTypeCode</Alias>
+
+   <Term termID="1">
+      <Name xml:lang="en">Commitment to Produce</Name>
+      <Name xml:lang="de">Produktionsvertrag (Auftragsproduktion)</Name>
+      <Definition xml:lang="en">A contract in which one party promises to produce a specified item
+         for another. The contract may specify the timescales and costs involved as well as the
+         nature of the final product. Typically, contracts to produce programmes for television and
+         radio include clauses concerning the time before transmission the programme must be ready
+         by, and the storage format which must be used for the delivery</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="2">
+      <Name xml:lang="en">Employment Contract</Name>
+      <Name xml:lang="de">Arbeitsvertrag</Name>
+      <Definition xml:lang="en">A contract where one party (typically but not always a person)
+         undertakes to provide labour for another party (typically but not always an organisation)
+         in return for remuneration. Employment contracts may be open ended, for a fixed term (e.g.
+         three months), or for a specific task</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="3">
+      <Name xml:lang="en">Licence to Publish</Name>
+      <Definition xml:lang="en">A contract giving the right to publish the material concerned in a
+         specified format in a specified territory. This may apply to publication in the form of
+         physical copies of items such as books, Cds, DVDs or videos, or publication as a
+         broadcasting event such as a television or radio programme, or the right to publish
+         material on a web site</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="4">
+      <Name xml:lang="en">Licence to Use</Name>
+      <Definition xml:lang="en">A contract giving the right to use the material concerned in a
+         specified format in a specified territory. Examples of this may be the insertion of clips,
+         images or pieces of music into other productions</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="5">
+      <Name xml:lang="en">Transfer of Ownership by Donation</Name>
+      <Definition xml:lang="en">A contract transferring ownership of something from one party to
+         another without any transfer of money or goods in return. A donation may be of physical
+         property, money or intellectual property rights</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="6">
+      <Name xml:lang="en">Transfer of Ownership by Sale</Name>
+      <Name xml:lang="de">Vertrag über eine Eigentumsübertragung</Name>
+      <Definition xml:lang="en">A contract transferring ownership of something from one party to
+         another in return for a payment. This may refer to the sale of actual physical property, or
+         of intellectual property such as rights. The payment will usually be in money using a
+         specified currency, but can be made in kind using other property or a combination of goods
+         and money</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="7">
+      <Name xml:lang="en">FinancingContract</Name>
+      <Name xml:lang="de">Finanzierungsvertrag</Name>
+      <Definition xml:lang="en">A Contract handling third-pary involvment of factory
+         cost.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="8">
+      <Name xml:lang="en">LoanContract</Name>
+      <Name xml:lang="de">Darlehensvertrag</Name>
+      <Definition xml:lang="en">A contract partner grants loan to a production company which is
+         repayed by the income of the production.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="9">
+      <Name xml:lang="en">CoProductionContract</Name>
+      <Name xml:lang="de">Koproduktionsvertrag</Name>
+      <Definition xml:lang="en">A contract between multiple companies about the production of a
+         movie.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="10">
+      <Name xml:lang="en">ParticipationContract</Name>
+      <Name xml:lang="de">Mitwirkungsvertrag</Name>
+      <Definition xml:lang="en">An agreement between production company and director, actors, crew
+         and other participating members.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="11">
+      <Name xml:lang="en">LicenseContract</Name>
+      <Name xml:lang="de">Lizenzvertrag</Name>
+      <Definition xml:lang="en">A contract about the usage of a work protected by copyright for the
+         purpose of exploitation.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="12">
+      <Name xml:lang="en">OptionContract</Name>
+      <Name xml:lang="de">Optionsvertrag</Name>
+      <Definition xml:lang="en">A contract which arranges optional rights.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="13">
+      <Name xml:lang="en">OtherContract</Name>
+      <Name xml:lang="de">sonstige Vereinbarung</Name>
+      <Definition xml:lang="en">An other agreement, not directly assigned to a specific contract
+         type.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+</ClassificationScheme>

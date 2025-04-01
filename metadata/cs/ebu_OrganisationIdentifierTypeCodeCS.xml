@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		
+<ClassificationScheme uri="urn:ebu:metadata-cs:OrganisationIdentifierTypeCodeCS"
+   versionDate="2013-01-07">
+
+   <!-- #####################################################################
+	     ORGANISATION IDENTIFIER TYPE CODE                                          
+	     Definition: 
+	     
+	     The following Creative Commons Rights apply to the use of this EBU resource:
+	     http://creativecommons.org/licenses/by-sa/3.0/
+	     
+	     Owner: EBU Technical Department
+	     Author: Jean-Pierre Evain
+	     Contact: metadata@ebu.ch
+	     
+	     ##################################################################### -->
+
+   <Alias>EBUOrganisationIdentifierTypeCode</Alias>
+
+   <Term termID="1">
+      <Name xml:lang="en">Company Registration Number</Name>
+      <Definition xml:lang="en">A number used to identify a registered company in the country where
+         it is registered. In the United Kingdom these are numbers recorded by Companies
+         House.</Definition>
+      <Reference>EBU</Reference>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="2">
+      <Name xml:lang="en">Organisation Customer Number</Name>
+      <Definition xml:lang="en">An identifier used by an organisation to identify its customers
+         within its own accounting system</Definition>
+      <Reference>EBU</Reference>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="3">
+      <Name xml:lang="en">Organisation Internal Department Number</Name>
+      <Definition xml:lang="en">An identifier used by an organisation to identify its own internal
+         departments</Definition>
+      <Reference>EBU</Reference>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="4">
+      <Name xml:lang="en">Organisation Supplier Number</Name>
+      <Definition xml:lang="en">An identifier used by an organisation to identify its suppliers
+         within its own accounting system</Definition>
+      <Reference>EBU</Reference>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="5">
+      <Name xml:lang="en">Registered Charity Number</Name>
+      <Definition xml:lang="en">A number used to identify a registered charity</Definition>
+      <Reference>EBU</Reference>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="6">
+      <Name xml:lang="en">Swift Number</Name>
+      <Definition xml:lang="en">A number by which a financial institution is known to the Society
+         for the Worldwide International Funds Transfer system (SWIFT)</Definition>
+      <Reference>EBU</Reference>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="7">
+      <Name xml:lang="en">VAT Registration Number</Name>
+      <Definition xml:lang="en">An identifier by which an organisation is known to the Value Added
+         Tax authority in the country of its registration</Definition>
+      <Reference>EBU</Reference>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="8">
+      <Name xml:lang="en">British Bank Sort Code</Name>
+      <Definition xml:lang="en">An identifier used by financial institutions in the UK to identify
+         specific individual branches. It has the structure 'nn nn nn' where n represents an
+         integer</Definition>
+      <Reference>EBU</Reference>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="9">
+      <Name xml:lang="en">EUMC Organisation Code</Name>
+      <Definition xml:lang="en">An organisation number allocated by the European Union Monitoring
+         Centre's RAXEN system. This includes numbers for several media organisations across Europe
+         which are involved in EU sponsored moves to combat racism and xenophobia</Definition>
+      <Reference>EBU</Reference>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+</ClassificationScheme>

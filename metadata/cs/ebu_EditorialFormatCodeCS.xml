@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:EditorialFormatCodeCS" versionDate="2020-03-30">
+
+   <!-- #####################################################################
+		 EDITORIAL FORMAT CODE   
+		 Definition: This dimension is used to classify programmes as to their formal structure, in other words: how
+		 does the programme look, regardless of the subject with which the programme is dealing. 
+		 NOTE: this is a compilation of the TV-Anytime and EBU's ESCORT format codes.
+		 
+		 The following Creative Commons Rights apply to the use of this EBU resource:
+		 http://creativecommons.org/licenses/by-sa/3.0/
+		 
+		 Owner: EBU Technical Department
+		 Author: Jean-Pierre Evain
+		 Contact: metadata@ebu.ch
+		 
+		 ##################################################################### -->
+
+
+   <Alias>EBUEditorialFormatCode</Alias>
+
+
+
+   <Term termID="2.0">
+      <Name xml:lang="en">Proprietary</Name>
+      <Definition xml:lang="en">For use where proprietary extensions are required, or the use of
+         keywords that do not fit in any classification below</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="2.1">
+      <Name xml:lang="en">STRUCTURED / NON-FICTION</Name>
+      <Keyword xml:lang="en">STRUCTURED </Keyword>
+      <Keyword xml:lang="en"> NON-FICTION</Keyword>
+      <Definition xml:lang="en">All programmes dealing with facts, situations, opinions, theories
+         and forecasts</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="2.1.1">
+         <Name xml:lang="en">Bulletin</Name>
+         <Definition xml:lang="en">Programme with formal desk presentation, usually interspersed
+            with visual material.Example: news bulletin, weather forecast</Definition>
+         <ChangeComment>Remove spurious 'space' from termID</ChangeComment>
+         <ChangeVersionDate>2009-09-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="2.1.2">
+         <Name xml:lang="en">Magazine</Name>
+         <Definition xml:lang="en">Programme consisting of separate items which has at least one
+            common quality and presented under one main heading</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="2.1.2.1">
+            <Name xml:lang="en">Presenter led magazine</Name>
+            <Definition xml:lang="en">Presenter led programmeconsisting different
+               elements</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.1.2.2">
+            <Name xml:lang="en">Clip led magazine</Name>
+            <Definition xml:lang="en">Programme dominated or completely consisting of self contained
+               video clips</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+      </Term>
+      <Term termID="2.1.3">
+         <Name xml:lang="en">Event</Name>
+         <Definition xml:lang="en">An outside event covered by the broadcaster and with an
+            accompanying commentary and transmitted live or deferred (within 24 hours). Example:
+            Soccer match, theatre relay, parliamentary debate</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="2.1.3.1">
+            <Name xml:lang="en">Commented event</Name>
+            <Definition xml:lang="en">An outside event covered by the broadcaster and with an
+               accompanying commentary, and transmitted live or deferred (within 2.
+               hours).</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.1.3.2">
+            <Name xml:lang="en">Uncommented event</Name>
+            <Definition xml:lang="en">Where the event speaks for itself, i.e. religious
+               service,</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+      </Term>
+      <Term termID="2.1.4">
+         <Name xml:lang="en">Documentary</Name>
+         <Definition xml:lang="en">Programme concerning a single theme, involving descriptive and/or
+            interpretative commentaries, illustrations, I/vs, statements, photos etc</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="2.1.5">
+         <Name xml:lang="en">Discussion / Interview / Debate / Talkshow / Standup</Name>
+         <Keyword xml:lang="en">Discussion</Keyword>
+         <Keyword xml:lang="en">Interview</Keyword>
+         <Keyword xml:lang="en">Debate</Keyword>
+         <Keyword xml:lang="en">Talkshow</Keyword>
+         <Keyword xml:lang="en">Standup</Keyword>
+         <Definition xml:lang="en">Mainly verbal programme in which more than one person
+            participates</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="2.1.5.1">
+            <Name xml:lang="en">Religious Talk</Name>
+            <Definition xml:lang="en">A programme featuring a religious discussion or
+               debate</Definition>
+            <ChangeComment>Mapping to DAB</ChangeComment>
+            <ChangeVersionDate>2009-09-04</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+      </Term>
+      <Term termID="2.1.6">
+         <Name xml:lang="en">Lecture/Speech/Presentation</Name>
+         <Keyword xml:lang="en">Lecture</Keyword>
+         <Keyword xml:lang="en">Speech</Keyword>
+         <Keyword xml:lang="en">Presentation</Keyword>
+         <Definition xml:lang="en">Mainly verbal programme in which only one person
+            participates</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="2.1.7">
+         <Name xml:lang="en">Textual (incl. relayed teletext)</Name>
+         <Keyword xml:lang="en">incl. relayed teletext</Keyword>
+         <Definition xml:lang="en">Programme consisting only of alphanumerical
+            information</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="2.1.8">
+         <Name xml:lang="en">Phone-in</Name>
+         <Definition xml:lang="en">Programme with content primarily generated by contributions from
+            the general audience either on the telephone or by sending in
+            emails/letters</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="2.1.9">
+         <Name xml:lang="en">DJ with discs</Name>
+         <Definition xml:lang="en">Programme (usually in audio only) in which a specialist presenter
+            introduces music or other pre-recorded elements</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="2.1.10">
+         <Name xml:lang="en">Docusoap</Name>
+         <Definition xml:lang="en">A docusoap is a television programme that shows the daily lives
+            of people who work in a place such as a hospital or an airport, and is broadcast at a
+            regular time each week or day.</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="2.1.11">
+         <Name xml:lang="en">Reality</Name>
+         <Definition xml:lang="en">Reality TV is a type of television programming which aims to show
+            how ordinary people behave in everyday life, or in situations, often created by the
+            programme makers, which are intended to represent everyday life.</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="2.1.12">
+         <Name xml:lang="en">Religious worship service</Name>
+         <Definition xml:lang="en">Retransmission of religious worship services.</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="2.1.13">
+         <Name xml:lang="en">Highlights</Name>
+         <Definition xml:lang="en"> A summary or edited version made of a set of selected highlights
+            e.g. sport highlights made of key actions in a football game..</Definition>
+         <ChangeComment>Change request received from the community of implementers</ChangeComment>
+         <ChangeVersionDate>2020-03-30</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="2.1.13.1">
+            <Name xml:lang="en">Short Highlights</Name>
+            <Definition xml:lang="en"> A short summary or edited version made of a set of selected
+               highlights e.g. sport highlights made of most significant key actions (e.g. goals) in
+               a football game..</Definition>
+            <ChangeComment>Change request received from the community of
+               implementers</ChangeComment>
+            <ChangeVersionDate>2020-03-30</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.1.13.2">
+            <Name xml:lang="en">Medium Highlights</Name>
+            <Definition xml:lang="en"> A medium summary or edited version made of a set of selected
+               highlights e.g. sport highlights made of most significant key actions (e.g. goals and
+               corners and penalties) in a football game..</Definition>
+            <ChangeComment>Change request received from the community of
+               implementers</ChangeComment>
+            <ChangeVersionDate>2020-03-30</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.1.13.3">
+            <Name xml:lang="en">Long Highlights</Name>
+            <Definition xml:lang="en"> A long summary or edited version made of a set of selected
+               highlights e.g. sport highlights made of most significant key actions (e.g. goals and
+               corners and penalties and red/yellow cards, etc.) in a football game..</Definition>
+            <ChangeComment>Change request received from the community of
+               implementers</ChangeComment>
+            <ChangeVersionDate>2020-03-30</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+      </Term>
+   </Term>
+
+
+   <Term termID="2.2">
+      <Name xml:lang="en">REPRESENTATION/PLAY/FICTION</Name>
+      <Keyword xml:lang="en">REPRESENTATION</Keyword>
+      <Keyword xml:lang="en">PLAY</Keyword>
+      <Keyword xml:lang="en">FICTION</Keyword>
+      <Definition xml:lang="en">Programme consisting of a prose or verse composition, one telling a
+         story, written for or as if for performance by actors.Examples: soap opera, Shakespeare
+         play, Monthy Python, radio play, Not: documentary or informational programme whose subject
+         is drama</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="2.2.1">
+         <Name xml:lang="en">Fictional portrayal of life</Name>
+         <Definition xml:lang="en">Programme performed by live actors e.g. performed
+            drama</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="2.2.2">
+         <Name xml:lang="en">Readings</Name>
+         <Definition xml:lang="en">Programmes consisting of readings of poems, stories or other
+            literary works</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="2.2.3">
+         <Name xml:lang="en">Dramatic documentary</Name>
+         <Definition xml:lang="en">Programme performed by actors. About real events e.g. docusoap or
+            docudrama</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+   </Term>
+
+
+   <Term termID="2.3">
+      <Name xml:lang="en">CARTOON/ANIMATION/PUPPETRY</Name>
+      <Keyword xml:lang="en">CARTOON</Keyword>
+      <Keyword xml:lang="en">ANIMATION</Keyword>
+      <Keyword xml:lang="en">PUPPETRY</Keyword>
+      <Definition xml:lang="en">Programme consisting of a dramatic work, constructed frame by frame
+         without resource to live images</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="2.3.1">
+         <Name xml:lang="en">Anime</Name>
+         <Definition xml:lang="en">Japanese animation style</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="2.3.2">
+         <Name xml:lang="en">Computer</Name>
+         <Definition xml:lang="en">CGI or 3D representation. Examples: Disney's Antz, Toy STory,
+            etc.</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="2.3.3">
+         <Name xml:lang="en">Cartoon</Name>
+         <Definition xml:lang="en">Images drawn frame by frame. Example: Disneys Pinocchio, The
+            Flintstones, Tom and Jerry</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="2.3.4">
+         <Name xml:lang="en">Puppetry</Name>
+         <Definition xml:lang="en">Programme consisting of a dramatic work, performed with
+            puppet/claymation.</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="2.3.4.1">
+            <Name xml:lang="en">Real time puppetry</Name>
+            <Definition xml:lang="en">Marrionettes such as Thunderbirds</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.3.4.2">
+            <Name xml:lang="en">Physical model animation</Name>
+            <Definition xml:lang="en">Claymation such as Gumbi and Poky, Chicken Run, Wallace and
+               Gromit</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+      </Term>
+      <Term termID="2.3.5">
+         <Name xml:lang="en">3D</Name>
+         <Definition xml:lang="en">3D animation</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+   </Term>
+
+
+   <Term termID="2.4">
+      <Name xml:lang="en">SHOW / ENTERTAINMENT</Name>
+      <Keyword xml:lang="en">SHOW </Keyword>
+      <Keyword xml:lang="en"> ENTERTAINMENT</Keyword>
+      <Definition xml:lang="en">Entertainment is an action, event, or activity that aims to amuse
+         and interest an audience. In television or radio, entertainment is organised as TV or radio
+         shows</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="2.4.1">
+         <Name xml:lang="en">Hosted show</Name>
+         <Definition xml:lang="en">Programme, that can be regarded neither as non-fiction nor as
+            drama or music/dance in which one or more persons fulfil the role of presenter, host,
+            quiz or games master, announcer, chairperson or speaker and where the rest of the
+            participants are generally members of the public</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="2.4.1.1">
+            <Name xml:lang="en">Simple game show</Name>
+            <Definition xml:lang="en">Programme in which the content is primarily contained within
+               the studio and the prizes or rewards (if any) to the participant(s) may be regarded
+               as conservative. Example: University Challenge</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.4.1.2">
+            <Name xml:lang="en">Big game show</Name>
+            <Definition xml:lang="en">Programme produced on a grand scale in which the prizes or
+               rewards are considered generous Example: Who wants to be a millionaire</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+      </Term>
+      <Term termID="2.4.2">
+         <Name xml:lang="en">Panel-show</Name>
+         <Definition xml:lang="en">A programme of a light entertainment nature which is presented by
+            a more or less fixed group of people (panel). A game show is a program where people play
+            a game for points, with the goal of winning money or prizes. Programme, that can be
+            regarded neither as non-fiction nor as drama or concert. Example: The Paul Daniels Show;
+            Der Rudi Carrell Show</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="2.4.2.1">
+            <Name xml:lang="en">Simple game show</Name>
+            <Definition xml:lang="en"/>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.4.2.2">
+            <Name xml:lang="en">Big game show</Name>
+            <Definition xml:lang="en"/>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+      </Term>
+      <Term termID="2.4.3">
+         <Name xml:lang="en">Non-hosted show</Name>
+         <Definition xml:lang="en">Programme, that can be regarded neither as non-fiction nor as
+            drama or music/dance in which no one fulfils the role of presenter, host, quiz or games
+            master, announcer, chairperson or speaker</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="2.4.4">
+         <Name xml:lang="en">Standup comedian(s)</Name>
+         <Keyword xml:lang="en">standup</Keyword>
+         <Keyword xml:lang="en">comedian</Keyword>
+         <Definition xml:lang="en">Programme performed by a single, a pair or a group of comedians
+            performing directly towards the audience</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="2.4.5">
+         <Name xml:lang="en">Reality Show</Name>
+         <Definition xml:lang="en">Reality TV is a type of television programming which aims to show
+            how ordinary people behave in everyday life, or in situations, often created by the
+            programme makers, which are intended to represent everyday life.</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="2.4.5.1">
+            <Name xml:lang="en">Observational show</Name>
+            <Definition xml:lang="en">Where fly on the wall techniques are central to the programme
+               structure</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.4.5.2">
+            <Name xml:lang="en">Controlled show</Name>
+            <Definition xml:lang="en">Where the flow of the programme is governed - rules
+               based</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.4.5.3">
+            <Name xml:lang="en">Real-life soap</Name>
+            <Definition xml:lang="en">A soap opera, sometimes called "soap" for short, is an
+               ongoing, episodic work of dramatic fiction (in this case real life) presented in
+               serial format on radio or as television programming. </Definition>
+            <ChangeComment>corrected termId from 2.4.5.2 to 2.4.5.3</ChangeComment>
+            <ChangeVersionDate>2019-06-24</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+      </Term>
+      <Term termID="2.4.6">
+         <Name xml:lang="en">Contest / Competition</Name>
+         <Keyword xml:lang="en">Contest</Keyword>
+         <Keyword xml:lang="en">Competition</Keyword>
+         <Definition xml:lang="en">The main purpose of the show is a contest or competition (talent,
+            songs, dabce, etc.)</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+   </Term>
+
+
+   <Term termID="2.5">
+      <Name xml:lang="en">ARTISTIC PERFORMANCE / MUSIC / BALLET / DANCE / THEATRE</Name>
+      <Keyword xml:lang="en">ARTISTIC</Keyword>
+      <Keyword xml:lang="en">PERFORMANCE</Keyword>
+      <Keyword xml:lang="en">MUSIC</Keyword>
+      <Keyword xml:lang="en">BALLET</Keyword>
+      <Keyword xml:lang="en">DANCE</Keyword>
+      <Keyword xml:lang="en">THEATER</Keyword>
+      <Definition xml:lang="en">Music, Ballet, Dance, Mime etc. TV programmes (predominantly)
+         consisting of music, dance or ballet or theatrical performance</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="2.5.1">
+         <Name xml:lang="en">Solo performance</Name>
+         <Definition xml:lang="en">individual performance of music, dance, mime or spoken word eg
+            Nigel Kennedy solo violin performance</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="2.5.1.1">
+            <Name xml:lang="en">Solo</Name>
+            <Definition xml:lang="en"/>
+         </Term>
+         <Term termID="2.5.1.2">
+            <Name xml:lang="en">DJ/VJ with Discs</Name>
+            <Definition xml:lang="en"/>
+         </Term>
+      </Term>
+      <Term termID="2.5.2">
+         <Name xml:lang="en">Small ensemble performance</Name>
+         <Definition xml:lang="en">Performance of music, dance, mime or spoken word by a small
+            number of people Quartet, small ensemble staged play</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="2.5.2.1">
+            <Name xml:lang="en">Instrumental</Name>
+            <Definition xml:lang="en"/>
+         </Term>
+      </Term>
+      <Term termID="2.5.3">
+         <Name xml:lang="en">Large ensemble performance</Name>
+         <Definition xml:lang="en">Performance of music, dance, mime or spoken word by a large
+            number of people Orchestra and choirs</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="2.5.3.1">
+            <Name xml:lang="en">Orchestral</Name>
+            <Definition xml:lang="en"/>
+         </Term>
+         <Term termID="2.5.3.2">
+            <Name xml:lang="en">Chorus</Name>
+            <Definition xml:lang="en">A group of persons who speak or sing in unison a given part or
+               composition in drama or poetry recitation.</Definition>
+         </Term>
+      </Term>
+      <Term termID="2.5.4">
+         <Name xml:lang="en">Mixed</Name>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="2.5.5">
+         <Name xml:lang="en">Music video</Name>
+         <Definition xml:lang="en">Short film made specifically to promote the musical recording
+            that forms its soundtrack, and usually visibly featuring the promoted
+            performer(s).</Definition>
+      </Term>
+      <Term termID="2.5.99">
+         <Name xml:lang="en">Other</Name>
+         <Definition xml:lang="en">E.g. mime.</Definition>
+      </Term>
+   </Term>
+
+
+   <Term termID="2.6">
+      <Name xml:lang="en">void</Name>
+      <Definition xml:lang="en">Term not defined</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>0</ValidityFlag>
+   </Term>
+
+
+   <Term termID="2.7">
+      <Name xml:lang="en">INTERACTIVE</Name>
+      <Definition xml:lang="en">Formats making use of a range of features such as local application
+         support, return path and direct viewer interaction</Definition>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="2.7.1">
+         <Name xml:lang="en">LOCAL INTERACTIVITY</Name>
+         <Definition xml:lang="en">Formats that happen in the "box" where broadcast "data" is
+            processed locally giving a sense of dynamic choice</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="2.7.1.1">
+            <Name xml:lang="en">Static informational</Name>
+            <Definition xml:lang="en">Services (news or entertainment) where the information is
+               fixed and does not update</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.1.2">
+            <Name xml:lang="en">Dynamic informational</Name>
+            <Definition xml:lang="en">Services where the information is dynamic and updates
+               regularly from the broadcast stream</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.1.3">
+            <Name xml:lang="en">Viewing chats</Name>
+            <Definition xml:lang="en">The show displays chats taking place over local and remote
+               systems</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.1.4">
+            <Name xml:lang="en">Quiz - Basic multiple choice</Name>
+            <Definition xml:lang="en">Using any key number, ft, or arrows etc</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.1.5">
+            <Name xml:lang="en">Quiz - Text or number entry answers</Name>
+            <Definition xml:lang="en">Entering real text or numbers into a format</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.1.6">
+            <Name xml:lang="en">Re-ordering</Name>
+            <Definition xml:lang="en">Competitions based on moving lists into correct
+               orders</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.1.7">
+            <Name xml:lang="en">Positional</Name>
+            <Definition xml:lang="en">Challenges or games such as "Spot the Ball", clicking on quess
+               where something is</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.1.8">
+            <Name xml:lang="en">Sync quiz</Name>
+            <Definition xml:lang="en">Synchronized with audio and/or video (the
+               programme)</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.1.9">
+            <Name xml:lang="en">Timer quiz</Name>
+            <Definition xml:lang="en">Quiz synchronized with audio and/or video</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.1.10">
+            <Name xml:lang="en">Elimination and timer</Name>
+            <Definition xml:lang="en">Against the clock</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.1.11">
+            <Name xml:lang="en">Categories</Name>
+            <Definition xml:lang="en">Selecting from batches of questions</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.1.12">
+            <Name xml:lang="en">Level based quiz/game</Name>
+            <Keyword xml:lang="en">Level based quiz</Keyword>
+            <Keyword xml:lang="en">game</Keyword>
+            <Definition xml:lang="en">Cannot move on without completing last level - Difficulty or
+               linear challenge</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.1.13">
+            <Name xml:lang="en">Following a sequence</Name>
+            <Definition xml:lang="en">Temporal, Simon says, red next then green etc</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.1.14">
+            <Name xml:lang="en">Local multi player</Name>
+            <Definition xml:lang="en">Players using the same box in the same space</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.1.15">
+            <Name xml:lang="en">Multi stream audio-video</Name>
+            <Definition xml:lang="en">Services where the interaction is based mostly around
+               alternate, parallel streamed audio or video access</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.1.16">
+            <Name xml:lang="en">Enhanced advertisement</Name>
+            <Definition xml:lang="en">Local interaction, more information locally etc</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.1.17">
+            <Name xml:lang="en">Logic based games</Name>
+            <Definition xml:lang="en">Logic games usually simulate some well known logic puzzle like
+               Master Mind or the game where you have put sliding numbered tiles in order inside a
+               box.</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.1.18">
+            <Name xml:lang="en">Word games</Name>
+            <Definition xml:lang="en">Games involving the formation, discovery, or alteration of a
+               word or words</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.1.19">
+            <Name xml:lang="en">Positional games</Name>
+            <Definition xml:lang="en">positional games are games described by a finite set of
+               positions in which a move consists of claiming a previously-unclaimed position.
+               Well-known games that fall into this class include Tic-tac-toe, Hex, and the Shannon
+               switching game.[</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.1.20">
+            <Name xml:lang="en">Board games</Name>
+            <Definition xml:lang="en">A board game is a game that involves counters or pieces moved
+               or placed on a pre-marked surface or "board", according to a set of
+               rules.</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.1.21">
+            <Name xml:lang="en">Text based gaming</Name>
+            <Definition xml:lang="en">A text game or text-based game is a video game that uses text
+               characters instead of bitmapped or vector graphics.</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.1.22">
+            <Name xml:lang="en">Dynamic 2D/3D graphics</Name>
+            <Keyword xml:lang="en">Dynamic 2D</Keyword>
+            <Keyword xml:lang="en">3D graphics</Keyword>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+      </Term>
+      <Term termID="2.7.2">
+         <Name xml:lang="en">INTERMITTENT RESPONSE</Name>
+         <Definition xml:lang="en">Formats that require an intermittent or continuous return
+            path</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="2.7.2.1">
+            <Name xml:lang="en">Single impulse vote</Name>
+            <Definition xml:lang="en">aka "clap-o-meter" - mass aggregation of single hit "press red
+               now if you think this" type votes</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.2.2">
+            <Name xml:lang="en">Impulse vote from choices</Name>
+            <Definition xml:lang="en">Vote from range of items - favourite act, band
+               etc</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.2.3">
+            <Name xml:lang="en">Impulse Yes/No vote</Name>
+            <Keyword xml:lang="en">Impulse Yes</Keyword>
+            <Keyword xml:lang="en">No vote</Keyword>
+            <Definition xml:lang="en">Impulse vote from two choices yes/no</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.2.4">
+            <Name xml:lang="en">Impulse vote with a value</Name>
+            <Definition xml:lang="en">Vote for something to happen with a value attached - e.g. how
+               many tins of baked beans should he eat</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.2.5">
+            <Name xml:lang="en">Submit answers/form</Name>
+            <Keyword xml:lang="en">Submit answers</Keyword>
+            <Keyword xml:lang="en">form</Keyword>
+            <Definition xml:lang="en">Press now to send off answers or details - quiz or
+               competition</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.2.6">
+            <Name xml:lang="en">SMS using mobile</Name>
+            <Definition xml:lang="en">Sending text from mobile into iTV or web
+               platforms</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.2.7">
+            <Name xml:lang="en">SMS using TV remote</Name>
+            <Definition xml:lang="en">Entry of messages using TV number/letter keys</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.2.8">
+            <Name xml:lang="en">Impulse gambling</Name>
+            <Definition xml:lang="en">Using intermittent persistently protected connection to place
+               real or fantasy bets</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.2.9">
+            <Name xml:lang="en">Impulse transaction</Name>
+            <Definition xml:lang="en">Using intermittent persistently protected connection to buy
+               product - T or ECommerce</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.2.10">
+            <Name xml:lang="en">Multi player TS networked services/games</Name>
+            <Keyword xml:lang="en">Multi player TS networked services</Keyword>
+            <Keyword xml:lang="en">games</Keyword>
+            <Definition xml:lang="en">Multi point networking in either time-shifted
+               mode</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.2.11">
+            <Name xml:lang="en">Interactive advertisement</Name>
+            <Definition xml:lang="en">Local interaction, request for more info, details even link to
+               impulse transaction etc</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+      </Term>
+      <Term termID="2.7.3">
+         <Name xml:lang="en">ALWAYS ON CONNECTION</Name>
+         <Definition xml:lang="en">Formats that ideally require a continuous connection to be
+            delivered</Definition>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="2.7.3.1">
+            <Name xml:lang="en">Chat Forum</Name>
+            <Definition xml:lang="en">Using built in platform functionality</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.3.2">
+            <Name xml:lang="en">Chat Forum via web</Name>
+            <Definition xml:lang="en">STB with other infrastructure layer e.g. web chat engine in
+               web browser on top of proprietary api</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.3.3">
+            <Name xml:lang="en">Threaded mail discussions</Name>
+            <Definition xml:lang="en">Listed as discussion threads such as usenet type</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.3.4">
+            <Name xml:lang="en">Point to point</Name>
+            <Definition xml:lang="en">Show enables/includes one to one mailing</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.3.5">
+            <Name xml:lang="en">3rd party point to point</Name>
+            <Definition xml:lang="en">Using 3rd party peer to peer (one to one) chat facility
+               layered over the show</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.3.6">
+            <Name xml:lang="en">Voice chat using mic capability</Name>
+            <Definition xml:lang="en">Speech to text engine enabling chat/mailing using IP for
+               example</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.3.7">
+            <Name xml:lang="en">Dual player networked services/games</Name>
+            <Keyword xml:lang="en">Dual player networked services</Keyword>
+            <Keyword xml:lang="en">games</Keyword>
+            <Definition xml:lang="en">One to one, peer networking</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.3.8">
+            <Name xml:lang="en">Multi player RT networked services/games</Name>
+            <Keyword xml:lang="en">Multi player RT networked services</Keyword>
+            <Keyword xml:lang="en">games</Keyword>
+            <Definition xml:lang="en">Multi point networking in real time</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.3.9">
+            <Name xml:lang="en">Gambling services</Name>
+            <Definition xml:lang="en">Using continuous persistently protected
+               connection</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.3.10">
+            <Name xml:lang="en">Impulse transaction</Name>
+            <Definition xml:lang="en">Using intermittent persistently protected connection to buy
+               product - T or ECommerce</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.7.3.11">
+            <Name xml:lang="en">Non-linear audio-video</Name>
+            <Definition xml:lang="en">Services where the interaction is based mostly around choosing
+               alternate audio or video files - VOD and AOD, maybe combined with 2.1.1.15 (multi
+               stream)</Definition>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+      </Term>
+   </Term>
+
+
+   <Term termID="2.8">
+      <Name xml:lang="en">Unknown</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="2.9">
+      <Name xml:lang="en">Other</Name>
+      <Definition xml:lang="en"/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+</ClassificationScheme>

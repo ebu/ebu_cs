@@ -1,0 +1,3370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:ISO4217CurrencyCodeCS" versionDate="2013-01-07">
+
+   <!-- ##################################################################### 
+       ISO 4217 - CURRENCY  CODE                                                              
+       Definition: 
+       ##################################################################### -->
+
+   <!-- This reference data has been developed by EBU as an effort to propose an encoded representation of the corresponding ISO reference data.  
+      The conditions of use of these codes are ruled by the ISO (http://www.iso.org)-->
+
+
+   <Alias>EBUIso4217CurrencyCode</Alias>
+
+   <Link xml:lang="en">
+      <URL>http://www.iso.org/iso/currency_codes.htm</URL>
+      <LinkName>iso</LinkName>
+   </Link>
+
+   <Term termID="AFN">
+      <Name xml:lang="en">Afghani</Name>
+      <Definition>AFGHANISTAN</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="ALL">
+      <Name xml:lang="en">Lek</Name>
+      <Definition>ALBANIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="DZD">
+      <Name xml:lang="en">Algerian Dinar</Name>
+      <Definition>ALGERIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="USD">
+      <Name xml:lang="en">US Dollar</Name>
+      <Definition>AMERICAN SAMOA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="EUR">
+      <Name xml:lang="en">Euro</Name>
+      <Definition>ANDORRA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="AOA">
+      <Name xml:lang="en">Kwanza</Name>
+      <Definition>ANGOLA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XCD">
+      <Name xml:lang="en">East Caribbean Dollar</Name>
+      <Definition>ANGUILLA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XCD">
+      <Name xml:lang="en">East Caribbean Dollar</Name>
+      <Definition>ANTIGUA AND BARBUDA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="ARS">
+      <Name xml:lang="en">Argentine Peso</Name>
+      <Definition>ARGENTINA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="AMD">
+      <Name xml:lang="en">Armenian Dram</Name>
+      <Definition>ARMENIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="AWG">
+      <Name xml:lang="en">Aruban Guilder</Name>
+      <Definition>ARUBA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="AUD">
+      <Name xml:lang="en">Australian Dollar</Name>
+      <Definition>AUSTRALIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="EUR">
+      <Name xml:lang="en">Euro</Name>
+      <Definition>AUSTRIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="AZN">
+      <Name xml:lang="en">Azerbaijanian Manat</Name>
+      <Definition>AZERBAIJAN</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="BSD">
+      <Name xml:lang="en">Bahamian Dollar</Name>
+      <Definition>BAHAMAS</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="BHD">
+      <Name xml:lang="en">Bahraini Dinar</Name>
+      <Definition>BAHRAIN</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="BDT">
+      <Name xml:lang="en">Taka</Name>
+      <Definition>BANGLADESH</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="BBD">
+      <Name xml:lang="en">Barbados Dollar</Name>
+      <Definition>BARBADOS</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="BYR">
+      <Name xml:lang="en">Belarussian Ruble</Name>
+      <Definition>BELARUS</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="EUR">
+      <Name xml:lang="en">Euro</Name>
+      <Definition>BELGIUM</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="BZD">
+      <Name xml:lang="en">Belize Dollar</Name>
+      <Definition>BELIZE</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XOF">
+      <Name xml:lang="en">CFA Franc BCEAO</Name>
+      <Definition>BENIN</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="BMD">
+      <Name xml:lang="en"> Bermudian Dollar (customarily known as Bermuda Dollar)</Name>
+      <Definition>BERMUDA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="BTN">
+      <Name xml:lang="en"> Ngultrum</Name>
+      <Definition>BHUTAN</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="INR">
+      <Name xml:lang="en"> Indian Rupee</Name>
+      <Definition>BHUTAN</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="BOB">
+      <Name xml:lang="en"> Boliviano</Name>
+      <Definition>BOLIVIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="BOV">
+      <Name xml:lang="en"> Mvdol</Name>
+      <Definition>BOLIVIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="BAM">
+      <Name xml:lang="en">Convertible Marks</Name>
+      <Definition>BOSNIA &amp; HERZEGOVINA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="BWP">
+      <Name xml:lang="en">Pula</Name>
+      <Definition>BOTSWANA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="NOK">
+      <Name xml:lang="en">Norwegian Krone</Name>
+      <Definition>BOUVET ISLAND</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="BRL">
+      <Name xml:lang="en">Brazilian Real</Name>
+      <Definition>BRAZIL</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="USD">
+      <Name xml:lang="en">US Dollar</Name>
+      <Definition>BRITISH INDIAN OCEAN TERRITORY</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="BND">
+      <Name xml:lang="en">Brunei Dollar</Name>
+      <Definition>BRUNEI DARUSSALAM</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="BGN">
+      <Name xml:lang="en">Bulgarian Lev</Name>
+      <Definition>BULGARIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XOF">
+      <Name xml:lang="en">CFA Franc BCEAO \ul\'86\ulnone </Name>
+      <Definition>BURKINA FASO</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="BIF">
+      <Name xml:lang="en">Burundi Franc</Name>
+      <Definition>BURUNDI</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="KHR">
+      <Name xml:lang="en">Riel</Name>
+      <Definition>CAMBODIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XAF">
+      <Name xml:lang="en">CFA Franc BEAC \ul\'87\ulnone </Name>
+      <Definition>CAMEROON</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="CAD">
+      <Name xml:lang="en">Canadian Dollar</Name>
+      <Definition>CANADA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="CVE">
+      <Name xml:lang="en">Cape Verde Escudo</Name>
+      <Definition>CAPE VERDE</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="KYD">
+      <Name xml:lang="en">Cayman Islands Dollar</Name>
+      <Definition>CAYMAN ISLANDS</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XAF">
+      <Name xml:lang="en">CFA Franc BEAC \ul\'87\ulnone </Name>
+      <Definition>CENTRAL AFRICAN REPUBLIC</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XAF">
+      <Name xml:lang="en"> CFA Franc BEAC\ul\f1\fs20\'87\ulnone </Name>
+      <Definition>CHAD</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="CLP">
+      <Name xml:lang="en"> Chilean Peso</Name>
+      <Definition>CHILE</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="CLF">
+      <Name xml:lang="en"> Unidades de formento</Name>
+      <Definition>CHILE</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="CNY">
+      <Name xml:lang="en">Yuan Renminbi</Name>
+      <Definition>CHINA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="AUD">
+      <Name xml:lang="en">Australian Dollar</Name>
+      <Definition>CHRISTMAS ISLAND</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="AUD">
+      <Name xml:lang="en"> Australian Dollar</Name>
+      <Definition>COCOS (KEELING) ISLANDS</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="COP">
+      <Name xml:lang="en"> Colombian Peso</Name>
+      <Definition>COLOMBIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="COU">
+      <Name xml:lang="en"> Unidad de Valor Real</Name>
+      <Definition>COLOMBIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="KMF">
+      <Name xml:lang="en">Comoro Franc</Name>
+      <Definition>COMOROS</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XAF">
+      <Name xml:lang="en">CFA Franc BEAC \ul\'87\ulnone </Name>
+      <Definition>CONGO</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="CDF">
+      <Name xml:lang="en">Franc Congolais</Name>
+      <Definition>CONGO, THE DEMOCRATIC REPUBLIC OF</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="NZD">
+      <Name xml:lang="en">New Zealand Dollar</Name>
+      <Definition>COOK ISLANDS</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="CRC">
+      <Name xml:lang="en">Costa Rican Colon</Name>
+      <Definition>COSTA RICA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XOF">
+      <Name xml:lang="en">CFA Franc BCEAO \ul\'86\ulnone </Name>
+      <Definition>C\'d4TE D'IVOIRE</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="HRK">
+      <Name xml:lang="en">Croatian Kuna</Name>
+      <Definition>CROATIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="CUP">
+      <Name xml:lang="en">Cuban Peso</Name>
+      <Definition>CUBA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="CYP">
+      <Name xml:lang="en">Cyprus Pound</Name>
+      <Definition>CYPRUS</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="CZK">
+      <Name xml:lang="en">Czech Koruna</Name>
+      <Definition>CZECH REPUBLIC</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="DKK">
+      <Name xml:lang="en">Danish Krone</Name>
+      <Definition>DENMARK</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="DJF">
+      <Name xml:lang="en">Djibouti Franc</Name>
+      <Definition>DJIBOUTI</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XCD">
+      <Name xml:lang="en">East Caribbean Dollar</Name>
+      <Definition>DOMINICA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="DOP">
+      <Name xml:lang="en">Dominican Peso</Name>
+      <Definition>DOMINICAN REPUBLIC</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="USD">
+      <Name xml:lang="en">US Dollar</Name>
+      <Definition>ECUADOR</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="EGP">
+      <Name xml:lang="en"> Egyptian Pound</Name>
+      <Definition>EGYPT</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="SVC">
+      <Name xml:lang="en"> El Salvador Colon</Name>
+      <Definition>EL SALVADOR</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XAF">
+      <Name xml:lang="en">CFA Franc BEAC \ul\'87\ulnone </Name>
+      <Definition>EQUATORIAL GUINEA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="ERN">
+      <Name xml:lang="en">Nakfa</Name>
+      <Definition>ERITREA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="EEK">
+      <Name xml:lang="en">Kroon</Name>
+      <Definition>ESTONIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="ETB">
+      <Name xml:lang="en">Ethiopian Birr</Name>
+      <Definition>ETHIOPIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="FKP">
+      <Name xml:lang="en">Falkland Islands Pound</Name>
+      <Definition>FALKLAND ISLANDS (MALVINAS)</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="DKK">
+      <Name xml:lang="en">Danish Krone</Name>
+      <Definition>FAROE ISLANDS</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="FJD">
+      <Name xml:lang="en">Fiji Dollar</Name>
+      <Definition>FIJI</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="EUR">
+      <Name xml:lang="en">Euro</Name>
+      <Definition>FINLAND</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="EUR">
+      <Name xml:lang="en">Euro</Name>
+      <Definition>FRANCE</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="EUR">
+      <Name xml:lang="en">Euro</Name>
+      <Definition>FRENCH GUIANA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XPF">
+      <Name xml:lang="en">CFP Franc</Name>
+      <Definition>FRENCH POLYNESIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="EUR">
+      <Name xml:lang="en">Euro</Name>
+      <Definition>FRENCH SOUTHERN TERRITORIES</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XAF">
+      <Name xml:lang="en">CFA Franc BEAC \ul\'87\ulnone </Name>
+      <Definition>GABON</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="GMD">
+      <Name xml:lang="en">Dalasi</Name>
+      <Definition>GAMBIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="GEL">
+      <Name xml:lang="en">Lari</Name>
+      <Definition>GEORGIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="EUR">
+      <Name xml:lang="en">Euro</Name>
+      <Definition>GERMANY</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="GHC">
+      <Name xml:lang="en">Cedi</Name>
+      <Definition>GHANA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="GIP">
+      <Name xml:lang="en">Gibraltar Pound</Name>
+      <Definition>GIBRALTAR</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="EUR">
+      <Name xml:lang="en">Euro</Name>
+      <Definition>GREECE</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="DKK">
+      <Name xml:lang="en">Danish Krone</Name>
+      <Definition>GREENLAND</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XCD">
+      <Name xml:lang="en">East Caribbean Dollar</Name>
+      <Definition>GRENADA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="EUR">
+      <Name xml:lang="en">Euro</Name>
+      <Definition>GUADELOUPE</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="USD">
+      <Name xml:lang="en">US Dollar</Name>
+      <Definition>GUAM</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="GTQ">
+      <Name xml:lang="en">Quetzal</Name>
+      <Definition>GUATEMALA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="GNF">
+      <Name xml:lang="en"> Guinea Franc</Name>
+      <Definition>GUINEA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="GWP">
+      <Name xml:lang="en"> Guinea-Bissau Peso</Name>
+      <Definition>GUINEA-BISSAU</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XOF">
+      <Name xml:lang="en"> CFA Franc BCEAO \ul\'86\ulnone</Name>
+      <Definition>GUINEA-BISSAU</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="GYD">
+      <Name xml:lang="en"> Guyana Dollar</Name>
+      <Definition>GUYANA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="HTG">
+      <Name xml:lang="en"> Gourde</Name>
+      <Definition>HAITI</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="AUD">
+      <Name xml:lang="en">Australian Dollar</Name>
+      <Definition>HEARD ISLAND AND McDONALD ISLANDS</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="EUR">
+      <Name xml:lang="en">Euro</Name>
+      <Definition>HOLY SEE (VATICAN CITY STATE)</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="HNL">
+      <Name xml:lang="en">Lempira</Name>
+      <Definition>HONDURAS</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="HKD">
+      <Name xml:lang="en">Hong Kong Dollar</Name>
+      <Definition>HONG KONG</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="HUF">
+      <Name xml:lang="en">Forint</Name>
+      <Definition>HUNGARY</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="ISK">
+      <Name xml:lang="en">Iceland Krona</Name>
+      <Definition>ICELAND</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="INR">
+      <Name xml:lang="en">Indian Rupee</Name>
+      <Definition>INDIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="IDR">
+      <Name xml:lang="en">Rupiah</Name>
+      <Definition>INDONESIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XDR">
+      <Name xml:lang="en">SDR</Name>
+      <Definition>INTERNATIONAL MONETARY FUND (I.M.F) </Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="IRR">
+      <Name xml:lang="en">Iranian Rial</Name>
+      <Definition>IRAN (ISLAMIC REPUBLIC OF)</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="IQD">
+      <Name xml:lang="en">Iraqi Dinar</Name>
+      <Definition>IRAQ</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="EUR">
+      <Name xml:lang="en">Euro</Name>
+      <Definition>IRELAND</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="ILS">
+      <Name xml:lang="en">New Israeli Sheqel</Name>
+      <Definition>ISRAEL</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="EUR">
+      <Name xml:lang="en">Euro</Name>
+      <Definition>ITALY</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="JMD">
+      <Name xml:lang="en">Jamaican Dollar</Name>
+      <Definition>JAMAICA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="JPY">
+      <Name xml:lang="en">Yen</Name>
+      <Definition>JAPAN</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="JOD">
+      <Name xml:lang="en">Jordanian Dinar</Name>
+      <Definition>JORDAN</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="KZT">
+      <Name xml:lang="en">Tenge</Name>
+      <Definition>KAZAKHSTAN</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="KES">
+      <Name xml:lang="en">Kenyan Shilling</Name>
+      <Definition>KENYA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="AUD">
+      <Name xml:lang="en">Australian Dollar</Name>
+      <Definition>KIRIBATI</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="KPW">
+      <Name xml:lang="en">North Korean Won</Name>
+      <Definition>KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="KRW">
+      <Name xml:lang="en">Won</Name>
+      <Definition>KOREA, REPUBLIC OF</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="KWD">
+      <Name xml:lang="en">Kuwaiti Dinar</Name>
+      <Definition>KUWAIT</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="KGS">
+      <Name xml:lang="en">Som</Name>
+      <Definition>KYRGYZSTAN</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="LAK">
+      <Name xml:lang="en">Kip</Name>
+      <Definition>LAO PEOPLE'S DEMOCRATIC REPUBLIC</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="LVL">
+      <Name xml:lang="en">Latvian Lats</Name>
+      <Definition>LATVIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="LBP">
+      <Name xml:lang="en"> Lebanese Pound</Name>
+      <Definition>LEBANON</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="ZAR LSL">
+      <Name xml:lang="en"> Rand Loti</Name>
+      <Definition>LESOTHO</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="LRD">
+      <Name xml:lang="en">Liberian Dollar</Name>
+      <Definition>LIBERIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="LYD">
+      <Name xml:lang="en">Libyan Dinar</Name>
+      <Definition>LIBYAN ARAB JAMAHIRIYA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="CHF">
+      <Name xml:lang="en">Swiss Franc</Name>
+      <Definition>LIECHTENSTEIN</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="LTL">
+      <Name xml:lang="en">Lithuanian Litas</Name>
+      <Definition>LITHUANIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="EUR">
+      <Name xml:lang="en">Euro</Name>
+      <Definition>LUXEMBOURG</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="MOP">
+      <Name xml:lang="en">Pataca</Name>
+      <Definition>MACAO</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="MKD">
+      <Name xml:lang="en">Denar</Name>
+      <Definition>MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="MGA">
+      <Name xml:lang="en">Malagascy Ariary</Name>
+      <Definition>MADAGASCAR</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="MWK">
+      <Name xml:lang="en">Kwacha</Name>
+      <Definition>MALAWI</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="MYR">
+      <Name xml:lang="en">Malaysian Ringgit</Name>
+      <Definition>MALAYSIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="MVR">
+      <Name xml:lang="en">Rufiyaa</Name>
+      <Definition>MALDIVES</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XOF">
+      <Name xml:lang="en">CFA Franc BCEAO \ul\'86\ulnone </Name>
+      <Definition>MALI</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="MTL">
+      <Name xml:lang="en">Maltese Lira</Name>
+      <Definition>MALTA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="USD">
+      <Name xml:lang="en">US Dollar</Name>
+      <Definition>MARSHALL ISLANDS</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="EUR">
+      <Name xml:lang="en">Euro</Name>
+      <Definition>MARTINIQUE</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="MRO">
+      <Name xml:lang="en">Ouguiya</Name>
+      <Definition>MAURITANIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="MUR">
+      <Name xml:lang="en">Mauritius Rupee</Name>
+      <Definition>MAURITIUS</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="EUR">
+      <Name xml:lang="en">Euro</Name>
+      <Definition>MAYOTTE</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="MXN">
+      <Name xml:lang="en"> Mexican Peso</Name>
+      <Definition>MEXICO </Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="MXV">
+      <Name xml:lang="en"> Mexican Unidad de Inversion (UID)</Name>
+      <Definition>MEXICO </Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="USD">
+      <Name xml:lang="en">US Dollar</Name>
+      <Definition>MICRONESIA (FEDERATED STATES OF)</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="MDL">
+      <Name xml:lang="en">Moldovan Leu</Name>
+      <Definition>MOLDOVA, REPUBLIC OF</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="EUR">
+      <Name xml:lang="en">Euro</Name>
+      <Definition>MONACO</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="MNT">
+      <Name xml:lang="en">Tugrik</Name>
+      <Definition>MONGOLIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="EUR">
+      <Name xml:lang="en">Euro</Name>
+      <Definition>MONTENEGRO</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XCD">
+      <Name xml:lang="en">East Caribbean Dollar</Name>
+      <Definition>MONTSERRAT</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="MAD">
+      <Name xml:lang="en">Moroccan Dirham</Name>
+      <Definition>MOROCCO</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="MZN">
+      <Name xml:lang="en">Metical </Name>
+      <Definition>MOZAMBIQUE</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="MMK">
+      <Name xml:lang="en"> Kyat</Name>
+      <Definition>MYANMAR</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="ZAR">
+      <Name xml:lang="en"> Rand</Name>
+      <Definition>NAMIBIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="NAD">
+      <Name xml:lang="en"> Namibian Dollar</Name>
+      <Definition>NAMIBIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="AUD">
+      <Name xml:lang="en">Australian Dollar</Name>
+      <Definition>NAURU</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="NPR">
+      <Name xml:lang="en">Nepalese Rupee</Name>
+      <Definition>NEPAL</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="EUR">
+      <Name xml:lang="en">Euro</Name>
+      <Definition>NETHERLANDS</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="ANG">
+      <Name xml:lang="en">Netherlands Antillian Guilder</Name>
+      <Definition>NETHERLANDS ANTILLES</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XPF">
+      <Name xml:lang="en">CFP Franc</Name>
+      <Definition>NEW CALEDONIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="NZD">
+      <Name xml:lang="en">New Zealand Dollar</Name>
+      <Definition>NEW ZEALAND</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="NIO">
+      <Name xml:lang="en">Cordoba Oro</Name>
+      <Definition>NICARAGUA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XOF">
+      <Name xml:lang="en">CFA Franc BCEAO \ul\'86\ulnone </Name>
+      <Definition>NIGER</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="NGN">
+      <Name xml:lang="en">Naira</Name>
+      <Definition>NIGERIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="NZD">
+      <Name xml:lang="en">New Zealand Dollar</Name>
+      <Definition>NIUE</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="AUD">
+      <Name xml:lang="en">Australian Dollar</Name>
+      <Definition>NORFOLK ISLAND</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="USD">
+      <Name xml:lang="en">US Dollar</Name>
+      <Definition>NORTHERN MARIANA ISLANDS</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="NOK">
+      <Name xml:lang="en">Norwegian Krone</Name>
+      <Definition>NORWAY</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="OMR">
+      <Name xml:lang="en">Rial Omani</Name>
+      <Definition>OMAN</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="PKR">
+      <Name xml:lang="en">Pakistan Rupee</Name>
+      <Definition>PAKISTAN</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="USD">
+      <Name xml:lang="en"> US Dollar</Name>
+      <Definition>PALAU</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="PAB USD">
+      <Name xml:lang="en"> Balboa US Dollar</Name>
+      <Definition>PANAMA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="PGK">
+      <Name xml:lang="en">Kina</Name>
+      <Definition>PAPUA NEW GUINEA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="PYG">
+      <Name xml:lang="en">Guarani</Name>
+      <Definition>PARAGUAY</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="PEN">
+      <Name xml:lang="en">Nuevo Sol</Name>
+      <Definition>PERU</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="PHP">
+      <Name xml:lang="en">Philippine Peso</Name>
+      <Definition>PHILIPPINES</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="NZD">
+      <Name xml:lang="en">New Zealand Dollar</Name>
+      <Definition>PITCAIRN</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="PLN">
+      <Name xml:lang="en">Zloty</Name>
+      <Definition>POLAND</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="EUR">
+      <Name xml:lang="en">Euro</Name>
+      <Definition>PORTUGAL</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="USD">
+      <Name xml:lang="en">US Dollar</Name>
+      <Definition>PUERTO RICO</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="QAR">
+      <Name xml:lang="en">Qatari Rial</Name>
+      <Definition>QATAR</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="EUR">
+      <Name xml:lang="en">Euro</Name>
+      <Definition>R\'c9UNION</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID=" ROL">
+      <Name xml:lang="en"> Old Leu</Name>
+      <Definition>ROMANIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID=" RON">
+      <Name xml:lang="en"> New Leu</Name>
+      <Definition>ROMANIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="RUB">
+      <Name xml:lang="en">Russian Ruble</Name>
+      <Definition>RUSSIAN FEDERATION</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="RWF">
+      <Name xml:lang="en">Rwanda Franc</Name>
+      <Definition>RWANDA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="SHP">
+      <Name xml:lang="en">Saint Helena Pound</Name>
+      <Definition>SAINT HELENA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XCD">
+      <Name xml:lang="en">East Caribbean Dollar</Name>
+      <Definition>SAINT KITTS AND NEVIS</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XCD">
+      <Name xml:lang="en">East Caribbean Dollar</Name>
+      <Definition>SAINT LUCIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="EUR">
+      <Name xml:lang="en">Euro</Name>
+      <Definition>SAINT PIERRE AND MIQUELON</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XCD">
+      <Name xml:lang="en">East Caribbean Dollar</Name>
+      <Definition>SAINT VINCENT AND THE GRENADINES</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="WST">
+      <Name xml:lang="en">Tala</Name>
+      <Definition>SAMOA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="EUR">
+      <Name xml:lang="en">Euro</Name>
+      <Definition>SAN MARINO</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="STD">
+      <Name xml:lang="en">Dobra</Name>
+      <Definition>S\'c3O TOME AND PRINCIPE</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="SAR">
+      <Name xml:lang="en">Saudi Riyal</Name>
+      <Definition>SAUDI ARABIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XOF">
+      <Name xml:lang="en">CFA Franc BCEAO \ul\'86\ulnone </Name>
+      <Definition>SENEGAL</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="RSD">
+      <Name xml:lang="en">Serbian Dinar</Name>
+      <Definition>SERBIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="SCR">
+      <Name xml:lang="en">Seychelles Rupee</Name>
+      <Definition>SEYCHELLES</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="SLL">
+      <Name xml:lang="en">Leone</Name>
+      <Definition>SIERRA LEONE</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="SGD">
+      <Name xml:lang="en">Singapore Dollar</Name>
+      <Definition>SINGAPORE</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="SKK">
+      <Name xml:lang="en">Slovak Koruna</Name>
+      <Definition>SLOVAKIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="SIT">
+      <Name xml:lang="en">Tolar</Name>
+      <Definition>SLOVENIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="SBD">
+      <Name xml:lang="en">Solomon Islands Dollar</Name>
+      <Definition>SOLOMON ISLANDS</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="SOS">
+      <Name xml:lang="en">Somali Shilling</Name>
+      <Definition>SOMALIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="ZAR">
+      <Name xml:lang="en">Rand</Name>
+      <Definition>SOUTH AFRICA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="EUR">
+      <Name xml:lang="en">Euro</Name>
+      <Definition>SPAIN</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="LKR">
+      <Name xml:lang="en">Sri Lanka Rupee</Name>
+      <Definition>SRI LANKA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="SDG">
+      <Name xml:lang="en">Sudanese Dinar</Name>
+      <Definition>SUDAN</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="SRD">
+      <Name xml:lang="en">Surinam Dollar</Name>
+      <Definition>SURINAME</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="NOK">
+      <Name xml:lang="en">Norwegian Krone</Name>
+      <Definition>SVALBARD AND JAN MAYEN</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="SZL">
+      <Name xml:lang="en">Lilangeni</Name>
+      <Definition>SWAZILAND</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="SEK">
+      <Name xml:lang="en"> Swedish Krona</Name>
+      <Definition>SWEDEN</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="CHF">
+      <Name xml:lang="en"> Swiss Franc</Name>
+      <Definition>SWITZERLAND</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="SYP">
+      <Name xml:lang="en">Syrian Pound</Name>
+      <Definition>SYRIAN ARAB REPUBLIC</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="TWD">
+      <Name xml:lang="en">New Taiwan Dollar</Name>
+      <Definition>TAIWAN, PROVINCE OF CHINA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="TJS">
+      <Name xml:lang="en">Somoni</Name>
+      <Definition>TAJIKISTAN</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="TZS">
+      <Name xml:lang="en">Tanzanian Shilling</Name>
+      <Definition>TANZANIA, UNITED REPUBLIC OF</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="THB">
+      <Name xml:lang="en">Baht</Name>
+      <Definition>THAILAND</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="USD">
+      <Name xml:lang="en">US Dollar</Name>
+      <Definition>TIMOR-LESTE</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XOF">
+      <Name xml:lang="en">CFA Franc BCEAO \ul\'86\ulnone </Name>
+      <Definition>TOGO</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="NZD">
+      <Name xml:lang="en">New Zealand Dollar</Name>
+      <Definition>TOKELAU</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="TOP">
+      <Name xml:lang="en">Pa'anga</Name>
+      <Definition>TONGA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="TTD">
+      <Name xml:lang="en">Trinidad and Tobago Dollar</Name>
+      <Definition>TRINIDAD AND TOBAGO</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="TND">
+      <Name xml:lang="en">Tunisian Dinar</Name>
+      <Definition>TUNISIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="TRY">
+      <Name xml:lang="en">New Turkish Lira</Name>
+      <Definition>TURKEY</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="TMM">
+      <Name xml:lang="en">Manat</Name>
+      <Definition>TURKMENISTAN</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="USD">
+      <Name xml:lang="en">US Dollar</Name>
+      <Definition>TURKS AND CAICOS ISLANDS</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="AUD">
+      <Name xml:lang="en">Australian Dollar</Name>
+      <Definition>TUVALU</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="UGX">
+      <Name xml:lang="en">Uganda Shilling</Name>
+      <Definition>UGANDA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="UAH">
+      <Name xml:lang="en">Hryvnia</Name>
+      <Definition>UKRAINE</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="AED">
+      <Name xml:lang="en">UAE Dirham</Name>
+      <Definition>UNITED ARAB EMIRATES</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="GBP">
+      <Name xml:lang="en"> Pound Sterling</Name>
+      <Definition>UNITED KINGDOM</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="USD">
+      <Name xml:lang="en"> US Dollar</Name>
+      <Definition>UNITED STATES</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="USD">
+      <Name xml:lang="en"> US Dollar</Name>
+      <Definition>UNITED STATES MINOR OUTLYING ISLANDS</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID=" UYU">
+      <Name xml:lang="en"> Peso Uruguayo</Name>
+      <Definition>URUGUAY</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID=" UYI">
+      <Name xml:lang="en"> Uruguay Peso en Unidades Indexadas </Name>
+      <Definition>URUGUAY</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="UZS">
+      <Name xml:lang="en">Uzbekistan Sum</Name>
+      <Definition>UZBEKISTAN</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="VUV">
+      <Name xml:lang="en">Vatu</Name>
+      <Definition>VANUATU</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="VEB">
+      <Name xml:lang="en">Bolivar</Name>
+      <Definition>VENEZUELA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="VND">
+      <Name xml:lang="en">Dong</Name>
+      <Definition>VIET NAM</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="USD">
+      <Name xml:lang="en">US Dollar</Name>
+      <Definition>VIRGIN ISLANDS (BRITISH)</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="USD">
+      <Name xml:lang="en">US Dollar</Name>
+      <Definition>VIRGIN ISLANDS (US)</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XPF">
+      <Name xml:lang="en">CFP Franc</Name>
+      <Definition>WALLIS AND FUTUNA </Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="MAD">
+      <Name xml:lang="en">Moroccan Dirham</Name>
+      <Definition>WESTERN SAHARA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="YER">
+      <Name xml:lang="en">Yemeni Rial</Name>
+      <Definition>YEMEN</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="ZMK">
+      <Name xml:lang="en">Kwacha</Name>
+      <Definition>ZAMBIA</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="ZWD">
+      <Name xml:lang="en">Zimbabwe Dollar</Name>
+      <Definition>ZIMBABWE</Definition>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XAU">
+      <Name xml:lang="en">Gold</Name>
+      <Definition/>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XBA">
+      <Name xml:lang="en">Bond Markets Units European Composite Unit (EURCO)</Name>
+      <Definition/>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XBB">
+      <Name xml:lang="en">European Monetary Unit (E.M.U.-6) </Name>
+      <Definition/>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XBC">
+      <Name xml:lang="en">European Unit of Account 9(E.U.A.-9)</Name>
+      <Definition/>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XBD">
+      <Name xml:lang="en">European Unit of Account 17(E.U.A.-17)</Name>
+      <Definition/>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XPD">
+      <Name xml:lang="en">Palladium</Name>
+      <Definition/>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XPT">
+      <Name xml:lang="en">Platinum</Name>
+      <Definition/>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XAG">
+      <Name xml:lang="en">Silver</Name>
+      <Definition/>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XFU">
+      <Name xml:lang="en">UIC-Franc</Name>
+      <Definition/>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XFO">
+      <Name xml:lang="en">Gold-Franc</Name>
+      <Definition/>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+   <Term termID="XXX">
+      <Name xml:lang="en">The codes assigned for transactions where no currency is involved </Name>
+      <Definition/>
+      <Reference>ISO4217</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from ISO</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+
+</ClassificationScheme>

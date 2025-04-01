@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:CommercialityTypeCS" versionDate="2019-03-18">
+   <!-- ##################################################################### 
+    COMMERCIALITY TYPE CS
+    Defines the type of commerciality for a certain use.
+    
+    The following Creative Commons Rights apply to the use of 
+    this EBU resource:   http://creativecommons.org/licenses/by-nc-sa/3.0/   
+      
+    Owner: EBU Technical Department   
+    Contact: metadata@ebu.ch      
+    ##################################################################### -->
+
+   <Alias>DwerftCommercialityType</Alias>
+
+   <Term termID="1">
+      <Name xml:lang="en">commercial</Name>
+      <Name xml:lang="de">kommerziell</Name>
+      <Definition xml:lang="en">Commercial use is any use with the intention of making a
+         profit.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="2">
+      <Name xml:lang="en">non-commercial</Name>
+      <Name xml:lang="de">nichtkommerziell</Name>
+      <Definition xml:lang="en">Non-commercial use is any use without the intention of making a
+         profit.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+</ClassificationScheme>

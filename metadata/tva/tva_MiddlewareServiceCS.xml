@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri=" urn:tva:metadata-cs:MiddlewareServiceCS_2005">
+	<Term termID="ACAP">
+		<Name xml:lang="en">ACAP</Name>
+	</Term>
+	<Term termID="MHP">
+		<Name xml:lang="en">MHP</Name>
+	</Term>
+	<Term termID="OCAP">
+		<Name xml:lang="en">OCAP</Name>
+	</Term>
+	<Term termID="ARIB">
+		<Name xml:lang="en">ARIB</Name>
+	</Term>
+</ClassificationScheme>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:AudioChannelPurposeCodeCS" versionDate="2013-01-07">
+
+   <!-- ##################################################################### 
+    AUDIO CHANNEL PURPOSE CODE CS	                                                                             
+    Definition: This is a list of possible use of audio channels. 
+
+   The following Creative Commons Rights apply to the use of this EBU resource:
+   http://creativecommons.org/licenses/by-sa/3.0/
+   
+   Owner: EBU Technical Department
+   Author: Jean-Pierre Evain
+   Contact: metadata@ebu.ch
+   
+   ##################################################################### 
+-->
+
+   <Alias>EBUAudioChannelPurposeCode</Alias>
+
+
+   <Term termID="1">
+      <Name xml:lang="en">Complete Main [CM]</Name>
+      <Definition xml:lang="en">This is the main audio channel</Definition>
+      <Reference/>
+      <ChangeComment>Built from EBU Tech 3285 - Broadcast Wave Format</ChangeComment>
+      <ChangeVersionDate>2009-10-14</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term termID="1.1">
+         <Name xml:lang="en">Original language</Name>
+         <Definition xml:lang="en">To provide the audio in the language in which is was
+            created</Definition>
+         <Reference/>
+         <ChangeComment/>
+         <ChangeVersionDate>2009-10-14</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="1.2">
+         <Name xml:lang="en">Dubbing</Name>
+         <Definition xml:lang="en">To provide a synchronised translation in alternative
+            languages</Definition>
+         <Reference/>
+         <ChangeComment/>
+         <ChangeVersionDate>2009-10-14</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+   <Term termID="2">
+      <Name xml:lang="en">Music and Effects [ME]</Name>
+      <Definition xml:lang="en">This audio channel reserved for music, including background music,
+         and effects (without dialogs)</Definition>
+      <Reference/>
+      <ChangeComment>Built from EBU Tech 3285 - Broadcast Wave Format</ChangeComment>
+      <ChangeVersionDate>2009-10-14</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term termID="2.1">
+         <Name xml:lang="en">Background Music</Name>
+         <Definition xml:lang="en">This audio channel is used for carrying Music to be played in the
+            background from a separate channel</Definition>
+         <Reference/>
+         <ChangeComment>Update</ChangeComment>
+         <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="2.2">
+         <Name xml:lang="en">Special Effects</Name>
+         <Definition xml:lang="en">This audio channel is used for carrying special sound
+            effects</Definition>
+         <Reference/>
+         <ChangeComment>Update</ChangeComment>
+         <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Term termID="2.2.1">
+            <Name xml:lang="en">Low Frequency Effects</Name>
+            <Definition xml:lang="en">This audio channel is used for carrying special low frequency
+               sound effects</Definition>
+            <Reference/>
+            <ChangeComment>Update</ChangeComment>
+            <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+      </Term>
+   </Term>
+
+   <Term termID="3">
+      <Name xml:lang="en">Visually Impaired [VI]</Name>
+      <Definition xml:lang="en">This audio channel contains additional descriptive information to
+         the attention of a visually impaired audience</Definition>
+      <Reference/>
+      <ChangeComment>Built from EBU Tech 3285 - Broadcast Wave Format</ChangeComment>
+      <ChangeVersionDate>2009-10-14</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term termID="3.1">
+         <Name xml:lang="en">Audio Description</Name>
+         <Definition xml:lang="en">This audio channel contains additional descriptive information to
+            the attention of a visually impaired audience</Definition>
+         <Reference/>
+         <ChangeComment>Alignment with EBU Captioning definition</ChangeComment>
+         <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+   <Term termID="4">
+      <Name xml:lang="en">Hearing Impaired [HI]</Name>
+      <Definition xml:lang="en">This audio channel provides louder or background noise free audio,
+         optionally with additional descriptive information, for a hearing impaired
+         audience</Definition>
+      <Reference/>
+      <ChangeComment>Built from EBU Tech 3285 - Broadcast Wave Format</ChangeComment>
+      <ChangeVersionDate>2009-10-14</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="5">
+      <Name xml:lang="en">Dialog [D]</Name>
+      <Definition xml:lang="en">This audio channel conveys only the dialogs</Definition>
+      <Reference/>
+      <ChangeComment>Built from EBU Tech 3285 - Broadcast Wave Format</ChangeComment>
+      <ChangeVersionDate>2009-10-14</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="6">
+      <Name xml:lang="en">Commentary [C]</Name>
+      <Definition xml:lang="en">This audio channel conveys an additional commentary
+         track</Definition>
+      <Reference/>
+      <ChangeComment>Built from EBU Tech 3285 - Broadcast Wave Format</ChangeComment>
+      <ChangeVersionDate>2009-10-14</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="7">
+      <Name xml:lang="en">Emergency [E]</Name>
+      <Definition xml:lang="en">This audio channel is reserved for emergency
+         announcements</Definition>
+      <Reference/>
+      <ChangeComment>Built from EBU Tech 3285 - Broadcast Wave Format</ChangeComment>
+      <ChangeVersionDate>2009-10-14</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="8">
+      <Name xml:lang="en">Voice Over [VO]</Name>
+      <Definition xml:lang="en">This audio channel conveys and additional optional voice over
+         track</Definition>
+      <Reference/>
+      <ChangeComment>Built from EBU Tech 3285 - Broadcast Wave Format</ChangeComment>
+      <ChangeVersionDate>2009-10-14</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="9">
+      <Name xml:lang="en">Karaoke</Name>
+      <Definition xml:lang="en">This audio channel is used for karaoke specific
+         applications</Definition>
+      <Reference/>
+      <ChangeComment>Built from EBU Tech 3285 - Broadcast Wave Format</ChangeComment>
+      <ChangeVersionDate>2009-10-14</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+</ClassificationScheme>

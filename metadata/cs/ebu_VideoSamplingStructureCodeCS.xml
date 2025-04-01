@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:VideoSamplingStructureCodeCS"
+   versionDate="2013-01-07">
+
+   <!-- ##################################################################### 
+        VIDEO SAMPLING STRUCTURE CODE                                         
+	     Definition:
+	     
+	     The following Creative Commons Rights apply to the use of this EBU resource:
+	     http://creativecommons.org/licenses/by-sa/3.0/
+	     
+	     Owner: EBU Technical Department
+	     Author: Jean-Pierre Evain
+	     Contact: metadata@ebu.ch
+	     
+	     ##################################################################### -->
+
+   <Alias>EBUVideoSamplingStructureCode</Alias>
+
+   <Term termID="1">
+      <Name xml:lang="en">Interlaced</Name>
+      <Definition xml:lang="en">This technique uses two fields to create a frame. One field contains
+         all the odd lines in the image, the other contains all the even lines of the image.
+         Interlaced video is a technique of doubling the perceived frame rate.</Definition>
+      <Reference>ITU-R BT.601</Reference>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="2">
+      <Name xml:lang="en">Progressive</Name>
+      <Definition xml:lang="en">Progressive scanning (alternatively referred to as noninterlaced
+         scanning) is a way of displaying, storing, or transmitting moving images in which all the
+         lines of each frame are drawn in sequence.</Definition>
+      <Reference>ITU-R BT.601</Reference>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+</ClassificationScheme>

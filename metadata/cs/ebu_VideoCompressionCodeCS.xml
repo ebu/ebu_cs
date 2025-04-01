@@ -1,0 +1,3964 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:VideoCompressionCodeCS" versionDate="2019-06-24">
+
+   <!-- #####################################################################
+ VIDEO COMPRESSION CODE 
+ Definition: A combined list of video codecs inc. EBU, DVB and MPEG.
+ 
+ The following Creative Commons Rights apply to the use of this EBU resource:
+ http://creativecommons.org/licenses/by-sa/3.0/
+ 
+ Owner: EBU Technical Department
+ Author: Jean-Pierre Evain
+ Contact: metadata@ebu.ch
+ 
+ ##################################################################### -->
+
+
+   <Alias>EBUVideoCompressionCode</Alias>
+
+
+   <Term termID="1">
+      <Name xml:lang="en">MPEG-1 Video</Name>
+      <Definition xml:lang="en">MPEG-1 Video Coding Format. This part of ISO/IEC 11172 specifies a
+         coded representation that can be used for compressing video sequences - both 625-line and
+         525-lines -to bitrates around 1,5 Mbit/s. It was developed to operate principally from
+         storage media offering a continuous transfer rate of about 1,5 Mbit/s. Nevertheless it can
+         be used more widely than this because the approach taken is generic</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="2">
+      <Name xml:lang="en">MPEG-2 Video</Name>
+      <Definition xml:lang="en">MPEG-2 Video Coding Format. This Part of ISO/IEC 13818 was developed
+         in response to the growing need for a generic coding method of moving pictures and of
+         associated sound for various applications such as digital storage media, television
+         broadcasting and communication. The use of this specification means that motion video can
+         be manipulated as a form of computer data and can be stored on various storage media,
+         transmitted and received over existing and future networks and distributed on existing and
+         future broadcasting channels. MPEG-2 builds on the powerful video compression capabilities
+         of the MPEG-1 standard to offer a wide range of coding tools. These have been grouped in
+         profiles to offer different functionalities</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="2.1">
+      <Name xml:lang="en">MPEG-2 Video Simple Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="2.1.1">
+      <Name xml:lang="en">MPEG-2 Video Simple Profile @ Main Level</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="2.2">
+      <Name xml:lang="en">MPEG-2 Video Main Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="2.2.1">
+      <Name xml:lang="en">MPEG-2 Video Main Profile @ Low Level</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="2.2.2">
+      <Name xml:lang="en">MPEG-2 Video Main Profile @ Main Level</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="2.2.3">
+      <Name xml:lang="en">MPEG-2 Video Main Profile @ High 1440 Level</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="2.2.4">
+      <Name xml:lang="en">MPEG-2 Video Main Profile @ High Level </Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="2.3">
+      <Name xml:lang="en">MPEG-2 Video SNR Scalable Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="2.3.1">
+      <Name xml:lang="en">MPEG-2 SNR Scalable Profile @ Low Level</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="2.3.2">
+      <Name xml:lang="en">MPEG-2 Video SNR Scalable Profile @ Main Level</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="2.4">
+      <Name xml:lang="en">MPEG-2 Video Spatial Scalable Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="2.4.1">
+      <Name xml:lang="en">MPEG-2 Video Spatial Scalable Profile @ Main Level</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="2.4.2">
+      <Name xml:lang="en">MPEG-2 Video Spatial Scalable Profile @ High 1440 Level</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="2.4.3">
+      <Name xml:lang="en">MPEG-2 Video Spatial Scalable Profile @ High Level</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="2.5">
+      <Name xml:lang="en">MPEG-2 Video High Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="2.5.1">
+      <Name xml:lang="en">MPEG-2 Video High Profile @ Main Level</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="2.5.2">
+      <Name xml:lang="en">MPEG-2 Video High Profile @ High 1440 Level</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="2.5.3">
+      <Name xml:lang="en">MPEG-2 Video High Profile @ High Level</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="2.6">
+      <Name xml:lang="en">MPEG-2 Video Multiview Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="2.6.1">
+      <Name xml:lang="en">MPEG-2 Video Multiview Profile @ Main Level</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="2.7">
+      <Name xml:lang="en">MPEG-2 Video 4:2:2 Profile</Name>
+      <Definition xml:lang="en">A particular profile of ISO/IEC 13818-2 capable to deal with
+         pictures having a colour resolution of 4:2:2 and a higher bitrate</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="2.7.1">
+      <Name xml:lang="en">MPEG-2 Video 4:2:2 Profile @ Main Level</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3">
+      <Name xml:lang="en">MPEG-4 Visual</Name>
+      <Definition xml:lang="en">MPEG-4 Visual Coding Format</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.1">
+      <Name xml:lang="en">MPEG-4 Visual Simple Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.1.1">
+      <Name xml:lang="en">MPEG-4 Visual Simple Profile @ Level 0</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.1.2">
+      <Name xml:lang="en">MPEG-4 Visual Simple Profile @ Level 1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.1.3">
+      <Name xml:lang="en">MPEG-4 Visual Simple Profile @ Level 2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.1.4">
+      <Name xml:lang="en">MPEG-4 Visual Simple Profile @ Level 3</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.2">
+      <Name xml:lang="en">MPEG-4 Visual Simple Scalable Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.2.1">
+      <Name xml:lang="en">MPEG-4 Visual Simple Scalable Profile @ Level 1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.2.2">
+      <Name xml:lang="en">MPEG-4 Visual Simple Scalable Profile @ Level 2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.3">
+      <Name xml:lang="en">MPEG-4 Visual Advanced Simple Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.3.1">
+      <Name xml:lang="en">MPEG-4 Visual Advanced Simple Profile @ Level 0</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.3.2">
+      <Name xml:lang="en">MPEG-4 Visual Advanced Simple Profile @ Level 1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.3.3">
+      <Name xml:lang="en">MPEG-4 Visual Advanced Simple Profile @ Level 2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.3.4">
+      <Name xml:lang="en">MPEG-4 Visual Advanced Simple Profile @ Level 3</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.3.5">
+      <Name xml:lang="en">MPEG-4 Visual Advanced Simple Profile @ Level 4</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.3.6">
+      <Name xml:lang="en">MPEG-4 Visual Advanced Simple Profile @ Level 5</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="3.3.7">
+      <Name xml:lang="en">XVID</Name>
+      <Definition xml:lang="en">Xvid is a video codec library following the MPEG-4 video coding
+         standard, specifically MPEG-4 Part 2 Advanced Simple Profile (ASP). It uses ASP features
+         such as b-frames, global and quarter pixel motion compensation, lumi masking, trellis
+         quantization, and H.263, MPEG and custom quantization matrices.</Definition>
+      <Reference/>
+      <ChangeComment>Re-numbering from termID 30 to 3.3.7</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.4">
+      <Name xml:lang="en">MPEG-4 Visual Core Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.4.1">
+      <Name xml:lang="en">MPEG-4 Visual Core Profile@ Level 1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.4.2">
+      <Name xml:lang="en">MPEG-4 Visual Core Profile@ Level 2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.5">
+      <Name xml:lang="en">MPEG-4 Visual Core-Scalable Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.5.1">
+      <Name xml:lang="en">MPEG-4 Visual Core-Scalable Profile @ Level 1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.5.2">
+      <Name xml:lang="en">MPEG-4 Visual Core-Scalable Profile @ Level 2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.5.3">
+      <Name xml:lang="en">MPEG-4 Visual Core-Scalable Profile @ Level 3</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.6">
+      <Name xml:lang="en">MPEG-4 Visual Advanced Core Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.6.1">
+      <Name xml:lang="en">MPEG-4 Visual Advanced Core Profile @ Level 1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.6.2">
+      <Name xml:lang="en">MPEG-4 Visual Advanced Core Profile @ Level 2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.7">
+      <Name xml:lang="en">MPEG-4 Visual Main Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.7.1">
+      <Name xml:lang="en">MPEG-4 Visual Main Profile @ Level 2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.7.2">
+      <Name xml:lang="en">MPEG-4 Visual Main Profile @Level 3</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.7.3">
+      <Name xml:lang="en">MPEG-4 Visual Main Profile @Level 4</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.8">
+      <Name xml:lang="en">MPEG-4 Visual N-bit Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.8.1">
+      <Name xml:lang="en">MPEG-4 Visual N-bit Profile @ Level 2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.9">
+      <Name xml:lang="en">MPEG-4 Visual Advanced Real Time Simple Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.9.1">
+      <Name xml:lang="en">MPEG-4 Visual Advanced Real Time Simple Profile @ Level 1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.9.2">
+      <Name xml:lang="en">MPEG-4 Visual Advanced Real Time Simple Profile @ Level 2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.9.3">
+      <Name xml:lang="en">MPEG-4 Visual Advanced Real Time Simple Profile @ Level 3</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.9.4">
+      <Name xml:lang="en">MPEG-4 Visual Advanced Real Time Simple Profile @ Level 4</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.10">
+      <Name xml:lang="en">MPEG-4 Visual Advanced Coding Efficiency Profile</Name>
+      <Definition xml:lang="en">MPEG-4 V2 Visual coding Format</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.10.1">
+      <Name xml:lang="en">MPEG-4 Visual Advanced Coding Efficiency Profile @ Level 1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.10.2">
+      <Name xml:lang="en">MPEG-4 Visual Advanced Coding Efficiency Profile @ Level 2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.10.3">
+      <Name xml:lang="en">MPEG-4 Visual Advanced Coding Efficiency Profile @ Level 3</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.10.4">
+      <Name xml:lang="en">MPEG-4 Visual Advanced Coding Efficiency Profile @ Level 4</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.11">
+      <Name xml:lang="en">MPEG-4 Visual Simple Studio Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.11.1">
+      <Name xml:lang="en">MPEG-4 Visual Simple Studio Profile @ Level 1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.11.2">
+      <Name xml:lang="en">MPEG-4 Visual Simple Studio Profile @ Level 2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.11.3">
+      <Name xml:lang="en">MPEG-4 Visual Simple Studio Profile @ Level 3</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.11.4">
+      <Name xml:lang="en">MPEG-4 Visual Simple Studio Profile @ Level 4</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.12">
+      <Name xml:lang="en">MPEG-4 Visual Core Studio Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.12.1">
+      <Name xml:lang="en">MPEG-4 Visual Core Studio Profile @ Level 1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.12.2">
+      <Name xml:lang="en">MPEG-4 Visual Core Studio Profile @ Level 2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.12.3">
+      <Name xml:lang="en">MPEG-4 Visual Core Studio Profile @ Level 3</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.12.4">
+      <Name xml:lang="en">MPEG-4 Visual Core Studio Profile @ Level 4</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.13">
+      <Name xml:lang="en">MPEG-4 Visual Fine Granularity Scalable Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.13.1">
+      <Name xml:lang="en">MPEG-4 Visual Fine Granularity Scalable Profile @ Level 0</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.13.2">
+      <Name xml:lang="en">MPEG-4 Visual Fine Granularity Scalable Profile @ Level 1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.13.3">
+      <Name xml:lang="en">MPEG-4 Visual Fine Granularity Scalable Profile @ Level 2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.13.4">
+      <Name xml:lang="en">MPEG-4 Visual Fine Granularity Scalable Profile @ Level 3</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.13.5">
+      <Name xml:lang="en">MPEG-4 Visual Fine Granularity Scalable Profile @ Level 4</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.13.6">
+      <Name xml:lang="en">MPEG-4 Visual Fine Granularity Scalable Profile @ Level 5</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.14">
+      <Name xml:lang="en">MPEG-4 Visual Simple Face Animation Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.14.1">
+      <Name xml:lang="en">MPEG-4 Visual Simple Face Animation Profile @ Level 1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.14.2">
+      <Name xml:lang="en">MPEG-4 Visual Simple Face Animation Profile @ Level 2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.15">
+      <Name xml:lang="en">MPEG-4 Visual Simple FBA Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.15.1">
+      <Name xml:lang="en">MPEG-4 Visual Simple FBA Profile @ Level 1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.15.2">
+      <Name xml:lang="en">MPEG-4 Visual Simple FBA Profile @ Level 2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.16">
+      <Name xml:lang="en">MPEG-4 Visual Basic Animated Texture Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.16.1">
+      <Name xml:lang="en">MPEG-4 Visual Basic Animated Texture Profile @ Level 1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.16.2">
+      <Name xml:lang="en">MPEG-4 Visual Basic Animated Texture Profile @Level 2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.17">
+      <Name xml:lang="en">MPEG-4 Visual Scalable Texture Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.17.1">
+      <Name xml:lang="en">MPEG-4 Visual Scalable Texture Profile @ Level 1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.18">
+      <Name xml:lang="en">MPEG-4 Visual Advanced Scalable Texture Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.18.1">
+      <Name xml:lang="en">MPEG-4 Visual Advanced Scalable Texture Profile @ Level 1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.18.2">
+      <Name xml:lang="en">MPEG-4 Visual Advanced Scalable Texture Profile @ Level 2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.18.3">
+      <Name xml:lang="en">MPEG-4 Visual Advanced Scalable Texture Profile @ Level 3</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.19">
+      <Name xml:lang="en">MPEG-4 Visual Hybrid Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.19.1">
+      <Name xml:lang="en">MPEG-4 Visual Hybrid Profile @ Level 1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="3.19.2">
+      <Name xml:lang="en">MPEG-4 Visual Hybrid Profile @ Level 2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="4">
+      <Name xml:lang="en">JPEG</Name>
+      <Definition xml:lang="en">Joint Pictures Expert Group. A standard for still image
+         compression.Specifies processes for converting source image data to compressed image data,
+         processes for converting compressed image data to reconstructed image data, coded
+         representations for compressed image data, and gives guidance on how to implement these
+         processes in practice. Is applicable to continuous-tone - grayscale or colour - digital
+         still image data and to a wide range of applications which require use of compressed
+         images. Is not applicable to bi-level image data</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="5">
+      <Name xml:lang="en">MJPEG</Name>
+      <Definition xml:lang="en">Motion JPEG video coding. The digital video compression techniques
+         which use JPEG coding applied to motion pictures. each video frame or interlaced field of a
+         digital video sequence is separately compressed as a JPEG image.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="6">
+      <Name xml:lang="en">JPEG2000</Name>
+      <Definition xml:lang="en">JPEG2000 Coding Format. The JPEG 2000 is intended to provide a new
+         image coding system using state of the art compression techniques, based on the use of
+         wavelet technology. Its architecture should lend itself to a wide range of uses from
+         portable digital cameras through to its use in advanced pre-press, medical imaging and
+         other key sectors</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="6.1">
+      <Name xml:lang="en">JPEG2000 jp2p Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="6.1.1">
+      <Name xml:lang="en">JPEG2000 jp2p Profile @ Level 0</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="6.1.2">
+      <Name xml:lang="en">JPEG2000 jp2p Profile @ Level 1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="6.1.3">
+      <Name xml:lang="en">JPEG2000 jp2p Profile @ Level 2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="6.2">
+      <Name xml:lang="en">MJPEG2000 mjp2 Profile</Name>
+      <Definition xml:lang="en">Motion JPEG 2000 Unrestricted Profile</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="6.3">
+      <Name xml:lang="en">MJPEG2000 mj2s Profile</Name>
+      <Definition xml:lang="en">Motion JPEG 2000 Simple Profile</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="7">
+      <Name xml:lang="en">H261</Name>
+      <Definition xml:lang="en">H261 Video Coding Format</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="8">
+      <Name xml:lang="en">H263</Name>
+      <Definition xml:lang="en">H263 Video Coding Format, The video encoding standard, published by
+         ITU, supporting video compression (coding) for video-conferencing and video-telephony
+         applications. Typical bit rates are around 30 kbit/s</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9">
+      <Name xml:lang="en">MPEG-4 H264/AVC</Name>
+      <Definition xml:lang="en">ISO/IEC 14496-10 Video Codec. Also known as H.264 or AVC, Advanced
+         Video Codec</Definition>
+      <Reference/>
+      <ChangeComment>Correct definition changing "Advanced Audio Codec" to "Advanced Video
+         Codec</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.1">
+      <Name xml:lang="en">MPEG-4 H264/AVC BaseLine Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.1.1">
+      <Name xml:lang="en">MPEG-4 H264/AVC BaseLine Profile @ Level 1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.1.2">
+      <Name xml:lang="en">MPEG-4 H264/AVC BaseLine Profile @ Level 1b</Name>
+      <Definition xml:lang="en">DVB AVC Capability A - ISO/IEC 14496-10 Video Codec. BaseLine
+         Profile Level 1b with constraint_set1_flag = 1</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.1.3">
+      <Name xml:lang="en">MPEG-4 H264/AVC BaseLine Profile @ Level 1.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.1.4">
+      <Name xml:lang="en">MPEG-4 H264/AVC BaseLine Profile @ Level 1.2</Name>
+      <Definition xml:lang="en">DVB AVC Capability B - ISO/IEC 14496-10 Video Codec. BaseLine
+         Profile Level 1.2 with constraint_set1_flag = 1</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.1.5">
+      <Name xml:lang="en">MPEG-4 H264/AVC BaseLine Profile @ Level 1.3</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.1.6">
+      <Name xml:lang="en">MPEG-4 H264/AVC BaseLine Profile @ Level 2</Name>
+      <Definition xml:lang="en">DVB AVC Capability C - ISO/IEC 14496-10 Video Codec. BaseLine
+         Profile Level 2 with constraint_set1_flag = 1</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.1.7">
+      <Name xml:lang="en">MPEG-4 H264/AVC BaseLine Profile @ Level 2.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.1.8">
+      <Name xml:lang="en">MPEG-4 H264/AVC BaseLine Profile @ Level 2.2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.1.9">
+      <Name xml:lang="en">MPEG-4 H264/AVC BaseLine Profile @ Level 3</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.1.10">
+      <Name xml:lang="en">MPEG-4 H264/AVC BaseLine Profile @ Level 3.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.1.11">
+      <Name xml:lang="en">MPEG-4 H264/AVC BaseLine Profile @ Level 3.2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.1.12">
+      <Name xml:lang="en">MPEG-4 H264/AVC BaseLine Profile @ Level 4</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.1.13">
+      <Name xml:lang="en">MPEG-4 H264/AVC BaseLine Profile @ Level 4.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.1.14">
+      <Name xml:lang="en">MPEG-4 H264/AVC BaseLine Profile @ Level 4.2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.1.15">
+      <Name xml:lang="en">MPEG-4 H264/AVC BaseLine Profile @ Level 5</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.1.16">
+      <Name xml:lang="en">MPEG-4 H264/AVC BaseLine Profile @ Level 5.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.2">
+      <Name xml:lang="en">MPEG-4 H264/AVC Main Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.2.1">
+      <Name xml:lang="en">MPEG-4 H264/AVC Main Profile @ Level 1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.2.2">
+      <Name xml:lang="en">MPEG-4 H264/AVC Main Profile @ Level 1b</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.2.3">
+      <Name xml:lang="en">MPEG-4 H264/AVC Main Profile @ Level 1.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.2.4">
+      <Name xml:lang="en">MPEG-4 H264/AVC Main Profile @ Level 1.2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.2.5">
+      <Name xml:lang="en">MPEG-4 H264/AVC Main Profile @ Level 1.3</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.2.6">
+      <Name xml:lang="en">MPEG-4 H264/AVC Main Profile @ Level 2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.2.7">
+      <Name xml:lang="en">MPEG-4 H264/AVC Main Profile @ Level 2.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.2.8">
+      <Name xml:lang="en">MPEG-4 H264/AVC Main Profile @ Level 2.2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.2.9">
+      <Name xml:lang="en">MPEG-4 H264/AVC Main Profile @ Level 3</Name>
+      <Definition xml:lang="en">DVB AVC Capability D - ISO/IEC 14496-10 Video Codec. Main Profile
+         Level 3</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.2.10">
+      <Name xml:lang="en">MPEG-4 H264/AVC Main Profile @ Level 3.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.2.11">
+      <Name xml:lang="en">MPEG-4 H264/AVC Main Profile @ Level 3.2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.2.12">
+      <Name xml:lang="en">MPEG-4 H264/AVC Main Profile @ Level 4</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.2.13">
+      <Name xml:lang="en">MPEG-4 H264/AVC Main Profile @ Level 4.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.2.14">
+      <Name xml:lang="en">MPEG-4 H264/AVC Main Profile @ Level 4.2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.2.15">
+      <Name xml:lang="en">MPEG-4 H264/AVC Main Profile @ Level 5</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.2.16">
+      <Name xml:lang="en">MPEG-4 H264/AVC Main Profile @ Level 5.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.3">
+      <Name xml:lang="en">MPEG-4 H264/AVC Extended Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.3.1">
+      <Name xml:lang="en">MPEG-4 H264/AVC Extended Profile @ Level 1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.3.2">
+      <Name xml:lang="en">MPEG-4 H264/AVC Extended Profile @ Level 1b</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.3.3">
+      <Name xml:lang="en">MPEG-4 H264/AVC Extended Profile @ Level 1.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.3.4">
+      <Name xml:lang="en">MPEG-4 H264/AVC Extended Profile @ Level 1.2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.3.5">
+      <Name xml:lang="en">MPEG-4 H264/AVC Extended Profile @ Level 1.3</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.3.6">
+      <Name xml:lang="en">MPEG-4 H264/AVC Extended Profile @ Level 2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.3.7">
+      <Name xml:lang="en">MPEG-4 H264/AVC Extended Profile @ Level 2.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.3.8">
+      <Name xml:lang="en">MPEG-4 H264/AVC Extended Profile @ Level 2.2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.3.9">
+      <Name xml:lang="en">MPEG-4 H264/AVC Extended Profile @ Level 3</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.3.10">
+      <Name xml:lang="en">MPEG-4 H264/AVC Extended Profile @ Level 3.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.3.11">
+      <Name xml:lang="en">MPEG-4 H264/AVC Extended Profile @ Level 3.2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.3.12">
+      <Name xml:lang="en">MPEG-4 H264/AVC Extended Profile @ Level 4</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.3.13">
+      <Name xml:lang="en">MPEG-4 H264/AVC Extended Profile @ Level 4.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.3.14">
+      <Name xml:lang="en">MPEG-4 H264/AVC Extended Profile @ Level 4.2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.3.15">
+      <Name xml:lang="en">MPEG-4 H264/AVC Extended Profile @ Level 5</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.3.16">
+      <Name xml:lang="en">MPEG-4 H264/AVC Extended Profile @ Level 5.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.4">
+      <Name xml:lang="en">MPEG-4 H264/AVC High Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.4.1">
+      <Name xml:lang="en">MPEG-4 H264/AVC High Profile @ Level 1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.4.2">
+      <Name xml:lang="en">MPEG-4 H264/AVC High Profile @ Level 1b</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.4.3">
+      <Name xml:lang="en">MPEG-4 H264/AVC High Profile @ Level 1.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.4.4">
+      <Name xml:lang="en">MPEG-4 H264/AVC High Profile @ Level 1.2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.4.5">
+      <Name xml:lang="en">MPEG-4 H264/AVC High Profile @ Level 1.3</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.4.6">
+      <Name xml:lang="en">MPEG-4 H264/AVC High Profile @ Level 2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.4.7">
+      <Name xml:lang="en">MPEG-4 H264/AVC High Profile @ Level 2.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.4.8">
+      <Name xml:lang="en">MPEG-4 H264/AVC High Profile @ Level 2.2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.4.9">
+      <Name xml:lang="en">MPEG-4 H264/AVC High Profile @ Level 3</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.4.10">
+      <Name xml:lang="en">MPEG-4 H264/AVC High Profile @ Level 3.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.4.11">
+      <Name xml:lang="en">MPEG-4 H264/AVC High Profile @ Level 3.2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.4.12">
+      <Name xml:lang="en">MPEG-4 H264/AVC High Profile @ Level 4</Name>
+      <Definition xml:lang="en">DVB AVC Capability E - ISO/IEC 14496-10 Video Codec. HIgh Profile
+         Level 4</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.4.13">
+      <Name xml:lang="en">MPEG-4 H264/AVC High Profile @ Level 4.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.4.14">
+      <Name xml:lang="en">MPEG-4 H264/AVC High Profile @ Level 4.2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.4.15">
+      <Name xml:lang="en">MPEG-4 H264/AVC High Profile @ Level 5</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.4.16">
+      <Name xml:lang="en">MPEG-4 H264/AVC High Profile @ Level 5.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.5">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 10 Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.5.1">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 10 Profile @ Level 1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.5.2">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 10 Profile @ Level 1b</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.5.3">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 10 Profile @ Level 1.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.5.4">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 10 Profile @ Level 1.2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.5.5">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 10 Profile @ Level 1.3</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.5.6">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 10 Profile @ Level 2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.5.7">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 10 Profile @ Level 2.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.5.8">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 10 Profile @ Level 2.2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.5.9">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 10 Profile @ Level 3</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.5.10">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 10 Profile @ Level 3.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.5.11">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 10 Profile @ Level 3.2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.5.12">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 10 Profile @ Level 4</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.5.13">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 10 Profile @ Level 4.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.5.14">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 10 Profile @ Level 4.2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.5.15">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 10 Profile @ Level 5</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.5.16">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 10 Profile @ Level 5.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.6">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:2:2 Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.6.1">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:2:2 Profile @ Level 1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.6.2">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:2:2 Profile @ Level 1b</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.6.3">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:2:2 Profile @ Level 1.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.6.4">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:2:2 Profile @ Level 1.2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.6.5">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:2:2 Profile @ Level 1.3</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.6.6">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:2:2 Profile @ Level 2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.6.7">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:2:2 Profile @ Level 2.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.6.8">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:2:2 Profile @ Level 2.2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.6.9">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:2:2 Profile @ Level 3</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.6.10">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:2:2 Profile @ Level 3.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.6.11">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:2:2 Profile @ Level 3.2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.6.12">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:2:2 Profile @ Level 4</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.6.13">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:2:2 Profile @ Level 4.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.6.14">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:2:2 Profile @ Level 4.2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.6.15">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:2:2 Profile @ Level 5</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.6.16">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:2:2 Profile @ Level 5.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.7">
+      <Name xml:lang="en">MPEG-4 H264/AVC HIght 4:4:4 Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.7.1">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:4:4 Profile @ Level 1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.7.2">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:4:4 Profile @ Level 1b</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.7.3">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:4:4 Profile @ Level 1.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.7.4">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:4:4 Profile @ Level 1.2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.7.5">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:4:4 Profile @ Level 1.3</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.7.6">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:4:4 Profile @ Level 2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.7.7">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:4:4 Profile @ Level 2.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.7.8">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:4:4 Profile @ Level 2.2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.7.9">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:4:4 Profile @ Level 3</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.7.10">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:4:4 Profile @ Level 3.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.7.11">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:4:4 Profile @ Level 3.2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.7.12">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:4:4 Profile @ Level 4</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.7.13">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:4:4 Profile @ Level 4.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.7.14">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:4:4 Profile @ Level 4.2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.7.15">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:4:4 Profile @ Level 5</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="9.7.16">
+      <Name xml:lang="en">MPEG-4 H264/AVC High 4:4:4 Profile @ Level 5.1</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="10">
+      <Name xml:lang="en">VC1</Name>
+      <Definition xml:lang="en">SMPTE 421M - VC1 Video Codec.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="10.1">
+      <Name xml:lang="en">VC1 Simple Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="10.1.1">
+      <Name xml:lang="en">VC1 Simple Profile @ Level LL</Name>
+      <Definition xml:lang="en">DVB AVC Capability A - SMPTE 421M - VC1 Video Codec.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="10.1.2">
+      <Name xml:lang="en">VC1 Simple Profile @ Level ML</Name>
+      <Definition xml:lang="en">DVB AVC Capability B - SMPTE 421M - VC1 Video Codec.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="10.2">
+      <Name xml:lang="en">VC1 Main Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="10.2.1">
+      <Name xml:lang="en">VC1 Main Profile @ Level LL</Name>
+      <Definition xml:lang="en">DVB AVC Capability A - SMPTE 421M - VC1 Video Codec.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="10.2.2">
+      <Name xml:lang="en">VC1 Main Profile @ Level ML</Name>
+      <Definition xml:lang="en">DVB AVC Capability B - SMPTE 421M - VC1 Video Codec.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="10.2.3">
+      <Name xml:lang="en">VC1 Main Profile @ Level HL</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="10.3">
+      <Name xml:lang="en">VC1 Advanced Profile</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="10.3.1">
+      <Name xml:lang="en">VC1 Advanced Profile @ Level L0</Name>
+      <Definition xml:lang="en">DVB AVC Capability C - SMPTE 421M - VC1 Video Codec.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="10.3.2">
+      <Name xml:lang="en">VC1 Advanced Profile @ Level L1</Name>
+      <Definition xml:lang="en">DVB AVC Capability D - SMPTE 421M - VC1 Video Codec.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="10.3.3">
+      <Name xml:lang="en">VC1 Advanced Profile @ Level L2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="10.3.4">
+      <Name xml:lang="en">VC1 Advanced Profile @ Level L3</Name>
+      <Definition xml:lang="en">DVB AVC Capability E - SMPTE 421M - VC1 Video Codec.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="10.3.5">
+      <Name xml:lang="en">VC1 Advanced Profile @ Level L4</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="11">
+      <Name xml:lang="en">Analogue Black and White</Name>
+      <Definition xml:lang="en">The analogue video signal is composed only by luminance</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="12">
+      <Name xml:lang="en">PAL</Name>
+      <Definition xml:lang="en">Phase Alternating Line. The analogue colour coding system for
+         television widely used in Europe and throughout the world, always almost with the 625/50
+         line/field system. Bandwith is typically 5.5 MHz luminance and 1.3 MHz for each of the
+         colour difference signals. This composite coding system is used for transmission as well as
+         for analogue television production</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="13">
+      <Name xml:lang="en">PAL-M</Name>
+      <Definition xml:lang="en">Phase Alternating Line. This is PAL for the 525/60 line/field system
+         case</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="14">
+      <Name xml:lang="en">NTSC</Name>
+      <Definition xml:lang="en">The analogue colour television system, defined by the United States
+         National Television Systems Committee, used in USA, Canada, Mexico and Japan, always almost
+         with the 525/60 line/field system. It is a composite video standard. The bandwidth of the
+         NTSC system is 4.2 MHz for the luminance signal and 1.3 and 0.4 MHz for the I and Q colur
+         channels</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="15">
+      <Name xml:lang="en">SECAM</Name>
+      <Definition xml:lang="en">Sequential Couleur Avec Mire. The analogue television broadcast
+         standard used in France, the middle East, many African and Asian countries, and most of
+         Eastern Europe. It is a composite colour transmission system, but it is not a production
+         standard</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="16">
+      <Name xml:lang="en">Analogue RGB</Name>
+      <Definition xml:lang="en">The analogue component video signal composed by the Red, Green and
+         Blue signals, the primary colours of television</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="17">
+      <Name xml:lang="en">Analogue Y, (R-Y), (B-Y)</Name>
+      <Definition xml:lang="en">The analogue component video signal composed by the luminance, Y,
+         and colour difference signals (R-Y) and (B-Y)</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="18">
+      <Name xml:lang="en">Analogue Y, Cr, Cb</Name>
+      <Definition xml:lang="en">The digital luminance and colour difference signals in ITU-R 601
+         coding. Always almost the Y luminance signal is sampled at 13.5 MHz and the two colour
+         difference signals are sampled at 6.75 MHz co-sited with one of the luminace samples. Cr is
+         the digitised version of the analogue component (R-Y), likewise Cb is the digitised version
+         of (B-Y)</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="19">
+      <Name xml:lang="en">Sample Rate Reduction</Name>
+      <Definition xml:lang="en">The digital picture is obtained either by a sampling from analogue
+         video source at a resolution lower than the one specified by the relevant standard
+         (e.g.ITU-R 601) or by any kind of down conversion from a higher resolution digital picture.
+         In both cases there is a reduction of the total number of pixels, that may be obtained by
+         reducing the number of pixels per line, or the number of lines per picture, or the number
+         of picture per second</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="20">
+      <Name xml:lang="en">DV</Name>
+      <Definition xml:lang="en">The digital video compression technique adopted by DV camcorders and
+         DVTRs, based on DCT compression, and especially suitable for fixed bitrate coding such as
+         for tape recording. The original standard document was known as Blue Book. Current standard
+         is IEC 61834</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="21">
+      <Name xml:lang="en">RealVideo</Name>
+      <Definition xml:lang="en">Proprietary video format developed by RealNetworks. This format uses
+         compression techniques that reduce the frame rate of the video clip and routines that
+         remove unnecessary information within frames. The quality can vary greatly depending on the
+         amount of motion and detail in the original video.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="22">
+      <Name xml:lang="en">Dirac</Name>
+      <Definition xml:lang="en">Open Source Codec from BBC, Using wavelets, it compresses any size
+         of picture from low-resolution QCIF (176x144 pixels) to HDTV (1920x1080) and
+         beyond.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="23">
+      <Name xml:lang="en">DivX</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
+   <Term termID="24">
+      <Name xml:lang="en">Windows Media Video</Name>
+      <Definition xml:lang="en">Video codec technologies developed by Microsoft for its Windows
+         Media Player.</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term termID="24.1">
+         <Name xml:lang="en">WMV8</Name>
+         <Definition xml:lang="en"/>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="24.2">
+         <Name xml:lang="en">WMV9</Name>
+         <Definition xml:lang="en"/>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+
+   <Term termID="25">
+      <Name xml:lang="en">SVQ</Name>
+      <Definition xml:lang="en">Sorenson Video Quantizer</Definition>
+      <Reference/>
+      <ChangeComment>MovieLabs mapping</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="26">
+      <Name xml:lang="en">PHOTOJPEG</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>MovieLabs mapping</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="27">
+      <Name xml:lang="en">Apple ProRes</Name>
+      <Definition xml:lang="en">The Apple ProRes format comes in five versions: Apple ProRes 4444,
+         Apple ProRes 422 (HQ), Apple ProRes 422, Apple ProRes 422 (LT), and Apple ProRes 422
+         (Proxy). The following list describes the features of each version. For a complete
+         comparison of the relative data rates of the Apple ProRes codecs, see Apple ProRes Format
+         Specifications. </Definition>
+      <Reference>http://images.apple.com/final-cut-pro/docs/Apple_ProRes_White_Paper.pdf,
+         https://support.apple.com/en-us/HT202410 </Reference>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-12-10</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="27.1">
+      <Name xml:lang="en">Apple ProRes 4444 XQ</Name>
+      <Definition xml:lang="en">The highest-quality version of Apple ProRes for 4:4:4:4 image
+         sources (including alpha channels), with a very high data rate to preserve the detail in
+         high-dynamic-range imagery generated by today’s highest-quality digital image sensors.
+         Apple ProRes 4444 XQ preserves dynamic ranges several times greater than the dynamic range
+         of Rec.709 imagery—even against the rigors of extreme visual effects processing, in which
+         tone-scale blacks or highlights are stretched significantly. Like standard Apple ProRes
+         444, this codec supports up to 12 bits per image channel and up to 16 bits for the alpha
+         channel. Apple ProRes 4444 XQ features a target data rate of approximately 500 Mbps for
+         4:4:4 sources at 1920 x 1080 and 29.97 fps. Note: Apple ProRes 4444 XQ requires OS X v10.8
+         (Mountain Lion) or later.</Definition>
+      <Reference>http://images.apple.com/final-cut-pro/docs/Apple_ProRes_White_Paper.pdf,
+         https://support.apple.com/en-us/HT202410 </Reference>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-12-10</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="27.2">
+      <Name xml:lang="en">Apple ProRes 4444</Name>
+      <Definition xml:lang="en">The Apple ProRes 4444 codec offers the utmost possible quality for
+         4:4:4 sources and for workflows involving alpha channels. It includes the following
+         features: Full-resolution, mastering-quality 4:4:4:4 RGBA color (an online-quality codec
+         for editing and finishing 4:4:4 material, such as that originating from Sony HDCAM SR or
+         digital cinema cameras such as RED ONE, Thomson Viper FilmStream, and Panavision Genesis
+         cameras). The R, G, and B channels are lightly compressed, with an emphasis on being
+         perceptually indistinguishable from the original material. Lossless alpha channel with
+         real-time playback High-quality solution for storing and exchanging motion graphics and
+         composites For 4:4:4 sources, a data rate that is roughly 50 percent higher than the data
+         rate of Apple ProRes 422 (HQ) Direct encoding of, and decoding to, RGB pixel formats
+         Support for any resolution, including SD, HD, 2K, 4K, and other resolutions. A Gamma
+         Correction setting in the codec’s advanced compression settings pane, which allows you to
+         disable the 1.8 to 2.2 gamma adjustment that can occur if RGB material at 2.2 gamma is
+         misinterpreted as 1.8. This setting is also available with the Apple ProRes 422 codec. </Definition>
+      <Reference>http://images.apple.com/final-cut-pro/docs/Apple_ProRes_White_Paper.pdf,
+         https://support.apple.com/en-us/HT202410 </Reference>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-12-10</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="27.3">
+      <Name xml:lang="en">Apple ProRes 422 (HQ)</Name>
+      <Definition xml:lang="en">The Apple ProRes 422 (HQ) codec offers the utmost possible quality
+         for 4:2:2 or 4:2:0 sources (without an alpha channel) and provides the following: - Target
+         dat rate of approximately 220 Mbps (1920 x 1080 at 60i) - Higher quality than Apple ProRes
+         422 </Definition>
+      <Reference>http://images.apple.com/final-cut-pro/docs/Apple_ProRes_White_Paper.pdf,
+         https://support.apple.com/en-us/HT202410 </Reference>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-12-10</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="27.4">
+      <Name xml:lang="en">Apple ProRes 422</Name>
+      <Definition xml:lang="en">The Apple ProRes 422 codec provides the following: Target data rate
+         of approximately 145 Mbps (1920 x 1080 at 60i) Higher quality than Apple ProRes 422 (LT) </Definition>
+      <Reference>http://images.apple.com/final-cut-pro/docs/Apple_ProRes_White_Paper.pdf,
+         https://support.apple.com/en-us/HT202410 </Reference>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-12-10</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="27.5">
+      <Name xml:lang="en">Appple ProRes 422 (LT)</Name>
+      <Definition xml:lang="en">The Apple ProRes 422 (LT) codec provides the following: - Roughly 70
+         percent of the data rate of Apple ProRes 422 (thus, smaller file sizes than Apple ProRes
+         422) - Higher quality than Apple ProRes 422 (Proxy) </Definition>
+      <Reference>http://images.apple.com/final-cut-pro/docs/Apple_ProRes_White_Paper.pdf,
+         https://support.apple.com/en-us/HT202410 </Reference>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-12-10</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="27.6">
+      <Name xml:lang="en">Apple ProRes 422 (Proxy)</Name>
+      <Definition xml:lang="en">The Apple ProRes 422 (Proxy) codec is intended for use in offline
+         workflows and provides the following: - Roughly 30 percent of the data rate of Apple ProRes
+         422 - High-quality offline editing at the original frame size, frame rate, and aspect ratio
+         - High-quality edit proxy for Final Cut Server </Definition>
+      <Reference>http://images.apple.com/final-cut-pro/docs/Apple_ProRes_White_Paper.pdf,
+         https://support.apple.com/en-us/HT202410 </Reference>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-12-10</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="28">
+      <Name xml:lang="en">On2</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>MovieLabs mapping</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term termID="28.1">
+         <Name xml:lang="en">VP6</Name>
+         <Definition xml:lang="en"/>
+         <Reference/>
+         <ChangeComment>MovieLabs mapping</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="28.2">
+         <Name xml:lang="en">VP7</Name>
+         <Definition xml:lang="en"/>
+         <Reference/>
+         <ChangeComment>MovieLabs mapping</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="28.3">
+         <Name xml:lang="en">VP8</Name>
+         <Definition xml:lang="en"/>
+         <Reference/>
+         <ChangeComment>MovieLabs mapping</ChangeComment>
+         <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+   <Term termID="29">
+      <Name xml:lang="en">MOBICLIP</Name>
+      <Definition xml:lang="en">Actimagine’s Mobiclip CODEC</Definition>
+      <Reference/>
+      <ChangeComment>MovieLabs mapping</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="30">
+      <Name xml:lang="en">XVID</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Now defined as sub-category of MPEG-4 Visual Advanced Simple Profile, termID
+         3.3.7 </ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>0</ValidityFlag>
+      <DeprecatedVersionDate>2016-07-04</DeprecatedVersionDate>
+   </Term>
+
+
+   <Term termID="31">
+      <Name xml:lang="en">FFV1</Name>
+      <Definition xml:lang="en">FFV1, which stands for "FF video codec 1", is a lossless intra-frame
+         video codec. It can use either variable length coding or arithmetic coding for entropy
+         coding. The encoder and decoder are part of the free, open-source library libavcodec in the
+         project FFmpeg.</Definition>
+      <Reference>http://www.digitalpreservation.gov/formats/fdd/fdd000341.shtml,
+         https://en.wikipedia.org/wiki/FFV1</Reference>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="31.1">
+      <Name xml:lang="en">FFV1.1</Name>
+      <Definition xml:lang="en">Version 1 of the lossless video codec.</Definition>
+      <Reference>http://www.digitalpreservation.gov/formats/fdd/fdd000341.shtml,
+         https://en.wikipedia.org/wiki/FFV1</Reference>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="31.2">
+      <Name xml:lang="en">FFV1.3</Name>
+      <Definition xml:lang="en">Version 3 of the lossless video codec. Additional features over
+         version 1 are: multi-threaded encoding, image slices, error-detecting code (CRC). </Definition>
+      <Reference>http://www.digitalpreservation.gov/formats/fdd/fdd000341.shtml,
+         https://en.wikipedia.org/wiki/FFV1</Reference>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="32">
+      <Name xml:lang="en">Uncompressed</Name>
+      <Definition/>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-19</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="32.1">
+      <Name xml:lang="en">Interleaved 444 CbYCr 8-bit </Name>
+      <Definition/>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-19</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="32.2">
+      <Name xml:lang="en">Interleaved 422 CbYCrY 8-bit </Name>
+      <Definition/>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-19</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="32.3">
+      <Name xml:lang="en">Interleaved 422 YCbYCr 8-bit </Name>
+      <Definition/>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-19</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="32.4">
+      <Name xml:lang="en">Planar 422 YCbCr 8-bit </Name>
+      <Definition/>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-19</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="32.5">
+      <Name xml:lang="en">Interleaved 422 CbYCrY 10-bit </Name>
+      <Definition/>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-19</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="32.6">
+      <Name xml:lang="en">Planar 422 CbYCrY 10-bit </Name>
+      <Definition/>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-19</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="32.7">
+      <Name xml:lang="en">Interleaved 422 CbYCrY 12-bit </Name>
+      <Definition/>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-19</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="32.8">
+      <Name xml:lang="en">Interleaved 422 CbYCrY 16-bit</Name>
+      <Definition/>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-19</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="32.9">
+      <Name xml:lang="en">Planar 420 YCbCr 8-bit</Name>
+      <Definition/>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-19</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="32.10">
+      <Name xml:lang="en">V210</Name>
+      <Definition xml:lang="en">V210 employs 4:2:2 chroma subsampling with each sample represented
+         by 10 bits of data. This format's structure consists of twelve 10-bit unsigned components
+         packed into four 32-bit little-endian words, with 8 zero bits as padding.</Definition>
+      <Reference>http://www.digitalpreservation.gov/formats/fdd/fdd000353.shtml</Reference>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33">
+      <Name xml:lang="en">Avid DNxHD</Name>
+      <Definition xml:lang="en">Avid DNxHD, which stands for "Digital Nonlinear Extensible High
+         Definition", is a lossy high-definition video post-productioncodec engineered for
+         multi-generation compositing with reduced storage and bandwidth requirements. It is an
+         implementation of the SMPTE VC-3 standard.</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33.1">
+      <Name xml:lang="en">DNxHD 440x</Name>
+      <Definition xml:lang="en">10 bit, 440Mbps , 4:2:2 color space at 1920x1080 59.94p and 60p,
+         4:4:4 color space at 1920x1080 29.97p</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33.2">
+      <Name xml:lang="en">DNxHD 440</Name>
+      <Definition xml:lang="en">8 bit, 4:2:2 color space, 440Mbps at 1920x1080 59.94p and
+         60p</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33.3">
+      <Name xml:lang="en">DNxHD 365x</Name>
+      <Definition xml:lang="en">10 bit, 367Mbps, 4:2:2 color space at 1920x1080 50p, 4:4:4 color
+         space at 1920x1080 25p</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33.4">
+      <Name xml:lang="en">DNxHD 365</Name>
+      <Definition xml:lang="en">8 bit, 4:2:2 color space, 367Mbps at 1920x1080 50p</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33.5">
+      <Name xml:lang="en">DNxHD 350x</Name>
+      <Definition xml:lang="en">10 bit, 4:4:4 color space, 352Mbps at 1920x1080 23.976p and
+         24p</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33.6">
+      <Name xml:lang="en">DNxHD 290</Name>
+      <Definition xml:lang="en">8 bit, 4:2:2 color space, 291Mbps at 1920x1080 59.94p and
+         60p</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33.7">
+      <Name xml:lang="en">DNxHD 240</Name>
+      <Definition xml:lang="en">8 bit, 4:2:2 color space, 242Mbps at 1920x1080 50p</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33.8">
+      <Name xml:lang="en">DNxHD 220</Name>
+      <Definition xml:lang="en">10 bit, 4:2:2 color space, 220Mbps at 1920x1080 29.97i and 29.97p,
+         1280x720 59.94p</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33.9">
+      <Name xml:lang="en">DNxHD 220x</Name>
+      <Definition xml:lang="en">8 bit, 4:2:2 color space, 220Mbps at 1920x1080 29.97i and 29.97p,
+         1280x720 59.94p</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33.10">
+      <Name xml:lang="en">DNxHD 185x</Name>
+      <Definition xml:lang="en">10 bit, 4:2:2 color space, 184Mbps at 1920x1080 25i and
+         25p</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33.11">
+      <Name xml:lang="en">DNxHD 185</Name>
+      <Definition xml:lang="en">8 bit, 4:2:2 color space, 184Mbps at 1920x1080 25i and
+         25p</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33.12">
+      <Name xml:lang="en">DNxHD 175x</Name>
+      <Definition xml:lang="en">10 bit, 4:2:2 color space, 176Mbps at 1920x1080 23.976p and 24p,
+         175Mbps at 1280x720 50p</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33.13">
+      <Name xml:lang="en">DNxHD 175</Name>
+      <Definition xml:lang="en">8 bit, 4:2:2 color space, 176Mbps at 1920x1080 23.976p and 24p,
+         175Mbps at 1280x720 50p</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33.14">
+      <Name xml:lang="en">DNxHD 145</Name>
+      <Definition xml:lang="en">8 bit, 4:2:2 color space, 145Mbps at 1920x1080 29.97i and 29.97p,
+         1280x720 59.94p</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33.15">
+      <Name xml:lang="en">DNxHD 120</Name>
+      <Definition xml:lang="en">8 bit, 4:2:2 color space, 121Mbps at 1920x1080 25i and
+         25p</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33.16">
+      <Name xml:lang="en">DNxHD 115</Name>
+      <Definition xml:lang="en">8 bit, 4:2:2 color space, 116Mbps at 1920x1080 23.976p and 24p,
+         115Mbps at 1280x720 50p</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33.17">
+      <Name xml:lang="en">DNxHD 110x</Name>
+      <Definition xml:lang="en">10 bit, 4:2:2 color space, 110Mbps at 1280x720 29.97p</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33.18">
+      <Name xml:lang="en">DNxHD 110</Name>
+      <Definition xml:lang="en">8 bit, 4:2:2 color space, 110Mbps at 1280x720 29.97p</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33.19">
+      <Name xml:lang="en">DNxHD 100</Name>
+      <Definition xml:lang="en">8 bit, 4:2:2 color space, 100Mbps at 1920x1080 29.97i and 29.97p,
+         1280x720 59.94p</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33.20">
+      <Name xml:lang="en">DNxHD 90x</Name>
+      <Definition xml:lang="en">10 bit, 4:2:2 color space, 1280x720, 92Mbps at 25p and 88Mbps at
+         23.976p</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33.21">
+      <Name xml:lang="en">DNxHD 90</Name>
+      <Definition xml:lang="en">8 bit, 4:2:2 color space, 90Mbps at 1920x1080 59.94p and 60p,
+         1280x720, 92Mbps at 25p and 88Mbps at 23.976p</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33.22">
+      <Name xml:lang="en">DNxHD 85</Name>
+      <Definition xml:lang="en">8 bit, 4:2:2 color space, 84Mpbs at 1920x1080 25i and 25p, 85Mbps at
+         1280x720 50p</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33.23">
+      <Name xml:lang="en">DNxHD 80</Name>
+      <Definition xml:lang="en">8 bit, 4:2:2 color space, 80Mbps at 1920x1080 23.976p and
+         24p</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33.24">
+      <Name xml:lang="en">DNxHD 75</Name>
+      <Definition xml:lang="en">8 bit 4:2:2 color space, 75Mbps at 1920x1080 50p, 72Mbps at 1280x720
+         29.97p</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33.25">
+      <Name xml:lang="en">DNxHD 60</Name>
+      <Definition xml:lang="en">8 bit 4:2:2 color space, 60 Mbps at 1280x720 25p, 58 Mbps at
+         1280x720 23.976p</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33.26">
+      <Name xml:lang="en">DNxHD 50</Name>
+      <Definition xml:lang="en">8 bit 4:2:2 color space, 51 Mbps at 1280x720 29.97p, 41 Mbps at
+         1280x720 23.976p</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33.27">
+      <Name xml:lang="en">DNxHD 45</Name>
+      <Definition xml:lang="en">8 bit 4:2:2 color space, 45 Mbps at 1920x1080 29.97p, 43 Mbps at
+         1280x720 25p</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="33.28">
+      <Name xml:lang="en">DNxHD 36</Name>
+      <Definition xml:lang="en">8 bit 4:2:2 color space, 36 Mbps at 1920x1080 25p, 24p, and
+         23.976p</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="34">
+      <Name xml:lang="en">Avid DNxHR</Name>
+      <Definition xml:lang="en">DNxHR, which stands for "Digital Nonlinear eXtensible High
+         Resolution", is a lossy UHDTV post-production codec engineered for multi-generation
+         compositing with reduced storage and bandwidth requirements. The codec was specifically
+         developed for resolutions considered above FHD/1080p, including 2K and 4K.</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="34.1">
+      <Name xml:lang="en">DNxHR 444</Name>
+      <Definition xml:lang="en">DNxHR 4:4:4, 12 bit, RGB / 4:4:4 color space, 4.5: 1
+         compression</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="34.2">
+      <Name xml:lang="en">DNxHR HQX</Name>
+      <Definition xml:lang="en">DNxHR High Quality (12 bit), 12 bit, 4:2:2 color space, 5.5:1
+         compression</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="34.3">
+      <Name xml:lang="en">DNxHR HQ</Name>
+      <Definition xml:lang="en">DNxHR High Quality (8 bit), 8 bit, 4:2:2 color space, 4.5:1
+         compression</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="34.4">
+      <Name xml:lang="en">DNxHR SQ</Name>
+      <Definition xml:lang="en">DNxHR Standard Quality, 8 bit, 4:2:2 color space, 7:1
+         compression</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="34.5">
+      <Name xml:lang="en">DNxHR LB</Name>
+      <Definition xml:lang="en">DNxHR Low Bandwidth, 8 bit, 4:2:2 color space, 22:1
+         compression</Definition>
+      <Reference/>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-07-04</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+</ClassificationScheme>

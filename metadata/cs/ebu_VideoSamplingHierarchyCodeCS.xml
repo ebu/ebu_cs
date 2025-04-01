@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:VideoSamplingHierarchyCodeCS"
+   versionDate="2019-06-24">
+
+   <!-- ##################################################################### 
+        VIDEO SAMPLING HIERARCHY CODE                                         
+	     Definition:
+	     
+	     The following Creative Commons Rights apply to the use of this EBU resource:
+	     http://creativecommons.org/licenses/by-sa/3.0/
+	     
+	     Owner: EBU Technical Department
+	     Author: Jean-Pierre Evain
+	     Contact: metadata@ebu.ch
+	     
+	     ##################################################################### -->
+
+   <Alias>EBUVideoSamplingHierarchyCode</Alias>
+
+   <Term termID="1">
+      <Name xml:lang="en">4:1:0</Name>
+      <Definition xml:lang="en">This ratio uses half of the vertical and one-fourth the horizontal
+         color resolutions, with only one-eighth of the bandwidth of the maximum color resolutions
+         used.</Definition>
+      <Reference>ITU-R BT.601</Reference>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="2">
+      <Name xml:lang="en">4:1:1</Name>
+      <Definition xml:lang="en">In 4:1:1 chroma subsampling, the horizontal color resolution is
+         quartered, and the bandwidth is halved compared to no chroma subsampling.</Definition>
+      <Reference>ITU-R BT.601</Reference>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="3">
+      <Name xml:lang="en">4:2:0</Name>
+      <Definition xml:lang="en">In 4:2:0, the horizontal sampling is doubled compared to 4:1:1, but
+         as the Cb and Cr channels are only sampled on each alternate line in this scheme, the
+         vertical resolution is halved.</Definition>
+      <Reference>ITU-R BT.601</Reference>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="4">
+      <Name xml:lang="en">4:2:2</Name>
+      <Definition xml:lang="en">The two chroma components are sampled at half the sample rate of
+         luma: the horizontal chroma resolution is halved.</Definition>
+      <Reference>ITU-R BT.601</Reference>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="5">
+      <Name xml:lang="en">4:4:4</Name>
+      <Definition xml:lang="en">No subsampling is applied.</Definition>
+      <Reference>ITU-R BT.601</Reference>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term termID="5.1">
+         <Name xml:lang="en">4:4:4 Y'CbCr</Name>
+         <Definition xml:lang="en">Each of the three Y'CbCr components have the same sample
+            rate.</Definition>
+         <Reference>ITU-R BT.601</Reference>
+         <ChangeComment>corrected termId from 5 to 5.1</ChangeComment>
+         <ChangeVersionDate>2019-06-24</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="5.2">
+         <Name xml:lang="en">4:4:4 R'G'B'</Name>
+         <Definition xml:lang="en">Note that "4:4:4" may instead be referring to R'G'B' color space,
+            which implicitly does not have any chroma subsampling at all.</Definition>
+         <Reference>ITU-R BT.601</Reference>
+         <ChangeComment>corrected termId from 5 to 5.2</ChangeComment>
+         <ChangeVersionDate>2019-06-24</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+
+</ClassificationScheme>

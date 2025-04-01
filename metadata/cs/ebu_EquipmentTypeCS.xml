@@ -1,0 +1,1285 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:EquipmentType" versionDate="2019-09-02">
+  <!-- ##################################################################### 
+    EQUIPMENT TYPE CS
+    Defines a list of possible equipement types and representatives.
+    
+    The following Creative Commons Rights apply to the use of 
+    this EBU resource:   http://creativecommons.org/licenses/by-nc-sa/3.0/   
+      
+    Owner: EBU Technical Department   
+    Contact: metadata@ebu.ch      
+    ##################################################################### -->
+  
+  <Alias>DwerftEquipmentType</Alias>
+  
+  <Term termID="1">
+    <Name xml:lang="en">Filming</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="1.1">
+      <Name xml:lang="en">Camera</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="1.2">
+      <Name xml:lang="en">Lens</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="1.2.1">
+        <Name xml:lang="en">Wideangle Lens</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="1.2.2">
+        <Name xml:lang="en">Normal Lens</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="1.2.3">
+        <Name xml:lang="en">Tele Lens</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="1.2.4">
+        <Name xml:lang="en">Macro Lens</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="1.2.5">
+        <Name xml:lang="en">Zoom Lens</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+    </Term>
+    <Term termID="1.3">
+      <Name xml:lang="en">Rigging</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="1.3.1">
+        <Name xml:lang="en">Tripod</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="1.3.2">
+        <Name xml:lang="en">Monopod</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="1.3.3">
+        <Name xml:lang="en">Gimbal</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="1.3.4">
+        <Name xml:lang="en">SteadyCam</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="1.3.5">
+        <Name xml:lang="en">Truss</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+    </Term>
+  </Term>
+  <Term termID="2">
+    <Name xml:lang="en">Audio Recording</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="2.1">
+      <Name xml:lang="en">Field Recorder</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="2.2">
+      <Name xml:lang="en">Microphone</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="2.2.1">
+        <Name xml:lang="en">Dynamic Microphone</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="2.2.2">
+        <Name xml:lang="en">Condenser Microphone</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="2.2.2.1">
+          <Name xml:lang="en">Small Diaphragm</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+          <Term termID="2.2.2.1.1">
+            <Name xml:lang="en">Shotgun Microphone</Name>
+            <Definition xml:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+        </Term>
+        <Term termID="2.2.2.2">
+          <Name xml:lang="en">Large Diaphragm</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+      </Term>
+    </Term>
+    <Term termID="2.3">
+      <Name xml:lang="en">Rigging</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="2.4">
+      <Name xml:lang="en">Amplifier</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="2.5">
+      <Name xml:lang="en">Effects</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="3">
+    <Name xml:lang="en">Software</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="3.1">
+      <Name xml:lang="en">NLE</Name>
+      <Definition xml:lang="en">Non-linear Editing System e.g. AVID, Premiere, Final
+        Cut</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="3.1.1">
+        <Name xml:lang="en">Adobe Premiere Pro</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="3.1.1.1">
+          <Name xml:lang="en">Adobe Premiere Pro CC</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.1.1.2">
+          <Name xml:lang="en">Adobe Premiere Pro CS</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+      </Term>
+      <Term termID="3.1.2">
+        <Name xml:lang="en">AVID Media Composer</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.1.3">
+        <Name xml:lang="en">Apple Final Cut</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="3.1.3.1">
+          <Name xml:lang="en">Apple Final Cut Pro X</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.1.3.2">
+          <Name xml:lang="en">Apple Final Cut Pro 7</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+      </Term>
+      <Term termID="3.1.4">
+        <Name xml:lang="en">Lightworks</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+    </Term>
+    <Term termID="3.2">
+      <Name xml:lang="en">DAW</Name>
+      <Definition xml:lang="en">Digital Audio Workstation e.g. Pro Tools, Nuendo, Logic
+        Pro</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="3.2.1">
+        <Name xml:lang="en">AVID Pro Tools</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="3.2.1.1">
+          <Name xml:lang="en">AVID Pro Tools Ultimate</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.2.1.2">
+          <Name xml:lang="en">AVID Pro Tools HD</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.2.1.3">
+          <Name xml:lang="en">AVID Pro Tools Standard</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+      </Term>
+      <Term termID="3.2.2">
+        <Name xml:lang="en">Steinberg Nudendo</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.2.3">
+        <Name xml:lang="en">Steinberg Cubase</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.2.4">
+        <Name xml:lang="en">Apple Logic Pro</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.2.5">
+        <Name xml:lang="en">Magix Sequoia</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.2.6">
+        <Name xml:lang="en">REAPER</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+    </Term>
+    <Term termID="3.3">
+      <Name xml:lang="en">Office</Name>
+      <Definition xml:lang="en">Basic office tools like Word, Excel</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="3.3.1">
+        <Name xml:lang="en">Microsoft Office</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="3.3.1.1">
+          <Name xml:lang="en">Microsoft Word</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.3.1.2">
+          <Name xml:lang="en">Microsoft PowerPoint</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.3.1.3">
+          <Name xml:lang="en">Microsoft Excel</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+      </Term>
+      <Term termID="3.3.2">
+        <Name xml:lang="en">LibreOffice</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="3.3.2.1">
+          <Name xml:lang="en">LibreOffice Writer</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.3.2.2">
+          <Name xml:lang="en">LibreOffice Impress</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.3.2.3">
+          <Name xml:lang="en">LibreOffice Calc</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+      </Term>
+      <Term termID="3.3.3">
+        <Name xml:lang="en">Google</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="3.3.3.1">
+          <Name xml:lang="en">Google Docs</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.3.3.2">
+          <Name xml:lang="en">Google Spreadsheet</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.3.3.3">
+          <Name xml:lang="en">Google Presentation</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+      </Term>
+    </Term>
+    <Term termID="3.4">
+      <Name xml:lang="en">Grading</Name>
+      <Definition xml:lang="en">Color Grading e.g. Da Vinci Resolve, Baselight</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="3.4.1">
+        <Name xml:lang="en">Blackmagic DaVinci Resolve</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.4.2">
+        <Name xml:lang="en">Filmlight Baselight</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+    </Term>
+    <Term termID="3.5">
+      <Name xml:lang="en">Media Conversion Tools</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="3.5.1">
+        <Name xml:lang="en">Adobe Media Composer</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.5.2">
+        <Name xml:lang="en">Stream Clip</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.5.3">
+        <Name xml:lang="en">Handbrake</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+    </Term>
+    <Term termID="3.6">
+      <Name xml:lang="en">Plugins</Name>
+      <Definition xml:lang="en">Plugins for Audio or Video Manipulation like Reverbs, Film Grain,
+        Equalising</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="3.6.1">
+        <Name xml:lang="en">Audio Plugins</Name>
+        <Definition xml:lang="en">VST, AAX, AU, ARA2 which can be integrated into most major DAWs
+          and NLEs.</Definition>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="3.6.1.1">
+          <Name xml:lang="en">FabFilter</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+          <Term termID="3.6.1.1.1">
+            <Name xml:lang="en">FabFilter Q</Name>
+            <Definition xml:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.6.1.1.2">
+            <Name xml:lang="en">FabFilter C</Name>
+            <Definition xml:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.6.1.1.3">
+            <Name xml:lang="en">FabFilter L</Name>
+            <Definition xml:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.6.1.1.4">
+            <Name xml:lang="en">FabFilter MB</Name>
+            <Definition xml:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.6.1.1.5">
+            <Name xml:lang="en">FabFilter DS</Name>
+            <Definition xml:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.6.1.1.6">
+            <Name xml:lang="en">FabFilter R</Name>
+            <Definition xml:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.6.1.1.7">
+            <Name xml:lang="en">FabFilter G</Name>
+            <Definition xml:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+        </Term>
+        <Term termID="3.6.1.2">
+          <Name xml:lang="en">Sonnox</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.6.1.3">
+          <Name xml:lang="en">Waves</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.6.1.4">
+          <Name xml:lang="en">Sonnox</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.6.1.5">
+          <Name xml:lang="en">Audio Ease</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.6.1.6">
+          <Name xml:lang="en">Avid</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+          <Term termID="3.6.1.6.1">
+            <Name xml:lang="en">Channel Strip</Name>
+            <Definition xml:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.6.1.6.2">
+            <Name xml:lang="en">EQ7</Name>
+            <Definition xml:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+        </Term>
+        <Term termID="3.6.1.7">
+          <Name xml:lang="en">iZotope</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+          <Term termID="3.6.1.7.1">
+            <Name xml:lang="en">iZotope RX</Name>
+            <Definition xml:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+            <Term termID="3.6.1.7.1.1">
+              <Name xml:lang="en">iZotope RX De-noise</Name>
+              <Definition xml:lang="en"/>
+              <Reference/>
+              <ChangeComment>First version within the Dwerft project</ChangeComment>
+              <ChangeVersionDate>2019</ChangeVersionDate>
+              <ValidityFlag>1</ValidityFlag>
+            </Term>
+            <Term termID="3.6.1.7.1.2">
+              <Name xml:lang="en">iZotope RX De-click</Name>
+              <Definition xml:lang="en"/>
+              <Reference/>
+              <ChangeComment>First version within the Dwerft project</ChangeComment>
+              <ChangeVersionDate>2019</ChangeVersionDate>
+              <ValidityFlag>1</ValidityFlag>
+            </Term>
+          </Term>
+        </Term>
+      </Term>
+      <Term termID="3.6.2">
+        <Name xml:lang="en">Video Plugins</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+    </Term>
+    <Term termID="3.7">
+      <Name xml:lang="en">Media Management</Name>
+      <Definition xml:lang="en">Tools for managing media files e.g. Soundminer</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="3.7.1">
+        <Name xml:lang="en">Soundminer</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="3.7.1.1">
+          <Name xml:lang="en">Soundminer HD</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.7.1.2">
+          <Name xml:lang="en">Soundminer Pro</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+      </Term>
+      <Term termID="3.7.2">
+        <Name xml:lang="en">Baselight</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.7.3">
+        <Name xml:lang="en">Soundly</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.7.4">
+        <Name xml:lang="en">Sound Device Wave Agent</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+    </Term>
+    <Term termID="3.8">
+      <Name xml:lang="en">Project Management</Name>
+      <Definition xml:lang="en">Tools for managing the whole project</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="3.9">
+      <Name xml:lang="en">Creative Writing</Name>
+      <Definition xml:lang="en">Tools for writing screenplays</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="3.10">
+      <Name xml:lang="en">Accounting</Name>
+      <Definition xml:lang="en">Tools for financial processes and management</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="3.11">
+      <Name xml:lang="en">Operating System</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="3.11.1">
+        <Name xml:lang="en">Windows</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="3.11.1.1">
+          <Name xml:lang="en">Windows 10</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.11.1.2">
+          <Name xml:lang="en">Windows 10 Home</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.11.1.3">
+          <Name xml:lang="en">Windows 10 Pro</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.11.1.4">
+          <Name xml:lang="en">Windows 10 Pro for Workstations</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+          <Term termID="3.11.1.4.1">
+            <Name xml:lang="en">Windows 7 Starter</Name>
+            <Definition xml:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.11.1.4.2">
+            <Name xml:lang="en">Windows 7 Home Basic</Name>
+            <Definition xml:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.11.1.4.3">
+            <Name xml:lang="en">Windows 7 Home Premium</Name>
+            <Definition xml:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.11.1.4.4">
+            <Name xml:lang="en">Windows 7 Professional</Name>
+            <Definition xml:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.11.1.4.5">
+            <Name xml:lang="en">Windows 7 Enterprise</Name>
+            <Definition xml:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.11.1.4.6">
+            <Name xml:lang="en">Windows 7 Ultimate</Name>
+            <Definition xml:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.11.1.4.7">
+            <Name xml:lang="en">Windows 7 N</Name>
+            <Definition xml:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.11.1.4.8">
+            <Name xml:lang="en">Windows 7 KN</Name>
+            <Definition xml:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.11.1.4.9">
+            <Name xml:lang="en">Windows 7 VL build</Name>
+            <Definition xml:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.11.1.4.10">
+            <Name xml:lang="en">Windows 7 Thin PC</Name>
+            <Definition xml:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.11.1.4.11">
+            <Name xml:lang="en">Windows 7 Embedded Version</Name>
+            <Definition xml:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+        </Term>
+        <Term termID="3.11.1.5">
+          <Name xml:lang="en">Windows 10 S</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.11.1.6">
+          <Name xml:lang="en">Windows 10 Education</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.11.1.7">
+          <Name xml:lang="en">Windows 10 Pro Education</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.11.1.8">
+          <Name xml:lang="en">Windows 10 Enterprise</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.11.1.9">
+          <Name xml:lang="en">Windows 10 Enterprise LTSC</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.11.1.10">
+          <Name xml:lang="en">Windows 10 IoT</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.11.1.11">
+          <Name xml:lang="en">Windows 10 Team</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.11.1.2">
+          <Name xml:lang="en">Windows 8.1</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.11.1.3">
+          <Name xml:lang="en">Windows 8</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.11.1.4">
+          <Name xml:lang="en">Windows 7</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.11.1.5">
+          <Name xml:lang="en">Windows XP</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.11.1.6">
+          <Name xml:lang="en">Windows XP Home</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.11.1.7">
+          <Name xml:lang="en">Windows XP Service Pack 2</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.11.1.8">
+          <Name xml:lang="en">Windows XP Service Pack 1</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+      </Term>
+      <Term termID="3.11.2">
+        <Name xml:lang="en">MacOS</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="3.11.2.1">
+          <Name xml:lang="en">MacOS Mojave</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.11.2.2">
+          <Name xml:lang="en">MacOS High Sierra</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.11.2.3">
+          <Name xml:lang="en">MacOS Sierra</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.11.2.4">
+          <Name xml:lang="en">MacOS El Capitan</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.11.2.5">
+          <Name xml:lang="en">MacOS Yosemite</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.11.2.6">
+          <Name xml:lang="en">MacOS Maverick</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.11.2.7">
+          <Name xml:lang="en">MacOS Mountain Lion</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+      </Term>
+      <Term termID="3.11.3">
+        <Name xml:lang="en">Linux</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="3.11.3.1">
+          <Name xml:lang="en">Debian</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+          <Term termID="3.11.3.1.1">
+            <Name xml:lang="en">Ubuntu</Name>
+            <Definition xml:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+          <Term termID="3.11.3.1.2">
+            <Name xml:lang="en">Linux Mint</Name>
+            <Definition xml:lang="en"/>
+            <Reference/>
+            <ChangeComment>First version within the Dwerft project</ChangeComment>
+            <ChangeVersionDate>2019</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+          </Term>
+        </Term>
+        <Term termID="3.11.3.2">
+          <Name xml:lang="en">Red Hat</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.11.3.3">
+          <Name xml:lang="en">CentOS</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.11.3.4">
+          <Name xml:lang="en">Fedora</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.11.3.5">
+          <Name xml:lang="en">Arch Linux</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+      </Term>
+      <Term termID="3.11.4">
+        <Name xml:lang="en">Other</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+    </Term>
+    <Term termID="3.12">
+      <Name xml:lang="en">Webbrowser</Name>
+      <Definition xml:lang="en">Software application for accessing information on the World Wide
+        Web.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="3.12.1">
+        <Name xml:lang="en">Safari</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.12.2">
+        <Name xml:lang="en">Microsoft Edge</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.12.3">
+        <Name xml:lang="en">Internet Explorer</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.12.4">
+        <Name xml:lang="en">Firefox</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="3.12.5">
+        <Name xml:lang="en">Chromium-based</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+        <Term termID="3.12.5.1">
+          <Name xml:lang="en">Google Chrome</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.12.5.2">
+          <Name xml:lang="en">Opera</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.12.5.3">
+          <Name xml:lang="en">Vivaldi</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+        <Term termID="3.12.5.4">
+          <Name xml:lang="en">Chromium native</Name>
+          <Definition xml:lang="en"/>
+          <Reference/>
+          <ChangeComment>First version within the Dwerft project</ChangeComment>
+          <ChangeVersionDate>2019</ChangeVersionDate>
+          <ValidityFlag>1</ValidityFlag>
+        </Term>
+      </Term>
+    </Term>
+    <Term termID="3.13">
+      <Name xml:lang="en">Dailies</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="3.13.1">
+        <Name xml:lang="en">Filmlight Daylight</Name>
+        <Definition xml:lang="en"/>
+        <Reference/>
+        <ChangeComment>First version within the Dwerft project</ChangeComment>
+        <ChangeVersionDate>2019</ChangeVersionDate>
+        <ValidityFlag>1</ValidityFlag>
+      </Term>
+    </Term>
+  </Term>
+  <Term termID="4">
+    <Name xml:lang="en">Other</Name>
+    <Definition xml:lang="en"/>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+</ClassificationScheme>

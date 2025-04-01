@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:TakeTypeCS" versionDate="2020-02-12">
+  <!-- #####################################################################
+	     TAKE TYPE CS                                            
+	     Definition: Contains the iXML take type values (iXML v 2.10 - 04/07/2019)
+	     
+	     The following Creative Commons Rights apply to the use of this EBU resource:
+	     http://creativecommons.org/licenses/by-sa/3.0/
+	     
+	     Owner: EBU Technical Department
+       Contact: metadata@ebu.ch      
+	     
+	     ##################################################################### -->
+  
+  <Alias>DwerftTakeType</Alias>
+  
+  <Term termID="1">
+    <Name xmlns:lang="en">Default</Name>
+    <Definition xmlns:lang="en">Default audio take. There are no additional marks.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="2">
+    <Name xmlns:lang="en">NoGood</Name>
+    <Definition xmlns:lang="en">Indicates a defective audio take e.g. disturbing noise or
+      bloopers.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="3">
+    <Name xmlns:lang="en">FalseStart</Name>
+    <Definition xmlns:lang="en">This may indicate that another file could exist with the same take
+      number. Typically this file might also be marked as "NOGOOD".</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="4">
+    <Name xmlns:lang="en">WildTrack</Name>
+    <Definition xmlns:lang="en">The take has no linked video, e.g. for some ambient recording or a
+      alternative recording of a special dialogue part (e.g. a loud scream)</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="5">
+    <Name xmlns:lang="en">Pickup</Name>
+    <Definition xmlns:lang="en">The take does not contain any action. Its purpose is to fill
+      occuring gaps.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="6">
+    <Name xmlns:lang="en">Rehearsal</Name>
+    <Definition xmlns:lang="en">A rehearsal (test) recording</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="7">
+    <Name xmlns:lang="en">Announcement</Name>
+    <Definition xmlns:lang="en">The take contains announcements from a crewmember e.g. a preceding
+      scene description by the director.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="8">
+    <Name xmlns:lang="en">SoundGuide</Name>
+    <Definition xmlns:lang="en">Delivers an audio track as an orientation for further
+      processes.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+</ClassificationScheme>

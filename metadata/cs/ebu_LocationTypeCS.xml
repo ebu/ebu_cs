@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:LocationType" versionDate="2019-08-21">
+  <!-- ##################################################################### 
+    LOCATION TYPE CS
+    Describes different types of locations.
+    
+    The following Creative Commons Rights apply to the use of 
+    this EBU resource:   http://creativecommons.org/licenses/by-nc-sa/3.0/   
+      
+    Owner: EBU Technical Department   
+    Contact: metadata@ebu.ch      
+
+    ##################################################################### -->
+  
+  <Alias>DwerftLocationType</Alias>
+  
+  <Term termID="1">
+    <Name xmlns:lang="en">Depicted</Name>
+    <Definition xmlns:lang="en">The Location is a depicted location related to the
+      storyboard/script.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="1.1">
+      <Name xmlns:lang="en">Fictional</Name>
+      <Definition xmlns:lang="en">The Location is a fictional location related to the
+        storyboard/script, which does not or not yet exist in reality.</Definition>
+      <Reference>http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#FictionalLocation</Reference>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+  <Term termID="2">
+    <Name xmlns:lang="en">Production</Name>
+    <Definition xmlns:lang="en">The Location is a location where some content was
+      produced.</Definition>
+    <Reference>https://www.wikidata.org/entity/Q1045481</Reference>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+</ClassificationScheme>

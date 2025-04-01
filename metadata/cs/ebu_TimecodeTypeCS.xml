@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:TimecodeType" versionDate="2019-08-21">
+  <!-- ##################################################################### 
+    TIMECODE TYPE CS
+    Defines whether a timecode is relative to its object or absolute related to another object.
+    
+    The following Creative Commons Rights apply to the use of 
+    this EBU resource:   http://creativecommons.org/licenses/by-nc-sa/3.0/   
+      
+    Owner: EBU Technical Department   
+    Contact: metadata@ebu.ch      
+    ##################################################################### -->
+  
+  <Alias>DwerftTimecodeType</Alias>
+  
+  <Term termID="1">
+    <Name xmlns:lang="en">Relative</Name>
+    <Definition xmlns:lang="en">The Timecode relates to the boundaries of the clip. The clip always
+      starts at 00:00:00:00</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="2">
+    <Name xmlns:lang="en">Absolute</Name>
+    <Definition xmlns:lang="en">The Timecode relates to another timecode supplier e.g. the
+      time-of-day (source timecode) or the timecode on a timeline (record timecode).</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+</ClassificationScheme>

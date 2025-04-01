@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:ScriptTypeCS" versionDate="2019-03-06">
+   <!-- ##################################################################### 
+    SCRIPT TYPE CS
+    Describes the type of script that is being used.
+    
+    The following Creative Commons Rights apply to the use of 
+    this EBU resource:   http://creativecommons.org/licenses/by-nc-sa/3.0/   
+      
+    Owner: EBU Technical Department   
+    Contact: metadata@ebu.ch      
+    ##################################################################### -->
+   
+   <Alias>DwerftScriptType</Alias>
+   
+   <Term termID="1">
+      <Name xml:lang="en">Screenplay</Name>
+      <Definition xml:lang="de">Das Drehbuch im engeren Sinne.</Definition>
+      <Definition xml:lang="en">The script/screenplay as such.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="2">
+      <Name xml:lang="en">Shooting Script</Name>
+      <Definition xml:lang="de">Das Drehbuch, das den Aufnahmen zugrundeliegt.</Definition>
+      <Definition xml:lang="en">The script/screenplay, which is being used within
+         production.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="3">
+      <Name xml:lang="en">Lined Script</Name>
+      <Definition xml:lang="de">Das lined script (bzw. das continuity script), das die genauen
+         Continuity-Angaben verzeichnet.</Definition>
+      <Definition xml:lang="en">The lined script/continuity script, which contains detailed
+         continuity information.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+</ClassificationScheme>

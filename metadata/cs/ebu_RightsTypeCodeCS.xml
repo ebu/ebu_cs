@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassificationScheme uri="urn:ebu:metadata-cs:RightTypeCodeCS" versionDate="2020-03-31">
+
+   <!-- #####################################################################
+	     RIGHTS TYPE CODE                                                        
+	     Definition: 
+	     
+	     The following Creative Commons Rights apply to the use of this EBU resource:
+	     http://creativecommons.org/licenses/by-sa/3.0/
+	     
+	     Owner: EBU Technical Department
+	     Author: Jean-Pierre Evain
+	     Contact: evain@ebu.ch
+	     
+	     ##################################################################### -->
+
+   <Alias>EBURightsTypeCode</Alias>
+
+   <Term termID="1">
+      <Name xml:lang="en">Derivation</Name>
+      <Name xml:lang="de">Ableitungsrecht</Name>
+      <Definition xml:lang="en">Indicates that the licensee gets the rights to produce editorial
+         works, not only audiovisual, freely inspired by the content of the material being
+         exchanged. Examples could be the derivation of books from drama or fiction programmes, or
+         the production of a sequel of a movie</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="2">
+      <Name xml:lang="en">Merchandising</Name>
+      <Name xml:lang="de">Merchandising</Name>
+      <Definition xml:lang="en">Indicates that the licensee gets the right to produce or to commit
+         to produce things like artworks, gadgets, drawings, illustrations, banners, clothes etc.
+         for commercial purposes and with a clear or explicit reference to the editorial content of
+         the material being exchanged</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="3">
+      <Name xml:lang="en">Partial Ownership</Name>
+      <Definition xml:lang="en">Indicates that the licensee receives partial ownership rights for
+         the material being exchanged. The ownership quota is not specified</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="4">
+      <Name xml:lang="en">Publication</Name>
+      <Definition xml:lang="en">Indicates that the licensee gets the rights to publish the material
+         without changing the original editorial form of the material</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="5">
+      <Name xml:lang="en">Total Ownership</Name>
+      <Definition xml:lang="en">Indicates that the licensee receives full ownership rights for the
+         material being exchanged</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="6">
+      <Name xml:lang="en">Use</Name>
+      <Name xml:lang="de">Nutzung</Name>
+      <Definition xml:lang="en">Indicates that the licensee gets the rights to use portions of the
+         material in order to produce other programmes or programme items. Examples of this may be
+         the insertion of clips, images or pieces of music into other productions</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="7">
+      <Name xml:lang="en">Versionning</Name>
+      <Name xml:lang="de">Versionierung</Name>
+      <Definition xml:lang="en">Indicates that the licensee gets the rights to produce, and then
+         publish, editorial versions of the material slightly different from that being exchanged.
+         Examples could be the production of a version with sound dubbed in another language or with
+         close-caption subtitles or with the cut of some scenes</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="8">
+      <Name xml:lang="en">PersonalityRight</Name>
+      <Name xml:lang="de">Persönlichkeitsrecht</Name>
+      <Definition xml:lang="en">The right of protection the person's reputation, honour and
+         privacy.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="9">
+      <Name xml:lang="en">CopyRight</Name>
+      <Name xml:lang="de">Urheberrecht</Name>
+      <Definition xml:lang="en">The right that grants the creator of an original work exclusive
+         rights for its use and distribution.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="10">
+      <Name xml:lang="en">AttributionRight</Name>
+      <Name xml:lang="de">Nennungsrecht</Name>
+      <Definition xml:lang="en">The right to claim authorship of the work.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="11">
+      <Name xml:lang="en">IntegrityRight</Name>
+      <Name xml:lang="de">Integritätsrecht</Name>
+      <Definition xml:lang="en">The right to object to any distortion, mutilation or other
+         modification of, or other derogatory action in relation to, the work which would be
+         prejudicial to the author's honour or reputation.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="12">
+      <Name xml:lang="en">DisclosureRight</Name>
+      <Name xml:lang="de">Veröffentlichungsrecht</Name>
+      <Definition xml:lang="en">The exclusive right to disclose the work.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="13">
+      <Name xml:lang="en">WithdrawalRight</Name>
+      <Name xml:lang="de">Widerrufsrecht</Name>
+      <Definition xml:lang="en">The exclusive right to withdraw the work.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="14">
+      <Name xml:lang="en">Ownership</Name>
+      <Name xml:lang="de">Eigentumsrecht</Name>
+      <Definition xml:lang="en">Indicates the ownership rights for the material.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="15">
+      <Name xml:lang="en">LicenseRight</Name>
+      <Name xml:lang="de">Lizenzrecht</Name>
+      <Definition xml:lang="en">The transfer of a license right means the licensee grants the
+         licensor permission to use a work.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="16">
+      <Name xml:lang="en">ChargeRepetitionRight</Name>
+      <Name xml:lang="de">Wiederholungshonorar</Name>
+      <Definition xml:lang="en">Claim for payment for the rebroadcast of a movie
+         production.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="17">
+      <Name xml:lang="en">OtherRight</Name>
+      <Name xml:lang="de">sonstiges Recht</Name>
+      <Definition xml:lang="en">Other right, not directly assigned to a specific right
+         type.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+</ClassificationScheme>

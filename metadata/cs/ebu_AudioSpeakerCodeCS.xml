@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:AudioChannelMappingCodeCS" versionDate="2013-01-07">
+   <!--
+##################################################################### 
+AUDIO SPEAKERCODE CS	                                                                             
+Definition: This is a list of definition of Speaker positions for channel mapping in mutli-channel audio systems. 
+
+The following Creative Commons Rights apply to the use of this EBU resource:
+   http://creativecommons.org/licenses/by-sa/3.0/
+   
+   Owner: EBU Technical Department
+   Author: Jean-Pierre Evain
+   Contact: metadata@ebu.ch
+   
+   ##################################################################### 
+-->
+
+   <Alias>EBUAudioSpeakerCode</Alias>
+
+   <Note xml:lang="en">This supercedes the former EBUAudioChannelMapping definitions</Note>
+
+   <Link xml:lang="en">
+      <URL>http://tech.ebu.ch/docs/tech/tech3285s6.pdf</URL>
+      <LinkName>EBU</LinkName>
+   </Link>
+   <Link xml:lang="en">
+      <URL>http://en.wikipedia.org/wiki/22.2_surround_sound</URL>
+      <LinkName>wikipedia</LinkName>
+   </Link>
+
+   <!-- FRONT -->
+
+   <Term termID="1">
+      <Name xml:lang="en">SPEAKER_FRONT_CENTER</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Based on EBU Tech 3285 - Broadcast Wave Format - and 22.2 Surround
+         definition</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="2">
+      <Name xml:lang="en">SPEAKER_FRONT_LEFT</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Based on EBU Tech 3285 - Broadcast Wave Format - and 22.2 Surround
+         definition</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="3">
+      <Name xml:lang="en">SPEAKER_FRONT_RIGHT</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Based on EBU Tech 3285 - Broadcast Wave Format - and 22.2 Surround
+         definition</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="4">
+      <Name xml:lang="en">SPEAKER_FRONT_LEFT_CENTER</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Based on EBU Tech 3285 - Broadcast Wave Format - and 22.2 Surround
+         definition</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="5">
+      <Name xml:lang="en">SPEAKER_FRONT_RIGHT_CENTER</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Based on EBU Tech 3285 - Broadcast Wave Format - and 22.2 Surround
+         definition</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <!-- TOP FRONT -->
+
+   <Term termID="6">
+      <Name xml:lang="en">SPEAKER_TOP_CENTER</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Based on EBU Tech 3285 - Broadcast Wave Format - and 22.2 Surround
+         definition</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="7">
+      <Name xml:lang="en">SPEAKER_TOP_FRONT_CENTER</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Based on EBU Tech 3285 - Broadcast Wave Format - and 22.2 Surround
+         definition</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="8">
+      <Name xml:lang="en">SPEAKER_TOP_FRONT_LEFT</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Based on EBU Tech 3285 - Broadcast Wave Format - and 22.2 Surround
+         definition</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="9">
+      <Name xml:lang="en">SPEAKER_TOP_FRONT_RIGHT</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Based on EBU Tech 3285 - Broadcast Wave Format - and 22.2 Surround
+         definition</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <!-- SIDES -->
+
+   <Term termID="10">
+      <Name xml:lang="en">SPEAKER_SIDE_LEFT</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Based on EBU Tech 3285 - Broadcast Wave Format - and 22.2 Surround
+         definition</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="11">
+      <Name xml:lang="en">SPEAKER_SIDE_RIGHT</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Based on EBU Tech 3285 - Broadcast Wave Format - and 22.2 Surround
+         definition</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="12">
+      <Name xml:lang="en">SPEAKER_TOP_SIDE_LEFT</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Based on EBU Tech 3285 - Broadcast Wave Format - and 22.2 Surround
+         definition</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="13">
+      <Name xml:lang="en">SPEAKER_TOP_SIDE_RIGHT</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Based on EBU Tech 3285 - Broadcast Wave Format - and 22.2 Surround
+         definition</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <!-- BACK -->
+
+   <Term termID="14">
+      <Name xml:lang="en">SPEAKER_BACK_CENTER</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Based on EBU Tech 3285 - Broadcast Wave Format - and 22.2 Surround
+         definition</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="15">
+      <Name xml:lang="en">SPEAKER_BACK_LEFT</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Based on EBU Tech 3285 - Broadcast Wave Format - and 22.2 Surround
+         definition</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="16">
+      <Name xml:lang="en">SPEAKER_BACK_RIGHT</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Based on EBU Tech 3285 - Broadcast Wave Format - and 22.2 Surround
+         definition</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="17">
+      <Name xml:lang="en">SPEAKER_BACK_LEFT_BACK_CENTER</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Based on EBU Tech 3285 - Broadcast Wave Format - and 22.2 Surround
+         definition</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="18">
+      <Name xml:lang="en">SPEAKER_BACK_RIGHT_BACK_CENTER</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Based on EBU Tech 3285 - Broadcast Wave Format - and 22.2 Surround
+         definition</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <!-- TOP BACK -->
+   <Term termID="19">
+      <Name xml:lang="en">SPEAKER_TOP_BACK_CENTER</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Based on EBU Tech 3285 - Broadcast Wave Format - and 22.2 Surround
+         definition</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="20">
+      <Name xml:lang="en">SPEAKER_TOP_BACK_LEFT</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Based on EBU Tech 3285 - Broadcast Wave Format - and 22.2 Surround
+         definition</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="21">
+      <Name xml:lang="en">SPEAKER_TOP_BACK_RIGHT</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Based on EBU Tech 3285 - Broadcast Wave Format - and 22.2 Surround
+         definition</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <!-- BOTTOM FRONT BACK -->
+   <Term termID="22">
+      <Name xml:lang="en">SPEAKER_BOTTOM_FRONT_CENTER</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Based on EBU Tech 3285 - Broadcast Wave Format - and 22.2 Surround
+         definition</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="23">
+      <Name xml:lang="en">SPEAKER_BOTTOM_FRONT_LEFT</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Based on EBU Tech 3285 - Broadcast Wave Format - and 22.2 Surround
+         definition</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="24">
+      <Name xml:lang="en">SPEAKER_BOTTOM_FRONT_RIGHT</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Based on EBU Tech 3285 - Broadcast Wave Format - and 22.2 Surround
+         definition</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <!-- LOW FREQUENCY EFFECTS -->
+
+   <Term termID="25">
+      <Name xml:lang="en">LFE-1</Name>
+      <Definition xml:lang="en">One Low Frequency Effects speaker e.g. for 22.2 Surround
+         systems</Definition>
+      <Reference/>
+      <ChangeComment>Based on EBU Tech 3285 - Broadcast Wave Format - and 22.2 Surround
+         definition</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="26">
+      <Name xml:lang="en">LFE-2</Name>
+      <Definition xml:lang="en">An additional Low Frequency Effects speaker e.g. for 22.2 Surround
+         systems</Definition>
+      <Reference/>
+      <ChangeComment>Based on EBU Tech 3285 - Broadcast Wave Format - and 22.2 Surround
+         definition</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="27">
+      <Name xml:lang="en">SPEAKER_CENTER_LOW_FREQUENCY</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment>Based on EBU Tech 3285 - Broadcast Wave Format - and 22.2 Surround
+         definition</ChangeComment>
+      <ChangeVersionDate>2013-01-07</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+</ClassificationScheme>

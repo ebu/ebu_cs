@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:PublicationEventType" versionDate="2019-09-02">
+  <!-- ##################################################################### 
+    PUBLICATION EVENT TYPE CS
+    Describes different types of publications.
+    
+    The following Creative Commons Rights apply to the use of 
+    this EBU resource:   http://creativecommons.org/licenses/by-nc-sa/3.0/   
+      
+    Owner: EBU Technical Department   
+    Contact: metadata@ebu.ch      
+
+    ##################################################################### -->
+  
+  <Alias>DwerftPublicationEventType</Alias>
+  
+  <Term termID="1">
+    <Name xml:lang="en">broadcast</Name>
+    <Definition xml:lang="en">Specifies a publication event as being a broadcast event.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="1.1">
+      <Name xml:lang="en">first broadcast</Name>
+      <Definition xml:lang="en">Specifies a broadcast as being the first one of a particular
+        version.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="1.2">
+      <Name xml:lang="en">repeat broadcast</Name>
+      <Definition xml:lang="en">Specifies a broadcast as being a repeat.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+</ClassificationScheme>

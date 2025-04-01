@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:ExclusivityTypeCS" versionDate="2019-03-18">
+   <!-- ##################################################################### 
+    EXCLUSIVITY TYPE CS
+    Defines the type of exclusivity for content usage.
+    
+    The following Creative Commons Rights apply to the use of 
+    this EBU resource:   http://creativecommons.org/licenses/by-nc-sa/3.0/   
+      
+    Owner: EBU Technical Department   
+    Contact: metadata@ebu.ch      
+    ##################################################################### -->
+   
+   <Alias>DwerftExclusivityType</Alias>
+   
+   <Term termID="1">
+      <Name xml:lang="en">exclusive</Name>
+      <Name xml:lang="de">exklusiv</Name>
+      <Definition xml:lang="en">Only one licensee has the right to use a copyrighted
+         work.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+   <Term termID="2">
+      <Name xml:lang="en">non-exclusive</Name>
+      <Name xml:lang="de">nichtexklusiv</Name>
+      <Definition xml:lang="en">More than one Licensee has the right to use a copyrighted
+         work.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+</ClassificationScheme>

@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassificationScheme uri="urn:ebu:metadata-cs:LanguagePurposeCodeCS" versionDate="2013-01-07">
+
+   <!-- #####################################################################
+	     LANGUAGE PURPOSE CODE
+	     Definition: A list of possible usage for audio tracks
+	     
+	     The following Creative Commons Rights apply to the use of this EBU resource:
+	     http://creativecommons.org/licenses/by-sa/3.0/
+	     
+	     Owner: EBU Technical Department
+	     Author: Jean-Pierre Evain
+	     Contact: metadata@ebu.ch
+	     
+	     ##################################################################### -->
+
+   <Alias>EBULanguagePurposeCode</Alias>
+
+   <Note>Definitions have been added.</Note>
+
+   <Term termID="1">
+      <Name xml:lang="en">Audio</Name>
+      <Definition xml:lang="en">Usages of languages for audio</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term termID="1.1">
+         <Name xml:lang="en">Main Original Language</Name>
+         <Definition xml:lang="en">The language in which the content/resource was originally
+            created.</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="1.2">
+         <Name xml:lang="en">Main Dubbed Language</Name>
+         <Definition xml:lang="en">The language in which the audio track / dialogues, etc. have been
+            dubbed. The term most commonly refers to the substitution of the voices of the actors
+            shown on the screen by those of different performers speaking a different language. The
+            practice also involves the rerecording of audio segments and then synchronizing the
+            recording with the existing footage.</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Link xml:lang="en">
+            <URL>http://en.wikipedia.org/wiki/Dubbing_%28filmmaking%29</URL>
+            <LinkName>wikipedia</LinkName>
+         </Link>
+      </Term>
+      <Term termID="1.3">
+         <Name xml:lang="en">Additional Original Language</Name>
+         <Definition xml:lang="en">An additional original language in which the audio track /
+            dialogues have been created e.g. in countries with several official
+            languages.</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="1.4">
+         <Name xml:lang="en">Additional Dubbed Language</Name>
+         <Definition xml:lang="en">An additional original language in which the audio track /
+            dialogues have been dubbed.</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="1.5">
+         <Name xml:lang="en">Descriptive Video Information</Name>
+         <Definition xml:lang="en">DVI - Audio description for the visually impaired</Definition>
+         <Reference>ETSI</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="1.6">
+         <Name xml:lang="en">Supplemental commentary</Name>
+         <Definition xml:lang="en">A commentary with additional information.</Definition>
+         <Reference>ETSI</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="1.7">
+         <Name xml:lang="en">Director's commentary</Name>
+         <Definition xml:lang="en">A commentary from the Director with additional information e.g.
+            on the film making.</Definition>
+         <Reference>ETSI</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="1.8">
+         <Name xml:lang="en">Audio description</Name>
+         <Definition xml:lang="en">Usages of language for audio descriptions e.g. in a noise free
+            environment for hard-of-hearing users</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="1.9">
+         <Name xml:lang="en">Supplementary Audio Programme</Name>
+         <Definition xml:lang="en">SAP - an additional audio programme</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="1.10">
+         <Name xml:lang="en">Educational notes</Name>
+         <Definition xml:lang="en">Additional information for educational purposes</Definition>
+         <Reference>ETSI</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="1.11">
+         <Name xml:lang="en">Voice over</Name>
+         <Definition xml:lang="en">Voice-over (also known as off-camera or off-stage commentary) is
+            a production technique where a voice - that is not part of the narrative (non-diegetic)
+            - is used in a radio, television production, filmmaking, theatre, or other
+            presentations.[1] The voice-over may be spoken by someone who appears elsewhere in the
+            production or by a specialist voice actor. It is pre-recorded and placed over the top of
+            a film or video and commonly used in documentaries or news reports to explain
+            information. There are many potential applications for using voice-over.</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Link xml:lang="en">
+            <URL>http://en.wikipedia.org/wiki/Voice-over</URL>
+            <LinkName>wikipedia</LinkName>
+         </Link>
+      </Term>
+      <Term termID="1.12">
+         <Name xml:lang="en">Original Commentary</Name>
+         <Definition xml:lang="en"> Indicates that the language was used to provide the original
+            commentary</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="1.13">
+         <Name xml:lang="en">Dubbed Commentary</Name>
+         <Definition xml:lang="en"> Indicates that the language has been used to dub a new
+            commentary track over the original</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="1.14">
+         <Name xml:lang="en">Original Narration</Name>
+         <Definition xml:lang="en"> Indicates that the language in question was used for the
+            original narration for the contents</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="1.15">
+         <Name xml:lang="en">Dubbed Dialogue</Name>
+         <Definition xml:lang="en"> Indicates that the dialogue has been dubbed into different
+            language from the original</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="1.16">
+         <Name xml:lang="en">Dubbed Narration</Name>
+         <Definition xml:lang="en"> Indicates that the language has been used to dub a new narration
+            track over the original</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="1.17">
+         <Name xml:lang="en">Interviewer Language</Name>
+         <Definition xml:lang="en"> Indicates the language is used by an interviewer in the
+            content</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="1.18">
+         <Name xml:lang="en">Interviewee Language</Name>
+         <Definition xml:lang="en"> Indicates the language is used by an interviewee in the
+            content</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+   <Term termID="2">
+      <Name xml:lang="en">Text</Name>
+      <Definition xml:lang="en">List of usages of language for text</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term termID="2.1">
+         <Name xml:lang="en">Text description for the hard-of-hearing</Name>
+         <Definition xml:lang="en">See Caption</Definition>
+         <Reference>ETSI</Reference>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="2.2">
+         <Name xml:lang="en">Transcript</Name>
+         <Definition xml:lang="en">The textual transcript of dialogues or interviews,
+            etc..</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="2.3">
+         <Name xml:lang="en">Caption</Name>
+         <Definition xml:lang="en"> Indicates the usage of the language for captions, i.e. for
+            hard-of hearing. Describes one language of the caption information included with the
+            program (optional). The type of the caption information associated with the program is
+            denoted by the closed attribute. Closed captions can be turned on or off by the user,
+            while open captions (or subtitles) are part of the picture itself and remain visible. </Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Term termID="2.3.1">
+            <Name xml:lang="en">Open Caption</Name>
+            <Definition xml:lang="en">Indicates the usage of the language for open
+               captions</Definition>
+            <Reference/>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <FirstVersiondate>2007-04-12</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="2.3.2">
+            <Name xml:lang="en">Closed Caption</Name>
+            <Definition xml:lang="en">Indicates the usage of the language for closed
+               captions</Definition>
+            <Reference/>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <FirstVersiondate>2007-04-12</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="2.3.3">
+            <Name xml:lang="en">Supplemental</Name>
+            <Definition xml:lang="en">Indicates the usage of the language for supplemental
+               captions</Definition>
+            <Reference/>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <FirstVersiondate>2007-04-12</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+      </Term>
+      <Term termID="2.4">
+         <Name xml:lang="en">Titles</Name>
+         <Definition xml:lang="en"> Indicates the usage of the language for titles or credits
+            text</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="2.5">
+         <Name xml:lang="en">Subtitles</Name>
+         <Definition xml:lang="en"> Indicates the usage of the language for subtitles, i.e. for
+            translation purposes. Closed subtitles can be turned on or off by the user, while open
+            subtitles are part of the picture itself and remain visible. </Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+         <Term termID="2.5.1">
+            <Name xml:lang="en">Open Subtitles</Name>
+            <Definition xml:lang="en">Indicates the usage of the language for open
+               subtitles</Definition>
+            <Reference/>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <FirstVersiondate>2013-01-07</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+         <Term termID="2.5.2">
+            <Name xml:lang="en">Closed Subtitles</Name>
+            <Definition xml:lang="en">Indicates the usage of the language for closed
+               subtitles</Definition>
+            <Reference/>
+            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeVersionDate/>
+            <FirstVersiondate>2013-01-07</FirstVersiondate>
+            <ValidityFlag>1</ValidityFlag>
+            <DeprecatedVersionDate/>
+         </Term>
+      </Term>
+      <Term termID="2.6">
+         <Name xml:lang="en">Song Lyrics</Name>
+         <Definition xml:lang="en"> Indicates the use of the language for the lyrics of songs
+            included in the content. For example a programme covering a concert by Pavarotti from La
+            Scala may have original dialogue in Italian, Commentary in English and feature song
+            lyrics in French, Spanish and German</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+   <Term termID="3">
+      <Name xml:lang="en">Sign Language</Name>
+      <Definition xml:lang="en"> Indicates the spoken language has been used as a basis for signed
+         content</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Term termID="3.1">
+         <Name xml:lang="en">Dubbed Sign Language</Name>
+         <Definition xml:lang="en">Indicates that this language has been used as a basis for sign
+            translation</Definition>
+         <Reference/>
+         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+         <ChangeVersionDate/>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+   </Term>
+</ClassificationScheme>

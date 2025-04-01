@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:ActiveFormatDescriptorCodeCS"
+   versionDate="2016-08-15">
+
+   <!-- #####################################################################
+           AFD - ACTIVE FORMAT DESCRIPTOR CODES
+           Definition: Standard AFD codes provide information to video devices about 
+           where in the coded picture the active video is and also 
+           the "protected area" which is the area that needs to be shown.
+           
+           The following Creative Commons Rights apply to the use of this EBU resource:
+           http://creativecommons.org/licenses/by-sa/3.0/
+           
+           Owner: EBU Technical Department
+           Author: Jean-Pierre Evain
+           Contact: metadata@ebu.ch
+           
+           Co-Author: Paul Londino, HBO, Paul.Londino@hbo.com
+           
+          ##################################################################### -->
+
+   <Alias>EBUActiveFormatDescriptor</Alias>
+
+   <Term termID="afd_0010">
+      <Name xml:lang="en">16:9 active picture (top aligned)</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment/>
+      <ChangeVersionDate>2016-05-02</ChangeVersionDate>
+      <FirstVersiondate>2016-05-02</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="afd_0011">
+      <Name xml:lang="en">14:9 active picture (top aligned)</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment/>
+      <ChangeVersionDate>2016-05-02</ChangeVersionDate>
+      <FirstVersiondate>2016-05-02</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="afd_0100">
+      <Name xml:lang="en">box wider than 16:9 (center): wider than 16:9 active picture</Name>
+      <Definition xml:lang="en">ETSI: The aspect ratio of the source area is not given, and the size
+         of the top/bottom bars is not indicated.</Definition>
+      <Definition xml:lang="en">ATSC: bar data (indicating the extent of top, bottom, left, and
+         right bars) should be transmitted when using this code.</Definition>
+      <Reference/>
+      <ChangeComment/>
+      <ChangeVersionDate>2016-05-02</ChangeVersionDate>
+      <FirstVersiondate>2016-05-02</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="afd_1000">
+      <Name xml:lang="en">Full Frame image, same as the frame (4:3 or 16:9)</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment/>
+      <ChangeVersionDate>2016-05-02</ChangeVersionDate>
+      <FirstVersiondate>2016-05-02</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="afd_1001">
+      <Name xml:lang="en">4:3 Image: Full Frame in 4:3 frame, Pillarbox in 16:9 frame</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment/>
+      <ChangeVersionDate>2016-05-02</ChangeVersionDate>
+      <FirstVersiondate>2016-05-02</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="afd_1010">
+      <Name xml:lang="en">16:9 Image: Letterbox in 4:3 frame, Full Frame in 16:9 frame</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment/>
+      <ChangeVersionDate>2016-05-02</ChangeVersionDate>
+      <FirstVersiondate>2016-05-02</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="afd_1011">
+      <Name xml:lang="en">14:9 Pillarbox/Letterbox image</Name>
+      <Definition xml:lang="en"/>
+      <Reference/>
+      <ChangeComment/>
+      <ChangeVersionDate>2016-05-02</ChangeVersionDate>
+      <FirstVersiondate>2016-05-02</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="afd_1101">
+      <Name xml:lang="en">4:3 with shoot and protect 14:9 centre.</Name>
+      <Definition xml:lang="en">The term "shoot and protect" is not explained in the standard, but
+         means that the areas above and below the central 14:9 region of the 4:3 active picture can
+         be trimmed without losing important detail.</Definition>
+      <Reference/>
+      <ChangeComment/>
+      <ChangeVersionDate>2016-05-02</ChangeVersionDate>
+      <FirstVersiondate>2016-05-02</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="afd_1110">
+      <Name xml:lang="en">16:9 with shoot and protect 14:9 centre.</Name>
+      <Definition xml:lang="en">The areas to the right and left of the central 14:9 region of the
+         16:9 active picture can be trimmed without losing important detail.</Definition>
+      <Reference/>
+      <ChangeComment/>
+      <ChangeVersionDate>2016-05-02</ChangeVersionDate>
+      <FirstVersiondate>2016-05-02</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+   <Term termID="afd_1111">
+      <Name xml:lang="en">16:9 with shoot and protect 4:3 centre.</Name>
+      <Definition xml:lang="en">The areas to the right and left of the central 4:3 region of the
+         16:9 active picture can be trimmed without losing important detail.</Definition>
+      <Reference/>
+      <ChangeComment/>
+      <ChangeVersionDate>2016-05-02</ChangeVersionDate>
+      <FirstVersiondate>2016-05-02</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+</ClassificationScheme>

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:UNTerritoryCodeCS" versionDate="2013-01-07">
+
+   <!-- ##################################################################### 
+       UNITED NATIONS - TERRITORY  CODE                                                              
+       Definition: 
+       ##################################################################### -->
+
+   <!-- This set of reference data is a representation of the UN Territory codes  in the EBU reference data format. -->
+
+   <Alias>EBUUNTerritoryCode</Alias>
+
+   <Link xml:lang="en">
+      <URL>http://unstats.un.org/unsd/methods/m49/m49regin.htm</URL>
+      <LinkName>unitednations</LinkName>
+   </Link>
+
+   <Term termID="001">
+      <Name xml:lang="en">"WORLD"</Name>
+      <Definition>""</Definition>
+      <Reference>United Nations</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+   </Term>
+
+
+   <Term termID="002">
+      <Name xml:lang="en">"AFRICA"</Name>
+      <Definition>""</Definition>
+      <Reference>United Nations</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="014">
+         <Name xml:lang="en">"Eastern Africa"</Name>
+         <Definition>""</Definition>
+         <Reference>United Nations</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="017">
+         <Name xml:lang="en">"Middle Africa"</Name>
+         <Definition>""</Definition>
+         <Reference>United Nations</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="015">
+         <Name xml:lang="en">"Northern Africa"</Name>
+         <Definition>""</Definition>
+         <Reference>United Nations</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="018">
+         <Name xml:lang="en">"Southern Africa"</Name>
+         <Definition>""</Definition>
+         <Reference>United Nations</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="011">
+         <Name xml:lang="en">"Western Africa"</Name>
+         <Definition>""</Definition>
+         <Reference>United Nations</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+   </Term>
+
+
+
+   <Term termID="019">
+      <Name xml:lang="en">"AMERICAS"</Name>
+      <Definition>""</Definition>
+      <Reference>United Nations</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="419">
+         <Name xml:lang="en">"Latin America and the Caribbean"</Name>
+         <Definition>""</Definition>
+         <Reference>United Nations</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="029">
+         <Name xml:lang="en">"Caribbean"</Name>
+         <Definition>""</Definition>
+         <Reference>United Nations</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="013">
+         <Name xml:lang="en">"Central America"</Name>
+         <Definition>""</Definition>
+         <Reference>United Nations</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="005">
+         <Name xml:lang="en">"South America"</Name>
+         <Definition>""</Definition>
+         <Reference>United Nations</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="021">
+         <Name xml:lang="en">"Northern America"</Name>
+         <Definition>""</Definition>
+         <Reference>United Nations</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+   </Term>
+
+
+
+   <Term termID="142">
+      <Name xml:lang="en">"ASIA"</Name>
+      <Definition>""</Definition>
+      <Reference>United Nations</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="143">
+         <Name xml:lang="en">"Central Asia"</Name>
+         <Definition>""</Definition>
+         <Reference>United Nations</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="030">
+         <Name xml:lang="en">"Eastern Asia"</Name>
+         <Definition>""</Definition>
+         <Reference>United Nations</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="034">
+         <Name xml:lang="en">"Southern Asia"</Name>
+         <Definition>""</Definition>
+         <Reference>United Nations</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="035">
+         <Name xml:lang="en">"South-Eastern Asia"</Name>
+         <Definition>""</Definition>
+         <Reference>United Nations</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="145">
+         <Name xml:lang="en">"Western Asia"</Name>
+         <Definition>""</Definition>
+         <Reference>United Nations</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+   </Term>
+
+
+
+   <Term termID="150">
+      <Name xml:lang="en">"EUROPE"</Name>
+      <Definition>""</Definition>
+      <Reference>United Nations</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="151">
+         <Name xml:lang="en">"Eastern Europe"</Name>
+         <Definition>""</Definition>
+         <Reference>United Nations</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="154">
+         <Name xml:lang="en">"Northern Europe"</Name>
+         <Definition>""</Definition>
+         <Reference>United Nations</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="039">
+         <Name xml:lang="en">"Southern Europe"</Name>
+         <Definition>""</Definition>
+         <Reference>United Nations</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="155">
+         <Name xml:lang="en">"Western Europe"</Name>
+         <Definition>""</Definition>
+         <Reference>United Nations</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+   </Term>
+
+
+
+   <Term termID="009">
+      <Name xml:lang="en">"OCEANIA"</Name>
+      <Definition>""</Definition>
+      <Reference>United Nations</Reference>
+      <ChangeComment>First version after conversion of P/META into XML. First version date is
+         version date from reference publisher</ChangeComment>
+      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <Term termID="053">
+         <Name xml:lang="en">"Australia and New Zealand"</Name>
+         <Definition>""</Definition>
+         <Reference>United Nations</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="054">
+         <Name xml:lang="en">"Melanesia"</Name>
+         <Definition>""</Definition>
+         <Reference>United Nations</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="057">
+         <Name xml:lang="en">"Micronesia"</Name>
+         <Definition>""</Definition>
+         <Reference>United Nations</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="061">
+         <Name xml:lang="en">"Polynesia"</Name>
+         <Definition>""</Definition>
+         <Reference>United Nations</Reference>
+         <ChangeComment>First version after conversion of P/META into XML. First version date is
+            version date from reference publisher</ChangeComment>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <FirstVersiondate>2007-04-12</FirstVersiondate>
+         <ValidityFlag>1</ValidityFlag>
+      </Term>
+   </Term>
+
+</ClassificationScheme>

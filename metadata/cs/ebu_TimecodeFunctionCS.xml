@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:TimecodeFunction" versionDate="2019-08-21">
+  <!-- ##################################################################### 
+    TIMECODE FUNCTION CS
+    Defines the type of timecode an object can have.
+    
+    The following Creative Commons Rights apply to the use of 
+    this EBU resource:   http://creativecommons.org/licenses/by-nc-sa/3.0/   
+      
+    Owner: EBU Technical Department   
+    Contact: metadata@ebu.ch      
+    
+    ##################################################################### -->
+  
+  <Alias>DwerftTimecodeFunction</Alias>
+  
+  <Term termID="1">
+    <Name xml:lang="en">Source Timecode</Name>
+    <Definition xml:lang="en">The Timecode which is set while the production at the film set. Also
+      called Time-of-day. Is necessary to link audio and video in the postproduction.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="2">
+    <Name xml:lang="en">Record Timecode</Name>
+    <Definition xml:lang="en">The Timecode on a timeline e.g. while assembling the picture
+      edit.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="3">
+    <Name xml:lang="en">Offset</Name>
+    <Definition xml:lang="en">The internal offset inside a media file which is used on a timeline.
+      Is also called In- and Out-Points.</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+  </Term>
+  <Term termID="4">
+    <Name xml:lang="en">SyncPoint</Name>
+    <Definition xml:lang="en">Timecode Functions based on the iXML Specifications. For further
+      information visit www.ixml.info - FUNCTION Dictionary</Definition>
+    <Reference/>
+    <ChangeComment>First version within the Dwerft project</ChangeComment>
+    <ChangeVersionDate>2019</ChangeVersionDate>
+    <ValidityFlag>1</ValidityFlag>
+    <Term termID="4.1">
+      <Name xml:lang="en">PreRecordSampleCount</Name>
+      <Definition xml:lang="en">Indicates how many samples at the head of the recording where from
+        the pre-record buffer, which is a common feature in location sound recorders, playback
+        software can (by default) begin PLAYBACK from the point where the record button was actually
+        pressed, which is the normal user expectation after a recording. Players should maintain the
+        ability to seek to the start of the recording on demand by the user.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="4.2">
+      <Name xml:lang="en">SlateGENERIC (META Slate System)</Name>
+      <Definition xml:lang="en">Used in the METASlate system</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="4.3">
+      <Name xml:lang="en">HeadSlate</Name>
+      <Definition xml:lang="en">A head slate is the mark on a shot that occurs at the beginning of a
+        film. The slate is in default position.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="4.4">
+      <Name xml:lang="en">TailSlate</Name>
+      <Definition xml:lang="en">A tail slate is the mark on a shot that occurs at the end of a film.
+        The slate is upside-down.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="4.5">
+      <Name xml:lang="en">MarkerGENERIC</Name>
+      <Definition xml:lang="en">Generic Marker without a specific purpose.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="4.6">
+      <Name xml:lang="en">MarkerAutoplay</Name>
+      <Definition xml:lang="en">Indicates that the player should automatically start when the user
+        selects this marker.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="4.7">
+      <Name xml:lang="en">MarkerAutoplayStop</Name>
+      <Definition xml:lang="en">Indicates that the player should automatically start when the user
+        selects this marker, then automatically stop when reaching SYNC_POINT_EVENT_DURATION samples
+        after the Sync point.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="4.8">
+      <Name xml:lang="en">MarkerAutoplayLoop</Name>
+      <Definition xml:lang="en">Sync Point function which indicates that the player should
+        automatically start when the user selects this marker, then automatically loop back to the
+        start when reaching SYNC_POINT_EVENT_DURATION samples after the Sync point.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+    <Term termID="4.9">
+      <Name xml:lang="en">GroupOffset</Name>
+      <Definition xml:lang="en">Is used in File Set groups, to indicate the offset of this file from
+        the start of the group. It MUST be a RELATIVE type, and the File Set must include the tag
+        &lt;FILE_SET_START_TIME_HI&gt; and &lt;FILE_SET_START_TIME_LO&gt; to anchor the entire
+        group. If this tag is missing, a backup would be to iterate the file set and pick the
+        earliest file, then take that file's timestamp, less that file's GROUP_OFFSET (or zero) as
+        the start time for the Group. This information could also be implied by comparing the
+        timestamps of individual group members.</Definition>
+      <Reference/>
+      <ChangeComment>First version within the Dwerft project</ChangeComment>
+      <ChangeVersionDate>2019</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+    </Term>
+  </Term>
+</ClassificationScheme>

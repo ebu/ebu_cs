@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:ReferenceAttributeCS">
+   
+   <!--
+##################################################################### 
+REFERENCE ATTRIBUTE TEMPLATE                                                                             
+Definition: This is a template to help users building custom lists of  terms complaint with the EBU Classification Scheme schema.  
+
+The following Creative Commons Rights apply to the use of this EBU resource:
+http://creativecommons.org/licenses/by-sa/3.0/
+
+Owner: EBU Technical Department
+Author: Jean-Pierre Evain
+Contact: metadata@ebu.ch
+
+##################################################################### 
+   		-->
+   <Alias>ReferenceAttributeList Name</Alias>
+   <Term termID=""><Name xml:lang="en"></Name>
+      <Definition xml:lang="en"></Definition>
+      <Reference/>
+      <ChangeComment></ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate></FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate>not present if ValidityFlag is '1'</DeprecatedVersionDate>
+   </Term>
+</ClassificationScheme>

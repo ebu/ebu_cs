@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationScheme uri="urn:ebu:metadata-cs:EBU-TTContentTypeCS" versionDate="2015-09-11">
+    <!--
+   ##################################################################### 
+  EBU-TT CONTENT TYPE CS                                                                    
+   Definition: This is a list of presentation types of timed text. It is used in EBU-TT (Tech 3350) to classify the document content by its intended presentation usage.
+   
+   The following Creative Commons Rights apply to the use of this EBU resource:
+   http://creativecommons.org/licenses/by-sa/3.0/
+   
+   Owner: EBU Technical Department
+   Author: EBU MIM-XMLSubs grroup
+   Contact: tech@ebu.ch
+   
+   ##################################################################### 
+   -->
+
+    <Alias>EBU-TTContentType</Alias>
+
+    <Term termID="1">
+        <Name xml:lang="en">audioDescriptionScript</Name>
+        <Definition xml:lang="en"> A document containing a script used to produce an audio description sound track.</Definition>
+        <FirstVersiondate>2015-09-11</FirstVersiondate>
+        <ValidityFlag>1</ValidityFlag>
+    </Term>
+
+    <Term termID="2">
+        <Name xml:lang="en">dubbingScript</Name>
+        <Definition xml:lang="en">A document containing a script used to produce an alternative dialogue sound track.</Definition>
+        <FirstVersiondate>2015-09-11</FirstVersiondate>
+        <ValidityFlag>1</ValidityFlag>
+    </Term>
+
+
+    <Term termID="3">
+        <Name xml:lang="en">translationSubtitles</Name>
+        <Definition xml:lang="en">A document used for producing translation subtitles rendered as text.</Definition>
+        <FirstVersiondate>2015-09-11</FirstVersiondate>
+        <ValidityFlag>1</ValidityFlag>
+    </Term>
+
+    <Term termID="4">
+        <Name xml:lang="en">hardOfHearingSubtitles</Name>
+        <Definition xml:lang="en">A document used for producing subtitles (captions) intended primarily for the hard of hearing, rendered as text.</Definition>
+        <FirstVersiondate>2015-09-11</FirstVersiondate>
+        <ValidityFlag>1</ValidityFlag>
+    </Term>
+
+    <Term termID="5">
+        <Name xml:lang="en">spokenSubtitles</Name>
+        <Definition xml:lang="en">A document used for the voicing of translation subtitles as an alternative dialogue sound track intended primarily for the visually impaired.</Definition>
+        <FirstVersiondate>2015-09-11</FirstVersiondate>
+        <ValidityFlag>1</ValidityFlag>
+    </Term>
+</ClassificationScheme>
