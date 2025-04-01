@@ -1,0 +1,2 @@
+streamlit>=1.30.0
+lxml>=4.9.3
