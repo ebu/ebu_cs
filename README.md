@@ -16,8 +16,8 @@ The XML files in the metadata repository represent controlled vocabularies for t
 
 The project is organized into two repositories:
 
-- **Metadata repo**: Contains XML files that define a `ClassificationScheme` and a structured hierarchy of `Term` elements.
-- **Code repo**: Provides tools to browse and search the metadata content.
+- **Metadata repository**: Contains XML files that define a `ClassificationScheme` and a structured hierarchy of `Term` elements.
+- **Code repository**: Provides tools to browse and search the metadata content.
 
 ---
 
