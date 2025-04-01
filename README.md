@@ -8,10 +8,7 @@ This repository contains the [EBU Metadata Classification Schemes](https://tech.
 
 The European Broadcasting Union (EBU) provides a set of reference classification schemes for metadata modeling, standardization, and data interoperability across media organizations.
 
-These classification schemes are part of the documentation described on:
-👉 [https://tech.ebu.ch/MetadataReferenceData](https://tech.ebu.ch/MetadataReferenceData)
-
-The XML files represent controlled vocabularies for terms such as roles, media types, content genres, rights, and more.
+The XML files in the metadata repository represent controlled vocabularies for terms such as roles, media types, content genres, rights, and more.
 
 ---
 
