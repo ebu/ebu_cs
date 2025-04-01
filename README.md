@@ -6,7 +6,7 @@ This repository contains the [EBU Metadata Classification Schemes](https://tech.
 
 ---
 
-## 📚 Context
+## Context
 
 The European Broadcasting Union (EBU) provides a set of reference classification schemes for metadata modeling, standardization, and data interoperability across media organizations.
 
@@ -17,7 +17,7 @@ The XML files represent controlled vocabularies for terms such as roles, media t
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 The repository is structured as follows:
 
@@ -26,7 +26,7 @@ Each XML file defines a `ClassificationScheme` and a hierarchy of `Term` element
 
 ---
 
-## 🌐 How to Use the Online Viewer
+## How to Use the Online Viewer
 
 👉 Open the app: [ebu-cs-xml.streamlit.app](https://ebu-cs-xml.streamlit.app/)
 
@@ -39,10 +39,55 @@ No installation required. Just visit the URL!
 
 ---
 
-## 🧑‍💻 How to Run Locally
+## How to Run Locally
 
+Here’s a clear and professional section you can include in your `README.md` to explain the Python ≥3.12 requirement and guide users on how to install it:
 
-### 🟦 Option 1: Run the Tkinter Command-Line App
+---
+
+### Python Version Requirement
+
+The local Streamlit XML viewer requires **Python 3.12 or higher** due to features and compatibility with Streamlit and XML processing libraries.
+
+You can check your current Python version by running:
+
+```bash
+python --version
+```
+
+If your version is lower than 3.12, follow these instructions to upgrade:
+
+#### macOS (with Homebrew)
+
+```bash
+brew install python@3.12
+brew link --overwrite python@3.12
+```
+
+#### Ubuntu / Debian
+
+```bash
+sudo add-apt-repository ppa:deadsnakes/ppa
+sudo apt update
+sudo apt install python3.12 python3.12-venv python3.12-dev
+```
+
+#### Windows
+
+Download and install the latest Python 3.12.x from the official website:  
+👉 https://www.python.org/downloads/windows/
+
+> ⚠️ After installation, make sure `python` and `pip` point to the new version. You might need to run:
+>
+> ```bash
+> python3.12 -m pip install --upgrade pip
+> ```
+
+Once Python 3.12+ is installed and available, you can set up and run the project locally using:
+
+```bash
+
+### 🟩 Option 1: Run the Tkinter Command-Line App
 
 This version uses a GUI built with `tkinter` to browse and search XML classification schemes.
 
