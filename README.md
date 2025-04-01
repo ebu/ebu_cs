@@ -19,10 +19,10 @@ The XML files represent controlled vocabularies for terms such as roles, media t
 
 ## Repository Structure
 
-The repository is structured as follows:
+The project is organized into two repositories:
 
-
-Each XML file defines a `ClassificationScheme` and a hierarchy of `Term` elements.
+- **Metadata repo**: Contains XML files that define a `ClassificationScheme` and a structured hierarchy of `Term` elements.
+- **Code repo**: Provides tools to browse and search the metadata content.
 
 ---
 
