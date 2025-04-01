@@ -1,5 +1,2 @@
-```text
-# Requires Python >=3.12
-
 streamlit>=1.30.0
 lxml>=4.9.3
