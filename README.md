@@ -23,6 +23,9 @@ The project is organized into two repositories:
 
 ## How to Use the Online Viewer
 
+<img width="1496" alt="XMLTreeViewer" src="https://github.com/user-attachments/assets/c6a02e15-075f-4464-8971-f7ae27c6ec15" />
+
+
 👉 Open the app: [ebu-cs-xml.streamlit.app](https://ebu-cs-xml.streamlit.app/)
 
 ### Features:
