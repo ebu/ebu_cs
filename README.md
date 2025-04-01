@@ -76,7 +76,6 @@ Download and install the latest Python 3.12.x from the official website:
 
 Once Python 3.12+ is installed and available, you can set up and run the project locally using:
 
-```bash
 
 ### 🟩 Option 1: Run the Tkinter Command-Line App
 
