@@ -22,7 +22,7 @@ The XML files represent controlled vocabularies for terms such as roles, media t
 The repository is structured as follows:
 
 
-Each XML file defines a `ClassificationScheme` and a hierarchy of `Term` elements with multilingual support.
+Each XML file defines a `ClassificationScheme` and a hierarchy of `Term` elements.
 
 ---
 
@@ -40,10 +40,6 @@ No installation required. Just visit the URL!
 ---
 
 ## How to Run Locally
-
-Here’s a clear and professional section you can include in your `README.md` to explain the Python ≥3.12 requirement and guide users on how to install it:
-
----
 
 ### Python Version Requirement
 
