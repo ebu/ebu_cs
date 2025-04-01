@@ -1,6 +1,6 @@
 # EBU Classification Scheme Viewer
 
-This repository contains the [EBU Metadata Classification Schemes](https://tech.ebu.ch/MetadataReferenceData) in XML format, along with a tool to explore and navigate them using a visual interface.
+This repository contains the [EBU Metadata Classification Schemes](https://tech.ebu.ch/MetadataReferenceData) in XML format, along with tools to explore and navigate them using a visual interface.
 
 > 🔗 Try the online tool: [ebu-cs-xml.streamlit.app](https://ebu-cs-xml.streamlit.app/)
 
