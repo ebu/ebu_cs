@@ -1802,11 +1802,22 @@ https://movielabs.com/md/ratings/v2.3.2/CMR_Ratings_v2.3.2.xml
             <Definition xml:lang="en">Not recommended for viewers younger than 12 years</Definition>
             <Definition xml:lang="nl">Let op met kinderen tot 12 jaar</Definition>
          </Term>
+         <Term termID="37.1.6">
+            <Name xml:lang="en">14</Name>
+            <Definition xml:lang="en">Not recommended for viewers younger than 14 years</Definition>
+            <Definition xml:lang="nl">Let op met kinderen tot 14 jaar</Definition>
+         </Term>
          <Term termID="37.1.5">
             <Name xml:lang="en">16</Name>
             <Definition xml:lang="en">Movie shops/cinemas aren't allowed to show these movies to
                people younger than 16 years</Definition>
             <Definition xml:lang="nl">Let op met kinderen tot 16 jaar</Definition>
+         </Term>
+         <Term termID="37.1.7">
+            <Name xml:lang="en">18</Name>
+            <Definition xml:lang="en">Movie shops/cinemas aren't allowed to show these movies to
+               people younger than 18 years</Definition>
+            <Definition xml:lang="nl">Let op met kinderen tot 18 jaar</Definition>
          </Term>
       </Term>
       <Term termID="37.2">
@@ -1834,6 +1845,10 @@ https://movielabs.com/md/ratings/v2.3.2/CMR_Ratings_v2.3.2.xml
          <Term termID="37.2.6">
             <Name xml:lang="en">Bad language</Name>
             <Name xml:lang="nl">Grof taalgebruik</Name>
+         </Term>
+         <Term termID="37.2.7">
+            <Name xml:lang="en">Bad behavior</Name>
+            <Name xml:lang="nl">Gevaarlijk gedrag</Name>
          </Term>
       </Term>
    </Term>
